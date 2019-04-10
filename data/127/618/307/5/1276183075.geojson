@@ -1,0 +1,67 @@
+{
+  "id": 1276183075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8779,13.2195,16.8779,13.2195",
+    "geom:latitude":13.2195,
+    "geom:longitude":16.8779,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Goudirta",
+    "gn:country_code":"TD",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6843771,
+    "gn:latitude":13.2195,
+    "gn:longitude":16.8779,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Goudirta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6843771
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d96f1e0c0a850dfc598699b1aec23056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901247,
+            "locality_id":1276183075,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1276183075,
+    "wof:lastmodified":1536979703,
+    "wof:name":"Goudirta",
+    "wof:parent_id":1091901247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8779,
+    13.2195,
+    16.8779,
+    13.2195
+],
+  "geometry": {"coordinates":[16.8779,13.2195],"type":"Point"}
+}

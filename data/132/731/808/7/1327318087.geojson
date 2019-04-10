@@ -1,0 +1,67 @@
+{
+  "id": 1327318087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56667,8.33333,16.56667,8.33333",
+    "geom:latitude":8.33333,
+    "geom:longitude":16.56667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bendo",
+    "gn:country_code":"TD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435553,
+    "gn:latitude":8.33333,
+    "gn:longitude":16.56667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Bendo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435553
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"40496291ac59b2082778e396a3271fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900073,
+            "locality_id":1327318087,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1327318087,
+    "wof:lastmodified":1536844877,
+    "wof:name":"Bendo",
+    "wof:parent_id":1091900073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56667,
+    8.33333,
+    16.56667,
+    8.33333
+],
+  "geometry": {"coordinates":[16.56667,8.33333],"type":"Point"}
+}

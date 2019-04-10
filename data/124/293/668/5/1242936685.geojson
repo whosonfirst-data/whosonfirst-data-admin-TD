@@ -1,0 +1,67 @@
+{
+  "id": 1242936685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8909,10.2376,17.8909,10.2376",
+    "geom:latitude":10.2376,
+    "geom:longitude":17.8909,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kourmal",
+    "gn:country_code":"TD",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429505,
+    "gn:latitude":10.2376,
+    "gn:longitude":17.8909,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Kourmal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429505
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"71afabd929d5b25bc77ac6b7b56c18f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1242936685,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1242936685,
+    "wof:lastmodified":1537041876,
+    "wof:name":"Kourmal",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8909,
+    10.2376,
+    17.8909,
+    10.2376
+],
+  "geometry": {"coordinates":[17.8909,10.2376],"type":"Point"}
+}

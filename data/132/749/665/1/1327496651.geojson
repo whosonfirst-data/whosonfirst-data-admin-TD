@@ -1,0 +1,67 @@
+{
+  "id": 1327496651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90063,12.79933,14.90063,12.79933",
+    "geom:latitude":12.79933,
+    "geom:longitude":14.90063,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ambasadna",
+    "gn:country_code":"TD",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437057,
+    "gn:latitude":12.79933,
+    "gn:longitude":14.90063,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Ambasadna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437057
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"17578c6a9c40a6a9288a4a8676da05f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1327496651,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1327496651,
+    "wof:lastmodified":1537082709,
+    "wof:name":"Ambasadna",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90063,
+    12.79933,
+    14.90063,
+    12.79933
+],
+  "geometry": {"coordinates":[14.90063,12.79933],"type":"Point"}
+}

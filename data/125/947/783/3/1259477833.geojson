@@ -1,0 +1,74 @@
+{
+  "id": 1259477833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.73772,8.93602,16.73772,8.93602",
+    "geom:latitude":8.93602,
+    "geom:longitude":16.73772,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Beboy",
+    "gn:country_code":"TD",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435829,
+    "gn:latitude":8.93602,
+    "gn:longitude":16.73772,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9boy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9boye"
+    ],
+    "name:und_x_variant":[
+        "B\u00e9boy",
+        "B\u00e9boye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435829
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"41c838d3645b5fd31571a298e850e775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900157,
+            "locality_id":1259477833,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1259477833,
+    "wof:lastmodified":1537702806,
+    "wof:name":"Beboy",
+    "wof:parent_id":1091900157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.73772,
+    8.93602,
+    16.73772,
+    8.93602
+],
+  "geometry": {"coordinates":[16.73772,8.93602],"type":"Point"}
+}

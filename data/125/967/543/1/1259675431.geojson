@@ -1,0 +1,67 @@
+{
+  "id": 1259675431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00607,13.69768,15.00607,13.69768",
+    "geom:latitude":13.69768,
+    "geom:longitude":15.00607,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bata I",
+    "gn:country_code":"TD",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435910,
+    "gn:latitude":13.69768,
+    "gn:longitude":15.00607,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Bata I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435910
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7eb2502f1a37707e2c0b0d560e76b981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1259675431,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1259675431,
+    "wof:lastmodified":1537075558,
+    "wof:name":"Bata I",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00607,
+    13.69768,
+    15.00607,
+    13.69768
+],
+  "geometry": {"coordinates":[15.00607,13.69768],"type":"Point"}
+}

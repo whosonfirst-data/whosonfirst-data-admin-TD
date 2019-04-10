@@ -1,0 +1,71 @@
+{
+  "id": 1310521583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32543,9.09425,16.32543,9.09425",
+    "geom:latitude":9.09425,
+    "geom:longitude":16.32543,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Domballa",
+    "gn:country_code":"TD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433279,
+    "gn:latitude":9.09425,
+    "gn:longitude":16.32543,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Domballa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dombala",
+        "Domballa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433279
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b3f23a5d64c0742771f263b58331bdf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1310521583,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1310521583,
+    "wof:lastmodified":1537702775,
+    "wof:name":"Domballa",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32542999999999,
+    9.09425,
+    16.32542999999999,
+    9.09425
+],
+  "geometry": {"coordinates":[16.32542999999999,9.09425],"type":"Point"}
+}

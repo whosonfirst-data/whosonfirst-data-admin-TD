@@ -1,0 +1,71 @@
+{
+  "id": 1309892043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.0965,11.2882,20.0965,11.2882",
+    "geom:latitude":11.2882,
+    "geom:longitude":20.0965,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kamaday",
+    "gn:country_code":"TD",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243511,
+    "gn:latitude":11.2882,
+    "gn:longitude":20.0965,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kamaday",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamada\u00ef",
+        "Kamaday"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243511
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"12a07d28fcb71a86ba0080f4389ee810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900707,
+            "locality_id":1309892043,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1309892043,
+    "wof:lastmodified":1537702665,
+    "wof:name":"Kamaday",
+    "wof:parent_id":1091900707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.0965,
+    11.2882,
+    20.0965,
+    11.2882
+],
+  "geometry": {"coordinates":[20.0965,11.2882],"type":"Point"}
+}

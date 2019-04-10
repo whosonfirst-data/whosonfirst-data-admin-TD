@@ -1,0 +1,67 @@
+{
+  "id": 1276571371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2774,9.0226,16.2774,9.0226",
+    "geom:latitude":9.0226,
+    "geom:longitude":16.2774,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Betakia",
+    "gn:country_code":"TD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435404,
+    "gn:latitude":9.0226,
+    "gn:longitude":16.2774,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"B\u00e9takia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435404
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"55b33c17a7e8fd080fdba6e2527130d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1276571371,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1276571371,
+    "wof:lastmodified":1536957297,
+    "wof:name":"Betakia",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2774,
+    9.0226,
+    16.2774,
+    9.0226
+],
+  "geometry": {"coordinates":[16.2774,9.0226],"type":"Point"}
+}

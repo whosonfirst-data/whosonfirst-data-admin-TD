@@ -1,0 +1,67 @@
+{
+  "id": 1309869401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2896,8.894,18.2896,8.894",
+    "geom:latitude":8.894,
+    "geom:longitude":18.2896,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bourbo",
+    "gn:country_code":"TD",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857170,
+    "gn:latitude":8.894,
+    "gn:longitude":18.2896,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Bourbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857170
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"34db8b0ed8abad104fbbb7e9d58394ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1309869401,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1309869401,
+    "wof:lastmodified":1536838539,
+    "wof:name":"Bourbo",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2896,
+    8.894,
+    18.2896,
+    8.894
+],
+  "geometry": {"coordinates":[18.2896,8.894],"type":"Point"}
+}

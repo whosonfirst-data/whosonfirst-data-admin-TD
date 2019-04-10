@@ -1,0 +1,66 @@
+{
+  "id": 1209611139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78824,7.93929,15.78824,7.93929",
+    "geom:latitude":7.93929,
+    "geom:longitude":15.78824,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Pandzangue",
+    "gn:country_code":"TD",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426219,
+    "gn:latitude":7.93929,
+    "gn:longitude":15.78824,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pandzangu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pandzangue I",
+        "Pandzang\u00e9",
+        "Pandzangu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426219
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2f0237c028a5d6e9587dac5fbc2daae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209611139
+        }
+    ],
+    "wof:id":1209611139,
+    "wof:lastmodified":1537702705,
+    "wof:name":"Pandzangue",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78824,
+    7.93929,
+    15.78824,
+    7.93929
+],
+  "geometry": {"coordinates":[15.78824,7.93929],"type":"Point"}
+}

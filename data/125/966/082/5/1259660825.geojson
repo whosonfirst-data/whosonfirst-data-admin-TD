@@ -1,0 +1,71 @@
+{
+  "id": 1259660825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.23444,13.35966,21.23444,13.35966",
+    "geom:latitude":13.35966,
+    "geom:longitude":21.23444,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Chokoyan",
+    "gn:country_code":"TD",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244666,
+    "gn:latitude":13.35966,
+    "gn:longitude":21.23444,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Chokoyan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chakoyan",
+        "Chokoyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244666
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c481e6a1b200626466b989696ebcba1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1259660825,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1259660825,
+    "wof:lastmodified":1537702676,
+    "wof:name":"Chokoyan",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.23444,
+    13.35966,
+    21.23444,
+    13.35966
+],
+  "geometry": {"coordinates":[21.23444,13.35966],"type":"Point"}
+}

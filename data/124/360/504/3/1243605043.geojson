@@ -1,0 +1,76 @@
+{
+  "id": 1243605043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28333,20.21667,21.28333,20.21667",
+    "geom:latitude":20.21667,
+    "geom:longitude":21.28333,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Talha",
+    "gn:country_code":"TD",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241818,
+    "gn:latitude":20.21667,
+    "gn:longitude":21.28333,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Talha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Talha"
+    ],
+    "name:fra_x_variant":[
+        "\u0162ulay\u1e29ah"
+    ],
+    "name:und_x_variant":[
+        "\u0162ulay\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        1108808537,
+        1091901873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241818
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"63458819c74ed155d0e7d3b53866ba74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901873,
+            "locality_id":1243605043,
+            "region_id":1108808537
+        }
+    ],
+    "wof:id":1243605043,
+    "wof:lastmodified":1537702650,
+    "wof:name":"Talha",
+    "wof:parent_id":1091901873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28333,
+    20.21667,
+    21.28333,
+    20.21667
+],
+  "geometry": {"coordinates":[21.28333,20.21667],"type":"Point"}
+}

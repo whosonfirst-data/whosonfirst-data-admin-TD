@@ -1,0 +1,67 @@
+{
+  "id": 1226198897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96646,13.36626,15.96646,13.36626",
+    "geom:latitude":13.36626,
+    "geom:longitude":15.96646,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tororo",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424626,
+    "gn:latitude":13.36626,
+    "gn:longitude":15.96646,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Tororo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424626
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0b2035068b503cdf77eb6cdfd594e08b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901733,
+            "locality_id":1226198897,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1226198897,
+    "wof:lastmodified":1537000507,
+    "wof:name":"Tororo",
+    "wof:parent_id":1091901733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96646,
+    13.36626,
+    15.96646,
+    13.36626
+],
+  "geometry": {"coordinates":[15.96646,13.36626],"type":"Point"}
+}

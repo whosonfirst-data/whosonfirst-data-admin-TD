@@ -1,0 +1,67 @@
+{
+  "id": 1259902101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43919,14.38495,15.43919,14.38495",
+    "geom:latitude":14.38495,
+    "geom:longitude":15.43919,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Koulouo",
+    "gn:country_code":"TD",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429665,
+    "gn:latitude":14.38495,
+    "gn:longitude":15.43919,
+    "gn:modification_date":"2009-02-24",
+    "gn:name":"Koulouo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429665
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0c886515527184a39958ad06681f312a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1259902101,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1259902101,
+    "wof:lastmodified":1536752303,
+    "wof:name":"Koulouo",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43919,
+    14.38495,
+    15.43919,
+    14.38495
+],
+  "geometry": {"coordinates":[15.43919,14.38495],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243047353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5116,11.9539,19.5116,11.9539",
+    "geom:latitude":11.9539,
+    "geom:longitude":19.5116,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Abgue",
+    "gn:country_code":"TD",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437654,
+    "gn:latitude":11.9539,
+    "gn:longitude":19.5116,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abgu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abg\u00e9",
+        "Abgu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437654
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ed65640ad07b02283a31df9060a1d2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900707,
+            "locality_id":1243047353,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1243047353,
+    "wof:lastmodified":1537702823,
+    "wof:name":"Abgue",
+    "wof:parent_id":1091900707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5116,
+    11.9539,
+    19.5116,
+    11.9539
+],
+  "geometry": {"coordinates":[19.5116,11.9539],"type":"Point"}
+}

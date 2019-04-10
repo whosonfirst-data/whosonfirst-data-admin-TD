@@ -1,0 +1,67 @@
+{
+  "id": 1226814693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2803,8.5598,17.2803,8.5598",
+    "geom:latitude":8.5598,
+    "geom:longitude":17.2803,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Louhoueye",
+    "gn:country_code":"TD",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428991,
+    "gn:latitude":8.5598,
+    "gn:longitude":17.2803,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Louhoueye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091899975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428991
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"006b8051046d09351b7e3957c3955e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899975,
+            "locality_id":1226814693,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1226814693,
+    "wof:lastmodified":1536613983,
+    "wof:name":"Louhoueye",
+    "wof:parent_id":1091899975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2803,
+    8.5598,
+    17.2803,
+    8.5598
+],
+  "geometry": {"coordinates":[17.2803,8.5598],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343733247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91521,9.47473,15.91521,9.47473",
+    "geom:latitude":9.47473,
+    "geom:longitude":15.91521,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tchire Gogor",
+    "gn:country_code":"TD",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425091,
+    "gn:latitude":9.47473,
+    "gn:longitude":15.91521,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Tchir\u00e9 Gogor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425091
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bd3eb633a5cf626e6d9a1b70a2e3f80e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1343733247,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1343733247,
+    "wof:lastmodified":1536849095,
+    "wof:name":"Tchire Gogor",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91521,
+    9.47473,
+    15.91521,
+    9.47473
+],
+  "geometry": {"coordinates":[15.91521,9.47473],"type":"Point"}
+}

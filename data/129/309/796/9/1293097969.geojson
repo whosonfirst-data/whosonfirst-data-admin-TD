@@ -1,0 +1,71 @@
+{
+  "id": 1293097969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9648,11.1126,17.9648,11.1126",
+    "geom:latitude":11.1126,
+    "geom:longitude":17.9648,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Adanga",
+    "gn:country_code":"TD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434231,
+    "gn:latitude":11.1126,
+    "gn:longitude":17.9648,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Adanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danga\u00ef",
+        "Adanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434231
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"72d1ef917565c281b09fb57275f82ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1293097969,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1293097969,
+    "wof:lastmodified":1537702785,
+    "wof:name":"Adanga",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9648,
+    11.1126,
+    17.9648,
+    11.1126
+],
+  "geometry": {"coordinates":[17.9648,11.1126],"type":"Point"}
+}

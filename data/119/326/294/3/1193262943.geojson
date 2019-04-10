@@ -1,0 +1,67 @@
+{
+  "id": 1193262943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9883,7.6923,15.9883,7.6923",
+    "geom:latitude":7.6923,
+    "geom:longitude":15.9883,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bidanga",
+    "gn:country_code":"TD",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435346,
+    "gn:latitude":7.6923,
+    "gn:longitude":15.9883,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Bidanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435346
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"da6f51db2cfeb42493df556f9bb4b4f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1193262943,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1193262943,
+    "wof:lastmodified":1536378908,
+    "wof:name":"Bidanga",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9883,
+    7.6923,
+    15.9883,
+    7.6923
+],
+  "geometry": {"coordinates":[15.9883,7.6923],"type":"Point"}
+}

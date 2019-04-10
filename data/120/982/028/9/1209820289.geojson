@@ -1,0 +1,67 @@
+{
+  "id": 1209820289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8566,11.0428,17.8566,11.0428",
+    "geom:latitude":11.0428,
+    "geom:longitude":17.8566,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ore",
+    "gn:country_code":"TD",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859122,
+    "gn:latitude":11.0428,
+    "gn:longitude":17.8566,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Or\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859122
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e48253c84851af64ebbe7a246e77a1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1209820289,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1209820289,
+    "wof:lastmodified":1536379461,
+    "wof:name":"Ore",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8566,
+    11.0428,
+    17.8566,
+    11.0428
+],
+  "geometry": {"coordinates":[17.8566,11.0428],"type":"Point"}
+}

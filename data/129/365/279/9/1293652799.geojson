@@ -1,0 +1,67 @@
+{
+  "id": 1293652799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.239,8.4077,18.239,8.4077",
+    "geom:latitude":8.4077,
+    "geom:longitude":18.239,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Djeke Djeke",
+    "gn:country_code":"TD",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857254,
+    "gn:latitude":8.4077,
+    "gn:longitude":18.239,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Dj\u00e9k\u00e9 Dj\u00e9k\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091899945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857254
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e872bbf36761cf9615cd3609338c0acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899945,
+            "locality_id":1293652799,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1293652799,
+    "wof:lastmodified":1537044246,
+    "wof:name":"Djeke Djeke",
+    "wof:parent_id":1091899945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.239,
+    8.4077,
+    18.239,
+    8.4077
+],
+  "geometry": {"coordinates":[18.239,8.4077],"type":"Point"}
+}

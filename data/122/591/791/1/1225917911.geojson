@@ -1,0 +1,71 @@
+{
+  "id": 1225917911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86624,9.08923,15.86624,9.08923",
+    "geom:latitude":9.08923,
+    "geom:longitude":15.86624,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mosoum",
+    "gn:country_code":"TD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427550,
+    "gn:latitude":9.08923,
+    "gn:longitude":15.86624,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mosoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mossoum",
+        "Mosoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427550
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f3900dc7b1d016b6dd77a2246b5fd630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1225917911,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1225917911,
+    "wof:lastmodified":1537702718,
+    "wof:name":"Mosoum",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86624,
+    9.08923,
+    15.86624,
+    9.08923
+],
+  "geometry": {"coordinates":[15.86624,9.08923],"type":"Point"}
+}

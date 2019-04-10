@@ -1,0 +1,67 @@
+{
+  "id": 1293700993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80546,13.03503,17.80546,13.03503",
+    "geom:latitude":13.03503,
+    "geom:longitude":17.80546,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Am Sayala Migedj",
+    "gn:country_code":"TD",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436794,
+    "gn:latitude":13.03503,
+    "gn:longitude":17.80546,
+    "gn:modification_date":"2008-09-15",
+    "gn:name":"Am Sayala Mig\u00e9dj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436794
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"aac5344b50dcbf0a1fc54c5ae3a7b3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1293700993,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1293700993,
+    "wof:lastmodified":1536975952,
+    "wof:name":"Am Sayala Migedj",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80546,
+    13.03503,
+    17.80546,
+    13.03503
+],
+  "geometry": {"coordinates":[17.80546,13.03503],"type":"Point"}
+}

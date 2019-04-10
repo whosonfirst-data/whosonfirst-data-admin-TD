@@ -1,0 +1,67 @@
+{
+  "id": 1277050857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7129,8.1221,17.7129,8.1221",
+    "geom:latitude":8.1221,
+    "geom:longitude":17.7129,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dagoti",
+    "gn:country_code":"TD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859375,
+    "gn:latitude":8.1221,
+    "gn:longitude":17.7129,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Dagoti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859375
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4d33845bddd00f518ea3aa4d4ab91c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1277050857,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1277050857,
+    "wof:lastmodified":1536811429,
+    "wof:name":"Dagoti",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7129,
+    8.1221,
+    17.7129,
+    8.1221
+],
+  "geometry": {"coordinates":[17.7129,8.1221],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360161925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56261,12.77329,14.56261,12.77329",
+    "geom:latitude":12.77329,
+    "geom:longitude":14.56261,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Aedebe",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11250255,
+    "gn:latitude":12.77329,
+    "gn:longitude":14.56261,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Aed\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aed\u00e9b\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11250255
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b471e4591c48c4291fefcd53190290c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1360161925,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1360161925,
+    "wof:lastmodified":1537702826,
+    "wof:name":"Aedebe",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56261,
+    12.77329,
+    14.56261,
+    12.77329
+],
+  "geometry": {"coordinates":[14.56261,12.77329],"type":"Point"}
+}

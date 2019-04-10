@@ -1,0 +1,71 @@
+{
+  "id": 1260165565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61685,7.61563,15.61685,7.61563",
+    "geom:latitude":7.61563,
+    "geom:longitude":15.61685,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Koumao",
+    "gn:country_code":"TD",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429639,
+    "gn:latitude":7.61563,
+    "gn:longitude":15.61685,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koumao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komaon",
+        "Koumao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429639
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"409df6cfbadadad352a2607f44b36deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1260165565,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1260165565,
+    "wof:lastmodified":1537702740,
+    "wof:name":"Koumao",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61685,
+    7.61563,
+    15.61685,
+    7.61563
+],
+  "geometry": {"coordinates":[15.61685,7.61563],"type":"Point"}
+}

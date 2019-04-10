@@ -1,0 +1,71 @@
+{
+  "id": 1326913165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41188,12.15798,15.41188,12.15798",
+    "geom:latitude":12.15798,
+    "geom:longitude":15.41188,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Djindere",
+    "gn:country_code":"TD",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433840,
+    "gn:latitude":12.15798,
+    "gn:longitude":15.41188,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djind\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dindere",
+        "Djind\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433840
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"452e86a40c9bb8648fb65b4168add04c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1326913165,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1326913165,
+    "wof:lastmodified":1537702782,
+    "wof:name":"Djindere",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41188,
+    12.15798,
+    15.41188,
+    12.15798
+],
+  "geometry": {"coordinates":[15.41188,12.15798],"type":"Point"}
+}

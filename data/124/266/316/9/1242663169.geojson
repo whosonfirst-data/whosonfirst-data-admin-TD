@@ -1,0 +1,67 @@
+{
+  "id": 1242663169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06839,9.10742,16.06839,9.10742",
+    "geom:latitude":9.10742,
+    "geom:longitude":16.06839,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Guelkeb",
+    "gn:country_code":"TD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870861,
+    "gn:latitude":9.10742,
+    "gn:longitude":16.06839,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Guelkeb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870861
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"026dc12874a4bdf8575cad673aaf2809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900113,
+            "locality_id":1242663169,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1242663169,
+    "wof:lastmodified":1536941223,
+    "wof:name":"Guelkeb",
+    "wof:parent_id":1091900113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06839,
+    9.10742,
+    16.06839,
+    9.10742
+],
+  "geometry": {"coordinates":[16.06839,9.10742],"type":"Point"}
+}

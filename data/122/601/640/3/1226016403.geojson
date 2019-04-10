@@ -1,0 +1,73 @@
+{
+  "id": 1226016403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3657,8.8801,18.3657,8.8801",
+    "geom:latitude":8.8801,
+    "geom:longitude":18.3657,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Boro",
+    "gn:country_code":"TD",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434862,
+    "gn:latitude":8.8801,
+    "gn:longitude":18.3657,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bebunga",
+        "B\u00e9bounga",
+        "Bourou",
+        "Boro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434862
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d7f7317bd94a9c28b5ddff57b564f241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1226016403,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1226016403,
+    "wof:lastmodified":1537702791,
+    "wof:name":"Boro",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3657,
+    8.8801,
+    18.3657,
+    8.8801
+],
+  "geometry": {"coordinates":[18.3657,8.8801],"type":"Point"}
+}

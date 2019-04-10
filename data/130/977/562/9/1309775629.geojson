@@ -1,0 +1,71 @@
+{
+  "id": 1309775629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0153,9.7783,15.0153,9.7783",
+    "geom:latitude":9.7783,
+    "geom:longitude":15.0153,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Oulargo",
+    "gn:country_code":"TD",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426315,
+    "gn:latitude":9.7783,
+    "gn:longitude":15.0153,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oulargo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ourlargo",
+        "Oulargo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426315
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b04f7e3729e5e0e77664d306ec5f5c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900357,
+            "locality_id":1309775629,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1309775629,
+    "wof:lastmodified":1537702706,
+    "wof:name":"Oulargo",
+    "wof:parent_id":1091900357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0153,
+    9.7783,
+    15.0153,
+    9.7783
+],
+  "geometry": {"coordinates":[15.0153,9.7783],"type":"Point"}
+}

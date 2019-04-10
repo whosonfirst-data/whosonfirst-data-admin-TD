@@ -1,0 +1,71 @@
+{
+  "id": 1243054915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.52027,14.10165,20.52027,14.10165",
+    "geom:latitude":14.10165,
+    "geom:longitude":20.52027,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Djarkene",
+    "gn:country_code":"TD",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244462,
+    "gn:latitude":14.10165,
+    "gn:longitude":20.52027,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Djark\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djerk\u00e9n\u00e9",
+        "Djark\u00e9n\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244462
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7f98b47b9cedde068b04f81bceb741fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1243054915,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1243054915,
+    "wof:lastmodified":1537702674,
+    "wof:name":"Djarkene",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.52027,
+    14.10165,
+    20.52027,
+    14.10165
+],
+  "geometry": {"coordinates":[20.52027,14.10165],"type":"Point"}
+}

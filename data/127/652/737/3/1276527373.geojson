@@ -1,0 +1,67 @@
+{
+  "id": 1276527373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2493,10.7212,21.2493,10.7212",
+    "geom:latitude":10.7212,
+    "geom:longitude":21.2493,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dekati",
+    "gn:country_code":"TD",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244576,
+    "gn:latitude":10.7212,
+    "gn:longitude":21.2493,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"D\u00e9kati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244576
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ba034b0f276bc7581b920bdef9e47be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900659,
+            "locality_id":1276527373,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1276527373,
+    "wof:lastmodified":1537015340,
+    "wof:name":"Dekati",
+    "wof:parent_id":1091900659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2493,
+    10.7212,
+    21.2493,
+    10.7212
+],
+  "geometry": {"coordinates":[21.2493,10.7212],"type":"Point"}
+}

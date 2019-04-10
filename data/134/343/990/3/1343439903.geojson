@@ -1,0 +1,67 @@
+{
+  "id": 1343439903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.456,9.2123,16.456,9.2123",
+    "geom:latitude":9.2123,
+    "geom:longitude":16.456,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kouara Grabe",
+    "gn:country_code":"TD",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429861,
+    "gn:latitude":9.2123,
+    "gn:longitude":16.456,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Kouara Grab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429861
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"515789df99333cb3b4d9df6d8f9f3e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1343439903,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1343439903,
+    "wof:lastmodified":1536776550,
+    "wof:name":"Kouara Grabe",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.456,
+    9.2123,
+    16.456,
+    9.2123
+],
+  "geometry": {"coordinates":[16.456,9.2123],"type":"Point"}
+}

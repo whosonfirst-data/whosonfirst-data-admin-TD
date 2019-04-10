@@ -1,0 +1,67 @@
+{
+  "id": 1209791935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7556,8.7796,18.7556,8.7796",
+    "geom:latitude":8.7796,
+    "geom:longitude":18.7556,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kemkaba",
+    "gn:country_code":"TD",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857186,
+    "gn:latitude":8.7796,
+    "gn:longitude":18.7556,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kemkaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857186
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"725f9589907cc935efd4880aa91378d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1209791935,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1209791935,
+    "wof:lastmodified":1536394614,
+    "wof:name":"Kemkaba",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7556,
+    8.7796,
+    18.7556,
+    8.7796
+],
+  "geometry": {"coordinates":[18.7556,8.7796],"type":"Point"}
+}

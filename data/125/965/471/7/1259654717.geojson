@@ -1,0 +1,67 @@
+{
+  "id": 1259654717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9353,9.1615,16.9353,9.1615",
+    "geom:latitude":9.1615,
+    "geom:longitude":16.9353,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mokolo Kambaya",
+    "gn:country_code":"TD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427684,
+    "gn:latitude":9.1615,
+    "gn:longitude":16.9353,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Mokolo Kambaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427684
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f09717bba941adb80033b349a5e6720c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1259654717,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1259654717,
+    "wof:lastmodified":1536609490,
+    "wof:name":"Mokolo Kambaya",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9353,
+    9.1615,
+    16.9353,
+    9.1615
+],
+  "geometry": {"coordinates":[16.9353,9.1615],"type":"Point"}
+}

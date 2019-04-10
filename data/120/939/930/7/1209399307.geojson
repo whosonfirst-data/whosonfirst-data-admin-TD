@@ -1,0 +1,61 @@
+{
+  "id": 1209399307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32534,7.76027,16.32534,7.76027",
+    "geom:latitude":7.76027,
+    "geom:longitude":16.32534,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Behelmia",
+    "gn:country_code":"TD",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435713,
+    "gn:latitude":7.76027,
+    "gn:longitude":16.32534,
+    "gn:modification_date":"2008-10-14",
+    "gn:name":"B\u00e9helmia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435713
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f8c9d1c052d15e9c27dd8874e6b61aa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209399307
+        }
+    ],
+    "wof:id":1209399307,
+    "wof:lastmodified":1536288198,
+    "wof:name":"Behelmia",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32534,
+    7.7602699999999984,
+    16.32534,
+    7.7602699999999984
+],
+  "geometry": {"coordinates":[16.32534,7.76027],"type":"Point"}
+}

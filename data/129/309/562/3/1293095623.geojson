@@ -1,0 +1,67 @@
+{
+  "id": 1293095623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86342,13.39879,15.86342,13.39879",
+    "geom:latitude":13.39879,
+    "geom:longitude":15.86342,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kangara",
+    "gn:country_code":"TD",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430860,
+    "gn:latitude":13.39879,
+    "gn:longitude":15.86342,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Kangara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430860
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"50f60efd486f6646ce93db80d4bccba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1293095623,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1293095623,
+    "wof:lastmodified":1536853936,
+    "wof:name":"Kangara",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86342,
+    13.39879,
+    15.86342,
+    13.39879
+],
+  "geometry": {"coordinates":[15.86342,13.39879],"type":"Point"}
+}

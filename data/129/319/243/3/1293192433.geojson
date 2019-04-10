@@ -1,0 +1,67 @@
+{
+  "id": 1293192433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46171,13.37757,15.46171,13.37757",
+    "geom:latitude":13.37757,
+    "geom:longitude":15.46171,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Babourom",
+    "gn:country_code":"TD",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6986388,
+    "gn:latitude":13.37757,
+    "gn:longitude":15.46171,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Babourom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986388
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"06509265b77bad1f5cb936b00b4798df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1293192433,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1293192433,
+    "wof:lastmodified":1536715792,
+    "wof:name":"Babourom",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46171,
+    13.37757,
+    15.46171,
+    13.37757
+],
+  "geometry": {"coordinates":[15.46171,13.37757],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293120947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7253,8.9144,15.7253,8.9144",
+    "geom:latitude":8.9144,
+    "geom:longitude":15.7253,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Djeguerenn Kaze",
+    "gn:country_code":"TD",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433669,
+    "gn:latitude":8.9144,
+    "gn:longitude":15.7253,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dj\u00e9gu\u00e9r\u00e8nn Kaz\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djeg\u00e9ren Kas\u00e9",
+        "Dj\u00e9gu\u00e9r\u00e8nn Kaz\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433669
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2d02ed1f79a294a791cd90f634ffc23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900113,
+            "locality_id":1293120947,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1293120947,
+    "wof:lastmodified":1537702781,
+    "wof:name":"Djeguerenn Kaze",
+    "wof:parent_id":1091900113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7253,
+    8.9144,
+    15.7253,
+    8.9144
+],
+  "geometry": {"coordinates":[15.7253,8.9144],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259874267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45515,13.51626,15.45515,13.51626",
+    "geom:latitude":13.51626,
+    "geom:longitude":15.45515,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kournatoulorom",
+    "gn:country_code":"TD",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429599,
+    "gn:latitude":13.51626,
+    "gn:longitude":15.45515,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kournatoulorom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kounatoulorom",
+        "Kournatoulorom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429599
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9734e7017e3866a5e00b6e3749d31ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1259874267,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1259874267,
+    "wof:lastmodified":1537702739,
+    "wof:name":"Kournatoulorom",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45515,
+    13.51626,
+    15.45515,
+    13.51626
+],
+  "geometry": {"coordinates":[15.45515,13.51626],"type":"Point"}
+}

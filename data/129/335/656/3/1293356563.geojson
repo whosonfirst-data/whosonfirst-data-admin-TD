@@ -1,0 +1,67 @@
+{
+  "id": 1293356563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9615,11.6794,16.9615,11.6794",
+    "geom:latitude":11.6794,
+    "geom:longitude":16.9615,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Cheke",
+    "gn:country_code":"TD",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434455,
+    "gn:latitude":11.6794,
+    "gn:longitude":16.9615,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Ch\u00e9k\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434455
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"de46a608eafcb5fc17e1c398a5884a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1293356563,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1293356563,
+    "wof:lastmodified":1536975382,
+    "wof:name":"Cheke",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9615,
+    11.6794,
+    16.9615,
+    11.6794
+],
+  "geometry": {"coordinates":[16.9615,11.6794],"type":"Point"}
+}

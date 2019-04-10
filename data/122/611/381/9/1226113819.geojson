@@ -1,0 +1,73 @@
+{
+  "id": 1226113819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9427,10.0655,17.9427,10.0655",
+    "geom:latitude":10.0655,
+    "geom:longitude":17.9427,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gouaye",
+    "gn:country_code":"TD",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431854,
+    "gn:latitude":10.0655,
+    "gn:longitude":17.9427,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gouaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guai",
+        "Goua\u00ef",
+        "Gouay",
+        "Gouaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431854
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d00f5401eef2eb732ffa389e92e9ecb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1226113819,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1226113819,
+    "wof:lastmodified":1537702760,
+    "wof:name":"Gouaye",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9427,
+    10.0655,
+    17.9427,
+    10.0655
+],
+  "geometry": {"coordinates":[17.9427,10.0655],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209514377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8811,10.3791,18.8811,10.3791",
+    "geom:latitude":10.3791,
+    "geom:longitude":18.8811,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Karo",
+    "gn:country_code":"TD",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430713,
+    "gn:latitude":10.3791,
+    "gn:longitude":18.8811,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Karo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430713
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cef29709bf3d850a82602887f8eb5174",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209514377
+        }
+    ],
+    "wof:id":1209514377,
+    "wof:lastmodified":1536284780,
+    "wof:name":"Karo",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8811,
+    10.3791,
+    18.8811,
+    10.3791
+],
+  "geometry": {"coordinates":[18.8811,10.3791],"type":"Point"}
+}

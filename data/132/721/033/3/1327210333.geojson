@@ -1,0 +1,72 @@
+{
+  "id": 1327210333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44945,11.56472,19.44945,11.56472",
+    "geom:latitude":11.56472,
+    "geom:longitude":19.44945,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Foulounga",
+    "gn:country_code":"TD",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432510,
+    "gn:latitude":11.56472,
+    "gn:longitude":19.44945,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Foulounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Felounga",
+        "Fehinga",
+        "Foulounga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432510
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"20c846717d284c3e7f964d79243e7983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900707,
+            "locality_id":1327210333,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1327210333,
+    "wof:lastmodified":1537702769,
+    "wof:name":"Foulounga",
+    "wof:parent_id":1091900707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44945,
+    11.56472,
+    19.44945,
+    11.56472
+],
+  "geometry": {"coordinates":[19.44945,11.56472],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360303231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6237,13.1642,18.6237,13.1642",
+    "geom:latitude":13.1642,
+    "geom:longitude":18.6237,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gafala",
+    "gn:country_code":"TD",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432207,
+    "gn:latitude":13.1642,
+    "gn:longitude":18.6237,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gafala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gavala",
+        "Gafala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432207
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5c1d9fb308164733e27956bec927333e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1360303231,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1360303231,
+    "wof:lastmodified":1537702765,
+    "wof:name":"Gafala",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6237,
+    13.1642,
+    18.6237,
+    13.1642
+],
+  "geometry": {"coordinates":[18.6237,13.1642],"type":"Point"}
+}

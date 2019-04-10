@@ -1,0 +1,61 @@
+{
+  "id": 1209206257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49786,13.63434,15.49786,13.63434",
+    "geom:latitude":13.63434,
+    "geom:longitude":15.49786,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gasri",
+    "gn:country_code":"TD",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432219,
+    "gn:latitude":13.63434,
+    "gn:longitude":15.49786,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Gasri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432219
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"134c70f3fa88e79aae044e9d71583b9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209206257
+        }
+    ],
+    "wof:id":1209206257,
+    "wof:lastmodified":1536294445,
+    "wof:name":"Gasri",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49786,
+    13.63434,
+    15.49786,
+    13.63434
+],
+  "geometry": {"coordinates":[15.49786,13.63434],"type":"Point"}
+}

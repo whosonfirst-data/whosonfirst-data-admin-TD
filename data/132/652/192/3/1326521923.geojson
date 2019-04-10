@@ -1,0 +1,67 @@
+{
+  "id": 1326521923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10737,13.62948,15.10737,13.62948",
+    "geom:latitude":13.62948,
+    "geom:longitude":15.10737,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Goumsal",
+    "gn:country_code":"TD",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431747,
+    "gn:latitude":13.62948,
+    "gn:longitude":15.10737,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Goumsal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431747
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"87ff5430f96e1b1a5fc7af948724cecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1326521923,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1326521923,
+    "wof:lastmodified":1536998191,
+    "wof:name":"Goumsal",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10737,
+    13.62948,
+    15.10737,
+    13.62948
+],
+  "geometry": {"coordinates":[15.10737,13.62948],"type":"Point"}
+}

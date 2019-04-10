@@ -1,0 +1,67 @@
+{
+  "id": 1242791713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3144,13.3684,18.3144,13.3684",
+    "geom:latitude":13.3684,
+    "geom:longitude":18.3144,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Am Kornoy",
+    "gn:country_code":"TD",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436874,
+    "gn:latitude":13.3684,
+    "gn:longitude":18.3144,
+    "gn:modification_date":"2008-09-04",
+    "gn:name":"Am Kornoy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436874
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9d160e4ef330f3d508f713a12db2436e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1242791713,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1242791713,
+    "wof:lastmodified":1536755202,
+    "wof:name":"Am Kornoy",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3144,
+    13.3684,
+    18.3144,
+    13.3684
+],
+  "geometry": {"coordinates":[18.3144,13.3684],"type":"Point"}
+}

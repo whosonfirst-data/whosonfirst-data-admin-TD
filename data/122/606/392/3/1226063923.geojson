@@ -1,0 +1,67 @@
+{
+  "id": 1226063923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8524,7.9751,15.8524,7.9751",
+    "geom:latitude":7.9751,
+    "geom:longitude":15.8524,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mbibangan",
+    "gn:country_code":"TD",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428069,
+    "gn:latitude":7.9751,
+    "gn:longitude":15.8524,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Mbibangan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428069
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8a644c0ec1d7ab64a426a78915079244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1226063923,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1226063923,
+    "wof:lastmodified":1536699293,
+    "wof:name":"Mbibangan",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8524,
+    7.9751,
+    15.8524,
+    7.9751
+],
+  "geometry": {"coordinates":[15.8524,7.9751],"type":"Point"}
+}

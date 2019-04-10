@@ -1,0 +1,61 @@
+{
+  "id": 1209500589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.14987,9.02778,16.14987,9.02778",
+    "geom:latitude":9.02778,
+    "geom:longitude":16.14987,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bamann",
+    "gn:country_code":"TD",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870640,
+    "gn:latitude":9.02778,
+    "gn:longitude":16.14987,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Bamann",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870640
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"95a6d4097a972f098f73b32177b815de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209500589
+        }
+    ],
+    "wof:id":1209500589,
+    "wof:lastmodified":1536285196,
+    "wof:name":"Bamann",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.14987,
+    9.02778,
+    16.14987,
+    9.02778
+],
+  "geometry": {"coordinates":[16.14987,9.02778],"type":"Point"}
+}

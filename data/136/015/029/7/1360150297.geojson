@@ -1,0 +1,67 @@
+{
+  "id": 1360150297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0198,8.5148,18.0198,8.5148",
+    "geom:latitude":8.5148,
+    "geom:longitude":18.0198,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Nadjikaba",
+    "gn:country_code":"TD",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427279,
+    "gn:latitude":8.5148,
+    "gn:longitude":18.0198,
+    "gn:modification_date":"2008-10-10",
+    "gn:name":"Nadjikaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427279
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1908b856887e0eae5a1ba2fe6f703c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1360150297,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1360150297,
+    "wof:lastmodified":1536850609,
+    "wof:name":"Nadjikaba",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0198,
+    8.5148,
+    18.0198,
+    8.5148
+],
+  "geometry": {"coordinates":[18.0198,8.5148],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276887947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5354,13.1445,18.5354,13.1445",
+    "geom:latitude":13.1445,
+    "geom:longitude":18.5354,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chibina",
+    "gn:country_code":"TD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434437,
+    "gn:latitude":13.1445,
+    "gn:longitude":18.5354,
+    "gn:modification_date":"2008-09-04",
+    "gn:name":"Chibina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434437
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3b5a1aedd615527258ad3faca7f2d896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1276887947,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1276887947,
+    "wof:lastmodified":1537029001,
+    "wof:name":"Chibina",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5354,
+    13.1445,
+    18.5354,
+    13.1445
+],
+  "geometry": {"coordinates":[18.5354,13.1445],"type":"Point"}
+}

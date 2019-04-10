@@ -1,0 +1,67 @@
+{
+  "id": 1310671203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68223,10.99051,15.68223,10.99051",
+    "geom:latitude":10.99051,
+    "geom:longitude":15.68223,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bakes Soulis",
+    "gn:country_code":"TD",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436175,
+    "gn:latitude":10.99051,
+    "gn:longitude":15.68223,
+    "gn:modification_date":"2008-05-19",
+    "gn:name":"Bak\u00e8s Soulis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436175
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5b48e5d125211f3a0c31610f788eb244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1310671203,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1310671203,
+    "wof:lastmodified":1536677923,
+    "wof:name":"Bakes Soulis",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68223,
+    10.99051,
+    15.68223,
+    10.99051
+],
+  "geometry": {"coordinates":[15.68223,10.99051],"type":"Point"}
+}

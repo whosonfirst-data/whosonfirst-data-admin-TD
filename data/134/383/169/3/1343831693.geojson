@@ -1,0 +1,67 @@
+{
+  "id": 1343831693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65665,9.44373,15.65665,9.44373",
+    "geom:latitude":9.44373,
+    "geom:longitude":15.65665,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Goera",
+    "gn:country_code":"TD",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432023,
+    "gn:latitude":9.44373,
+    "gn:longitude":15.65665,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Go\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432023
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"58b8e2054f83eab72f42a0a3633f663d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1343831693,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1343831693,
+    "wof:lastmodified":1536708496,
+    "wof:name":"Goera",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65665,
+    9.44373,
+    15.65665,
+    9.44373
+],
+  "geometry": {"coordinates":[15.65665,9.44373],"type":"Point"}
+}

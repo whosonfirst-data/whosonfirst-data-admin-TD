@@ -1,0 +1,71 @@
+{
+  "id": 1343368525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7811,13.72,19.7811,13.72",
+    "geom:latitude":13.72,
+    "geom:longitude":19.7811,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Am Seayal",
+    "gn:country_code":"TD",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436793,
+    "gn:latitude":13.72,
+    "gn:longitude":19.7811,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Am S\u00e9ayal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am S\u00e9ajal",
+        "Am S\u00e9ayal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436793
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4c192edbc9645c893f269cd40cabd33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1343368525,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1343368525,
+    "wof:lastmodified":1537702814,
+    "wof:name":"Am Seayal",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7811,
+    13.72,
+    19.7811,
+    13.72
+],
+  "geometry": {"coordinates":[19.7811,13.72],"type":"Point"}
+}

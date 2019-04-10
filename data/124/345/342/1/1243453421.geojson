@@ -1,0 +1,71 @@
+{
+  "id": 1243453421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.933,10.7338,18.933,10.7338",
+    "geom:latitude":10.7338,
+    "geom:longitude":18.933,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Koungouri",
+    "gn:country_code":"TD",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429581,
+    "gn:latitude":10.7338,
+    "gn:longitude":18.933,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koungouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koungri",
+        "Koungouri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429581
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2bebc0ee399d058bd58ea4821f399df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1243453421,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1243453421,
+    "wof:lastmodified":1537702739,
+    "wof:name":"Koungouri",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.933,
+    10.7338,
+    18.933,
+    10.7338
+],
+  "geometry": {"coordinates":[18.933,10.7338],"type":"Point"}
+}

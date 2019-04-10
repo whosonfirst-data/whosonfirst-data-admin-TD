@@ -1,0 +1,61 @@
+{
+  "id": 1209691799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.45913,12.18128,17.45913,12.18128",
+    "geom:latitude":12.18128,
+    "geom:longitude":17.45913,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ebe",
+    "gn:country_code":"TD",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6842338,
+    "gn:latitude":12.18128,
+    "gn:longitude":17.45913,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Eb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6842338
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"04846103bf832b4389db29c4fe6cf6f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209691799
+        }
+    ],
+    "wof:id":1209691799,
+    "wof:lastmodified":1536279213,
+    "wof:name":"Ebe",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.45913,
+    12.18128,
+    17.45913,
+    12.18128
+],
+  "geometry": {"coordinates":[17.45913,12.18128],"type":"Point"}
+}

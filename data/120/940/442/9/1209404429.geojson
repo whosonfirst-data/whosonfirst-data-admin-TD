@@ -1,0 +1,65 @@
+{
+  "id": 1209404429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2954,7.6795,16.2954,7.6795",
+    "geom:latitude":7.6795,
+    "geom:longitude":16.2954,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Begamoundou",
+    "gn:country_code":"TD",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435736,
+    "gn:latitude":7.6795,
+    "gn:longitude":16.2954,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9gamoundou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Begamoudou",
+        "B\u00e9gamoundou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435736
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"95306fd167254335c9e63fdbca326c59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209404429
+        }
+    ],
+    "wof:id":1209404429,
+    "wof:lastmodified":1537702804,
+    "wof:name":"Begamoundou",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2954,
+    7.6795,
+    16.2954,
+    7.6795
+],
+  "geometry": {"coordinates":[16.2954,7.6795],"type":"Point"}
+}

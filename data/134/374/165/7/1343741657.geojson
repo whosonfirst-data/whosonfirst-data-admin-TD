@@ -1,0 +1,71 @@
+{
+  "id": 1343741657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8683,11.4097,19.8683,11.4097",
+    "geom:latitude":11.4097,
+    "geom:longitude":19.8683,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Al Goz",
+    "gn:country_code":"TD",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437213,
+    "gn:latitude":11.4097,
+    "gn:longitude":19.8683,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Goz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Goz",
+        "Al Goz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437213
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a607a2f0376f1652a393d285764e3a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900707,
+            "locality_id":1343741657,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1343741657,
+    "wof:lastmodified":1537702818,
+    "wof:name":"Al Goz",
+    "wof:parent_id":1091900707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8683,
+    11.4097,
+    19.8683,
+    11.4097
+],
+  "geometry": {"coordinates":[19.8683,11.4097],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293756905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.75,10.53333,16.75,10.53333",
+    "geom:latitude":10.53333,
+    "geom:longitude":16.75,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Massi",
+    "gn:country_code":"TD",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428212,
+    "gn:latitude":10.53333,
+    "gn:longitude":16.75,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Massi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428212
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7e227b29d4ed5a8cd100bb911d572f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900595,
+            "locality_id":1293756905,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1293756905,
+    "wof:lastmodified":1536895682,
+    "wof:name":"Massi",
+    "wof:parent_id":1091900595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.75,
+    10.53333,
+    16.75,
+    10.53333
+],
+  "geometry": {"coordinates":[16.75,10.53333],"type":"Point"}
+}

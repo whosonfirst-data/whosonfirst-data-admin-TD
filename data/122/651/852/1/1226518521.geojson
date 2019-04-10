@@ -1,0 +1,71 @@
+{
+  "id": 1226518521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.66664,9.58338,18.66664,9.58338",
+    "geom:latitude":9.58338,
+    "geom:longitude":18.66664,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kohe",
+    "gn:country_code":"TD",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430182,
+    "gn:latitude":9.58338,
+    "gn:longitude":18.66664,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koh\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u00e9",
+        "Koh\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430182
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d34a0d30f9754dff304ab1a04a70d7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1226518521,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1226518521,
+    "wof:lastmodified":1537702744,
+    "wof:name":"Kohe",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66664,
+    9.58338,
+    18.66664,
+    9.58338
+],
+  "geometry": {"coordinates":[18.66664,9.58338],"type":"Point"}
+}

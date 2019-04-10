@@ -1,0 +1,71 @@
+{
+  "id": 1226309245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09662,12.75244,15.09662,12.75244",
+    "geom:latitude":12.75244,
+    "geom:longitude":15.09662,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kerenife",
+    "gn:country_code":"TD",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430270,
+    "gn:latitude":12.75244,
+    "gn:longitude":15.09662,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00e9r\u00e9nif\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9r\u00e9nif\u00e9",
+        "Kirenife"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430270
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9b36f020e58e50c69d7c816527c2f63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1226309245,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1226309245,
+    "wof:lastmodified":1537702745,
+    "wof:name":"Kerenife",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09662,
+    12.75244,
+    15.09662,
+    12.75244
+],
+  "geometry": {"coordinates":[15.09662,12.75244],"type":"Point"}
+}

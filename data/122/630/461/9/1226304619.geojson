@@ -1,0 +1,67 @@
+{
+  "id": 1226304619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0107,9.7958,16.0107,9.7958",
+    "geom:latitude":9.7958,
+    "geom:longitude":16.0107,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Beriame",
+    "gn:country_code":"TD",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435454,
+    "gn:latitude":9.7958,
+    "gn:longitude":16.0107,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"B\u00e9riam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435454
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"658c8012312a99eb306c75471211ca25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1226304619,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1226304619,
+    "wof:lastmodified":1536847839,
+    "wof:name":"Beriame",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0107,
+    9.7958,
+    16.0107,
+    9.7958
+],
+  "geometry": {"coordinates":[16.0107,9.7958],"type":"Point"}
+}

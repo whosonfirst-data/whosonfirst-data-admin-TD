@@ -1,0 +1,61 @@
+{
+  "id": 1209590849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8783,8.318,17.8783,8.318",
+    "geom:latitude":8.318,
+    "geom:longitude":17.8783,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Madibouyou",
+    "gn:country_code":"TD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428910,
+    "gn:latitude":8.318,
+    "gn:longitude":17.8783,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Madibouyou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428910
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"870059730eab331f5016ff97cf14baf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209590849
+        }
+    ],
+    "wof:id":1209590849,
+    "wof:lastmodified":1536282484,
+    "wof:name":"Madibouyou",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8783,
+    8.318,
+    17.8783,
+    8.318
+],
+  "geometry": {"coordinates":[17.8783,8.318],"type":"Point"}
+}

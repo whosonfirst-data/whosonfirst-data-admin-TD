@@ -1,0 +1,61 @@
+{
+  "id": 1209076431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28426,12.24537,15.28426,12.24537",
+    "geom:latitude":12.24537,
+    "geom:longitude":15.28426,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Et Taouil",
+    "gn:country_code":"TD",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432771,
+    "gn:latitude":12.24537,
+    "gn:longitude":15.28426,
+    "gn:modification_date":"2008-02-08",
+    "gn:name":"Et Taouil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432771
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bf1a4ca0bf4baed22cb2d045a088ae0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209076431
+        }
+    ],
+    "wof:id":1209076431,
+    "wof:lastmodified":1536298479,
+    "wof:name":"Et Taouil",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28426,
+    12.24537,
+    15.28426,
+    12.24537
+],
+  "geometry": {"coordinates":[15.28426,12.24537],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310398923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2235,9.0135,16.2235,9.0135",
+    "geom:latitude":9.0135,
+    "geom:longitude":16.2235,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kaya Loli",
+    "gn:country_code":"TD",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430618,
+    "gn:latitude":9.0135,
+    "gn:longitude":16.2235,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Kaya Loli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430618
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"10d3589cd178be75f477241c17617a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1310398923,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1310398923,
+    "wof:lastmodified":1537067798,
+    "wof:name":"Kaya Loli",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2235,
+    9.0135,
+    16.2235,
+    9.0135
+],
+  "geometry": {"coordinates":[16.2235,9.0135],"type":"Point"}
+}

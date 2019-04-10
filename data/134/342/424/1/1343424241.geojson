@@ -1,0 +1,67 @@
+{
+  "id": 1343424241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28289,12.86579,15.28289,12.86579",
+    "geom:latitude":12.86579,
+    "geom:longitude":15.28289,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tourba",
+    "gn:country_code":"TD",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424502,
+    "gn:latitude":12.86579,
+    "gn:longitude":15.28289,
+    "gn:modification_date":"2008-02-07",
+    "gn:name":"Tourba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424502
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"744a3ac8c2bbeaf21037708a29b4efd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1343424241,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1343424241,
+    "wof:lastmodified":1536798754,
+    "wof:name":"Tourba",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28289,
+    12.86579,
+    15.28289,
+    12.86579
+],
+  "geometry": {"coordinates":[15.28289,12.86579],"type":"Point"}
+}

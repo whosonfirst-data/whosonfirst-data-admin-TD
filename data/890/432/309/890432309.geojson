@@ -1,0 +1,100 @@
+{
+  "id": 890432309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4275,21.8375,17.4275,21.8375",
+    "geom:latitude":21.8375,
+    "geom:longitude":17.4275,
+    "gn:country":"TD",
+    "gn:fcode":"PPL",
+    "gn:pop":1880,
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0632\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043e\u0437\u043e\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Aouzou"
+    ],
+    "name:eng_x_preferred":[
+        "Aouzou"
+    ],
+    "name:fre_x_preferred":[
+        "Aozou"
+    ],
+    "name:ger_x_preferred":[
+        "Aouzou"
+    ],
+    "name:ita_x_preferred":[
+        "Aozou"
+    ],
+    "name:pol_x_preferred":[
+        "Aouzou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0443\u0437\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Ozu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0632\u0648\u060c \u0686\u0627\u0688"
+    ],
+    "qs:name":"Aozou",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678501,
+        1091901649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436628,
+        "gp:id":1271541,
+        "qs:id":278660,
+        "wd:id":"Q2858017"
+    },
+    "wof:country":"TD",
+    "wof:created":1469051936,
+    "wof:geomhash":"7e6de57b9512018d48a43c976a2300e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901649,
+            "locality_id":890432309,
+            "region_id":85678501
+        }
+    ],
+    "wof:id":890432309,
+    "wof:lastmodified":1514505933,
+    "wof:name":"Aozou",
+    "wof:parent_id":1091901649,
+    "wof:placetype":"locality",
+    "wof:population":1880,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4275,
+    21.8375,
+    17.4275,
+    21.8375
+],
+  "geometry": {"coordinates":[17.4275,21.8375],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310266547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1172,9.9829,16.1172,9.9829",
+    "geom:latitude":9.9829,
+    "geom:longitude":16.1172,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Molto",
+    "gn:country_code":"TD",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870597,
+    "gn:latitude":9.9829,
+    "gn:longitude":16.1172,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Molto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870597
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4b21f92003ee3a2071bc85b8590403c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1310266547,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1310266547,
+    "wof:lastmodified":1536764582,
+    "wof:name":"Molto",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1172,
+    9.9829,
+    16.1172,
+    9.9829
+],
+  "geometry": {"coordinates":[16.1172,9.9829],"type":"Point"}
+}

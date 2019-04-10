@@ -1,0 +1,73 @@
+{
+  "id": 1242749361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.6198,10.399,19.6198,10.399",
+    "geom:latitude":10.399,
+    "geom:longitude":19.6198,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tiole Sagher",
+    "gn:country_code":"TD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424762,
+    "gn:latitude":10.399,
+    "gn:longitude":19.6198,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tiol\u00e9 Sagher",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiol\u00e9",
+        "Tole",
+        "Tiol\u00e9 Sarher",
+        "Tiol\u00e9 Sagher"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424762
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"320cc428c7a454265f157c3bb361e067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1242749361,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1242749361,
+    "wof:lastmodified":1537702693,
+    "wof:name":"Tiole Sagher",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.6198,
+    10.399,
+    19.6198,
+    10.399
+],
+  "geometry": {"coordinates":[19.6198,10.399],"type":"Point"}
+}

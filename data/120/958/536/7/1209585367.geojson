@@ -1,0 +1,61 @@
+{
+  "id": 1209585367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53867,10.55904,15.53867,10.55904",
+    "geom:latitude":10.55904,
+    "geom:longitude":15.53867,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Aini",
+    "gn:country_code":"TD",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437316,
+    "gn:latitude":10.55904,
+    "gn:longitude":15.53867,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"A\u00efni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437316
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"afe2c53cf57dbf8934ff5dc8b0235f7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209585367
+        }
+    ],
+    "wof:id":1209585367,
+    "wof:lastmodified":1536282654,
+    "wof:name":"Aini",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.538670000000002,
+    10.55904,
+    15.538670000000002,
+    10.55904
+],
+  "geometry": {"coordinates":[15.53867,10.55904],"type":"Point"}
+}

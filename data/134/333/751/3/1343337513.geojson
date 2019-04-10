@@ -1,0 +1,71 @@
+{
+  "id": 1343337513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64527,12.50588,15.64527,12.50588",
+    "geom:latitude":12.50588,
+    "geom:longitude":15.64527,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Marba",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428344,
+    "gn:latitude":12.50588,
+    "gn:longitude":15.64527,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Marba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marbat",
+        "Marba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428344
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5d89c22a3612d6b39f9127bd4bc621ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1343337513,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1343337513,
+    "wof:lastmodified":1537702727,
+    "wof:name":"Marba",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64527,
+    12.50588,
+    15.64527,
+    12.50588
+],
+  "geometry": {"coordinates":[15.64527,12.50588],"type":"Point"}
+}

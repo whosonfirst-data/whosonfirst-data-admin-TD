@@ -1,0 +1,71 @@
+{
+  "id": 1344122529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.68655,8.13497,17.68655,8.13497",
+    "geom:latitude":8.13497,
+    "geom:longitude":17.68655,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bebian",
+    "gn:country_code":"TD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435849,
+    "gn:latitude":8.13497,
+    "gn:longitude":17.68655,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bebian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9bia",
+        "Bebian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435849
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8e71e4d301090ae5fbe84ff4922b0b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1344122529,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1344122529,
+    "wof:lastmodified":1537702807,
+    "wof:name":"Bebian",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.68655,
+    8.13497,
+    17.68655,
+    8.13497
+],
+  "geometry": {"coordinates":[17.68655,8.13497],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293346813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3165,13.192,16.3165,13.192",
+    "geom:latitude":13.192,
+    "geom:longitude":16.3165,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Totorde",
+    "gn:country_code":"TD",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424607,
+    "gn:latitude":13.192,
+    "gn:longitude":16.3165,
+    "gn:modification_date":"2008-09-16",
+    "gn:name":"Totord\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424607
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"43b2f19df7784484f6dd0410d70a16b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901733,
+            "locality_id":1293346813,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1293346813,
+    "wof:lastmodified":1536989119,
+    "wof:name":"Totorde",
+    "wof:parent_id":1091901733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3165,
+    13.192,
+    16.3165,
+    13.192
+],
+  "geometry": {"coordinates":[16.3165,13.192],"type":"Point"}
+}

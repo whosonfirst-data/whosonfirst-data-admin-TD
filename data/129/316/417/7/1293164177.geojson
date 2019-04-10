@@ -1,0 +1,71 @@
+{
+  "id": 1293164177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68218,12.89454,15.68218,12.89454",
+    "geom:latitude":12.89454,
+    "geom:longitude":15.68218,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Garatalata",
+    "gn:country_code":"TD",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432253,
+    "gn:latitude":12.89454,
+    "gn:longitude":15.68218,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Garatalata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garat Talata",
+        "Garatalata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432253
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"06ae6daa1ee51f02d6ecfdb123a42a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1293164177,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1293164177,
+    "wof:lastmodified":1537702766,
+    "wof:name":"Garatalata",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68218,
+    12.89454,
+    15.68218,
+    12.89454
+],
+  "geometry": {"coordinates":[15.68218,12.89454],"type":"Point"}
+}

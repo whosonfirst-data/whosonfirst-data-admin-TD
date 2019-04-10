@@ -1,0 +1,70 @@
+{
+  "id": 1343838143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71642,13.05303,20.71642,13.05303",
+    "geom:latitude":13.05303,
+    "geom:longitude":20.71642,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Malongo",
+    "gn:country_code":"TD",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242818,
+    "gn:latitude":13.05303,
+    "gn:longitude":20.71642,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Malongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Malongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242818
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fb901f7769752e6d64e7db9f6e6c7ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1343838143,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1343838143,
+    "wof:lastmodified":1537702658,
+    "wof:name":"Malongo",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71642,
+    13.05303,
+    20.71642,
+    13.05303
+],
+  "geometry": {"coordinates":[20.71642,13.05303],"type":"Point"}
+}

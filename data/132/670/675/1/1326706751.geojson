@@ -1,0 +1,67 @@
+{
+  "id": 1326706751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98333,11.55,20.98333,11.55",
+    "geom:latitude":11.55,
+    "geom:longitude":20.98333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tognogol II",
+    "gn:country_code":"TD",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241630,
+    "gn:latitude":11.55,
+    "gn:longitude":20.98333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Tognogol II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241630
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8b2cbf52542e5c80145221c22753179b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1326706751,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1326706751,
+    "wof:lastmodified":1536732778,
+    "wof:name":"Tognogol II",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98333,
+    11.55,
+    20.98333,
+    11.55
+],
+  "geometry": {"coordinates":[20.98333,11.55],"type":"Point"}
+}

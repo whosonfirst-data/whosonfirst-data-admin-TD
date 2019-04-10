@@ -1,0 +1,112 @@
+{
+  "id": 421168177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3813,8.6698,15.3813,8.6698",
+    "geom:latitude":8.6698,
+    "geom:longitude":15.3813,
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0646\u0627\u0645\u0627\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Beinamar"
+    ],
+    "name:eng_x_preferred":[
+        "Beinamar"
+    ],
+    "name:fra_x_preferred":[
+        "Beinamar"
+    ],
+    "name:fre_x_preferred":[
+        "Beinamar"
+    ],
+    "name:pol_x_preferred":[
+        "Beinamar"
+    ],
+    "name:ron_x_preferred":[
+        "Beinamar"
+    ],
+    "name:rum_x_preferred":[
+        "Beinamar"
+    ],
+    "name:unk_x_variant":[
+        "Be\u00efnamar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0626\u06cc\u0646\u0627\u0645\u0627\u0631"
+    ],
+    "qs:gn_country":"TD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2435708,
+    "qs:gn_pop":7445,
+    "qs:name":"Beinamar",
+    "qs:name_adm0":"Tchad",
+    "qs:name_adm1":"Logone Occidental",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1035755,
+    "qs:woe_adm0":23424777,
+    "qs:woe_id":1272151,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435708,
+        "gp:id":1272151,
+        "qs:id":1035755,
+        "wd:id":"Q2894011",
+        "wk:page":"Beinamar"
+    },
+    "wof:country":"TD",
+    "wof:created":1459008756,
+    "wof:geomhash":"e0229657891919e43fd45228b81bab09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900057,
+            "locality_id":421168177,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":421168177,
+    "wof:lastmodified":1527716099,
+    "wof:name":"Beinamar",
+    "wof:parent_id":1091900057,
+    "wof:placetype":"locality",
+    "wof:population":7445,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3813,
+    8.6698,
+    15.3813,
+    8.6698
+],
+  "geometry": {"coordinates":[15.3813,8.6698],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259668303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7623,7.8383,15.7623,7.8383",
+    "geom:latitude":7.8383,
+    "geom:longitude":15.7623,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Diba",
+    "gn:country_code":"TD",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433938,
+    "gn:latitude":7.8383,
+    "gn:longitude":15.7623,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Diba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433938
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6a57670f29f96bac4fb2bfaf51c0579d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1259668303,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1259668303,
+    "wof:lastmodified":1537085721,
+    "wof:name":"Diba",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7623,
+    7.8383,
+    15.7623,
+    7.8383
+],
+  "geometry": {"coordinates":[15.7623,7.8383],"type":"Point"}
+}

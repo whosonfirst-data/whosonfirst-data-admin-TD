@@ -1,0 +1,71 @@
+{
+  "id": 1242836265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1531,9.6365,14.1531,9.6365",
+    "geom:latitude":9.6365,
+    "geom:longitude":14.1531,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Dissing",
+    "gn:country_code":"TD",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433781,
+    "gn:latitude":9.6365,
+    "gn:longitude":14.1531,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dissing",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dising",
+        "Dissing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433781
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5dbcd351c84f665395d4381cd2bf6890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900399,
+            "locality_id":1242836265,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1242836265,
+    "wof:lastmodified":1537702782,
+    "wof:name":"Dissing",
+    "wof:parent_id":1091900399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1531,
+    9.6365,
+    14.1531,
+    9.6365
+],
+  "geometry": {"coordinates":[14.1531,9.6365],"type":"Point"}
+}

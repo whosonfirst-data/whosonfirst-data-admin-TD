@@ -1,0 +1,65 @@
+{
+  "id": 1209680597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7699,9.212,14.7699,9.212",
+    "geom:latitude":9.212,
+    "geom:longitude":14.7699,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Djikei",
+    "gn:country_code":"TD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433592,
+    "gn:latitude":9.212,
+    "gn:longitude":14.7699,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djik\u00e9i",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djika\u00ef",
+        "Djik\u00e9i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433592
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"834266b1ab5822ec0cedd30e5f132199",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209680597
+        }
+    ],
+    "wof:id":1209680597,
+    "wof:lastmodified":1537702780,
+    "wof:name":"Djikei",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7699,
+    9.212,
+    14.7699,
+    9.212
+],
+  "geometry": {"coordinates":[14.7699,9.212],"type":"Point"}
+}

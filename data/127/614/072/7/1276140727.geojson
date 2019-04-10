@@ -1,0 +1,73 @@
+{
+  "id": 1276140727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.99122,7.85139,16.99122,7.85139",
+    "geom:latitude":7.85139,
+    "geom:longitude":16.99122,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Siagon",
+    "gn:country_code":"TD",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425683,
+    "gn:latitude":7.85139,
+    "gn:longitude":16.99122,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Siagon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9k\u00e9sabon",
+        "Sagon",
+        "Bekesabou",
+        "Siagon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425683
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"daa4bd72b68b36473c3a948bcba840f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899861,
+            "locality_id":1276140727,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1276140727,
+    "wof:lastmodified":1537702700,
+    "wof:name":"Siagon",
+    "wof:parent_id":1091899861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.99122,
+    7.85139,
+    16.99122,
+    7.85139
+],
+  "geometry": {"coordinates":[16.99122,7.85139],"type":"Point"}
+}

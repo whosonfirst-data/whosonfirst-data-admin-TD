@@ -1,0 +1,72 @@
+{
+  "id": 1310226365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7,13.5,14.7,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":14.7,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bol Gini",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434962,
+    "gn:latitude":13.5,
+    "gn:longitude":14.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bol Gini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bol Gini I",
+        "Bol Gini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434962
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"68a0aba8297092088a54733433bbf289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1310226365,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1310226365,
+    "wof:lastmodified":1537702792,
+    "wof:name":"Bol Gini",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7,
+    13.5,
+    14.7,
+    13.5
+],
+  "geometry": {"coordinates":[14.7,13.5],"type":"Point"}
+}

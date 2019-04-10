@@ -1,0 +1,67 @@
+{
+  "id": 1242965791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57809,14.28,15.57809,14.28",
+    "geom:latitude":14.28,
+    "geom:longitude":15.57809,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kertiefil",
+    "gn:country_code":"TD",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430424,
+    "gn:latitude":14.28,
+    "gn:longitude":15.57809,
+    "gn:modification_date":"2009-02-24",
+    "gn:name":"Kerti\u00e9fil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430424
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"eaa7291a869d81b8fb2d635866ddf359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1242965791,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1242965791,
+    "wof:lastmodified":1537000815,
+    "wof:name":"Kertiefil",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57809,
+    14.28,
+    15.57809,
+    14.28
+],
+  "geometry": {"coordinates":[15.57809,14.28],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209404505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3338,8.401,15.3338,8.401",
+    "geom:latitude":8.401,
+    "geom:longitude":15.3338,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Betissa",
+    "gn:country_code":"TD",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859939,
+    "gn:latitude":8.401,
+    "gn:longitude":15.3338,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Betissa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859939
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c15d605ba4abbd35d09ff82bb97aa2a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209404505
+        }
+    ],
+    "wof:id":1209404505,
+    "wof:lastmodified":1536288039,
+    "wof:name":"Betissa",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3338,
+    8.401,
+    15.3338,
+    8.401
+],
+  "geometry": {"coordinates":[15.3338,8.401],"type":"Point"}
+}

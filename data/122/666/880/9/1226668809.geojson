@@ -1,0 +1,71 @@
+{
+  "id": 1226668809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7589,11.2051,17.7589,11.2051",
+    "geom:latitude":11.2051,
+    "geom:longitude":17.7589,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gangue",
+    "gn:country_code":"TD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432314,
+    "gn:latitude":11.2051,
+    "gn:longitude":17.7589,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gangue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gange",
+        "Gangue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432314
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1833bbeb69db4dbf79b9fd1a033b0ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1226668809,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1226668809,
+    "wof:lastmodified":1537702766,
+    "wof:name":"Gangue",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7589,
+    11.2051,
+    17.7589,
+    11.2051
+],
+  "geometry": {"coordinates":[17.7589,11.2051],"type":"Point"}
+}

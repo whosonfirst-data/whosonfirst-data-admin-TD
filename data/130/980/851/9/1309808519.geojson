@@ -1,0 +1,67 @@
+{
+  "id": 1309808519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1319,11.9801,18.1319,11.9801",
+    "geom:latitude":11.9801,
+    "geom:longitude":18.1319,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Fielme",
+    "gn:country_code":"TD",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432635,
+    "gn:latitude":11.9801,
+    "gn:longitude":18.1319,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Fielm\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432635
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0bcbeca1e0456bed5a85e7bc2f142552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900785,
+            "locality_id":1309808519,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1309808519,
+    "wof:lastmodified":1536927803,
+    "wof:name":"Fielme",
+    "wof:parent_id":1091900785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1319,
+    11.9801,
+    18.1319,
+    11.9801
+],
+  "geometry": {"coordinates":[18.1319,11.9801],"type":"Point"}
+}

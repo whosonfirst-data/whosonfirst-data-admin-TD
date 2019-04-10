@@ -1,0 +1,67 @@
+{
+  "id": 1276438565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54909,13.56435,15.54909,13.56435",
+    "geom:latitude":13.56435,
+    "geom:longitude":15.54909,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sooum",
+    "gn:country_code":"TD",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425524,
+    "gn:latitude":13.56435,
+    "gn:longitude":15.54909,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Sooum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425524
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"958785ab15743b16133c7f95e183590d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1276438565,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1276438565,
+    "wof:lastmodified":1536636458,
+    "wof:name":"Sooum",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54909,
+    13.56435,
+    15.54909,
+    13.56435
+],
+  "geometry": {"coordinates":[15.54909,13.56435],"type":"Point"}
+}

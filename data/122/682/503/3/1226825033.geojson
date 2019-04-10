@@ -1,0 +1,67 @@
+{
+  "id": 1226825033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10308,12.59569,17.10308,12.59569",
+    "geom:latitude":12.59569,
+    "geom:longitude":17.10308,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tcherkel",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6842369,
+    "gn:latitude":12.59569,
+    "gn:longitude":17.10308,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Tcherkel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6842369
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b61aa77d63020aa2942bd3456be46fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1226825033,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1226825033,
+    "wof:lastmodified":1537094981,
+    "wof:name":"Tcherkel",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10308,
+    12.59569,
+    17.10308,
+    12.59569
+],
+  "geometry": {"coordinates":[17.10308,12.59569],"type":"Point"}
+}

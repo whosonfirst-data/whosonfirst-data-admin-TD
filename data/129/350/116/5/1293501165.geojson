@@ -1,0 +1,71 @@
+{
+  "id": 1293501165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16767,13.00652,18.16767,13.00652",
+    "geom:latitude":13.00652,
+    "geom:longitude":18.16767,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zambide",
+    "gn:country_code":"TD",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424109,
+    "gn:latitude":13.00652,
+    "gn:longitude":18.16767,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zambid\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Attomat",
+        "Zambid\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424109
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fcf265aaf0e3741b003ed0cf3bb472dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1293501165,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1293501165,
+    "wof:lastmodified":1537702689,
+    "wof:name":"Zambide",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16767,
+    13.00652,
+    18.16767,
+    13.00652
+],
+  "geometry": {"coordinates":[18.16767,13.00652],"type":"Point"}
+}

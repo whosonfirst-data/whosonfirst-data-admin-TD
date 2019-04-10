@@ -1,0 +1,67 @@
+{
+  "id": 1293462365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35,9.46667,15.35,9.46667",
+    "geom:latitude":9.46667,
+    "geom:longitude":15.35,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Horey el Meina",
+    "gn:country_code":"TD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431381,
+    "gn:latitude":9.46667,
+    "gn:longitude":15.35,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Horey el Me\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431381
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"386dcc016bc2911cd2c4c406d5185d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900311,
+            "locality_id":1293462365,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1293462365,
+    "wof:lastmodified":1536822542,
+    "wof:name":"Horey el Meina",
+    "wof:parent_id":1091900311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35,
+    9.46667,
+    15.35,
+    9.46667
+],
+  "geometry": {"coordinates":[15.35,9.46667],"type":"Point"}
+}

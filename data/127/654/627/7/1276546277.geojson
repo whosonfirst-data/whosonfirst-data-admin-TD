@@ -1,0 +1,67 @@
+{
+  "id": 1276546277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9202,10.7637,17.9202,10.7637",
+    "geom:latitude":10.7637,
+    "geom:longitude":17.9202,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Falla-Koubi",
+    "gn:country_code":"TD",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432728,
+    "gn:latitude":10.7637,
+    "gn:longitude":17.9202,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Falla-Koubi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432728
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b8f4ed0599905700d32308ec0ae45613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1276546277,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1276546277,
+    "wof:lastmodified":1536989853,
+    "wof:name":"Falla-Koubi",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9202,
+    10.7637,
+    17.9202,
+    10.7637
+],
+  "geometry": {"coordinates":[17.9202,10.7637],"type":"Point"}
+}

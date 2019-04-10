@@ -1,0 +1,61 @@
+{
+  "id": 1209401945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57381,13.33445,21.57381,13.33445",
+    "geom:latitude":13.33445,
+    "geom:longitude":21.57381,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Fardjia",
+    "gn:country_code":"TD",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244107,
+    "gn:latitude":13.33445,
+    "gn:longitude":21.57381,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Fardjia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244107
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d3756dc38667f8607a016bc474f778a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209401945
+        }
+    ],
+    "wof:id":1209401945,
+    "wof:lastmodified":1536288117,
+    "wof:name":"Fardjia",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57381,
+    13.33445,
+    21.57381,
+    13.33445
+],
+  "geometry": {"coordinates":[21.57381,13.33445],"type":"Point"}
+}

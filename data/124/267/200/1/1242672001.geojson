@@ -1,0 +1,71 @@
+{
+  "id": 1242672001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32348,7.74485,16.32348,7.74485",
+    "geom:latitude":7.74485,
+    "geom:longitude":16.32348,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bembaida Nya",
+    "gn:country_code":"TD",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435601,
+    "gn:latitude":7.74485,
+    "gn:longitude":16.32348,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bembaida Nya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bembainda-Nia",
+        "Bembaida Nya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435601
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fb3ff5ffe3b01394783f2e49ed474ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1242672001,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1242672001,
+    "wof:lastmodified":1537702801,
+    "wof:name":"Bembaida Nya",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32348,
+    7.74485,
+    16.32348,
+    7.74485
+],
+  "geometry": {"coordinates":[16.32348,7.74485],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276652193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7999,8.7662,15.7999,8.7662",
+    "geom:latitude":8.7662,
+    "geom:longitude":15.7999,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Manda",
+    "gn:country_code":"TD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428502,
+    "gn:latitude":8.7662,
+    "gn:longitude":15.7999,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Manda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428502
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c9db9be62909bc6775ecf5e01682c7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1276652193,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1276652193,
+    "wof:lastmodified":1536847474,
+    "wof:name":"Manda",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7999,
+    8.7662,
+    15.7999,
+    8.7662
+],
+  "geometry": {"coordinates":[15.7999,8.7662],"type":"Point"}
+}

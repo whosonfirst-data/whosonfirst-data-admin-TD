@@ -1,0 +1,67 @@
+{
+  "id": 1309743745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76833,12.07111,18.76833,12.07111",
+    "geom:latitude":12.07111,
+    "geom:longitude":18.76833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zobili",
+    "gn:country_code":"TD",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424036,
+    "gn:latitude":12.07111,
+    "gn:longitude":18.76833,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Zobili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424036
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9d859c52c86f8855ffacad02dac71fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900821,
+            "locality_id":1309743745,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1309743745,
+    "wof:lastmodified":1537019802,
+    "wof:name":"Zobili",
+    "wof:parent_id":1091900821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76833,
+    12.07111,
+    18.76833,
+    12.07111
+],
+  "geometry": {"coordinates":[18.76833,12.07111],"type":"Point"}
+}

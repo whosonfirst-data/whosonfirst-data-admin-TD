@@ -1,0 +1,67 @@
+{
+  "id": 1260258589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2684,11.8477,17.2684,11.8477",
+    "geom:latitude":11.8477,
+    "geom:longitude":17.2684,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Djipdjoumalak Bordjio",
+    "gn:country_code":"TD",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859249,
+    "gn:latitude":11.8477,
+    "gn:longitude":17.2684,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Djipdjoumalak Bordjio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859249
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c21165e198e9e7acc6c4fef658778307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1260258589,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1260258589,
+    "wof:lastmodified":1536745297,
+    "wof:name":"Djipdjoumalak Bordjio",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2684,
+    11.8477,
+    17.2684,
+    11.8477
+],
+  "geometry": {"coordinates":[17.2684,11.8477],"type":"Point"}
+}

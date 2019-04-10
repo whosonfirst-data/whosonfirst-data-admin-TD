@@ -1,0 +1,67 @@
+{
+  "id": 1260042419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.21797,8.6815,17.21797,8.6815",
+    "geom:latitude":8.6815,
+    "geom:longitude":17.21797,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Djan",
+    "gn:country_code":"TD",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433723,
+    "gn:latitude":8.6815,
+    "gn:longitude":17.21797,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Djan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091899975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433723
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8318ff2a5fb0f2b4d25a5bd3c57db208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899975,
+            "locality_id":1260042419,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1260042419,
+    "wof:lastmodified":1537045442,
+    "wof:name":"Djan",
+    "wof:parent_id":1091899975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.21797,
+    8.6815,
+    17.21797,
+    8.6815
+],
+  "geometry": {"coordinates":[17.21797,8.6815],"type":"Point"}
+}

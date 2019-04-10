@@ -1,0 +1,70 @@
+{
+  "id": 1293393097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97986,14.39344,21.97986,14.39344",
+    "geom:latitude":14.39344,
+    "geom:longitude":21.97986,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kedl Nerne",
+    "gn:country_code":"TD",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11526955,
+    "gn:latitude":14.39344,
+    "gn:longitude":21.97986,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"K\u00e9dl N\u00e8rne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "K\u00e9dl N\u00e8rne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11526955
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4d417f035b343a56111c7222ff0dc03b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":1293393097,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1293393097,
+    "wof:lastmodified":1537702827,
+    "wof:name":"Kedl Nerne",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97986,
+    14.39344,
+    21.97986,
+    14.39344
+],
+  "geometry": {"coordinates":[21.97986,14.39344],"type":"Point"}
+}

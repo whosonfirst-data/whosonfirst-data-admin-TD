@@ -1,0 +1,65 @@
+{
+  "id": 1209586585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60559,9.27982,15.60559,9.27982",
+    "geom:latitude":9.27982,
+    "geom:longitude":15.60559,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Louagui",
+    "gn:country_code":"TD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429014,
+    "gn:latitude":9.27982,
+    "gn:longitude":15.60559,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Louagui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Louagi",
+        "Louagui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429014
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"02dcf66ec249487af196ed7694815829",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209586585
+        }
+    ],
+    "wof:id":1209586585,
+    "wof:lastmodified":1537702733,
+    "wof:name":"Louagui",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60559,
+    9.27982,
+    15.60559,
+    9.27982
+],
+  "geometry": {"coordinates":[15.60559,9.27982],"type":"Point"}
+}

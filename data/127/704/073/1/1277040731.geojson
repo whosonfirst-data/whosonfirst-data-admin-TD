@@ -1,0 +1,67 @@
+{
+  "id": 1277040731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.16667,8.91667,17.16667,8.91667",
+    "geom:latitude":8.91667,
+    "geom:longitude":17.16667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kemando",
+    "gn:country_code":"TD",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430504,
+    "gn:latitude":8.91667,
+    "gn:longitude":17.16667,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Kemando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091899975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430504
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"268164c0b2f40ddc8d20e9ac33673179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899975,
+            "locality_id":1277040731,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1277040731,
+    "wof:lastmodified":1536824668,
+    "wof:name":"Kemando",
+    "wof:parent_id":1091899975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16667,
+    8.91667,
+    17.16667,
+    8.91667
+],
+  "geometry": {"coordinates":[17.16667,8.91667],"type":"Point"}
+}

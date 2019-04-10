@@ -1,0 +1,71 @@
+{
+  "id": 1326826885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74095,8.41906,15.74095,8.41906",
+    "geom:latitude":8.41906,
+    "geom:longitude":15.74095,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ngodon",
+    "gn:country_code":"TD",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431954,
+    "gn:latitude":8.41906,
+    "gn:longitude":15.74095,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngodon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gondon",
+        "Ngodon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431954
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"008993b7d7e55c59429fbae0121bbf1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1326826885,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1326826885,
+    "wof:lastmodified":1537702762,
+    "wof:name":"Ngodon",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74095,
+    8.41906,
+    15.74095,
+    8.41906
+],
+  "geometry": {"coordinates":[15.74095,8.41906],"type":"Point"}
+}

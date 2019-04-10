@@ -1,0 +1,67 @@
+{
+  "id": 1310109875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.85725,12.93863,17.85725,12.93863",
+    "geom:latitude":12.93863,
+    "geom:longitude":17.85725,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Seita Tarsourou",
+    "gn:country_code":"TD",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425756,
+    "gn:latitude":12.93863,
+    "gn:longitude":17.85725,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Seita Tarsourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425756
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fe60bd9a2e303cfcec7a7e040c7fe891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1310109875,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1310109875,
+    "wof:lastmodified":1536989292,
+    "wof:name":"Seita Tarsourou",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.85725,
+    12.93863,
+    17.85725,
+    12.93863
+],
+  "geometry": {"coordinates":[17.85725,12.93863],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259458637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.09274,12.05084,17.09274,12.05084",
+    "geom:latitude":12.05084,
+    "geom:longitude":17.09274,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tchok",
+    "gn:country_code":"TD",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425074,
+    "gn:latitude":12.05084,
+    "gn:longitude":17.09274,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Tchok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425074
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"77d79dc1302403229228c0df4c9157b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1259458637,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1259458637,
+    "wof:lastmodified":1536894286,
+    "wof:name":"Tchok",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.09274,
+    12.05084,
+    17.09274,
+    12.05084
+],
+  "geometry": {"coordinates":[17.09274,12.05084],"type":"Point"}
+}

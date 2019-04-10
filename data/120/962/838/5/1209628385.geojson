@@ -1,0 +1,64 @@
+{
+  "id": 1209628385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96919,14.46814,21.96919,14.46814",
+    "geom:latitude":14.46814,
+    "geom:longitude":21.96919,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Abounoura",
+    "gn:country_code":"TD",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245720,
+    "gn:latitude":14.46814,
+    "gn:longitude":21.96919,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Abounoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Abounoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245720
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cbe0b51dd1c8437bf2e418a017f25d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209628385
+        }
+    ],
+    "wof:id":1209628385,
+    "wof:lastmodified":1537702687,
+    "wof:name":"Abounoura",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96919,
+    14.46814,
+    21.96919,
+    14.46814
+],
+  "geometry": {"coordinates":[21.96919,14.46814],"type":"Point"}
+}

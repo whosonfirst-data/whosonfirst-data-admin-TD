@@ -1,0 +1,61 @@
+{
+  "id": 1209179769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.42292,9.19233,17.42292,9.19233",
+    "geom:latitude":9.19233,
+    "geom:longitude":17.42292,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dobo",
+    "gn:country_code":"TD",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433410,
+    "gn:latitude":9.19233,
+    "gn:longitude":17.42292,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Dobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433410
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a2b6648c6c6e62882146bb78d3a476f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209179769
+        }
+    ],
+    "wof:id":1209179769,
+    "wof:lastmodified":1536295299,
+    "wof:name":"Dobo",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42292,
+    9.19233,
+    17.42292,
+    9.19233
+],
+  "geometry": {"coordinates":[17.42292,9.19233],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209414039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8257,12.6994,19.8257,12.6994",
+    "geom:latitude":12.6994,
+    "geom:longitude":19.8257,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kouzi Wait",
+    "gn:country_code":"TD",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429394,
+    "gn:latitude":12.6994,
+    "gn:longitude":19.8257,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"Kouzi Wa\u00eft",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429394
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5359e4bfd4b10d28dd457145c68b179b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209414039
+        }
+    ],
+    "wof:id":1209414039,
+    "wof:lastmodified":1536287746,
+    "wof:name":"Kouzi Wait",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8257,
+    12.6994,
+    19.8257,
+    12.6994
+],
+  "geometry": {"coordinates":[19.8257,12.6994],"type":"Point"}
+}

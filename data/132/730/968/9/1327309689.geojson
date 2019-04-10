@@ -1,0 +1,67 @@
+{
+  "id": 1327309689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74935,12.96037,15.74935,12.96037",
+    "geom:latitude":12.96037,
+    "geom:longitude":15.74935,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Zol",
+    "gn:country_code":"TD",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424031,
+    "gn:latitude":12.96037,
+    "gn:longitude":15.74935,
+    "gn:modification_date":"2008-03-06",
+    "gn:name":"Zol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424031
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"113eb517717fd980e2787939e5287ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1327309689,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1327309689,
+    "wof:lastmodified":1536856847,
+    "wof:name":"Zol",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74935,
+    12.96037,
+    15.74935,
+    12.96037
+],
+  "geometry": {"coordinates":[15.74935,12.96037],"type":"Point"}
+}

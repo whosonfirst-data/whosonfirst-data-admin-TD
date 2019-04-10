@@ -1,0 +1,67 @@
+{
+  "id": 1242563189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.40924,8.81898,16.40924,8.81898",
+    "geom:latitude":8.81898,
+    "geom:longitude":16.40924,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bougarou",
+    "gn:country_code":"TD",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6909191,
+    "gn:latitude":8.81898,
+    "gn:longitude":16.40924,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Bougarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909191
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5fb74c3ef4a4d301375ffc35a12a2ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1242563189,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1242563189,
+    "wof:lastmodified":1537081301,
+    "wof:name":"Bougarou",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.40924,
+    8.81898,
+    16.40924,
+    8.81898
+],
+  "geometry": {"coordinates":[16.40924,8.81898],"type":"Point"}
+}

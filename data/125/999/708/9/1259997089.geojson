@@ -1,0 +1,72 @@
+{
+  "id": 1259997089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83219,13.24613,19.83219,13.24613",
+    "geom:latitude":13.24613,
+    "geom:longitude":19.83219,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Faroweli",
+    "gn:country_code":"TD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432693,
+    "gn:latitude":13.24613,
+    "gn:longitude":19.83219,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Farow\u00e9li",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Farouelli",
+        "Farowelli",
+        "Farow\u00e9li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432693
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2270fbc710becb5188f9cf545196153c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1259997089,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1259997089,
+    "wof:lastmodified":1537702770,
+    "wof:name":"Faroweli",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83219,
+    13.24613,
+    19.83219,
+    13.24613
+],
+  "geometry": {"coordinates":[19.83219,13.24613],"type":"Point"}
+}

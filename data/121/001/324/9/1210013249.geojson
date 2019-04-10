@@ -1,0 +1,67 @@
+{
+  "id": 1210013249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85657,14.21194,13.85657,14.21194",
+    "geom:latitude":14.21194,
+    "geom:longitude":13.85657,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kaiga",
+    "gn:country_code":"TD",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431060,
+    "gn:latitude":14.21194,
+    "gn:longitude":13.85657,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Ka\u00efga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431060
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"30e60c977e2d4d85470f234417067613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1210013249,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1210013249,
+    "wof:lastmodified":1536396243,
+    "wof:name":"Kaiga",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85657,
+    14.21194,
+    13.85657,
+    14.21194
+],
+  "geometry": {"coordinates":[13.85657,14.21194],"type":"Point"}
+}

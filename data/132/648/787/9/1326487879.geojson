@@ -1,0 +1,67 @@
+{
+  "id": 1326487879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7429,11.0929,22.7429,11.0929",
+    "geom:latitude":11.0929,
+    "geom:longitude":22.7429,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Moro",
+    "gn:country_code":"TD",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242547,
+    "gn:latitude":11.0929,
+    "gn:longitude":22.7429,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Moro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242547
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f80b0b809bb2e83e5088e2787ab1aaa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1326487879,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1326487879,
+    "wof:lastmodified":1537046142,
+    "wof:name":"Moro",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7429,
+    11.0929,
+    22.7429,
+    11.0929
+],
+  "geometry": {"coordinates":[22.7429,11.0929],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209509449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29958,13.62484,15.29958,13.62484",
+    "geom:latitude":13.62484,
+    "geom:longitude":15.29958,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Are",
+    "gn:country_code":"TD",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436549,
+    "gn:latitude":13.62484,
+    "gn:longitude":15.29958,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Ar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436549
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6b5e65104c9a707456208467a130c673",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209509449
+        }
+    ],
+    "wof:id":1209509449,
+    "wof:lastmodified":1536284929,
+    "wof:name":"Are",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29958,
+    13.62484,
+    15.29958,
+    13.62484
+],
+  "geometry": {"coordinates":[15.29958,13.62484],"type":"Point"}
+}

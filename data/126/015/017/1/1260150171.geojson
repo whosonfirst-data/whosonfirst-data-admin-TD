@@ -1,0 +1,67 @@
+{
+  "id": 1260150171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10191,10.86629,15.10191,10.86629",
+    "geom:latitude":10.86629,
+    "geom:longitude":15.10191,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ouala",
+    "gn:country_code":"TD",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426542,
+    "gn:latitude":10.86629,
+    "gn:longitude":15.10191,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Ouala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426542
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e947a8178a8a90138742d82fac7b01f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1260150171,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1260150171,
+    "wof:lastmodified":1536893380,
+    "wof:name":"Ouala",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10191,
+    10.86629,
+    15.10191,
+    10.86629
+],
+  "geometry": {"coordinates":[15.10191,10.86629],"type":"Point"}
+}

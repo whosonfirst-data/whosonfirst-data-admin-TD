@@ -1,0 +1,67 @@
+{
+  "id": 1343741131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5,9.2,16.5,9.2",
+    "geom:latitude":9.2,
+    "geom:longitude":16.5,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Samango",
+    "gn:country_code":"TD",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425873,
+    "gn:latitude":9.2,
+    "gn:longitude":16.5,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Samango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425873
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"61eccc5581816355db992689789c5671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1343741131,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1343741131,
+    "wof:lastmodified":1536837764,
+    "wof:name":"Samango",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5,
+    9.2,
+    16.5,
+    9.2
+],
+  "geometry": {"coordinates":[16.5,9.2],"type":"Point"}
+}

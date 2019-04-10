@@ -1,0 +1,66 @@
+{
+  "id": 1243242863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.92056,9.54769,20.92056,9.54769",
+    "geom:latitude":9.54769,
+    "geom:longitude":20.92056,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kambol",
+    "gn:country_code":"TD",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243507,
+    "gn:latitude":9.54769,
+    "gn:longitude":20.92056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kambol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kambol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243507
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a55a9b23a9c4369c8c86149b63cbd9f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243242863,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243242863,
+    "wof:lastmodified":1537702665,
+    "wof:name":"Kambol",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.92056,
+    9.54769,
+    20.92056,
+    9.54769
+],
+  "geometry": {"coordinates":[20.92056,9.54769],"type":"Point"}
+}

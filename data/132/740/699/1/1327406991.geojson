@@ -1,0 +1,71 @@
+{
+  "id": 1327406991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0274,10.40397,17.0274,10.40397",
+    "geom:latitude":10.40397,
+    "geom:longitude":17.0274,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gadang-Gougouri",
+    "gn:country_code":"TD",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432452,
+    "gn:latitude":10.40397,
+    "gn:longitude":17.0274,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gadang-Gougouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gadang Gourgouri",
+        "Gadang-Gougouri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432452
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9a38fc996ed8844371192de1e2c26df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900595,
+            "locality_id":1327406991,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1327406991,
+    "wof:lastmodified":1537702768,
+    "wof:name":"Gadang-Gougouri",
+    "wof:parent_id":1091900595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.0274,
+    10.40397,
+    17.0274,
+    10.40397
+],
+  "geometry": {"coordinates":[17.0274,10.40397],"type":"Point"}
+}

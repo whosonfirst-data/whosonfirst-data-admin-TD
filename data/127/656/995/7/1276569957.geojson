@@ -1,0 +1,67 @@
+{
+  "id": 1276569957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8028,8.3172,16.8028,8.3172",
+    "geom:latitude":8.3172,
+    "geom:longitude":16.8028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Madana",
+    "gn:country_code":"TD",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6909282,
+    "gn:latitude":8.3172,
+    "gn:longitude":16.8028,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Madana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909282
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"786b57bca174bb19f89c51e413566a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899821,
+            "locality_id":1276569957,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1276569957,
+    "wof:lastmodified":1536959146,
+    "wof:name":"Madana",
+    "wof:parent_id":1091899821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8028,
+    8.3172,
+    16.8028,
+    8.3172
+],
+  "geometry": {"coordinates":[16.8028,8.3172],"type":"Point"}
+}

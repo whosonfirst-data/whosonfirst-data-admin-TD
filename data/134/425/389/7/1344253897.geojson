@@ -1,0 +1,67 @@
+{
+  "id": 1344253897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92615,13.36727,15.92615,13.36727",
+    "geom:latitude":13.36727,
+    "geom:longitude":15.92615,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Boula Soula",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434727,
+    "gn:latitude":13.36727,
+    "gn:longitude":15.92615,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Boula Soula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434727
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"65b9bada2583b44245749d3328b29c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1344253897,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1344253897,
+    "wof:lastmodified":1537090519,
+    "wof:name":"Boula Soula",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92615,
+    13.36727,
+    15.92615,
+    13.36727
+],
+  "geometry": {"coordinates":[15.92615,13.36727],"type":"Point"}
+}

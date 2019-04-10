@@ -1,0 +1,67 @@
+{
+  "id": 1260385777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67666,13.66181,15.67666,13.66181",
+    "geom:latitude":13.66181,
+    "geom:longitude":15.67666,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Boulongoa",
+    "gn:country_code":"TD",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434709,
+    "gn:latitude":13.66181,
+    "gn:longitude":15.67666,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Boulongoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434709
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"505d7352e421d2e32adef8219b32da8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1260385777,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1260385777,
+    "wof:lastmodified":1537068960,
+    "wof:name":"Boulongoa",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67666,
+    13.66181,
+    15.67666,
+    13.66181
+],
+  "geometry": {"coordinates":[15.67666,13.66181],"type":"Point"}
+}

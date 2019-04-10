@@ -1,0 +1,67 @@
+{
+  "id": 1259754697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2375,9.663,19.2375,9.663",
+    "geom:latitude":9.663,
+    "geom:longitude":19.2375,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Roukou",
+    "gn:country_code":"TD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425993,
+    "gn:latitude":9.663,
+    "gn:longitude":19.2375,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Roukou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425993
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"770439631528933c00e5288695d7737b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1259754697,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1259754697,
+    "wof:lastmodified":1536964485,
+    "wof:name":"Roukou",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2375,
+    9.663,
+    19.2375,
+    9.663
+],
+  "geometry": {"coordinates":[19.2375,9.663],"type":"Point"}
+}

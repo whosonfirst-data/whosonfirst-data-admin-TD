@@ -1,0 +1,72 @@
+{
+  "id": 1277054987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61023,9.04597,15.61023,9.04597",
+    "geom:latitude":9.04597,
+    "geom:longitude":15.61023,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Doumbadgue",
+    "gn:country_code":"TD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433088,
+    "gn:latitude":9.04597,
+    "gn:longitude":15.61023,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doumbadgu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doumbadg\u00e9",
+        "Doumbadj\u00e9",
+        "Doumbadgu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433088
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c25c1c81a853b4d59d582b92899dcd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1277054987,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1277054987,
+    "wof:lastmodified":1537702773,
+    "wof:name":"Doumbadgue",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61023,
+    9.04597,
+    15.61023,
+    9.04597
+],
+  "geometry": {"coordinates":[15.61023,9.04597],"type":"Point"}
+}

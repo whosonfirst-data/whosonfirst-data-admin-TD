@@ -1,0 +1,67 @@
+{
+  "id": 1242698975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61435,13.52555,15.61435,13.52555",
+    "geom:latitude":13.52555,
+    "geom:longitude":15.61435,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bechirom",
+    "gn:country_code":"TD",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435827,
+    "gn:latitude":13.52555,
+    "gn:longitude":15.61435,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"B\u00e9chirom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435827
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"51cc64036e47e605c02d444484a8ae62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1242698975,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1242698975,
+    "wof:lastmodified":1536888571,
+    "wof:name":"Bechirom",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61435,
+    13.52555,
+    15.61435,
+    13.52555
+],
+  "geometry": {"coordinates":[15.61435,13.52555],"type":"Point"}
+}

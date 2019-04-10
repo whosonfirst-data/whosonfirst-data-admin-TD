@@ -1,0 +1,67 @@
+{
+  "id": 1243226891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13867,12.55021,17.13867,12.55021",
+    "geom:latitude":12.55021,
+    "geom:longitude":17.13867,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Daya Abou Ache",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434113,
+    "gn:latitude":12.55021,
+    "gn:longitude":17.13867,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Daya Abou Ach\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434113
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2a8d315563d3beff1291e30666c3ef8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1243226891,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1243226891,
+    "wof:lastmodified":1536623180,
+    "wof:name":"Daya Abou Ache",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13867,
+    12.55021,
+    17.13867,
+    12.55021
+],
+  "geometry": {"coordinates":[17.13867,12.55021],"type":"Point"}
+}

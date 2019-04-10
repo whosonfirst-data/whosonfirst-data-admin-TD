@@ -1,0 +1,71 @@
+{
+  "id": 1242595381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20551,13.15285,20.20551,13.15285",
+    "geom:latitude":13.15285,
+    "geom:longitude":20.20551,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Am Sounta",
+    "gn:country_code":"TD",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245346,
+    "gn:latitude":13.15285,
+    "gn:longitude":20.20551,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Am Sounta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Souta",
+        "Am Sounta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245346
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"75cffd98ee465e167d5a6feee7f1838b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1242595381,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1242595381,
+    "wof:lastmodified":1537702682,
+    "wof:name":"Am Sounta",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20551,
+    13.15285,
+    20.20551,
+    13.15285
+],
+  "geometry": {"coordinates":[20.20551,13.15285],"type":"Point"}
+}

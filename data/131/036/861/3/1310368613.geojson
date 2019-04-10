@@ -1,0 +1,71 @@
+{
+  "id": 1310368613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28261,12.92436,15.28261,12.92436",
+    "geom:latitude":12.92436,
+    "geom:longitude":15.28261,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Oual Hassan",
+    "gn:country_code":"TD",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426674,
+    "gn:latitude":12.92436,
+    "gn:longitude":15.28261,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oual Hassan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ole Hasan",
+        "Oual Hassan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426674
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0659d0ba40693ac36666e87434fe6fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1310368613,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1310368613,
+    "wof:lastmodified":1537702708,
+    "wof:name":"Oual Hassan",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28261,
+    12.92436,
+    15.28261,
+    12.92436
+],
+  "geometry": {"coordinates":[15.28261,12.92436],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310426917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81171,13.58263,15.81171,13.58263",
+    "geom:latitude":13.58263,
+    "geom:longitude":15.81171,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Matari",
+    "gn:country_code":"TD",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428181,
+    "gn:latitude":13.58263,
+    "gn:longitude":15.81171,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Matari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428181
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"57d212cb8bd274bf259b9b6bc91da0e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1310426917,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1310426917,
+    "wof:lastmodified":1537029141,
+    "wof:name":"Matari",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81171,
+    13.58263,
+    15.81171,
+    13.58263
+],
+  "geometry": {"coordinates":[15.81171,13.58263],"type":"Point"}
+}

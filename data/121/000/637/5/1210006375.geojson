@@ -1,0 +1,67 @@
+{
+  "id": 1210006375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.57132,9.00907,16.57132,9.00907",
+    "geom:latitude":9.00907,
+    "geom:longitude":16.57132,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ro Colli",
+    "gn:country_code":"TD",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870609,
+    "gn:latitude":9.00907,
+    "gn:longitude":16.57132,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"R\u00f4 Colli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870609
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"be029e8df73b8568bfd998201bb70797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900073,
+            "locality_id":1210006375,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1210006375,
+    "wof:lastmodified":1536373252,
+    "wof:name":"Ro Colli",
+    "wof:parent_id":1091900073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.57132,
+    9.00907,
+    16.57132,
+    9.00907
+],
+  "geometry": {"coordinates":[16.57132,9.00907],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343331429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14648,10.69678,15.14648,10.69678",
+    "geom:latitude":10.69678,
+    "geom:longitude":15.14648,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kayeouang",
+    "gn:country_code":"TD",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430608,
+    "gn:latitude":10.69678,
+    "gn:longitude":15.14648,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kay\u00e9ouang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u00efoang",
+        "Ke\u00efoang",
+        "Ka\u00efouang",
+        "Kay\u00e9ouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430608
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d36ad4792b86c5376a94685da190518b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1343331429,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1343331429,
+    "wof:lastmodified":1537702748,
+    "wof:name":"Kayeouang",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14648,
+    10.69678,
+    15.14648,
+    10.69678
+],
+  "geometry": {"coordinates":[15.14648,10.69678],"type":"Point"}
+}

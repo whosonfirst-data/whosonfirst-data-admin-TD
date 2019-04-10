@@ -1,0 +1,67 @@
+{
+  "id": 1309708303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8686,8.8412,15.8686,8.8412",
+    "geom:latitude":8.8412,
+    "geom:longitude":15.8686,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Andji",
+    "gn:country_code":"TD",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436727,
+    "gn:latitude":8.8412,
+    "gn:longitude":15.8686,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Andji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436727
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7903dfc73e1406f20a863df1dd203d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900113,
+            "locality_id":1309708303,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1309708303,
+    "wof:lastmodified":1537068719,
+    "wof:name":"Andji",
+    "wof:parent_id":1091900113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8686,
+    8.8412,
+    15.8686,
+    8.8412
+],
+  "geometry": {"coordinates":[15.8686,8.8412],"type":"Point"}
+}

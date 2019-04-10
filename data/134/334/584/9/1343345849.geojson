@@ -1,0 +1,67 @@
+{
+  "id": 1343345849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89717,8.11693,16.89717,8.11693",
+    "geom:latitude":8.11693,
+    "geom:longitude":16.89717,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Begueli",
+    "gn:country_code":"TD",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6909140,
+    "gn:latitude":8.11693,
+    "gn:longitude":16.89717,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"B\u00e9gu\u00e9li",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909140
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"88a9e0e6bda79e4c2fde3e4e3ec33885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899821,
+            "locality_id":1343345849,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1343345849,
+    "wof:lastmodified":1536912095,
+    "wof:name":"Begueli",
+    "wof:parent_id":1091899821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89717000000001,
+    8.11693,
+    16.89717000000001,
+    8.11693
+],
+  "geometry": {"coordinates":[16.89717000000001,8.11693],"type":"Point"}
+}

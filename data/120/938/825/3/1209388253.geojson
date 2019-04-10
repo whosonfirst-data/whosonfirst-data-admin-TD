@@ -1,0 +1,65 @@
+{
+  "id": 1209388253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6454,12.17555,15.6454,12.17555",
+    "geom:latitude":12.17555,
+    "geom:longitude":15.6454,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Teguil",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424819,
+    "gn:latitude":12.17555,
+    "gn:longitude":15.6454,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u00e9guil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tigil",
+        "T\u00e9guil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424819
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5da40296ddbfe5b2ffe74dd6ce33eae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209388253
+        }
+    ],
+    "wof:id":1209388253,
+    "wof:lastmodified":1537702694,
+    "wof:name":"Teguil",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6454,
+    12.17555,
+    15.6454,
+    12.17555
+],
+  "geometry": {"coordinates":[15.6454,12.17555],"type":"Point"}
+}

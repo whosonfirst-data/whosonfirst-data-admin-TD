@@ -1,0 +1,71 @@
+{
+  "id": 1242845373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84867,9.25681,15.84867,9.25681",
+    "geom:latitude":9.25681,
+    "geom:longitude":15.84867,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Marbelem Lamgue",
+    "gn:country_code":"TD",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428340,
+    "gn:latitude":9.25681,
+    "gn:longitude":15.84867,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Marb\u00e9lem Lamgu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marb\u00e9lem Lamg\u00e9",
+        "Marb\u00e9lem Lamgu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428340
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0e4a741c5028691f609677434dc8900c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1242845373,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1242845373,
+    "wof:lastmodified":1537702727,
+    "wof:name":"Marbelem Lamgue",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84867,
+    9.25681,
+    15.84867,
+    9.25681
+],
+  "geometry": {"coordinates":[15.84867,9.25681],"type":"Point"}
+}

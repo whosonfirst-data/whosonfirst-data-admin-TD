@@ -1,0 +1,67 @@
+{
+  "id": 1360155057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40859,12.10379,15.40859,12.10379",
+    "geom:latitude":12.10379,
+    "geom:longitude":15.40859,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Adiama",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437430,
+    "gn:latitude":12.10379,
+    "gn:longitude":15.40859,
+    "gn:modification_date":"2008-02-13",
+    "gn:name":"Adiama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437430
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"996196790d290c81bc6d707c4d1217be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1360155057,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1360155057,
+    "wof:lastmodified":1536843773,
+    "wof:name":"Adiama",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40859,
+    12.10379,
+    15.40859,
+    12.10379
+],
+  "geometry": {"coordinates":[15.40859,12.10379],"type":"Point"}
+}

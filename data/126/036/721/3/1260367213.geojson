@@ -1,0 +1,67 @@
+{
+  "id": 1260367213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.59521,13.04322,21.59521,13.04322",
+    "geom:latitude":13.04322,
+    "geom:longitude":21.59521,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Niorian",
+    "gn:country_code":"TD",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242359,
+    "gn:latitude":13.04322,
+    "gn:longitude":21.59521,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Niorian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242359
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7637bae98673cc7c955cf248c8328b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901035,
+            "locality_id":1260367213,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1260367213,
+    "wof:lastmodified":1537093515,
+    "wof:name":"Niorian",
+    "wof:parent_id":1091901035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.59521,
+    13.04322,
+    21.59521,
+    13.04322
+],
+  "geometry": {"coordinates":[21.59521,13.04322],"type":"Point"}
+}

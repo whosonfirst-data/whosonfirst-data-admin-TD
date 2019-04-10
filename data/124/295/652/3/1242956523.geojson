@@ -1,0 +1,71 @@
+{
+  "id": 1242956523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3053,10.0645,16.3053,10.0645",
+    "geom:latitude":10.0645,
+    "geom:longitude":16.3053,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Danan",
+    "gn:country_code":"TD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434260,
+    "gn:latitude":10.0645,
+    "gn:longitude":16.3053,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Danan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daman",
+        "Danan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434260
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e2a607b170e941f56ad5e7bba70fe36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1242956523,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1242956523,
+    "wof:lastmodified":1537702786,
+    "wof:name":"Danan",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3053,
+    10.0645,
+    16.3053,
+    10.0645
+],
+  "geometry": {"coordinates":[16.3053,10.0645],"type":"Point"}
+}

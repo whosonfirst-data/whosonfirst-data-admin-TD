@@ -1,0 +1,70 @@
+{
+  "id": 1310100095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8157,8.3805,16.8157,8.3805",
+    "geom:latitude":8.3805,
+    "geom:longitude":16.8157,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Makobo-Beroutou",
+    "gn:country_code":"TD",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428643,
+    "gn:latitude":8.3805,
+    "gn:longitude":16.8157,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Makobo-B\u00e9routou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Makobo-B\u00e9routou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428643
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"996a81025314dc4b7656f9c56bff4768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899821,
+            "locality_id":1310100095,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1310100095,
+    "wof:lastmodified":1537702730,
+    "wof:name":"Makobo-Beroutou",
+    "wof:parent_id":1091899821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8157,
+    8.3805,
+    16.8157,
+    8.3805
+],
+  "geometry": {"coordinates":[16.8157,8.3805],"type":"Point"}
+}

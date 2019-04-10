@@ -1,0 +1,71 @@
+{
+  "id": 1226731975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37981,10.89261,15.37981,10.89261",
+    "geom:latitude":10.89261,
+    "geom:longitude":15.37981,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bourdiou",
+    "gn:country_code":"TD",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434649,
+    "gn:latitude":10.89261,
+    "gn:longitude":15.37981,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bourdiou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boundiou",
+        "Bourdiou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434649
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9a0bc20b42e6d0c1a505d333f38e364e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1226731975,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1226731975,
+    "wof:lastmodified":1537702789,
+    "wof:name":"Bourdiou",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37981,
+    10.89261,
+    15.37981,
+    10.89261
+],
+  "geometry": {"coordinates":[15.37981,10.89261],"type":"Point"}
+}

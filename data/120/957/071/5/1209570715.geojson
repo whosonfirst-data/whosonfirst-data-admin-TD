@@ -1,0 +1,67 @@
+{
+  "id": 1209570715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18333,12.38333,21.18333,12.38333",
+    "geom:latitude":12.38333,
+    "geom:longitude":21.18333,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Abilelai",
+    "gn:country_code":"TD",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245770,
+    "gn:latitude":12.38333,
+    "gn:longitude":21.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abil\u00e9lai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abil\u00e9lay",
+        "Abilelaye",
+        "Abou Lelaya",
+        "Abil\u00e9lai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245770
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6251cb043959733d53bed0a52eb0c098",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209570715
+        }
+    ],
+    "wof:id":1209570715,
+    "wof:lastmodified":1537702688,
+    "wof:name":"Abilelai",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18333,
+    12.38333,
+    21.18333,
+    12.38333
+],
+  "geometry": {"coordinates":[21.18333,12.38333],"type":"Point"}
+}

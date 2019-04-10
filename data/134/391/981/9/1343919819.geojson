@@ -1,0 +1,67 @@
+{
+  "id": 1343919819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9301,9.2192,14.9301,9.2192",
+    "geom:latitude":9.2192,
+    "geom:longitude":14.9301,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Baida Baila",
+    "gn:country_code":"TD",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436211,
+    "gn:latitude":9.2192,
+    "gn:longitude":14.9301,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Ba\u00efda Ba\u00efla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436211
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e8458d06b83753b1f63f4db1ede528af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1343919819,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1343919819,
+    "wof:lastmodified":1537075691,
+    "wof:name":"Baida Baila",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9301,
+    9.2192,
+    14.9301,
+    9.2192
+],
+  "geometry": {"coordinates":[14.9301,9.2192],"type":"Point"}
+}

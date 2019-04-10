@@ -1,0 +1,67 @@
+{
+  "id": 1343782065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53045,8.94044,16.53045,8.94044",
+    "geom:latitude":8.94044,
+    "geom:longitude":16.53045,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mberi",
+    "gn:country_code":"TD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428071,
+    "gn:latitude":8.94044,
+    "gn:longitude":16.53045,
+    "gn:modification_date":"2008-11-14",
+    "gn:name":"Mb\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428071
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"22d51f400d5f75bfdd9d87a55f6e54f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1343782065,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1343782065,
+    "wof:lastmodified":1536780372,
+    "wof:name":"Mberi",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53045,
+    8.94044,
+    16.53045,
+    8.94044
+],
+  "geometry": {"coordinates":[16.53045,8.94044],"type":"Point"}
+}

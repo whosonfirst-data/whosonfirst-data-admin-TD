@@ -1,0 +1,70 @@
+{
+  "id": 1343929247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.8191,9.68991,20.8191,9.68991",
+    "geom:latitude":9.68991,
+    "geom:longitude":20.8191,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Batimere Rounga",
+    "gn:country_code":"TD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244964,
+    "gn:latitude":9.68991,
+    "gn:longitude":20.8191,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Batim\u00e9r\u00e9 Rounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Batim\u00e9r\u00e9 Rounga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244964
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"11edc9d39b292fcd6b4944292ea73c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900659,
+            "locality_id":1343929247,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1343929247,
+    "wof:lastmodified":1537702679,
+    "wof:name":"Batimere Rounga",
+    "wof:parent_id":1091900659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.8191,
+    9.68991,
+    20.8191,
+    9.68991
+],
+  "geometry": {"coordinates":[20.8191,9.68991],"type":"Point"}
+}

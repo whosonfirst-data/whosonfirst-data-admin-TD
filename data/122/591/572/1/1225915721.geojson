@@ -1,0 +1,72 @@
+{
+  "id": 1225915721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.65113,9.99814,19.65113,9.99814",
+    "geom:latitude":9.99814,
+    "geom:longitude":19.65113,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ganatir",
+    "gn:country_code":"TD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432335,
+    "gn:latitude":9.99814,
+    "gn:longitude":19.65113,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ganatir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ganatyr",
+        "Ganati",
+        "Ganatir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432335
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c8c6df925c913c6a61c170d94e24801e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1225915721,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1225915721,
+    "wof:lastmodified":1537702767,
+    "wof:name":"Ganatir",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.65113,
+    9.99814,
+    19.65113,
+    9.99814
+],
+  "geometry": {"coordinates":[19.65113,9.99814],"type":"Point"}
+}

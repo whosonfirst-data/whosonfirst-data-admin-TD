@@ -1,0 +1,71 @@
+{
+  "id": 1209887113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13496,9.46764,16.13496,9.46764",
+    "geom:latitude":9.46764,
+    "geom:longitude":16.13496,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kouma Ngar",
+    "gn:country_code":"TD",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429658,
+    "gn:latitude":9.46764,
+    "gn:longitude":16.13496,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouma Ngar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouma",
+        "Kouma Ngar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429658
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f3a8dd4cdda8cb966a13e00112d39f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1209887113,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1209887113,
+    "wof:lastmodified":1537702740,
+    "wof:name":"Kouma Ngar",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13496,
+    9.46764,
+    16.13496,
+    9.46764
+],
+  "geometry": {"coordinates":[16.13496,9.46764],"type":"Point"}
+}

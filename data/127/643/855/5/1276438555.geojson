@@ -1,0 +1,67 @@
+{
+  "id": 1276438555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12587,13.52413,15.12587,13.52413",
+    "geom:latitude":13.52413,
+    "geom:longitude":15.12587,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Logoum",
+    "gn:country_code":"TD",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429053,
+    "gn:latitude":13.52413,
+    "gn:longitude":15.12587,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Logoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429053
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"88e4026cde2fcb8ba2ea784637cd4f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1276438555,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1276438555,
+    "wof:lastmodified":1536636472,
+    "wof:name":"Logoum",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12587,
+    13.52413,
+    15.12587,
+    13.52413
+],
+  "geometry": {"coordinates":[15.12587,13.52413],"type":"Point"}
+}

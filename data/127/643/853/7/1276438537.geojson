@@ -1,0 +1,71 @@
+{
+  "id": 1276438537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86776,14.14454,13.86776,14.14454",
+    "geom:latitude":14.14454,
+    "geom:longitude":13.86776,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Massa",
+    "gn:country_code":"TD",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428266,
+    "gn:latitude":14.14454,
+    "gn:longitude":13.86776,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Massa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masa",
+        "Massa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428266
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bae1f6f227da9f88043cb953a7396f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1276438537,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1276438537,
+    "wof:lastmodified":1537702727,
+    "wof:name":"Massa",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86776,
+    14.14454,
+    13.86776,
+    14.14454
+],
+  "geometry": {"coordinates":[13.86776,14.14454],"type":"Point"}
+}

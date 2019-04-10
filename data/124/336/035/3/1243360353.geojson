@@ -1,0 +1,71 @@
+{
+  "id": 1243360353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5221,8.9619,15.5221,8.9619",
+    "geom:latitude":8.9619,
+    "geom:longitude":15.5221,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kamkiel",
+    "gn:country_code":"TD",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430908,
+    "gn:latitude":8.9619,
+    "gn:longitude":15.5221,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kamkiel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamkel",
+        "Kamkiel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430908
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1d0fa5aa25a23c99d5319b1a29b39c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900057,
+            "locality_id":1243360353,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1243360353,
+    "wof:lastmodified":1537702751,
+    "wof:name":"Kamkiel",
+    "wof:parent_id":1091900057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5221,
+    8.9619,
+    15.5221,
+    8.9619
+],
+  "geometry": {"coordinates":[15.5221,8.9619],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209271893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88333,12.6,21.88333,12.6",
+    "geom:latitude":12.6,
+    "geom:longitude":21.88333,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Kodjan",
+    "gn:country_code":"TD",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243260,
+    "gn:latitude":12.6,
+    "gn:longitude":21.88333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kodjan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243260
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"392657c82da0c9c822b886b8ab1690f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209271893
+        }
+    ],
+    "wof:id":1209271893,
+    "wof:lastmodified":1536292330,
+    "wof:name":"Kodjan",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88333,
+    12.6,
+    21.88333,
+    12.6
+],
+  "geometry": {"coordinates":[21.88333,12.6],"type":"Point"}
+}

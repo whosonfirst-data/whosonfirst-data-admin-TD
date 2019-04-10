@@ -1,0 +1,61 @@
+{
+  "id": 1209307009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37395,14.45846,15.37395,14.45846",
+    "geom:latitude":14.45846,
+    "geom:longitude":15.37395,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tiatala",
+    "gn:country_code":"TD",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424858,
+    "gn:latitude":14.45846,
+    "gn:longitude":15.37395,
+    "gn:modification_date":"2009-02-23",
+    "gn:name":"Tiatala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424858
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1f9b3cb090a49e4090f090bac800fc2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209307009
+        }
+    ],
+    "wof:id":1209307009,
+    "wof:lastmodified":1536291160,
+    "wof:name":"Tiatala",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37395,
+    14.45846,
+    15.37395,
+    14.45846
+],
+  "geometry": {"coordinates":[15.37395,14.45846],"type":"Point"}
+}

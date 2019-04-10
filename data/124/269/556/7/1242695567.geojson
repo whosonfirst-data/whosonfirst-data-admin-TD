@@ -1,0 +1,71 @@
+{
+  "id": 1242695567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.4223,13.7171,19.4223,13.7171",
+    "geom:latitude":13.7171,
+    "geom:longitude":19.4223,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Id el Bir",
+    "gn:country_code":"TD",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431341,
+    "gn:latitude":13.7171,
+    "gn:longitude":19.4223,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Id el Bir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hed el Bir",
+        "Id el Bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431341
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"da4ebf48663b5f63b3eedf6e7aadf60d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1242695567,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1242695567,
+    "wof:lastmodified":1537702754,
+    "wof:name":"Id el Bir",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.4223,
+    13.7171,
+    19.4223,
+    13.7171
+],
+  "geometry": {"coordinates":[19.4223,13.7171],"type":"Point"}
+}

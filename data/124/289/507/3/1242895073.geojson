@@ -1,0 +1,67 @@
+{
+  "id": 1242895073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2319,13.68291,15.2319,13.68291",
+    "geom:latitude":13.68291,
+    "geom:longitude":15.2319,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gori",
+    "gn:country_code":"TD",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431899,
+    "gn:latitude":13.68291,
+    "gn:longitude":15.2319,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Gori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431899
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b328abe09f30c8f8b48f76ff968fbaa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1242895073,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1242895073,
+    "wof:lastmodified":1536603337,
+    "wof:name":"Gori",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2319,
+    13.68291,
+    15.2319,
+    13.68291
+],
+  "geometry": {"coordinates":[15.2319,13.68291],"type":"Point"}
+}

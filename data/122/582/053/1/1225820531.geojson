@@ -1,0 +1,71 @@
+{
+  "id": 1225820531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56696,8.16816,17.56696,8.16816",
+    "geom:latitude":8.16816,
+    "geom:longitude":17.56696,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Santenia II",
+    "gn:country_code":"TD",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425837,
+    "gn:latitude":8.16816,
+    "gn:longitude":17.56696,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sant\u00e9nia II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santania II",
+        "Sant\u00e9nia II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425837
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5b662ae0e796bdb2582796e3197bdd1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1225820531,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1225820531,
+    "wof:lastmodified":1537702701,
+    "wof:name":"Santenia II",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56696,
+    8.16816,
+    17.56696,
+    8.16816
+],
+  "geometry": {"coordinates":[17.56696,8.16816],"type":"Point"}
+}

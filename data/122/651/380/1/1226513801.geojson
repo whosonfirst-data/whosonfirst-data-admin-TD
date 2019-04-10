@@ -1,0 +1,67 @@
+{
+  "id": 1226513801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.27511,8.48167,18.27511,8.48167",
+    "geom:latitude":8.48167,
+    "geom:longitude":18.27511,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ndako",
+    "gn:country_code":"TD",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427168,
+    "gn:latitude":8.48167,
+    "gn:longitude":18.27511,
+    "gn:modification_date":"2008-10-10",
+    "gn:name":"Ndako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091899945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427168
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"15ec626cccbc6859a3b98eb4bb8d017b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899945,
+            "locality_id":1226513801,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1226513801,
+    "wof:lastmodified":1537042439,
+    "wof:name":"Ndako",
+    "wof:parent_id":1091899945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.27511,
+    8.48167,
+    18.27511,
+    8.48167
+],
+  "geometry": {"coordinates":[18.27511,8.48167],"type":"Point"}
+}

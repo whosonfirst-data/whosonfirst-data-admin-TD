@@ -1,0 +1,65 @@
+{
+  "id": 1209218655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4916,13.0114,18.4916,13.0114",
+    "geom:latitude":13.0114,
+    "geom:longitude":18.4916,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Djokhan",
+    "gn:country_code":"TD",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433531,
+    "gn:latitude":13.0114,
+    "gn:longitude":18.4916,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djokhan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djokan",
+        "Djokhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433531
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4ce832784ddb2afe61b7205a61f5ed1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209218655
+        }
+    ],
+    "wof:id":1209218655,
+    "wof:lastmodified":1537702779,
+    "wof:name":"Djokhan",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4916,
+    13.0114,
+    18.4916,
+    13.0114
+],
+  "geometry": {"coordinates":[18.4916,13.0114],"type":"Point"}
+}

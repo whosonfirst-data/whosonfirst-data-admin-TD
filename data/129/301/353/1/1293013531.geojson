@@ -1,0 +1,67 @@
+{
+  "id": 1293013531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.89742,14.79359,20.89742,14.79359",
+    "geom:latitude":14.79359,
+    "geom:longitude":20.89742,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dagaga",
+    "gn:country_code":"TD",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244654,
+    "gn:latitude":14.79359,
+    "gn:longitude":20.89742,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Dagaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244654
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f4aadbeedbb6c20689ba9ca71205492b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901409,
+            "locality_id":1293013531,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1293013531,
+    "wof:lastmodified":1536972828,
+    "wof:name":"Dagaga",
+    "wof:parent_id":1091901409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.89742,
+    14.79359,
+    20.89742,
+    14.79359
+],
+  "geometry": {"coordinates":[20.89742,14.79359],"type":"Point"}
+}

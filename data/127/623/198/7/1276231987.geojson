@@ -1,0 +1,71 @@
+{
+  "id": 1276231987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.993,13.4641,19.993,13.4641",
+    "geom:latitude":13.4641,
+    "geom:longitude":19.993,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wir Wir",
+    "gn:country_code":"TD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426419,
+    "gn:latitude":13.4641,
+    "gn:longitude":19.993,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wir Wir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouir Ouir",
+        "Wir Wir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426419
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"da308655995345fa4b00871dce49606c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1276231987,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1276231987,
+    "wof:lastmodified":1537702706,
+    "wof:name":"Wir Wir",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.993,
+    13.4641,
+    19.993,
+    13.4641
+],
+  "geometry": {"coordinates":[19.993,13.4641],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260374153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7856,9.357,15.7856,9.357",
+    "geom:latitude":9.357,
+    "geom:longitude":15.7856,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Meguene Bagaye",
+    "gn:country_code":"TD",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427993,
+    "gn:latitude":9.357,
+    "gn:longitude":15.7856,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u00e9gu\u00e9n\u00e9 Bagaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9g\u00e9n\u00e9 Bagay",
+        "M\u00e9gu\u00e9n\u00e9 Bagaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427993
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"50557f8a87e623917707d04a48aed789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1260374153,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1260374153,
+    "wof:lastmodified":1537702723,
+    "wof:name":"Meguene Bagaye",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7856,
+    9.357,
+    15.7856,
+    9.357
+],
+  "geometry": {"coordinates":[15.7856,9.357],"type":"Point"}
+}

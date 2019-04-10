@@ -1,0 +1,67 @@
+{
+  "id": 1276758853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3312,13.54655,15.3312,13.54655",
+    "geom:latitude":13.54655,
+    "geom:longitude":15.3312,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ouloul",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426386,
+    "gn:latitude":13.54655,
+    "gn:longitude":15.3312,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Ouloul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426386
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"88d085e4f23cee10fc7815ec58ea3911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1276758853,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1276758853,
+    "wof:lastmodified":1536705943,
+    "wof:name":"Ouloul",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3312,
+    13.54655,
+    15.3312,
+    13.54655
+],
+  "geometry": {"coordinates":[15.3312,13.54655],"type":"Point"}
+}

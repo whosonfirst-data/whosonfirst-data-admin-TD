@@ -1,0 +1,72 @@
+{
+  "id": 1226825111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81314,12.86382,14.81314,12.86382",
+    "geom:latitude":12.86382,
+    "geom:longitude":14.81314,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Gore",
+    "gn:country_code":"TD",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431904,
+    "gn:latitude":12.86382,
+    "gn:longitude":14.81314,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Gore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Gor\u00e9",
+        "Gor\u00e9",
+        "Gore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431904
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"722162c2b704743091f0f3b2c92a7371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1226825111,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1226825111,
+    "wof:lastmodified":1537702761,
+    "wof:name":"Gore",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81314,
+    12.86382,
+    14.81314,
+    12.86382
+],
+  "geometry": {"coordinates":[14.81314,12.86382],"type":"Point"}
+}

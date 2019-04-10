@@ -1,0 +1,67 @@
+{
+  "id": 1193110311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26225,11.56441,15.26225,11.56441",
+    "geom:latitude":11.56441,
+    "geom:longitude":15.26225,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Oualibe",
+    "gn:country_code":"TD",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426525,
+    "gn:latitude":11.56441,
+    "gn:longitude":15.26225,
+    "gn:modification_date":"2008-05-28",
+    "gn:name":"Oualibe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426525
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"182e0bd86b1402b1781ae955346d2370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1193110311,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1193110311,
+    "wof:lastmodified":1536374009,
+    "wof:name":"Oualibe",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26225,
+    11.56441,
+    15.26225,
+    11.56441
+],
+  "geometry": {"coordinates":[15.26225,11.56441],"type":"Point"}
+}

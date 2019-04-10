@@ -1,0 +1,70 @@
+{
+  "id": 1209810925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.19914,8.68126,16.19914,8.68126",
+    "geom:latitude":8.68126,
+    "geom:longitude":16.19914,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tilo I",
+    "gn:country_code":"TD",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424799,
+    "gn:latitude":8.68126,
+    "gn:longitude":16.19914,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tilo I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tilo I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424799
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"583bc2e464612327b97cae01fb349cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1209810925,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1209810925,
+    "wof:lastmodified":1537702693,
+    "wof:name":"Tilo I",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.19914,
+    8.68126,
+    16.19914,
+    8.68126
+],
+  "geometry": {"coordinates":[16.19914,8.68126],"type":"Point"}
+}

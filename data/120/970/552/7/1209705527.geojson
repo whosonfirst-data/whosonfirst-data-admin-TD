@@ -1,0 +1,67 @@
+{
+  "id": 1209705527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11667,7.8,16.11667,7.8",
+    "geom:latitude":7.8,
+    "geom:longitude":16.11667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bimban-Guer",
+    "gn:country_code":"TD",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435246,
+    "gn:latitude":7.8,
+    "gn:longitude":16.11667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Bimban-Guer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435246
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8e09969f4c3a236e0e6387a7e2b3f297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1209705527,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1209705527,
+    "wof:lastmodified":1536393033,
+    "wof:name":"Bimban-Guer",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11667000000001,
+    7.8,
+    16.11667000000001,
+    7.8
+],
+  "geometry": {"coordinates":[16.11667000000001,7.8],"type":"Point"}
+}

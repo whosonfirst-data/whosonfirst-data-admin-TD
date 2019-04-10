@@ -1,0 +1,71 @@
+{
+  "id": 1226746743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.692,11.504,18.692,11.504",
+    "geom:latitude":11.504,
+    "geom:longitude":18.692,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Benabo",
+    "gn:country_code":"TD",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435570,
+    "gn:latitude":11.504,
+    "gn:longitude":18.692,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9nabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minabo",
+        "B\u00e9nabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435570
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4999dbb7218a33197d34302617c70246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900821,
+            "locality_id":1226746743,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1226746743,
+    "wof:lastmodified":1537702801,
+    "wof:name":"Benabo",
+    "wof:parent_id":1091900821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.692,
+    11.504,
+    18.692,
+    11.504
+],
+  "geometry": {"coordinates":[18.692,11.504],"type":"Point"}
+}

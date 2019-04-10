@@ -1,0 +1,71 @@
+{
+  "id": 1226733365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72733,9.30331,15.72733,9.30331",
+    "geom:latitude":9.30331,
+    "geom:longitude":15.72733,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Beisoua",
+    "gn:country_code":"TD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435368,
+    "gn:latitude":9.30331,
+    "gn:longitude":15.72733,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u00efsoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beyssoa",
+        "Be\u00efsoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435368
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"10d2b1b8044aeda814ac3d16f8a630d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1226733365,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1226733365,
+    "wof:lastmodified":1537702797,
+    "wof:name":"Beisoua",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72733,
+    9.30331,
+    15.72733,
+    9.30331
+],
+  "geometry": {"coordinates":[15.72733,9.30331],"type":"Point"}
+}

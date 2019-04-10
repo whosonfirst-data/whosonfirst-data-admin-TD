@@ -1,0 +1,73 @@
+{
+  "id": 1276861055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46806,8.13982,16.46806,8.13982",
+    "geom:latitude":8.13982,
+    "geom:longitude":16.46806,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Iri",
+    "gn:country_code":"TD",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424143,
+    "gn:latitude":8.13982,
+    "gn:longitude":16.46806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Iri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Yri"
+    ],
+    "name:und_x_variant":[
+        "Yri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424143
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9f13e54555defc3f2f9aecc8fb5b5a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899861,
+            "locality_id":1276861055,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1276861055,
+    "wof:lastmodified":1537702690,
+    "wof:name":"Iri",
+    "wof:parent_id":1091899861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46806,
+    8.13982,
+    16.46806,
+    8.13982
+],
+  "geometry": {"coordinates":[16.46806,8.13982],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260036341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64141,13.85797,15.64141,13.85797",
+    "geom:latitude":13.85797,
+    "geom:longitude":15.64141,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mougouroum",
+    "gn:country_code":"TD",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427507,
+    "gn:latitude":13.85797,
+    "gn:longitude":15.64141,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Mougouroum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427507
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"00ba3361e23b243f67efc9b47170155e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901247,
+            "locality_id":1260036341,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1260036341,
+    "wof:lastmodified":1537053743,
+    "wof:name":"Mougouroum",
+    "wof:parent_id":1091901247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64141,
+    13.85797,
+    15.64141,
+    13.85797
+],
+  "geometry": {"coordinates":[15.64141,13.85797],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260272793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6857,8.0695,15.6857,8.0695",
+    "geom:latitude":8.0695,
+    "geom:longitude":15.6857,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Godalia",
+    "gn:country_code":"TD",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859983,
+    "gn:latitude":8.0695,
+    "gn:longitude":15.6857,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Godalia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859983
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9018ec36042e3d42abfef19eac9b83f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1260272793,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1260272793,
+    "wof:lastmodified":1536726639,
+    "wof:name":"Godalia",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6857,
+    8.0695,
+    15.6857,
+    8.0695
+],
+  "geometry": {"coordinates":[15.6857,8.0695],"type":"Point"}
+}

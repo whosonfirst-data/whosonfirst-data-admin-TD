@@ -1,0 +1,67 @@
+{
+  "id": 1310677243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.998,11.6674,20.998,11.6674",
+    "geom:latitude":11.6674,
+    "geom:longitude":20.998,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kourdjoukol",
+    "gn:country_code":"TD",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243044,
+    "gn:latitude":11.6674,
+    "gn:longitude":20.998,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Kourdjoukol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243044
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a540bedb21aa5433ae5abf9c7a1d6f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1310677243,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1310677243,
+    "wof:lastmodified":1536669202,
+    "wof:name":"Kourdjoukol",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.998,
+    11.6674,
+    20.998,
+    11.6674
+],
+  "geometry": {"coordinates":[20.998,11.6674],"type":"Point"}
+}

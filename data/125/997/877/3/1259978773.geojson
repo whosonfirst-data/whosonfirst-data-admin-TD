@@ -1,0 +1,67 @@
+{
+  "id": 1259978773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.4156,12.5582,19.4156,12.5582",
+    "geom:latitude":12.5582,
+    "geom:longitude":19.4156,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mahadjirie",
+    "gn:country_code":"TD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428802,
+    "gn:latitude":12.5582,
+    "gn:longitude":19.4156,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"Mahadjiri\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428802
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5d2903e0c9aaa0110e1ea508645ed3e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900939,
+            "locality_id":1259978773,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1259978773,
+    "wof:lastmodified":1536641089,
+    "wof:name":"Mahadjirie",
+    "wof:parent_id":1091900939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.4156,
+    12.5582,
+    19.4156,
+    12.5582
+],
+  "geometry": {"coordinates":[19.4156,12.5582],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309878177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43251,9.88821,15.43251,9.88821",
+    "geom:latitude":9.88821,
+    "geom:longitude":15.43251,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Daykapra",
+    "gn:country_code":"TD",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434110,
+    "gn:latitude":9.88821,
+    "gn:longitude":15.43251,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Daykapra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434110
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a3d18a677b1e60bdae6a9b2b089f443d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900357,
+            "locality_id":1309878177,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1309878177,
+    "wof:lastmodified":1536825974,
+    "wof:name":"Daykapra",
+    "wof:parent_id":1091900357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43251,
+    9.88821,
+    15.43251,
+    9.88821
+],
+  "geometry": {"coordinates":[15.43251,9.88821],"type":"Point"}
+}

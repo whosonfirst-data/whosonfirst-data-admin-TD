@@ -1,0 +1,71 @@
+{
+  "id": 1310576299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3882,9.2326,17.3882,9.2326",
+    "geom:latitude":9.2326,
+    "geom:longitude":17.3882,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Golili",
+    "gn:country_code":"TD",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431994,
+    "gn:latitude":9.2326,
+    "gn:longitude":17.3882,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Golili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goli",
+        "Golili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431994
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"509419150b65d04202997abd090ba093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900193,
+            "locality_id":1310576299,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1310576299,
+    "wof:lastmodified":1537702762,
+    "wof:name":"Golili",
+    "wof:parent_id":1091900193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3882,
+    9.2326,
+    17.3882,
+    9.2326
+],
+  "geometry": {"coordinates":[17.3882,9.2326],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209606827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30109,13.60848,15.30109,13.60848",
+    "geom:latitude":13.60848,
+    "geom:longitude":15.30109,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Fitra",
+    "gn:country_code":"TD",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432603,
+    "gn:latitude":13.60848,
+    "gn:longitude":15.30109,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Fitra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432603
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b471496fcf08f9d1ba74d8755cfd57b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209606827
+        }
+    ],
+    "wof:id":1209606827,
+    "wof:lastmodified":1536281984,
+    "wof:name":"Fitra",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30109,
+    13.608479999999998,
+    15.30109,
+    13.608479999999998
+],
+  "geometry": {"coordinates":[15.30109,13.60848],"type":"Point"}
+}

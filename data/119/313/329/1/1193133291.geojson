@@ -1,0 +1,73 @@
+{
+  "id": 1193133291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26667,8.01667,16.26667,8.01667",
+    "geom:latitude":8.01667,
+    "geom:longitude":16.26667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Betabar",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435409,
+    "gn:latitude":8.01667,
+    "gn:longitude":16.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9tabar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Betabara",
+        "B\u00e9tab",
+        "B\u00e9tabar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435409
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b1b083b6820a33edaa76b45f880c2340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1193133291,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1193133291,
+    "wof:lastmodified":1537702798,
+    "wof:name":"Betabar",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26667,
+    8.01667,
+    16.26667,
+    8.01667
+],
+  "geometry": {"coordinates":[16.26667,8.01667],"type":"Point"}
+}

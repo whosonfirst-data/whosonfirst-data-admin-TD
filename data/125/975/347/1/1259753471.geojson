@@ -1,0 +1,67 @@
+{
+  "id": 1259753471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2238,10.9841,16.2238,10.9841",
+    "geom:latitude":10.9841,
+    "geom:longitude":16.2238,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Alounde",
+    "gn:country_code":"TD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437108,
+    "gn:latitude":10.9841,
+    "gn:longitude":16.2238,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Alound\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437108
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"78a5f83b1789dc4f1db09831ad1d3e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1259753471,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1259753471,
+    "wof:lastmodified":1536966222,
+    "wof:name":"Alounde",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2238,
+    10.9841,
+    16.2238,
+    10.9841
+],
+  "geometry": {"coordinates":[16.2238,10.9841],"type":"Point"}
+}

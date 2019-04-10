@@ -1,0 +1,71 @@
+{
+  "id": 1327021469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19564,13.53888,15.19564,13.53888",
+    "geom:latitude":13.53888,
+    "geom:longitude":15.19564,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Laouro",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431362,
+    "gn:latitude":13.53888,
+    "gn:longitude":15.19564,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Laouro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iaouro",
+        "Laouro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431362
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"add7a0abe78c7a749863805fecba5d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1327021469,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1327021469,
+    "wof:lastmodified":1537702754,
+    "wof:name":"Laouro",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19564,
+    13.53888,
+    15.19564,
+    13.53888
+],
+  "geometry": {"coordinates":[15.19564,13.53888],"type":"Point"}
+}

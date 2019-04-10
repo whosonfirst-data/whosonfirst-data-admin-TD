@@ -1,0 +1,71 @@
+{
+  "id": 1309968509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96686,8.3407,17.96686,8.3407",
+    "geom:latitude":8.3407,
+    "geom:longitude":17.96686,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sateme",
+    "gn:country_code":"TD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425852,
+    "gn:latitude":8.3407,
+    "gn:longitude":17.96686,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sat\u00e9m\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sand\u00e9n\u00e9",
+        "Sat\u00e9m\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425852
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ee63bea0d23fe555a27fee15763d13d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1309968509,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1309968509,
+    "wof:lastmodified":1537702701,
+    "wof:name":"Sateme",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96686,
+    8.3407,
+    17.96686,
+    8.3407
+],
+  "geometry": {"coordinates":[17.96686,8.3407],"type":"Point"}
+}

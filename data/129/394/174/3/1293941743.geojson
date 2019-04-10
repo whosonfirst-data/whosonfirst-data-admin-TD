@@ -1,0 +1,67 @@
+{
+  "id": 1293941743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26929,15.68333,18.26929,15.68333",
+    "geom:latitude":15.68333,
+    "geom:longitude":18.26929,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kouba Modounga",
+    "gn:country_code":"TD",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429857,
+    "gn:latitude":15.68333,
+    "gn:longitude":18.26929,
+    "gn:modification_date":"2009-05-13",
+    "gn:name":"Kouba Modounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678501,
+        1091901607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429857
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f346f7352ece7e2daac2d01a8f3f2251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901607,
+            "locality_id":1293941743,
+            "region_id":85678501
+        }
+    ],
+    "wof:id":1293941743,
+    "wof:lastmodified":1536627788,
+    "wof:name":"Kouba Modounga",
+    "wof:parent_id":1091901607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26929,
+    15.68333,
+    18.26929,
+    15.68333
+],
+  "geometry": {"coordinates":[18.26929,15.68333],"type":"Point"}
+}

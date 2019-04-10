@@ -1,0 +1,67 @@
+{
+  "id": 1293671377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31416,11.06657,15.31416,11.06657",
+    "geom:latitude":11.06657,
+    "geom:longitude":15.31416,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mademar",
+    "gn:country_code":"TD",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428913,
+    "gn:latitude":11.06657,
+    "gn:longitude":15.31416,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Mademar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428913
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"35804419628ccce2d9950477ae3a1f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1293671377,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1293671377,
+    "wof:lastmodified":1537018426,
+    "wof:name":"Mademar",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31416,
+    11.06657,
+    15.31416,
+    11.06657
+],
+  "geometry": {"coordinates":[15.31416,11.06657],"type":"Point"}
+}

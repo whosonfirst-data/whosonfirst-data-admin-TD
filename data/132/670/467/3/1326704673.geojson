@@ -1,0 +1,67 @@
+{
+  "id": 1326704673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6856,9.1787,14.6856,9.1787",
+    "geom:latitude":9.1787,
+    "geom:longitude":14.6856,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ouagoue",
+    "gn:country_code":"TD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426555,
+    "gn:latitude":9.1787,
+    "gn:longitude":14.6856,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Ouagou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426555
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d9effc16fd9d31caf3d06003532f4935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1326704673,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1326704673,
+    "wof:lastmodified":1536735622,
+    "wof:name":"Ouagoue",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6856,
+    9.1787,
+    14.6856,
+    9.1787
+],
+  "geometry": {"coordinates":[14.6856,9.1787],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276535681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.84069,13.56156,20.84069,13.56156",
+    "geom:latitude":13.56156,
+    "geom:longitude":20.84069,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Marchout",
+    "gn:country_code":"TD",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242782,
+    "gn:latitude":13.56156,
+    "gn:longitude":20.84069,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Marchout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marchoud",
+        "Marchout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242782
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8d0c6fbb8982fe2215ccfa76ab823cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1276535681,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1276535681,
+    "wof:lastmodified":1537702657,
+    "wof:name":"Marchout",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.84069,
+    13.56156,
+    20.84069,
+    13.56156
+],
+  "geometry": {"coordinates":[20.84069,13.56156],"type":"Point"}
+}

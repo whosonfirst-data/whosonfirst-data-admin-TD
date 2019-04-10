@@ -1,0 +1,71 @@
+{
+  "id": 1242762177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67511,7.81331,16.67511,7.81331",
+    "geom:latitude":7.81331,
+    "geom:longitude":16.67511,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kobo",
+    "gn:country_code":"TD",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435673,
+    "gn:latitude":7.81331,
+    "gn:longitude":16.67511,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9kobo",
+        "Kobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435673
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8745f254408fc479e2c097f1acf80b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899861,
+            "locality_id":1242762177,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1242762177,
+    "wof:lastmodified":1537702803,
+    "wof:name":"Kobo",
+    "wof:parent_id":1091899861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67511,
+    7.81331,
+    16.67511,
+    7.81331
+],
+  "geometry": {"coordinates":[16.67511,7.81331],"type":"Point"}
+}

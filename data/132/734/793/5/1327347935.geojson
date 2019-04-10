@@ -1,0 +1,70 @@
+{
+  "id": 1327347935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.12064,13.81465,20.12064,13.81465",
+    "geom:latitude":13.81465,
+    "geom:longitude":20.12064,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Manouachi",
+    "gn:country_code":"TD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242798,
+    "gn:latitude":13.81465,
+    "gn:longitude":20.12064,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Manouachi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manouachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242798
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"304755457b6728b99c664f85d02fbd63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1327347935,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1327347935,
+    "wof:lastmodified":1537702658,
+    "wof:name":"Manouachi",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.12064,
+    13.81465,
+    20.12064,
+    13.81465
+],
+  "geometry": {"coordinates":[20.12064,13.81465],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209115693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.20834,12.64018,17.20834,12.64018",
+    "geom:latitude":12.64018,
+    "geom:longitude":17.20834,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Danranga",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434200,
+    "gn:latitude":12.64018,
+    "gn:longitude":17.20834,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Danranga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434200
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9c3f1ead55e7fac60056f7fd8fd1623f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209115693
+        }
+    ],
+    "wof:id":1209115693,
+    "wof:lastmodified":1536297261,
+    "wof:name":"Danranga",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.20834,
+    12.64018,
+    17.20834,
+    12.64018
+],
+  "geometry": {"coordinates":[17.20834,12.64018],"type":"Point"}
+}

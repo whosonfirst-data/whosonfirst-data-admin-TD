@@ -1,0 +1,67 @@
+{
+  "id": 1242651209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4306,9.2211,16.4306,9.2211",
+    "geom:latitude":9.2211,
+    "geom:longitude":16.4306,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Lobo",
+    "gn:country_code":"TD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429080,
+    "gn:latitude":9.2211,
+    "gn:longitude":16.4306,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Lobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429080
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"58740670599ad5c663fb79da44992b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1242651209,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1242651209,
+    "wof:lastmodified":1536957875,
+    "wof:name":"Lobo",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4306,
+    9.2211,
+    16.4306,
+    9.2211
+],
+  "geometry": {"coordinates":[16.4306,9.2211],"type":"Point"}
+}

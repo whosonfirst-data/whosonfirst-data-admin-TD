@@ -1,0 +1,65 @@
+{
+  "id": 1209128775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.27739,12.16899,19.27739,12.16899",
+    "geom:latitude":12.16899,
+    "geom:longitude":19.27739,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Oumerane",
+    "gn:country_code":"TD",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426372,
+    "gn:latitude":12.16899,
+    "gn:longitude":19.27739,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oum\u00e9ran\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ard\u00e9b\u00e9",
+        "Oum\u00e9ran\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426372
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cbcbcf533685c62eced02a7578a77c17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209128775
+        }
+    ],
+    "wof:id":1209128775,
+    "wof:lastmodified":1537702706,
+    "wof:name":"Oumerane",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.27739,
+    12.16899,
+    19.27739,
+    12.16899
+],
+  "geometry": {"coordinates":[19.27739,12.16899],"type":"Point"}
+}

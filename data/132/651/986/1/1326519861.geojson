@@ -1,0 +1,67 @@
+{
+  "id": 1326519861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.12555,8.40231,17.12555,8.40231",
+    "geom:latitude":8.40231,
+    "geom:longitude":17.12555,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bedio",
+    "gn:country_code":"TD",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435780,
+    "gn:latitude":8.40231,
+    "gn:longitude":17.12555,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"B\u00e9dio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435780
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fe0d6815fffe2d38333f7c02915d17d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899891,
+            "locality_id":1326519861,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1326519861,
+    "wof:lastmodified":1537001147,
+    "wof:name":"Bedio",
+    "wof:parent_id":1091899891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.12555,
+    8.40231,
+    17.12555,
+    8.40231
+],
+  "geometry": {"coordinates":[17.12555,8.40231],"type":"Point"}
+}

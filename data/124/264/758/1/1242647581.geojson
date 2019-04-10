@@ -1,0 +1,67 @@
+{
+  "id": 1242647581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13333,11.5,15.13333,11.5",
+    "geom:latitude":11.5,
+    "geom:longitude":15.13333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Voulmous",
+    "gn:country_code":"TD",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424424,
+    "gn:latitude":11.5,
+    "gn:longitude":15.13333,
+    "gn:modification_date":"2008-05-28",
+    "gn:name":"Voulmous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424424
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c5aea33e199e6d23511368fcdda767cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1242647581,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1242647581,
+    "wof:lastmodified":1536963005,
+    "wof:name":"Voulmous",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13333,
+    11.5,
+    15.13333,
+    11.5
+],
+  "geometry": {"coordinates":[15.13333,11.5],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344049691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13242,14.20323,15.13242,14.20323",
+    "geom:latitude":14.20323,
+    "geom:longitude":15.13242,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tildia",
+    "gn:country_code":"TD",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424806,
+    "gn:latitude":14.20323,
+    "gn:longitude":15.13242,
+    "gn:modification_date":"2009-02-23",
+    "gn:name":"Tildia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424806
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b7ee9ec8d8f1cde94cc6ddd637db9fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1344049691,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1344049691,
+    "wof:lastmodified":1536890835,
+    "wof:name":"Tildia",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13242,
+    14.20323,
+    15.13242,
+    14.20323
+],
+  "geometry": {"coordinates":[15.13242,14.20323],"type":"Point"}
+}

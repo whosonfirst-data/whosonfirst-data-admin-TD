@@ -1,0 +1,67 @@
+{
+  "id": 1210007315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2236,9.0215,16.2236,9.0215",
+    "geom:latitude":9.0215,
+    "geom:longitude":16.2236,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Koutoumbagueu",
+    "gn:country_code":"TD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429410,
+    "gn:latitude":9.0215,
+    "gn:longitude":16.2236,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Koutoumbagueu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429410
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d46f12e2d1745c16ce473f1c92927301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1210007315,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1210007315,
+    "wof:lastmodified":1536372284,
+    "wof:name":"Koutoumbagueu",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2236,
+    9.0215,
+    16.2236,
+    9.0215
+],
+  "geometry": {"coordinates":[16.2236,9.0215],"type":"Point"}
+}

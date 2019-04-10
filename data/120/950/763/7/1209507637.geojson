@@ -1,0 +1,61 @@
+{
+  "id": 1209507637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18898,14.30353,15.18898,14.30353",
+    "geom:latitude":14.30353,
+    "geom:longitude":15.18898,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tiarom",
+    "gn:country_code":"TD",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424859,
+    "gn:latitude":14.30353,
+    "gn:longitude":15.18898,
+    "gn:modification_date":"2009-02-23",
+    "gn:name":"Tiarom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424859
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e4c4b2ae325c8fc0bbd0ff700eca80ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209507637
+        }
+    ],
+    "wof:id":1209507637,
+    "wof:lastmodified":1536284983,
+    "wof:name":"Tiarom",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18898,
+    14.30353,
+    15.18898,
+    14.30353
+],
+  "geometry": {"coordinates":[15.18898,14.30353],"type":"Point"}
+}

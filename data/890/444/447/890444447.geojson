@@ -1,0 +1,95 @@
+{
+  "id": 890444447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.566,8.6761,16.566,8.6761",
+    "geom:latitude":8.6761,
+    "geom:longitude":16.566,
+    "gn:country":"TD",
+    "gn:fcode":"PPL",
+    "gn:pop":12671,
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "B\u00e9b\u00e9djia"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00e9b\u00e9djia"
+    ],
+    "name:fra_x_preferred":[
+        "Bebiya"
+    ],
+    "name:fra_x_variant":[
+        "Bebeidjia",
+        "Bebeidja"
+    ],
+    "name:fre_x_preferred":[
+        "B\u00e9b\u00e9djia"
+    ],
+    "name:pol_x_preferred":[
+        "B\u00e9bidjia"
+    ],
+    "name:rum_x_preferred":[
+        "B\u00e9bidjia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0431\u0435\u0434\u0436\u0438\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Bebiya"
+    ],
+    "qs:name":"B\u00e9b\u00e9dja",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435854,
+        "gp:id":1272036,
+        "qs:id":1035766,
+        "wd:id":"Q289802"
+    },
+    "wof:country":"TD",
+    "wof:created":1469052469,
+    "wof:geomhash":"39231b8e6ed93e218f95a7d0947e3a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900073,
+            "locality_id":890444447,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":890444447,
+    "wof:lastmodified":1514505936,
+    "wof:name":"B\u00e9b\u00e9dja",
+    "wof:parent_id":1091900073,
+    "wof:placetype":"locality",
+    "wof:population":12671,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.566,
+    8.6761,
+    16.566,
+    8.6761
+],
+  "geometry": {"coordinates":[16.566,8.6761],"type":"Point"}
+}

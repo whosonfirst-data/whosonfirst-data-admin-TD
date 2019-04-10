@@ -1,0 +1,67 @@
+{
+  "id": 1326893735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0929,11.6754,17.0929,11.6754",
+    "geom:latitude":11.6754,
+    "geom:longitude":17.0929,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Amsamka",
+    "gn:country_code":"TD",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436799,
+    "gn:latitude":11.6754,
+    "gn:longitude":17.0929,
+    "gn:modification_date":"2008-10-16",
+    "gn:name":"Amsamka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436799
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d43c12b3f9fa8a0a8a10e954b31ecbed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1326893735,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1326893735,
+    "wof:lastmodified":1536960283,
+    "wof:name":"Amsamka",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.0929,
+    11.6754,
+    17.0929,
+    11.6754
+],
+  "geometry": {"coordinates":[17.0929,11.6754],"type":"Point"}
+}

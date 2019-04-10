@@ -1,0 +1,67 @@
+{
+  "id": 1209891263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.40375,8.30901,17.40375,8.30901",
+    "geom:latitude":8.30901,
+    "geom:longitude":17.40375,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bendi",
+    "gn:country_code":"TD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435560,
+    "gn:latitude":8.30901,
+    "gn:longitude":17.40375,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Bendi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435560
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e92e29e2b18cf3efbed7fd2585a892b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1209891263,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1209891263,
+    "wof:lastmodified":1536390633,
+    "wof:name":"Bendi",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.40375,
+    8.30901,
+    17.40375,
+    8.30901
+],
+  "geometry": {"coordinates":[17.40375,8.30901],"type":"Point"}
+}

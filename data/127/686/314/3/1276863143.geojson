@@ -1,0 +1,67 @@
+{
+  "id": 1276863143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33225,13.60745,15.33225,13.60745",
+    "geom:latitude":13.60745,
+    "geom:longitude":15.33225,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Made",
+    "gn:country_code":"TD",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6986340,
+    "gn:latitude":13.60745,
+    "gn:longitude":15.33225,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Mad\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986340
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"32a0f1bdab25b9041015ba1e72b86b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1276863143,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1276863143,
+    "wof:lastmodified":1537060890,
+    "wof:name":"Made",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33225,
+    13.60745,
+    15.33225,
+    13.60745
+],
+  "geometry": {"coordinates":[15.33225,13.60745],"type":"Point"}
+}

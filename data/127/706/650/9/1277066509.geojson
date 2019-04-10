@@ -1,0 +1,71 @@
+{
+  "id": 1277066509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44208,8.21164,15.44208,8.21164",
+    "geom:latitude":8.21164,
+    "geom:longitude":15.44208,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Borbouay",
+    "gn:country_code":"TD",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434886,
+    "gn:latitude":8.21164,
+    "gn:longitude":15.44208,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Borbouay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borbway",
+        "Borbouay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434886
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1bd0f9ea8c9cf902d8510c7314d2b00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1277066509,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1277066509,
+    "wof:lastmodified":1537702791,
+    "wof:name":"Borbouay",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44208,
+    8.21164,
+    15.44208,
+    8.21164
+],
+  "geometry": {"coordinates":[15.44208,8.21164],"type":"Point"}
+}

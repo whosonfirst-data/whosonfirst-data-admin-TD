@@ -1,0 +1,92 @@
+{
+  "id": 421167695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93898,8.26682,16.93898,8.26682",
+    "geom:latitude":8.26682,
+    "geom:longitude":16.93898,
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "B\u00e9boto"
+    ],
+    "name:fra_x_preferred":[
+        "B\u00e9boto"
+    ],
+    "name:fre_x_preferred":[
+        "B\u00e9boto"
+    ],
+    "name:pol_x_preferred":[
+        "B\u00e9boto"
+    ],
+    "qs:gn_country":"TD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2435837,
+    "qs:gn_pop":5432,
+    "qs:name":"B\u00e9boto",
+    "qs:name_adm0":"Tchad",
+    "qs:name_adm1":"Logone Oriental",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":140056,
+    "qs:woe_adm0":23424777,
+    "qs:woe_id":1272048,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435837,
+        "gp:id":1272048,
+        "qs:id":140056,
+        "wd:id":"Q2929543"
+    },
+    "wof:country":"TD",
+    "wof:created":1459008740,
+    "wof:geomhash":"ebe2b88d65fe663c5334a8021da6c944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899821,
+            "locality_id":421167695,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":421167695,
+    "wof:lastmodified":1514505936,
+    "wof:name":"B\u00e9boto",
+    "wof:parent_id":1091899821,
+    "wof:placetype":"locality",
+    "wof:population":5432,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93898,
+    8.26682,
+    16.93898,
+    8.26682
+],
+  "geometry": {"coordinates":[16.93898,8.26682],"type":"Point"}
+}

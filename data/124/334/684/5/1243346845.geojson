@@ -1,0 +1,71 @@
+{
+  "id": 1243346845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7573,9.4018,16.7573,9.4018",
+    "geom:latitude":9.4018,
+    "geom:longitude":16.7573,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Batoubo",
+    "gn:country_code":"TD",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435893,
+    "gn:latitude":9.4018,
+    "gn:longitude":16.7573,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Batoubo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batouba",
+        "Batoubo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435893
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cc746978ac12dd7b8a5f5b1ada527471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1243346845,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1243346845,
+    "wof:lastmodified":1537702807,
+    "wof:name":"Batoubo",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7573,
+    9.4018,
+    16.7573,
+    9.4018
+],
+  "geometry": {"coordinates":[16.7573,9.4018],"type":"Point"}
+}

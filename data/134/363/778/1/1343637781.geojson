@@ -1,0 +1,70 @@
+{
+  "id": 1343637781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90097,9.98274,20.90097,9.98274",
+    "geom:latitude":9.98274,
+    "geom:longitude":20.90097,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Agouare",
+    "gn:country_code":"TD",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245642,
+    "gn:latitude":9.98274,
+    "gn:longitude":20.90097,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Agouar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Agouar\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245642
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0a56c16164c14cb04c1fc85843e95fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900659,
+            "locality_id":1343637781,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1343637781,
+    "wof:lastmodified":1537702686,
+    "wof:name":"Agouare",
+    "wof:parent_id":1091900659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90097,
+    9.98274,
+    20.90097,
+    9.98274
+],
+  "geometry": {"coordinates":[20.90097,9.98274],"type":"Point"}
+}

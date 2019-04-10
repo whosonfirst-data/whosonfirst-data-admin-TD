@@ -1,0 +1,71 @@
+{
+  "id": 1226015661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5192,9.1512,16.5192,9.1512",
+    "geom:latitude":9.1512,
+    "geom:longitude":16.5192,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kariadou Baldoumgar",
+    "gn:country_code":"TD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436122,
+    "gn:latitude":9.1512,
+    "gn:longitude":16.5192,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kariadou Baldoumgar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baldoumgar",
+        "Kariadou Baldoumgar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436122
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"75a8dea472dd97a7099d6e90d384519a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1226015661,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1226015661,
+    "wof:lastmodified":1537702810,
+    "wof:name":"Kariadou Baldoumgar",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5192,
+    9.1512,
+    16.5192,
+    9.1512
+],
+  "geometry": {"coordinates":[16.5192,9.1512],"type":"Point"}
+}

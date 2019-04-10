@@ -1,0 +1,67 @@
+{
+  "id": 1343849905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60737,13.59635,15.60737,13.59635",
+    "geom:latitude":13.59635,
+    "geom:longitude":15.60737,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Asay Yooura",
+    "gn:country_code":"TD",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436451,
+    "gn:latitude":13.59635,
+    "gn:longitude":15.60737,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Asay Yooura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436451
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0b15cb990a0f9b86b04261c4ae67d0dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1343849905,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1343849905,
+    "wof:lastmodified":1536681818,
+    "wof:name":"Asay Yooura",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60737,
+    13.59635,
+    15.60737,
+    13.59635
+],
+  "geometry": {"coordinates":[15.60737,13.59635],"type":"Point"}
+}

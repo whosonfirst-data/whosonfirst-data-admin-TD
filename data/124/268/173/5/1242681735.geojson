@@ -1,0 +1,67 @@
+{
+  "id": 1242681735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.93163,12.83291,17.93163,12.83291",
+    "geom:latitude":12.83291,
+    "geom:longitude":17.93163,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Banabodour",
+    "gn:country_code":"TD",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436080,
+    "gn:latitude":12.83291,
+    "gn:longitude":17.93163,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Banabodour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436080
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"de1f7df713335eb4d945db0c958db4fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1242681735,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1242681735,
+    "wof:lastmodified":1536914221,
+    "wof:name":"Banabodour",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93163,
+    12.83291,
+    17.93163,
+    12.83291
+],
+  "geometry": {"coordinates":[17.93163,12.83291],"type":"Point"}
+}

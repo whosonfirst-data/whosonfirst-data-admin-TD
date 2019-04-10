@@ -1,0 +1,61 @@
+{
+  "id": 1209396975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56319,10.4217,15.56319,10.4217",
+    "geom:latitude":10.4217,
+    "geom:longitude":15.56319,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tchikali",
+    "gn:country_code":"TD",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425113,
+    "gn:latitude":10.4217,
+    "gn:longitude":15.56319,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Tchikali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425113
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e1bf7a4e549585ed17e837d04525ec64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209396975
+        }
+    ],
+    "wof:id":1209396975,
+    "wof:lastmodified":1536288268,
+    "wof:name":"Tchikali",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56319,
+    10.4217,
+    15.56319,
+    10.4217
+],
+  "geometry": {"coordinates":[15.56319,10.4217],"type":"Point"}
+}

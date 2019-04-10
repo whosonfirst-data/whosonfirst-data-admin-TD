@@ -1,0 +1,67 @@
+{
+  "id": 1327465795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.51144,11.75343,18.51144,11.75343",
+    "geom:latitude":11.75343,
+    "geom:longitude":18.51144,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gantoura",
+    "gn:country_code":"TD",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432291,
+    "gn:latitude":11.75343,
+    "gn:longitude":18.51144,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Gantoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432291
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3a276986b72bda1ddddb01c686bf6f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900821,
+            "locality_id":1327465795,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1327465795,
+    "wof:lastmodified":1536631078,
+    "wof:name":"Gantoura",
+    "wof:parent_id":1091900821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51144,
+    11.75343,
+    18.51144,
+    11.75343
+],
+  "geometry": {"coordinates":[18.51144,11.75343],"type":"Point"}
+}

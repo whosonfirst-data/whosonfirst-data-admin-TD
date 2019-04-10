@@ -1,0 +1,67 @@
+{
+  "id": 1309703851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06676,13.3979,15.06676,13.3979",
+    "geom:latitude":13.3979,
+    "geom:longitude":15.06676,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kirirom",
+    "gn:country_code":"TD",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6986378,
+    "gn:latitude":13.3979,
+    "gn:longitude":15.06676,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Kirirom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986378
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"69b102f912a568db6d3834d2ebaab5ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1309703851,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1309703851,
+    "wof:lastmodified":1537075087,
+    "wof:name":"Kirirom",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06676,
+    13.3979,
+    15.06676,
+    13.3979
+],
+  "geometry": {"coordinates":[15.06676,13.3979],"type":"Point"}
+}

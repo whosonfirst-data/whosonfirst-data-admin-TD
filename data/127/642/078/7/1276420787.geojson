@@ -1,0 +1,70 @@
+{
+  "id": 1276420787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56945,13.71806,20.56945,13.71806",
+    "geom:latitude":13.71806,
+    "geom:longitude":20.56945,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tchigchika",
+    "gn:country_code":"TD",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241745,
+    "gn:latitude":13.71806,
+    "gn:longitude":20.56945,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Tchigchika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tchigchika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241745
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"35d5bfb26ecad95b3ac6f6d875a80153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1276420787,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1276420787,
+    "wof:lastmodified":1537702649,
+    "wof:name":"Tchigchika",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56945,
+    13.71806,
+    20.56945,
+    13.71806
+],
+  "geometry": {"coordinates":[20.56945,13.71806],"type":"Point"}
+}

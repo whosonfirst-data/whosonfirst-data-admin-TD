@@ -1,0 +1,61 @@
+{
+  "id": 1209502055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73234,13.97892,21.73234,13.97892",
+    "geom:latitude":13.97892,
+    "geom:longitude":21.73234,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Roura",
+    "gn:country_code":"TD",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242084,
+    "gn:latitude":13.97892,
+    "gn:longitude":21.73234,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Roura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242084
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bcc5b404355edde7b2b16a48bc2237c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209502055
+        }
+    ],
+    "wof:id":1209502055,
+    "wof:lastmodified":1536285151,
+    "wof:name":"Roura",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73234,
+    13.97892,
+    21.73234,
+    13.97892
+],
+  "geometry": {"coordinates":[21.73234,13.97892],"type":"Point"}
+}

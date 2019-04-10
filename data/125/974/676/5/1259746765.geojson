@@ -1,0 +1,67 @@
+{
+  "id": 1259746765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26689,8.67153,18.26689,8.67153",
+    "geom:latitude":8.67153,
+    "geom:longitude":18.26689,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Koumogo",
+    "gn:country_code":"TD",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429612,
+    "gn:latitude":8.67153,
+    "gn:longitude":18.26689,
+    "gn:modification_date":"2008-10-10",
+    "gn:name":"Koumogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429612
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a1ab31c352c898f13d7c2a310dc50455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1259746765,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1259746765,
+    "wof:lastmodified":1536975608,
+    "wof:name":"Koumogo",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26689,
+    8.67153,
+    18.26689,
+    8.67153
+],
+  "geometry": {"coordinates":[18.26689,8.67153],"type":"Point"}
+}

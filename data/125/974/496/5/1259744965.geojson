@@ -1,0 +1,67 @@
+{
+  "id": 1259744965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6378,9.0751,14.6378,9.0751",
+    "geom:latitude":9.0751,
+    "geom:longitude":14.6378,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sodje",
+    "gn:country_code":"TD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425589,
+    "gn:latitude":9.0751,
+    "gn:longitude":14.6378,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Sodj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425589
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"63ac9aafe90593156b7c21ef21cddcdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1259744965,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1259744965,
+    "wof:lastmodified":1536978140,
+    "wof:name":"Sodje",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6378,
+    9.0751,
+    14.6378,
+    9.0751
+],
+  "geometry": {"coordinates":[14.6378,9.0751],"type":"Point"}
+}

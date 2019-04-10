@@ -1,0 +1,64 @@
+{
+  "id": 1209628345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1187,14.16449,21.1187,14.16449",
+    "geom:latitude":14.16449,
+    "geom:longitude":21.1187,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Darnane",
+    "gn:country_code":"TD",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244595,
+    "gn:latitude":14.16449,
+    "gn:longitude":21.1187,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Darnan\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Darnan\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244595
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3cfda5e8b4373c27886d6d03f8fb14cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209628345
+        }
+    ],
+    "wof:id":1209628345,
+    "wof:lastmodified":1537702675,
+    "wof:name":"Darnane",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1187,
+    14.16449,
+    21.1187,
+    14.16449
+],
+  "geometry": {"coordinates":[21.1187,14.16449],"type":"Point"}
+}

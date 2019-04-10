@@ -1,0 +1,73 @@
+{
+  "id": 1210002157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2774,8.70378,16.2774,8.70378",
+    "geom:latitude":8.70378,
+    "geom:longitude":16.2774,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Larkay",
+    "gn:country_code":"TD",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429209,
+    "gn:latitude":8.70378,
+    "gn:longitude":16.2774,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Larkay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Larkaye"
+    ],
+    "name:und_x_variant":[
+        "Larkaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429209
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a2f151b9cd22d7c2370ce07ba3d03a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1210002157,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1210002157,
+    "wof:lastmodified":1537702735,
+    "wof:name":"Larkay",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2774,
+    8.70378,
+    16.2774,
+    8.70378
+],
+  "geometry": {"coordinates":[16.2774,8.70378],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310261709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4,21.15,17.4,21.15",
+    "geom:latitude":21.15,
+    "geom:longitude":17.4,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ouoidi",
+    "gn:country_code":"TD",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426351,
+    "gn:latitude":21.15,
+    "gn:longitude":17.4,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ouo\u00efdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678501,
+        1091901649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426351
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ec955e75fe3a60ac7fa54499bd6cd1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901649,
+            "locality_id":1310261709,
+            "region_id":85678501
+        }
+    ],
+    "wof:id":1310261709,
+    "wof:lastmodified":1536771761,
+    "wof:name":"Ouoidi",
+    "wof:parent_id":1091901649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4,
+    21.15,
+    17.4,
+    21.15
+],
+  "geometry": {"coordinates":[17.4,21.15],"type":"Point"}
+}

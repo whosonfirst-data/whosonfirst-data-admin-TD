@@ -1,0 +1,71 @@
+{
+  "id": 1360270933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66098,8.8064,15.66098,8.8064",
+    "geom:latitude":8.8064,
+    "geom:longitude":15.66098,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dondiegre",
+    "gn:country_code":"TD",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433242,
+    "gn:latitude":8.8064,
+    "gn:longitude":15.66098,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dondi\u00e9gr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dondjeg\u00e9r\u00e9",
+        "Dondi\u00e9gr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433242
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3cf5d1eb2213d8b6561b65d302eddf15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900057,
+            "locality_id":1360270933,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1360270933,
+    "wof:lastmodified":1537702774,
+    "wof:name":"Dondiegre",
+    "wof:parent_id":1091900057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66098,
+    8.8064,
+    15.66098,
+    8.8064
+],
+  "geometry": {"coordinates":[15.66098,8.8064],"type":"Point"}
+}

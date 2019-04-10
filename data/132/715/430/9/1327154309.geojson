@@ -1,0 +1,67 @@
+{
+  "id": 1327154309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2911,9.1504,16.2911,9.1504",
+    "geom:latitude":9.1504,
+    "geom:longitude":16.2911,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Maba",
+    "gn:country_code":"TD",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428954,
+    "gn:latitude":9.1504,
+    "gn:longitude":16.2911,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Maba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428954
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f18f1008ac033bcdf5b8d0b742254d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1327154309,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1327154309,
+    "wof:lastmodified":1537079221,
+    "wof:name":"Maba",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2911,
+    9.1504,
+    16.2911,
+    9.1504
+],
+  "geometry": {"coordinates":[16.2911,9.1504],"type":"Point"}
+}

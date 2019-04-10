@@ -1,0 +1,67 @@
+{
+  "id": 1310267401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23023,9.00757,17.23023,9.00757",
+    "geom:latitude":9.00757,
+    "geom:longitude":17.23023,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kangberi",
+    "gn:country_code":"TD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430848,
+    "gn:latitude":9.00757,
+    "gn:longitude":17.23023,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Kangb\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430848
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3fff1886c605ec1db0127bfde0e553c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900193,
+            "locality_id":1310267401,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1310267401,
+    "wof:lastmodified":1536763297,
+    "wof:name":"Kangberi",
+    "wof:parent_id":1091900193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23023,
+    9.00757,
+    17.23023,
+    9.00757
+],
+  "geometry": {"coordinates":[17.23023,9.00757],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293673647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02089,7.70075,16.02089,7.70075",
+    "geom:latitude":7.70075,
+    "geom:longitude":16.02089,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hobe",
+    "gn:country_code":"TD",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431395,
+    "gn:latitude":7.70075,
+    "gn:longitude":16.02089,
+    "gn:modification_date":"2008-10-14",
+    "gn:name":"Hob\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431395
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b5861b511bfbf1f11d285ebff6428532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1293673647,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1293673647,
+    "wof:lastmodified":1537015218,
+    "wof:name":"Hobe",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02089,
+    7.70075,
+    16.02089,
+    7.70075
+],
+  "geometry": {"coordinates":[16.02089,7.70075],"type":"Point"}
+}

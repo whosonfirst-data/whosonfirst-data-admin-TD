@@ -1,0 +1,71 @@
+{
+  "id": 1243339979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7354,10.3057,19.7354,10.3057",
+    "geom:latitude":10.3057,
+    "geom:longitude":19.7354,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Marafain",
+    "gn:country_code":"TD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428361,
+    "gn:latitude":10.3057,
+    "gn:longitude":19.7354,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Marafa\u00efn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marfe\u00efne",
+        "Marafa\u00efn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428361
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d05841f10d2fc4b2e3824ddf2c0e02f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1243339979,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1243339979,
+    "wof:lastmodified":1537702728,
+    "wof:name":"Marafain",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7354,
+    10.3057,
+    19.7354,
+    10.3057
+],
+  "geometry": {"coordinates":[19.7354,10.3057],"type":"Point"}
+}

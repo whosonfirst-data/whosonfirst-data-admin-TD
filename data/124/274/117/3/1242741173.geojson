@@ -1,0 +1,72 @@
+{
+  "id": 1242741173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05436,12.40071,15.05436,12.40071",
+    "geom:latitude":12.40071,
+    "geom:longitude":15.05436,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Djermaya",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433630,
+    "gn:latitude":12.40071,
+    "gn:longitude":15.05436,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djermaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djerdjeraba",
+        "Djerma\u00efa",
+        "Djermaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433630
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"aa9d2d259b026c27b6612f9fbaeddf90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1242741173,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1242741173,
+    "wof:lastmodified":1537702780,
+    "wof:name":"Djermaya",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05436,
+    12.40071,
+    15.05436,
+    12.40071
+],
+  "geometry": {"coordinates":[15.05436,12.40071],"type":"Point"}
+}

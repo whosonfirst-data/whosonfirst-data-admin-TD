@@ -1,0 +1,82 @@
+{
+  "id": 1344024293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72409,12.69753,14.72409,12.69753",
+    "geom:latitude":12.69753,
+    "geom:longitude":14.72409,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Zafaia",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424130,
+    "gn:latitude":12.69753,
+    "gn:longitude":14.72409,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Zafaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zafaya",
+        "Zafaia",
+        "Zafa\u00efa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897,
+        85632245,
+        85669933,
+        1092011735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424130
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6c094e40bcb7065d198e9516aa7e7768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1344024293,
+            "region_id":85678435
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011735,
+            "locality_id":1344024293,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1344024293,
+    "wof:lastmodified":1537702689,
+    "wof:name":"Zafaia",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72409,
+    12.69753,
+    14.72409,
+    12.69753
+],
+  "geometry": {"coordinates":[14.72409,12.69753],"type":"Point"}
+}

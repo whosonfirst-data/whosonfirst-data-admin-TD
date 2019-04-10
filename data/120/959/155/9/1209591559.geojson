@@ -1,0 +1,65 @@
+{
+  "id": 1209591559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78166,12.94185,15.78166,12.94185",
+    "geom:latitude":12.94185,
+    "geom:longitude":15.78166,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Aboukies",
+    "gn:country_code":"TD",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437580,
+    "gn:latitude":12.94185,
+    "gn:longitude":15.78166,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abouki\u00e8s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aboukiesi",
+        "Abouki\u00e8s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437580
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ac2a035977fe21c440e852b3538e4205",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209591559
+        }
+    ],
+    "wof:id":1209591559,
+    "wof:lastmodified":1537702822,
+    "wof:name":"Aboukies",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78166,
+    12.94185,
+    15.78166,
+    12.94185
+],
+  "geometry": {"coordinates":[15.78166,12.94185],"type":"Point"}
+}

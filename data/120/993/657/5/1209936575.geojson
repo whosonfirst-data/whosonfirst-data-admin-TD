@@ -1,0 +1,74 @@
+{
+  "id": 1209936575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48858,8.96661,16.48858,8.96661",
+    "geom:latitude":8.96661,
+    "geom:longitude":16.48858,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pie",
+    "gn:country_code":"TD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426197,
+    "gn:latitude":8.96661,
+    "gn:longitude":16.48858,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "P\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Pi\u00e9",
+        "P\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426197
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0486bd3d6203e2c9f26206f31bdcab72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1209936575,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1209936575,
+    "wof:lastmodified":1537702704,
+    "wof:name":"Pie",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48858,
+    8.96661,
+    16.48858,
+    8.96661
+],
+  "geometry": {"coordinates":[16.48858,8.96661],"type":"Point"}
+}

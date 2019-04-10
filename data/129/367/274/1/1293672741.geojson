@@ -1,0 +1,67 @@
+{
+  "id": 1293672741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6904,9.624,16.6904,9.624",
+    "geom:latitude":9.624,
+    "geom:longitude":16.6904,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kerbougou",
+    "gn:country_code":"TD",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870783,
+    "gn:latitude":9.624,
+    "gn:longitude":16.6904,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Kerbougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870783
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9a85b7e912f77e295e9539ca8cd76f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1293672741,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1293672741,
+    "wof:lastmodified":1537016535,
+    "wof:name":"Kerbougou",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6904,
+    9.624,
+    16.6904,
+    9.624
+],
+  "geometry": {"coordinates":[16.6904,9.624],"type":"Point"}
+}

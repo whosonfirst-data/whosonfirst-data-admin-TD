@@ -1,0 +1,85 @@
+{
+  "id": 421178239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31991,8.98327,16.31991,8.98327",
+    "geom:latitude":8.98327,
+    "geom:longitude":16.31991,
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "B\u00e9noye"
+    ],
+    "name:unk_x_variant":[
+        "B\u00e9noye"
+    ],
+    "qs:gn_country":"TD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2435508,
+    "qs:gn_pop":15717,
+    "qs:name":"B\u00e9noy",
+    "qs:name_adm0":"Tchad",
+    "qs:name_adm1":"Logone Occidental",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":278654,
+    "qs:woe_adm0":23424777,
+    "qs:woe_id":1272293,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435508,
+        "gp:id":1272293,
+        "qs:id":278654
+    },
+    "wof:country":"TD",
+    "wof:created":1459009175,
+    "wof:geomhash":"3d69c883be52fbabdff85628b7af711b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":421178239,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":421178239,
+    "wof:lastmodified":1505340636,
+    "wof:name":"B\u00e9noy",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:population":15717,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31991,
+    8.98327,
+    16.31991,
+    8.98327
+],
+  "geometry": {"coordinates":[16.31991,8.98327],"type":"Point"}
+}

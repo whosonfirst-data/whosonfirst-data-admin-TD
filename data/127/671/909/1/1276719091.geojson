@@ -1,0 +1,67 @@
+{
+  "id": 1276719091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55,12.66667,20.55,12.66667",
+    "geom:latitude":12.66667,
+    "geom:longitude":20.55,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Adamti",
+    "gn:country_code":"TD",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245691,
+    "gn:latitude":12.66667,
+    "gn:longitude":20.55,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Adamti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245691
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dd2a1c4004ca95f79232e8a4dcb2b7e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900983,
+            "locality_id":1276719091,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1276719091,
+    "wof:lastmodified":1536759239,
+    "wof:name":"Adamti",
+    "wof:parent_id":1091900983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55,
+    12.66667,
+    20.55,
+    12.66667
+],
+  "geometry": {"coordinates":[20.55,12.66667],"type":"Point"}
+}

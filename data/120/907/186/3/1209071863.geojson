@@ -1,0 +1,61 @@
+{
+  "id": 1209071863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3894,9.08951,17.3894,9.08951",
+    "geom:latitude":9.08951,
+    "geom:longitude":17.3894,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kadouiti",
+    "gn:country_code":"TD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431115,
+    "gn:latitude":9.08951,
+    "gn:longitude":17.3894,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Kadouiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431115
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"09ebe4094192545e89f857a53178841c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209071863
+        }
+    ],
+    "wof:id":1209071863,
+    "wof:lastmodified":1536298621,
+    "wof:name":"Kadouiti",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3894,
+    9.08951,
+    17.3894,
+    9.08951
+],
+  "geometry": {"coordinates":[17.3894,9.08951],"type":"Point"}
+}

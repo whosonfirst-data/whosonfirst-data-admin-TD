@@ -1,0 +1,71 @@
+{
+  "id": 1360056865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1276,8.6941,18.1276,8.6941",
+    "geom:latitude":8.6941,
+    "geom:longitude":18.1276,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dira",
+    "gn:country_code":"TD",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433794,
+    "gn:latitude":8.6941,
+    "gn:longitude":18.1276,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9ra",
+        "Dira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433794
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2213fea412764f846b783adbb3f387fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1360056865,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1360056865,
+    "wof:lastmodified":1537702782,
+    "wof:name":"Dira",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1276,
+    8.6941,
+    18.1276,
+    8.6941
+],
+  "geometry": {"coordinates":[18.1276,8.6941],"type":"Point"}
+}

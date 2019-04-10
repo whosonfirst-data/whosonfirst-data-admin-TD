@@ -1,0 +1,67 @@
+{
+  "id": 1276425515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89642,8.60386,16.89642,8.60386",
+    "geom:latitude":8.60386,
+    "geom:longitude":16.89642,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ndorokaga",
+    "gn:country_code":"TD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427103,
+    "gn:latitude":8.60386,
+    "gn:longitude":16.89642,
+    "gn:modification_date":"2008-11-14",
+    "gn:name":"Ndorokaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427103
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"81a3617573f962837267d61faa40e392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900157,
+            "locality_id":1276425515,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1276425515,
+    "wof:lastmodified":1536655184,
+    "wof:name":"Ndorokaga",
+    "wof:parent_id":1091900157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89642000000001,
+    8.60386,
+    16.89642000000001,
+    8.60386
+],
+  "geometry": {"coordinates":[16.89642000000001,8.60386],"type":"Point"}
+}

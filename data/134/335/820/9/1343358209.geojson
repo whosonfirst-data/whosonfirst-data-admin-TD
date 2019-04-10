@@ -1,0 +1,67 @@
+{
+  "id": 1343358209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.6598,12.3187,19.6598,12.3187",
+    "geom:latitude":12.3187,
+    "geom:longitude":19.6598,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Roal Kelib",
+    "gn:country_code":"TD",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426023,
+    "gn:latitude":12.3187,
+    "gn:longitude":19.6598,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"Roal K\u00e9lib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426023
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c6e1356992ef259f38c918f78384aac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900939,
+            "locality_id":1343358209,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1343358209,
+    "wof:lastmodified":1536893507,
+    "wof:name":"Roal Kelib",
+    "wof:parent_id":1091900939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.6598,
+    12.3187,
+    19.6598,
+    12.3187
+],
+  "geometry": {"coordinates":[19.6598,12.3187],"type":"Point"}
+}

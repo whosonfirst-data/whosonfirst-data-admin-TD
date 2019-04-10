@@ -1,0 +1,61 @@
+{
+  "id": 1209396943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36439,10.80386,15.36439,10.80386",
+    "geom:latitude":10.80386,
+    "geom:longitude":15.36439,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kaloubou",
+    "gn:country_code":"TD",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430939,
+    "gn:latitude":10.80386,
+    "gn:longitude":15.36439,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Kaloubou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430939
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9a0cb567b9dd22a49d50da2878a97adf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209396943
+        }
+    ],
+    "wof:id":1209396943,
+    "wof:lastmodified":1536288269,
+    "wof:name":"Kaloubou",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36439,
+    10.80386,
+    15.36439,
+    10.80386
+],
+  "geometry": {"coordinates":[15.36439,10.80386],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276748097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.52218,8.15018,16.52218,8.15018",
+    "geom:latitude":8.15018,
+    "geom:longitude":16.52218,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Timberi",
+    "gn:country_code":"TD",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424794,
+    "gn:latitude":8.15018,
+    "gn:longitude":16.52218,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Timb\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Timb\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424794
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ea1bf13668dc751406e8b6ffcf30b0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899861,
+            "locality_id":1276748097,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1276748097,
+    "wof:lastmodified":1537702693,
+    "wof:name":"Timberi",
+    "wof:parent_id":1091899861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.52218,
+    8.15018,
+    16.52218,
+    8.15018
+],
+  "geometry": {"coordinates":[16.52218,8.15018],"type":"Point"}
+}

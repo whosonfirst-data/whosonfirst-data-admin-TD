@@ -1,0 +1,82 @@
+{
+  "id": 1226524585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08371,10.8976,15.08371,10.8976",
+    "geom:latitude":10.8976,
+    "geom:longitude":15.08371,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mouskoun",
+    "gn:country_code":"TD",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427372,
+    "gn:latitude":10.8976,
+    "gn:longitude":15.08371,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mouskoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Musgum",
+        "Mousgoum",
+        "Mouskoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1108390249,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427372
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3db08e4f2a4cb731caab36e52198cdb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1108390249,
+            "locality_id":1226524585,
+            "region_id":85669933
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1226524585,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1226524585,
+    "wof:lastmodified":1537702716,
+    "wof:name":"Mouskoun",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08371,
+    10.8976,
+    15.08371,
+    10.8976
+],
+  "geometry": {"coordinates":[15.08371,10.8976],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343279677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25493,12.98851,18.25493,12.98851",
+    "geom:latitude":12.98851,
+    "geom:longitude":18.25493,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Brere",
+    "gn:country_code":"TD",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434541,
+    "gn:latitude":12.98851,
+    "gn:longitude":18.25493,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Br\u00e9re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434541
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4a39a35fe96fbcd3cc0d9ab8bb71d0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1343279677,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1343279677,
+    "wof:lastmodified":1537006445,
+    "wof:name":"Brere",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25493,
+    12.98851,
+    18.25493,
+    12.98851
+],
+  "geometry": {"coordinates":[18.25493,12.98851],"type":"Point"}
+}

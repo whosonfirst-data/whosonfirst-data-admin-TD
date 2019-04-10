@@ -1,0 +1,72 @@
+{
+  "id": 1293184379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.346,9.741,16.346,9.741",
+    "geom:latitude":9.741,
+    "geom:longitude":16.346,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Lodji",
+    "gn:country_code":"TD",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429075,
+    "gn:latitude":9.741,
+    "gn:longitude":16.346,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lodji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loudji",
+        "Lodjo",
+        "Lodji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429075
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1d2cf5851e36410f17d14e4299f6b4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1293184379,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1293184379,
+    "wof:lastmodified":1537702734,
+    "wof:name":"Lodji",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.346,
+    9.741,
+    16.346,
+    9.741
+],
+  "geometry": {"coordinates":[16.346,9.741],"type":"Point"}
+}

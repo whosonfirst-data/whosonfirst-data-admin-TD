@@ -1,0 +1,67 @@
+{
+  "id": 1293580057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74173,8.88918,15.74173,8.88918",
+    "geom:latitude":8.88918,
+    "geom:longitude":15.74173,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kap",
+    "gn:country_code":"TD",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875802,
+    "gn:latitude":8.88918,
+    "gn:longitude":15.74173,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Kap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875802
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"140476a638abafe5b5f99dc331e2e7fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900113,
+            "locality_id":1293580057,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1293580057,
+    "wof:lastmodified":1536653638,
+    "wof:name":"Kap",
+    "wof:parent_id":1091900113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74173,
+    8.88918,
+    15.74173,
+    8.88918
+],
+  "geometry": {"coordinates":[15.74173,8.88918],"type":"Point"}
+}

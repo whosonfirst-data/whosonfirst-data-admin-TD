@@ -1,0 +1,67 @@
+{
+  "id": 1327316671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23965,11.80166,15.23965,11.80166",
+    "geom:latitude":11.80166,
+    "geom:longitude":15.23965,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kuitkede",
+    "gn:country_code":"TD",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429352,
+    "gn:latitude":11.80166,
+    "gn:longitude":15.23965,
+    "gn:modification_date":"2008-05-28",
+    "gn:name":"Kuitkede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429352
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"857af9c63ddf539053e256003ff47201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1327316671,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1327316671,
+    "wof:lastmodified":1536846902,
+    "wof:name":"Kuitkede",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23965,
+    11.80166,
+    15.23965,
+    11.80166
+],
+  "geometry": {"coordinates":[15.23965,11.80166],"type":"Point"}
+}

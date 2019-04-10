@@ -1,0 +1,74 @@
+{
+  "id": 1360057917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8111,9.879,15.8111,9.879",
+    "geom:latitude":9.879,
+    "geom:longitude":15.8111,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Djouman",
+    "gn:country_code":"TD",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433470,
+    "gn:latitude":9.879,
+    "gn:longitude":15.8111,
+    "gn:modification_date":"2016-11-16",
+    "gn:name":"Djouman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jimane",
+        "Djimane",
+        "Djomane",
+        "Djouman",
+        "Djoumane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433470
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"441d30deeef83ce28091acc29d79b0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1360057917,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1360057917,
+    "wof:lastmodified":1537702778,
+    "wof:name":"Djouman",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8111,
+    9.879,
+    15.8111,
+    9.879
+],
+  "geometry": {"coordinates":[15.8111,9.879],"type":"Point"}
+}

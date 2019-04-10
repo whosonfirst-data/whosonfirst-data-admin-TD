@@ -1,0 +1,72 @@
+{
+  "id": 1259845735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5291,12.83745,15.5291,12.83745",
+    "geom:latitude":12.83745,
+    "geom:longitude":15.5291,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Am Chechia",
+    "gn:country_code":"TD",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437021,
+    "gn:latitude":12.83745,
+    "gn:longitude":15.5291,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Am Ch\u00e9chia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Ch\u00e9chat",
+        "Am Chechiat",
+        "Am Ch\u00e9chia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437021
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"413021a5f8a5a70fa8a1be31c191c81b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1259845735,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1259845735,
+    "wof:lastmodified":1537702816,
+    "wof:name":"Am Chechia",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5291,
+    12.83745,
+    15.5291,
+    12.83745
+],
+  "geometry": {"coordinates":[15.5291,12.83745],"type":"Point"}
+}

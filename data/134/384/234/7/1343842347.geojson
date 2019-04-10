@@ -1,0 +1,67 @@
+{
+  "id": 1343842347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.94259,8.70965,16.94259,8.70965",
+    "geom:latitude":8.70965,
+    "geom:longitude":16.94259,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Maelo",
+    "gn:country_code":"TD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6909288,
+    "gn:latitude":8.70965,
+    "gn:longitude":16.94259,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Ma\u00e9lo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909288
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d61d31f9b068cf7e8aed7e82208936b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900157,
+            "locality_id":1343842347,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1343842347,
+    "wof:lastmodified":1536692956,
+    "wof:name":"Maelo",
+    "wof:parent_id":1091900157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.94259,
+    8.70965,
+    16.94259,
+    8.70965
+],
+  "geometry": {"coordinates":[16.94259,8.70965],"type":"Point"}
+}

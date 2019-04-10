@@ -1,0 +1,67 @@
+{
+  "id": 1293194987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41302,13.73616,15.41302,13.73616",
+    "geom:latitude":13.73616,
+    "geom:longitude":15.41302,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kakay",
+    "gn:country_code":"TD",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431031,
+    "gn:latitude":13.73616,
+    "gn:longitude":15.41302,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Kakay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431031
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"714f3229da239e0e10dd47376f91a407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1293194987,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1293194987,
+    "wof:lastmodified":1536712082,
+    "wof:name":"Kakay",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41302,
+    13.73616,
+    15.41302,
+    13.73616
+],
+  "geometry": {"coordinates":[15.41302,13.73616],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309869385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.60846,8.78832,18.60846,8.78832",
+    "geom:latitude":8.78832,
+    "geom:longitude":18.60846,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Goro",
+    "gn:country_code":"TD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431887,
+    "gn:latitude":8.78832,
+    "gn:longitude":18.60846,
+    "gn:modification_date":"2008-10-10",
+    "gn:name":"Goro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091899945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431887
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2d952a023487a36ffc83204547d639e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899945,
+            "locality_id":1309869385,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1309869385,
+    "wof:lastmodified":1536838561,
+    "wof:name":"Goro",
+    "wof:parent_id":1091899945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.60846,
+    8.78832,
+    18.60846,
+    8.78832
+],
+  "geometry": {"coordinates":[18.60846,8.78832],"type":"Point"}
+}

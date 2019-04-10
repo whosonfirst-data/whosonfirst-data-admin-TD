@@ -1,0 +1,67 @@
+{
+  "id": 1293571983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3933,11.9273,16.3933,11.9273",
+    "geom:latitude":11.9273,
+    "geom:longitude":16.3933,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kose",
+    "gn:country_code":"TD",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429917,
+    "gn:latitude":11.9273,
+    "gn:longitude":16.3933,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Kos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429917
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"832bbfbb30b133774ebea61db2b41bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1293571983,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1293571983,
+    "wof:lastmodified":1536665319,
+    "wof:name":"Kose",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3933,
+    11.9273,
+    16.3933,
+    11.9273
+],
+  "geometry": {"coordinates":[16.3933,11.9273],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259893663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21926,13.81454,20.21926,13.81454",
+    "geom:latitude":13.81454,
+    "geom:longitude":20.21926,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dalala",
+    "gn:country_code":"TD",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244642,
+    "gn:latitude":13.81454,
+    "gn:longitude":20.21926,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Dalala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dalala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244642
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dc756e23863c481ebdf7cd19a9327c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1259893663,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1259893663,
+    "wof:lastmodified":1537702676,
+    "wof:name":"Dalala",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21926,
+    13.81454,
+    20.21926,
+    13.81454
+],
+  "geometry": {"coordinates":[20.21926,13.81454],"type":"Point"}
+}

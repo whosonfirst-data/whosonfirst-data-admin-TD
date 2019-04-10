@@ -1,0 +1,66 @@
+{
+  "id": 1209419151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.566,13.1646,19.566,13.1646",
+    "geom:latitude":13.1646,
+    "geom:longitude":19.566,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ab Sioufa",
+    "gn:country_code":"TD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437517,
+    "gn:latitude":13.1646,
+    "gn:longitude":19.566,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ab Sioufa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Ciouf",
+        "Absiouf",
+        "Ab Sioufa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437517
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"41dfbbac89db63477ba690d8d5b4d1d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209419151
+        }
+    ],
+    "wof:id":1209419151,
+    "wof:lastmodified":1537702821,
+    "wof:name":"Ab Sioufa",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.566,
+    13.1646,
+    19.566,
+    13.1646
+],
+  "geometry": {"coordinates":[19.566,13.1646],"type":"Point"}
+}

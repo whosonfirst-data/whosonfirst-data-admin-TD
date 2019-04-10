@@ -1,0 +1,72 @@
+{
+  "id": 1343480965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78303,9.02401,15.78303,9.02401",
+    "geom:latitude":9.02401,
+    "geom:longitude":15.78303,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Djeguerankas",
+    "gn:country_code":"TD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433668,
+    "gn:latitude":9.02401,
+    "gn:longitude":15.78303,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dj\u00e9gu\u00e9rankas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dj\u00e9g\u00e9rankas",
+        "Dj\u00e9gu\u00e9renkass",
+        "Dj\u00e9gu\u00e9rankas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433668
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"59a29b5d380a70d2f798aea2cfa0b744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900113,
+            "locality_id":1343480965,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1343480965,
+    "wof:lastmodified":1537702781,
+    "wof:name":"Djeguerankas",
+    "wof:parent_id":1091900113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78303,
+    9.02401,
+    15.78303,
+    9.02401
+],
+  "geometry": {"coordinates":[15.78303,9.02401],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343242297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01775,13.16245,22.01775,13.16245",
+    "geom:latitude":13.16245,
+    "geom:longitude":22.01775,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Goundang",
+    "gn:country_code":"TD",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243838,
+    "gn:latitude":13.16245,
+    "gn:longitude":22.01775,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Goundang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243838
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"30f8da5ebe97f32f51a2ae569b5e642a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1343242297,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1343242297,
+    "wof:lastmodified":1537058664,
+    "wof:name":"Goundang",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01775,
+    13.16245,
+    22.01775,
+    13.16245
+],
+  "geometry": {"coordinates":[22.01775,13.16245],"type":"Point"}
+}

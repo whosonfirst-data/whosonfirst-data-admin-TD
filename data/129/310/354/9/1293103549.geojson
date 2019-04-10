@@ -1,0 +1,71 @@
+{
+  "id": 1293103549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.05983,12.39091,18.05983,12.39091",
+    "geom:latitude":12.39091,
+    "geom:longitude":18.05983,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bediga",
+    "gn:country_code":"TD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435784,
+    "gn:latitude":12.39091,
+    "gn:longitude":18.05983,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9diga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bidga",
+        "B\u00e9diga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435784
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"05f7a7c41cb88188857a2b601e5cae84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900785,
+            "locality_id":1293103549,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1293103549,
+    "wof:lastmodified":1537702805,
+    "wof:name":"Bediga",
+    "wof:parent_id":1091900785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05983,
+    12.39091,
+    18.05983,
+    12.39091
+],
+  "geometry": {"coordinates":[18.05983,12.39091],"type":"Point"}
+}

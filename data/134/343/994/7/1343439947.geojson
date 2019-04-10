@@ -1,0 +1,67 @@
+{
+  "id": 1343439947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11835,9.46862,16.11835,9.46862",
+    "geom:latitude":9.46862,
+    "geom:longitude":16.11835,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Toguior Ngolo",
+    "gn:country_code":"TD",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424696,
+    "gn:latitude":9.46862,
+    "gn:longitude":16.11835,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Toguior Ngolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424696
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"558583df7383a62586ba13e55f3c48b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1343439947,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1343439947,
+    "wof:lastmodified":1536776492,
+    "wof:name":"Toguior Ngolo",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11835,
+    9.46862,
+    16.11835,
+    9.46862
+],
+  "geometry": {"coordinates":[16.11835,9.46862],"type":"Point"}
+}

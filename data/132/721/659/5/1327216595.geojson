@@ -1,0 +1,67 @@
+{
+  "id": 1327216595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76154,11.12457,15.76154,11.12457",
+    "geom:latitude":11.12457,
+    "geom:longitude":15.76154,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Modorio",
+    "gn:country_code":"TD",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427741,
+    "gn:latitude":11.12457,
+    "gn:longitude":15.76154,
+    "gn:modification_date":"2008-06-03",
+    "gn:name":"Modorio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427741
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8c53e522d31cef9c08bdaf796af54ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1327216595,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1327216595,
+    "wof:lastmodified":1536991658,
+    "wof:name":"Modorio",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76154,
+    11.12457,
+    15.76154,
+    11.12457
+],
+  "geometry": {"coordinates":[15.76154,11.12457],"type":"Point"}
+}

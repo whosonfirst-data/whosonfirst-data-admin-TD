@@ -1,0 +1,67 @@
+{
+  "id": 1226508011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5621,8.2545,17.5621,8.2545",
+    "geom:latitude":8.2545,
+    "geom:longitude":17.5621,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gansila",
+    "gn:country_code":"TD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432297,
+    "gn:latitude":8.2545,
+    "gn:longitude":17.5621,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Gansila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432297
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"820e67d9b9c3bfbc6496d1bbbdf0413f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1226508011,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1226508011,
+    "wof:lastmodified":1537050433,
+    "wof:name":"Gansila",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5621,
+    8.2545,
+    17.5621,
+    8.2545
+],
+  "geometry": {"coordinates":[17.5621,8.2545],"type":"Point"}
+}

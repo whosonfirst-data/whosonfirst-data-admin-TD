@@ -1,0 +1,67 @@
+{
+  "id": 1259655213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.81563,9.91573,17.81563,9.91573",
+    "geom:latitude":9.91573,
+    "geom:longitude":17.81563,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kouin",
+    "gn:country_code":"TD",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429776,
+    "gn:latitude":9.91573,
+    "gn:longitude":17.81563,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Kouin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429776
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b73c5c095653d60991bf44073e67c5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1259655213,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1259655213,
+    "wof:lastmodified":1536608725,
+    "wof:name":"Kouin",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.81563,
+    9.91573,
+    17.81563,
+    9.91573
+],
+  "geometry": {"coordinates":[17.81563,9.91573],"type":"Point"}
+}

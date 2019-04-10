@@ -1,0 +1,71 @@
+{
+  "id": 1344027651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26472,10.45299,15.26472,10.45299",
+    "geom:latitude":10.45299,
+    "geom:longitude":15.26472,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dounou",
+    "gn:country_code":"TD",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433045,
+    "gn:latitude":10.45299,
+    "gn:longitude":15.26472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dounou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dourou",
+        "Dounou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433045
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0366ba1ead289ef6dafb5883c907016e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1344027651,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1344027651,
+    "wof:lastmodified":1537702772,
+    "wof:name":"Dounou",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26472,
+    10.45299,
+    15.26472,
+    10.45299
+],
+  "geometry": {"coordinates":[15.26472,10.45299],"type":"Point"}
+}

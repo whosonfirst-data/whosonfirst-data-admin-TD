@@ -1,0 +1,71 @@
+{
+  "id": 1259954351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9846,8.8534,14.9846,8.8534",
+    "geom:latitude":8.8534,
+    "geom:longitude":14.9846,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mbakeu",
+    "gn:country_code":"TD",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428104,
+    "gn:latitude":8.8534,
+    "gn:longitude":14.9846,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Mbakeu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u2019Baqueu",
+        "Mbakeu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428104
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"63934df2eace067984c0a16b9b48aad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1259954351,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1259954351,
+    "wof:lastmodified":1537702724,
+    "wof:name":"Mbakeu",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9846,
+    8.8534,
+    14.9846,
+    8.8534
+],
+  "geometry": {"coordinates":[14.9846,8.8534],"type":"Point"}
+}

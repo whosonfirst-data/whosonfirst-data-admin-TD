@@ -1,0 +1,66 @@
+{
+  "id": 890437121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1539,9.7639,14.1539,9.7639",
+    "geom:latitude":9.7639,
+    "geom:longitude":14.1539,
+    "gn:country":"TD",
+    "gn:fcode":"PPL",
+    "gn:pop":17132,
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mboursou L\u00e9r\u00e9",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428042,
+        "gp:id":1272341,
+        "qs:id":1035643
+    },
+    "wof:country":"TD",
+    "wof:created":1469052139,
+    "wof:geomhash":"fa5db37d55ef3ff8678341bf77e7484f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900399,
+            "locality_id":890437121,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":890437121,
+    "wof:lastmodified":1505343557,
+    "wof:name":"Mboursou L\u00e9r\u00e9",
+    "wof:parent_id":1091900399,
+    "wof:placetype":"locality",
+    "wof:population":17132,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1539,
+    9.7639,
+    14.1539,
+    9.7639
+],
+  "geometry": {"coordinates":[14.1539,9.7639],"type":"Point"}
+}

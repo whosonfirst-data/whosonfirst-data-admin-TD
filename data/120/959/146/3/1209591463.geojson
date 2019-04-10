@@ -1,0 +1,61 @@
+{
+  "id": 1209591463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95037,12.51297,15.95037,12.51297",
+    "geom:latitude":12.51297,
+    "geom:longitude":15.95037,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Amoudator",
+    "gn:country_code":"TD",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436838,
+    "gn:latitude":12.51297,
+    "gn:longitude":15.95037,
+    "gn:modification_date":"2008-03-14",
+    "gn:name":"Amoudator",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436838
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4c8206f044f3b1d64dbf83b0e462cb7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209591463
+        }
+    ],
+    "wof:id":1209591463,
+    "wof:lastmodified":1536282464,
+    "wof:name":"Amoudator",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95037,
+    12.51297,
+    15.95037,
+    12.51297
+],
+  "geometry": {"coordinates":[15.95037,12.51297],"type":"Point"}
+}

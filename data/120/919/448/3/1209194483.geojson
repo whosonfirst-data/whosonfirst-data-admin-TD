@@ -1,0 +1,61 @@
+{
+  "id": 1209194483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.86198,13.33776,21.86198,13.33776",
+    "geom:latitude":13.33776,
+    "geom:longitude":21.86198,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Aouli",
+    "gn:country_code":"TD",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245264,
+    "gn:latitude":13.33776,
+    "gn:longitude":21.86198,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Aouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245264
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9416ed331aa446eccac3330cb15cff0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209194483
+        }
+    ],
+    "wof:id":1209194483,
+    "wof:lastmodified":1536294820,
+    "wof:name":"Aouli",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.86198,
+    13.33776,
+    21.86198,
+    13.33776
+],
+  "geometry": {"coordinates":[21.86198,13.33776],"type":"Point"}
+}

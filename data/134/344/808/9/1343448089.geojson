@@ -1,0 +1,67 @@
+{
+  "id": 1343448089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03317,13.8707,21.03317,13.8707",
+    "geom:latitude":13.8707,
+    "geom:longitude":21.03317,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ogourbo",
+    "gn:country_code":"TD",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242293,
+    "gn:latitude":13.8707,
+    "gn:longitude":21.03317,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Ogourbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242293
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"10c5e311c06d50f7f33f2600e5a4515f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1343448089,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1343448089,
+    "wof:lastmodified":1536764482,
+    "wof:name":"Ogourbo",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03317,
+    13.8707,
+    21.03317,
+    13.8707
+],
+  "geometry": {"coordinates":[21.03317,13.8707],"type":"Point"}
+}

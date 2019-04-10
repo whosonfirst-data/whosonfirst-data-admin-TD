@@ -1,0 +1,72 @@
+{
+  "id": 1360295105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.64123,12.81461,18.64123,12.81461",
+    "geom:latitude":12.81461,
+    "geom:longitude":18.64123,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ab Zerafa",
+    "gn:country_code":"TD",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437505,
+    "gn:latitude":12.81461,
+    "gn:longitude":18.64123,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ab Z\u00e9rafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abou Zeralfa",
+        "Abou Zerafa",
+        "Ab Z\u00e9rafa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437505
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b06bc3fd32d44d22e01fe363c21a2af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1360295105,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1360295105,
+    "wof:lastmodified":1537702821,
+    "wof:name":"Ab Zerafa",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64123,
+    12.81461,
+    18.64123,
+    12.81461
+],
+  "geometry": {"coordinates":[18.64123,12.81461],"type":"Point"}
+}

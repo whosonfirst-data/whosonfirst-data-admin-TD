@@ -1,0 +1,71 @@
+{
+  "id": 1276414703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15784,8.7471,15.15784,8.7471",
+    "geom:latitude":8.7471,
+    "geom:longitude":15.15784,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Salamata",
+    "gn:country_code":"TD",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425890,
+    "gn:latitude":8.7471,
+    "gn:longitude":15.15784,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Salamata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salmala",
+        "Salamata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425890
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e134321e71c8a115ba2843e84b7c9a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1276414703,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1276414703,
+    "wof:lastmodified":1537702701,
+    "wof:name":"Salamata",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15784,
+    8.7471,
+    15.15784,
+    8.7471
+],
+  "geometry": {"coordinates":[15.15784,8.7471],"type":"Point"}
+}

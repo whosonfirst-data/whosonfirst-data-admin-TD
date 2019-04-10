@@ -1,0 +1,65 @@
+{
+  "id": 1209219393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6485,11.6902,18.6485,11.6902",
+    "geom:latitude":11.6902,
+    "geom:longitude":18.6485,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Djamena",
+    "gn:country_code":"TD",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433732,
+    "gn:latitude":11.6902,
+    "gn:longitude":18.6485,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djam\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Djemena",
+        "Djam\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433732
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3cd12c5d93d2a01ad1703f099a5fcebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209219393
+        }
+    ],
+    "wof:id":1209219393,
+    "wof:lastmodified":1537702782,
+    "wof:name":"Djamena",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6485,
+    11.6902,
+    18.6485,
+    11.6902
+],
+  "geometry": {"coordinates":[18.6485,11.6902],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276825417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61828,13.90293,15.61828,13.90293",
+    "geom:latitude":13.90293,
+    "geom:longitude":15.61828,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Diala Banga",
+    "gn:country_code":"TD",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433942,
+    "gn:latitude":13.90293,
+    "gn:longitude":15.61828,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diala Banga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diata Banga",
+        "Diala Banga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433942
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"85f75b84313d356983d0c15bbdf91cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901247,
+            "locality_id":1276825417,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1276825417,
+    "wof:lastmodified":1537702783,
+    "wof:name":"Diala Banga",
+    "wof:parent_id":1091901247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61828,
+    13.90293,
+    15.61828,
+    13.90293
+],
+  "geometry": {"coordinates":[15.61828,13.90293],"type":"Point"}
+}

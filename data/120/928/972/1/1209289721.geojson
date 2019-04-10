@@ -1,0 +1,65 @@
+{
+  "id": 1209289721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.641,8.5561,17.641,8.5561",
+    "geom:latitude":8.5561,
+    "geom:longitude":17.641,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Djola I",
+    "gn:country_code":"TD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433519,
+    "gn:latitude":8.5561,
+    "gn:longitude":17.641,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djola I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djola II",
+        "Djola I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433519
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bd4b22eacefbb561369c5b7d069f9e23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209289721
+        }
+    ],
+    "wof:id":1209289721,
+    "wof:lastmodified":1537702779,
+    "wof:name":"Djola I",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.641,
+    8.5561,
+    17.641,
+    8.5561
+],
+  "geometry": {"coordinates":[17.641,8.5561],"type":"Point"}
+}

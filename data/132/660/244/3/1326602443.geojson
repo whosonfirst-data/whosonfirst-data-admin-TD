@@ -1,0 +1,74 @@
+{
+  "id": 1326602443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3934,9.4819,15.3934,9.4819",
+    "geom:latitude":9.4819,
+    "geom:longitude":15.3934,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Berem Guebelsou",
+    "gn:country_code":"TD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435468,
+    "gn:latitude":9.4819,
+    "gn:longitude":15.3934,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Berem Guebelsou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berem Gebelsou",
+        "Barem",
+        "Brem",
+        "B\u00e9rem Gu\u00e9belssou",
+        "Berem Guebelsou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435468
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"68c4d351a17535380d577ff7c30363dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900311,
+            "locality_id":1326602443,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1326602443,
+    "wof:lastmodified":1537702799,
+    "wof:name":"Berem Guebelsou",
+    "wof:parent_id":1091900311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3934,
+    9.4819,
+    15.3934,
+    9.4819
+],
+  "geometry": {"coordinates":[15.3934,9.4819],"type":"Point"}
+}

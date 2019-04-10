@@ -1,0 +1,67 @@
+{
+  "id": 1260101611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66747,13.22757,15.66747,13.22757",
+    "geom:latitude":13.22757,
+    "geom:longitude":15.66747,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Naza",
+    "gn:country_code":"TD",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427175,
+    "gn:latitude":13.22757,
+    "gn:longitude":15.66747,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Naza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427175
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"023f717098bab7958a3d9ec4e4cf82da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1260101611,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1260101611,
+    "wof:lastmodified":1536961914,
+    "wof:name":"Naza",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66747,
+    13.22757,
+    15.66747,
+    13.22757
+],
+  "geometry": {"coordinates":[15.66747,13.22757],"type":"Point"}
+}

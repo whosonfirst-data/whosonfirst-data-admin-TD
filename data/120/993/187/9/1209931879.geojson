@@ -1,0 +1,71 @@
+{
+  "id": 1209931879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.265,13.0326,18.265,13.0326",
+    "geom:latitude":13.0326,
+    "geom:longitude":18.265,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Djour-Ddjoura",
+    "gn:country_code":"TD",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433454,
+    "gn:latitude":13.0326,
+    "gn:longitude":18.265,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djour-Ddjoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djurdjura",
+        "Djour-Ddjoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433454
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bd61d7d7ca5c719d597130f21c8e032f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1209931879,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1209931879,
+    "wof:lastmodified":1537702778,
+    "wof:name":"Djour-Ddjoura",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.265,
+    13.0326,
+    18.265,
+    13.0326
+],
+  "geometry": {"coordinates":[18.265,13.0326],"type":"Point"}
+}

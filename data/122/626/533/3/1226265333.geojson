@@ -1,0 +1,67 @@
+{
+  "id": 1226265333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5868,10.0751,18.5868,10.0751",
+    "geom:latitude":10.0751,
+    "geom:longitude":18.5868,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Koubalo",
+    "gn:country_code":"TD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861531,
+    "gn:latitude":10.0751,
+    "gn:longitude":18.5868,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Koubalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861531
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1016ce99ba4e4e73619da9bc5a9b7ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1226265333,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1226265333,
+    "wof:lastmodified":1536905621,
+    "wof:name":"Koubalo",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5868,
+    10.0751,
+    18.5868,
+    10.0751
+],
+  "geometry": {"coordinates":[18.5868,10.0751],"type":"Point"}
+}

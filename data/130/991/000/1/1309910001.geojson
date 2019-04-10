@@ -1,0 +1,71 @@
+{
+  "id": 1309910001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1592,13.879,19.1592,13.879",
+    "geom:latitude":13.879,
+    "geom:longitude":19.1592,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ngoteur",
+    "gn:country_code":"TD",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426920,
+    "gn:latitude":13.879,
+    "gn:longitude":19.1592,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngoteur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngotteur",
+        "Ngoteur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426920
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9cd3e855b3bdb3e66440a50d84f6595a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1309910001,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1309910001,
+    "wof:lastmodified":1537702710,
+    "wof:name":"Ngoteur",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1592,
+    13.879,
+    19.1592,
+    13.879
+],
+  "geometry": {"coordinates":[19.1592,13.879],"type":"Point"}
+}

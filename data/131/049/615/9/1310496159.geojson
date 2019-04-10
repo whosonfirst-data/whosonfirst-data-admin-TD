@@ -1,0 +1,73 @@
+{
+  "id": 1310496159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5909,8.7072,16.5909,8.7072",
+    "geom:latitude":8.7072,
+    "geom:longitude":16.5909,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Koutoukaybiki",
+    "gn:country_code":"TD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429435,
+    "gn:latitude":8.7072,
+    "gn:longitude":16.5909,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koutoukaybiki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Koutou"
+    ],
+    "name:und_x_variant":[
+        "Koutou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429435
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"91bea5c41f789e79ca580ba7b2c72dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900073,
+            "locality_id":1310496159,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1310496159,
+    "wof:lastmodified":1537702737,
+    "wof:name":"Koutoukaybiki",
+    "wof:parent_id":1091900073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5909,
+    8.7072,
+    16.5909,
+    8.7072
+],
+  "geometry": {"coordinates":[16.5909,8.7072],"type":"Point"}
+}

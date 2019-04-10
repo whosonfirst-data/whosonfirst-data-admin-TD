@@ -1,0 +1,67 @@
+{
+  "id": 1326903627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88855,11.13653,15.88855,11.13653",
+    "geom:latitude":11.13653,
+    "geom:longitude":15.88855,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Maska",
+    "gn:country_code":"TD",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6776173,
+    "gn:latitude":11.13653,
+    "gn:longitude":15.88855,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Maska",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6776173
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b4a47c7a7998e0e1fd2d53e47ebb6285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1326903627,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1326903627,
+    "wof:lastmodified":1536946452,
+    "wof:name":"Maska",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88855,
+    11.13653,
+    15.88855,
+    11.13653
+],
+  "geometry": {"coordinates":[15.88855,11.13653],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343962037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15533,12.82891,18.15533,12.82891",
+    "geom:latitude":12.82891,
+    "geom:longitude":18.15533,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dana",
+    "gn:country_code":"TD",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434241,
+    "gn:latitude":12.82891,
+    "gn:longitude":18.15533,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Dana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434241
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b0ca44f44e3e5f41705f91770af0c485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1343962037,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1343962037,
+    "wof:lastmodified":1537016940,
+    "wof:name":"Dana",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15533,
+    12.82891,
+    18.15533,
+    12.82891
+],
+  "geometry": {"coordinates":[18.15533,12.82891],"type":"Point"}
+}

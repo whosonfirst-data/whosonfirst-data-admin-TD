@@ -1,0 +1,67 @@
+{
+  "id": 1276315297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16346,11.01921,15.16346,11.01921",
+    "geom:latitude":11.01921,
+    "geom:longitude":15.16346,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Loboum",
+    "gn:country_code":"TD",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429078,
+    "gn:latitude":11.01921,
+    "gn:longitude":15.16346,
+    "gn:modification_date":"2008-05-28",
+    "gn:name":"Loboum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429078
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"62a5db2a93d806fc50a1a1f381612913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1276315297,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1276315297,
+    "wof:lastmodified":1536802866,
+    "wof:name":"Loboum",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16346,
+    11.01921,
+    15.16346,
+    11.01921
+],
+  "geometry": {"coordinates":[15.16346,11.01921],"type":"Point"}
+}

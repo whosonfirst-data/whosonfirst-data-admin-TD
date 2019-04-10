@@ -1,0 +1,67 @@
+{
+  "id": 1310010763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8124,11.1744,17.8124,11.1744",
+    "geom:latitude":11.1744,
+    "geom:longitude":17.8124,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Boudia",
+    "gn:country_code":"TD",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434799,
+    "gn:latitude":11.1744,
+    "gn:longitude":17.8124,
+    "gn:modification_date":"2008-10-16",
+    "gn:name":"Boudia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434799
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5e96458ddea97501fb50718e0f1587dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1310010763,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1310010763,
+    "wof:lastmodified":1536634379,
+    "wof:name":"Boudia",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8124,
+    11.1744,
+    17.8124,
+    11.1744
+],
+  "geometry": {"coordinates":[17.8124,11.1744],"type":"Point"}
+}

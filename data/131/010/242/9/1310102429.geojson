@@ -1,0 +1,67 @@
+{
+  "id": 1310102429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0299,13.71334,15.0299,13.71334",
+    "geom:latitude":13.71334,
+    "geom:longitude":15.0299,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kondou I",
+    "gn:country_code":"TD",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430041,
+    "gn:latitude":13.71334,
+    "gn:longitude":15.0299,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Kondou I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430041
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"768ba084478b8c9eab9cd80c431c5df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1310102429,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1310102429,
+    "wof:lastmodified":1537000206,
+    "wof:name":"Kondou I",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0299,
+    13.71334,
+    15.0299,
+    13.71334
+],
+  "geometry": {"coordinates":[15.0299,13.71334],"type":"Point"}
+}

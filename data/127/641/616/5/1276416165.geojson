@@ -1,0 +1,71 @@
+{
+  "id": 1276416165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3627,11.8108,17.3627,11.8108",
+    "geom:latitude":11.8108,
+    "geom:longitude":17.3627,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Toseguedi",
+    "gn:country_code":"TD",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859245,
+    "gn:latitude":11.8108,
+    "gn:longitude":17.3627,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tos\u00e9gu\u00e9di",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tos\u00e9g\u00e9di",
+        "Tos\u00e9gu\u00e9di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859245
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"86cfb74b6ee91e58fa37d76fb239f280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1276416165,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1276416165,
+    "wof:lastmodified":1537702825,
+    "wof:name":"Toseguedi",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3627,
+    11.8108,
+    17.3627,
+    11.8108
+],
+  "geometry": {"coordinates":[17.3627,11.8108],"type":"Point"}
+}

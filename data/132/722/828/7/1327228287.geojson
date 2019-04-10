@@ -1,0 +1,67 @@
+{
+  "id": 1327228287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.52171,13.7412,15.52171,13.7412",
+    "geom:latitude":13.7412,
+    "geom:longitude":15.52171,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lomboa Kokoa",
+    "gn:country_code":"TD",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429035,
+    "gn:latitude":13.7412,
+    "gn:longitude":15.52171,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Lomboa Kokoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429035
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"42c7d56dbc948575396ff1a18636240e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1327228287,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1327228287,
+    "wof:lastmodified":1536975070,
+    "wof:name":"Lomboa Kokoa",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52171,
+    13.7412,
+    15.52171,
+    13.7412
+],
+  "geometry": {"coordinates":[15.52171,13.7412],"type":"Point"}
+}

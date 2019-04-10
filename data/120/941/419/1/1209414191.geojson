@@ -1,0 +1,65 @@
+{
+  "id": 1209414191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8434,12.7687,19.8434,12.7687",
+    "geom:latitude":12.7687,
+    "geom:longitude":19.8434,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kouka Marnie",
+    "gn:country_code":"TD",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429759,
+    "gn:latitude":12.7687,
+    "gn:longitude":19.8434,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouka Marni\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouka Marnia",
+        "Kouka Marni\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429759
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"92348316833f0344e4492e91d37590f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209414191
+        }
+    ],
+    "wof:id":1209414191,
+    "wof:lastmodified":1537702741,
+    "wof:name":"Kouka Marnie",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8434,
+    12.7687,
+    19.8434,
+    12.7687
+],
+  "geometry": {"coordinates":[19.8434,12.7687],"type":"Point"}
+}

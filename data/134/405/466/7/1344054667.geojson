@@ -1,0 +1,73 @@
+{
+  "id": 1344054667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.79207,14.72255,15.79207,14.72255",
+    "geom:latitude":14.72255,
+    "geom:longitude":15.79207,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ziguey",
+    "gn:country_code":"TD",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424047,
+    "gn:latitude":14.72255,
+    "gn:longitude":15.79207,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ziguey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zigey",
+        "Zigue\u00ef",
+        "Zigue\u00efd\u00e9",
+        "Ziguey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424047
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9f334d53419b15a1456229705a2041ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901571,
+            "locality_id":1344054667,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1344054667,
+    "wof:lastmodified":1537702688,
+    "wof:name":"Ziguey",
+    "wof:parent_id":1091901571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.79207,
+    14.72255,
+    15.79207,
+    14.72255
+],
+  "geometry": {"coordinates":[15.79207,14.72255],"type":"Point"}
+}

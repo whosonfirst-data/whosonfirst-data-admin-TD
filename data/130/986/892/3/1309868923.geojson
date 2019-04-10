@@ -1,0 +1,71 @@
+{
+  "id": 1309868923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25607,13.10858,15.25607,13.10858",
+    "geom:latitude":13.10858,
+    "geom:longitude":15.25607,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mahiouwadji",
+    "gn:country_code":"TD",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428785,
+    "gn:latitude":13.10858,
+    "gn:longitude":15.25607,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mahiouwadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Machiouwadji",
+        "Mahiouwadji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428785
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b55519c757cb3c83650396f366cac54c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1309868923,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1309868923,
+    "wof:lastmodified":1537702731,
+    "wof:name":"Mahiouwadji",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25607,
+    13.10858,
+    15.25607,
+    13.10858
+],
+  "geometry": {"coordinates":[15.25607,13.10858],"type":"Point"}
+}

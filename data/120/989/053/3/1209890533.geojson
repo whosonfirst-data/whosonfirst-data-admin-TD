@@ -1,0 +1,71 @@
+{
+  "id": 1209890533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29155,8.72296,15.29155,8.72296",
+    "geom:latitude":8.72296,
+    "geom:longitude":15.29155,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bangsi Laygue",
+    "gn:country_code":"TD",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436037,
+    "gn:latitude":8.72296,
+    "gn:longitude":15.29155,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bangsi Laygu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bangsi Layg\u00e9",
+        "Bangsi Laygu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436037
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7766818cf682a57555dcd6b556983d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1209890533,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1209890533,
+    "wof:lastmodified":1537702809,
+    "wof:name":"Bangsi Laygue",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29155,
+    8.72296,
+    15.29155,
+    8.72296
+],
+  "geometry": {"coordinates":[15.29155,8.72296],"type":"Point"}
+}

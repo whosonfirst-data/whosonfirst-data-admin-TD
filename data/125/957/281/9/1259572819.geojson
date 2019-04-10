@@ -1,0 +1,70 @@
+{
+  "id": 1259572819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68637,8.5927,16.68637,8.5927",
+    "geom:latitude":8.5927,
+    "geom:longitude":16.68637,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bedia",
+    "gn:country_code":"TD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435786,
+    "gn:latitude":8.5927,
+    "gn:longitude":16.68637,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9dia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9dia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435786
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"db248b096ab8d1a4e3365371c84872c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900073,
+            "locality_id":1259572819,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1259572819,
+    "wof:lastmodified":1537702805,
+    "wof:name":"Bedia",
+    "wof:parent_id":1091900073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68637,
+    8.5927,
+    16.68637,
+    8.5927
+],
+  "geometry": {"coordinates":[16.68637,8.5927],"type":"Point"}
+}

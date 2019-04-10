@@ -1,0 +1,71 @@
+{
+  "id": 1293274379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0609,10.73216,16.0609,10.73216",
+    "geom:latitude":10.73216,
+    "geom:longitude":16.0609,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mosgougou",
+    "gn:country_code":"TD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427572,
+    "gn:latitude":10.73216,
+    "gn:longitude":16.0609,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mosgougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mosgougoul",
+        "Mosgougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427572
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"76b9626c89d1a382ff3cf06419f0201b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1293274379,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1293274379,
+    "wof:lastmodified":1537702718,
+    "wof:name":"Mosgougou",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0609,
+    10.73216,
+    16.0609,
+    10.73216
+],
+  "geometry": {"coordinates":[16.0609,10.73216],"type":"Point"}
+}

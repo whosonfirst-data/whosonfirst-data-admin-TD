@@ -1,0 +1,67 @@
+{
+  "id": 1293313921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14796,13.64778,15.14796,13.64778",
+    "geom:latitude":13.64778,
+    "geom:longitude":15.14796,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Youloulia",
+    "gn:country_code":"TD",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424168,
+    "gn:latitude":13.64778,
+    "gn:longitude":15.14796,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Youloulia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424168
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5b779e2ddb473cf5c25232a9cffb73ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1293313921,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1293313921,
+    "wof:lastmodified":1537035779,
+    "wof:name":"Youloulia",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14796,
+    13.64778,
+    15.14796,
+    13.64778
+],
+  "geometry": {"coordinates":[15.14796,13.64778],"type":"Point"}
+}

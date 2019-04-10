@@ -1,0 +1,61 @@
+{
+  "id": 1209619299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83792,13.14423,19.83792,13.14423",
+    "geom:latitude":13.14423,
+    "geom:longitude":19.83792,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Derehite",
+    "gn:country_code":"TD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855725,
+    "gn:latitude":13.14423,
+    "gn:longitude":19.83792,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"D\u00e9r\u00e9hit\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855725
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"937cc4a79ee4e31b484729b40861c46e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209619299
+        }
+    ],
+    "wof:id":1209619299,
+    "wof:lastmodified":1536281576,
+    "wof:name":"Derehite",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83792,
+    13.14423,
+    19.83792,
+    13.14423
+],
+  "geometry": {"coordinates":[19.83792,13.14423],"type":"Point"}
+}

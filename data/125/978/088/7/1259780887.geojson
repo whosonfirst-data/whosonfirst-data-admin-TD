@@ -1,0 +1,67 @@
+{
+  "id": 1259780887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55828,13.93777,15.55828,13.93777",
+    "geom:latitude":13.93777,
+    "geom:longitude":15.55828,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouso",
+    "gn:country_code":"TD",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426290,
+    "gn:latitude":13.93777,
+    "gn:longitude":15.55828,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Ouso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426290
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e2f1115f67a970f6c958153f081220f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1259780887,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1259780887,
+    "wof:lastmodified":1536927668,
+    "wof:name":"Ouso",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55828,
+    13.93777,
+    15.55828,
+    13.93777
+],
+  "geometry": {"coordinates":[15.55828,13.93777],"type":"Point"}
+}

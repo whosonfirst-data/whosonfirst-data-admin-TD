@@ -1,0 +1,67 @@
+{
+  "id": 1276538473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8318,7.8624,15.8318,7.8624",
+    "geom:latitude":7.8624,
+    "geom:longitude":15.8318,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Baitandi",
+    "gn:country_code":"TD",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436192,
+    "gn:latitude":7.8624,
+    "gn:longitude":15.8318,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Ba\u00eftandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436192
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1eec667c20cb76b2fbc0e88bd6624679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1276538473,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1276538473,
+    "wof:lastmodified":1537000327,
+    "wof:name":"Baitandi",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8318,
+    7.8624,
+    15.8318,
+    7.8624
+],
+  "geometry": {"coordinates":[15.8318,7.8624],"type":"Point"}
+}

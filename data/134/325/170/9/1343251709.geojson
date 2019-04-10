@@ -1,0 +1,71 @@
+{
+  "id": 1343251709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9855,7.8587,15.9855,7.8587",
+    "geom:latitude":7.8587,
+    "geom:longitude":15.9855,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bessao III",
+    "gn:country_code":"TD",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435434,
+    "gn:latitude":7.8587,
+    "gn:longitude":15.9855,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bessao III",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9sao II",
+        "Bessao III"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435434
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d4a4e0265d9718246f955d1de603c60f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1343251709,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1343251709,
+    "wof:lastmodified":1537702799,
+    "wof:name":"Bessao III",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9855,
+    7.8587,
+    15.9855,
+    7.8587
+],
+  "geometry": {"coordinates":[15.9855,7.8587],"type":"Point"}
+}

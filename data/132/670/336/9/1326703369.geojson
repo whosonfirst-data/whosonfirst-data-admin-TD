@@ -1,0 +1,71 @@
+{
+  "id": 1326703369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5119,11.4234,16.5119,11.4234",
+    "geom:latitude":11.4234,
+    "geom:longitude":16.5119,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Maguili",
+    "gn:country_code":"TD",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428818,
+    "gn:latitude":11.4234,
+    "gn:longitude":16.5119,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maguili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magili",
+        "Maguili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428818
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"207f70e8e1fd0b22fa24cbe9019d6a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1326703369,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1326703369,
+    "wof:lastmodified":1537702732,
+    "wof:name":"Maguili",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5119,
+    11.4234,
+    16.5119,
+    11.4234
+],
+  "geometry": {"coordinates":[16.5119,11.4234],"type":"Point"}
+}

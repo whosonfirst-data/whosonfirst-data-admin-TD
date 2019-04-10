@@ -1,0 +1,70 @@
+{
+  "id": 1343640851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7,9.78333,20.7,9.78333",
+    "geom:latitude":9.78333,
+    "geom:longitude":20.7,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Chamata",
+    "gn:country_code":"TD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244712,
+    "gn:latitude":9.78333,
+    "gn:longitude":20.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chamata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Chamata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244712
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c5c1a6ffb5bfbac88db70b92644715c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900659,
+            "locality_id":1343640851,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1343640851,
+    "wof:lastmodified":1537702676,
+    "wof:name":"Chamata",
+    "wof:parent_id":1091900659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7,
+    9.78333,
+    20.7,
+    9.78333
+],
+  "geometry": {"coordinates":[20.7,9.78333],"type":"Point"}
+}

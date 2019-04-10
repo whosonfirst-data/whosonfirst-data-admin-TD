@@ -1,0 +1,74 @@
+{
+  "id": 1326619879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25693,8.09294,16.25693,8.09294",
+    "geom:latitude":8.09294,
+    "geom:longitude":16.25693,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Begon",
+    "gn:country_code":"TD",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435516,
+    "gn:latitude":8.09294,
+    "gn:longitude":16.25693,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9gon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bengo Yon"
+    ],
+    "name:und_x_variant":[
+        "B\u00e9gon",
+        "Bengo Yon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435516
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a80fa50f638387218dd65e918863d6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1326619879,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1326619879,
+    "wof:lastmodified":1537702800,
+    "wof:name":"Begon",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25693,
+    8.09294,
+    16.25693,
+    8.09294
+],
+  "geometry": {"coordinates":[16.25693,8.09294],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209581881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1688,11.8522,17.1688,11.8522",
+    "geom:latitude":11.8522,
+    "geom:longitude":17.1688,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Djimez",
+    "gn:country_code":"TD",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433574,
+    "gn:latitude":11.8522,
+    "gn:longitude":17.1688,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djimez",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djim\u00e8ze",
+        "Djimez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433574
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ecd7e09c5ae6960b94ad891758679b2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209581881
+        }
+    ],
+    "wof:id":1209581881,
+    "wof:lastmodified":1537702780,
+    "wof:name":"Djimez",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1688,
+    11.8522,
+    17.1688,
+    11.8522
+],
+  "geometry": {"coordinates":[17.1688,11.8522],"type":"Point"}
+}

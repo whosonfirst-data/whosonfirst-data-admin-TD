@@ -1,0 +1,67 @@
+{
+  "id": 1344226681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5317,9.4894,15.5317,9.4894",
+    "geom:latitude":9.4894,
+    "geom:longitude":15.5317,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gouama",
+    "gn:country_code":"TD",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431859,
+    "gn:latitude":9.4894,
+    "gn:longitude":15.5317,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Gouama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431859
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a0fe4b74a30fef63de1c20c1fa6707a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900311,
+            "locality_id":1344226681,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1344226681,
+    "wof:lastmodified":1536634560,
+    "wof:name":"Gouama",
+    "wof:parent_id":1091900311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5317,
+    9.4894,
+    15.5317,
+    9.4894
+],
+  "geometry": {"coordinates":[15.5317,9.4894],"type":"Point"}
+}

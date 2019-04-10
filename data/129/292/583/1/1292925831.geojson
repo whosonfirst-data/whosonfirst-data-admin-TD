@@ -1,0 +1,67 @@
+{
+  "id": 1292925831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7166,8.6049,15.7166,8.6049",
+    "geom:latitude":8.6049,
+    "geom:longitude":15.7166,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Baguetia",
+    "gn:country_code":"TD",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859973,
+    "gn:latitude":8.6049,
+    "gn:longitude":15.7166,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Bagu\u00e9tia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859973
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"717820dd2f72e2f2dafd74a84998ad67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1292925831,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1292925831,
+    "wof:lastmodified":1537096614,
+    "wof:name":"Baguetia",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7166,
+    8.6049,
+    15.7166,
+    8.6049
+],
+  "geometry": {"coordinates":[15.7166,8.6049],"type":"Point"}
+}

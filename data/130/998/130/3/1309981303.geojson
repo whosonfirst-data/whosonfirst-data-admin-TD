@@ -1,0 +1,67 @@
+{
+  "id": 1309981303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8505,8.6214,17.8505,8.6214",
+    "geom:latitude":8.6214,
+    "geom:longitude":17.8505,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ngassote II",
+    "gn:country_code":"TD",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426983,
+    "gn:latitude":8.6214,
+    "gn:longitude":17.8505,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Ngassot\u00e9 II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426983
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f559f75863719b7371557b11a05c5ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1309981303,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1309981303,
+    "wof:lastmodified":1536678256,
+    "wof:name":"Ngassote II",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8505,
+    8.6214,
+    17.8505,
+    8.6214
+],
+  "geometry": {"coordinates":[17.8505,8.6214],"type":"Point"}
+}

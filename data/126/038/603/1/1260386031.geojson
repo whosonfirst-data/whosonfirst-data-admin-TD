@@ -1,0 +1,67 @@
+{
+  "id": 1260386031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24439,13.68861,15.24439,13.68861",
+    "geom:latitude":13.68861,
+    "geom:longitude":15.24439,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Batiri",
+    "gn:country_code":"TD",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6986337,
+    "gn:latitude":13.68861,
+    "gn:longitude":15.24439,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Batiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986337
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4e47094e4c6d7ceea83e541bf32ac012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1260386031,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1260386031,
+    "wof:lastmodified":1537068631,
+    "wof:name":"Batiri",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24439,
+    13.68861,
+    15.24439,
+    13.68861
+],
+  "geometry": {"coordinates":[15.24439,13.68861],"type":"Point"}
+}

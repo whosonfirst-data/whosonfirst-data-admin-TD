@@ -1,0 +1,67 @@
+{
+  "id": 1277046449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72496,9.4571,15.72496,9.4571",
+    "geom:latitude":9.4571,
+    "geom:longitude":15.72496,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Djera",
+    "gn:country_code":"TD",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433642,
+    "gn:latitude":9.4571,
+    "gn:longitude":15.72496,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Dj\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433642
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"435826cf5e9d18510e4eb2420e2d813d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1277046449,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1277046449,
+    "wof:lastmodified":1536817103,
+    "wof:name":"Djera",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72496,
+    9.4571,
+    15.72496,
+    9.4571
+],
+  "geometry": {"coordinates":[15.72496,9.4571],"type":"Point"}
+}

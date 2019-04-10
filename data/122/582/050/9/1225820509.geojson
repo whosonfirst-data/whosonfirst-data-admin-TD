@@ -1,0 +1,67 @@
+{
+  "id": 1225820509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2693,8.4014,17.2693,8.4014",
+    "geom:latitude":8.4014,
+    "geom:longitude":17.2693,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Do",
+    "gn:country_code":"TD",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859447,
+    "gn:latitude":8.4014,
+    "gn:longitude":17.2693,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Do",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091899975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859447
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3721392644237ab481b3b1b695fad77f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899975,
+            "locality_id":1225820509,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1225820509,
+    "wof:lastmodified":1537048096,
+    "wof:name":"Do",
+    "wof:parent_id":1091899975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2693,
+    8.4014,
+    17.2693,
+    8.4014
+],
+  "geometry": {"coordinates":[17.2693,8.4014],"type":"Point"}
+}

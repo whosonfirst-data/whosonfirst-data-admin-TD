@@ -1,0 +1,67 @@
+{
+  "id": 1293263231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.19788,9.15879,16.19788,9.15879",
+    "geom:latitude":9.15879,
+    "geom:longitude":16.19788,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tchaka",
+    "gn:country_code":"TD",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425192,
+    "gn:latitude":9.15879,
+    "gn:longitude":16.19788,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Tchaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091901691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425192
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d3f5111ad4b4a564c76cb6f85ab62145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901691,
+            "locality_id":1293263231,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1293263231,
+    "wof:lastmodified":1536610812,
+    "wof:name":"Tchaka",
+    "wof:parent_id":1091901691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.19788,
+    9.15879,
+    16.19788,
+    9.15879
+],
+  "geometry": {"coordinates":[16.19788,9.15879],"type":"Point"}
+}

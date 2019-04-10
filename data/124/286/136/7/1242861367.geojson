@@ -1,0 +1,70 @@
+{
+  "id": 1242861367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66964,13.53352,20.66964,13.53352",
+    "geom:latitude":13.53352,
+    "geom:longitude":20.66964,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hidjerat",
+    "gn:country_code":"TD",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243675,
+    "gn:latitude":13.53352,
+    "gn:longitude":20.66964,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Hidj\u00e9rat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Hidj\u00e9rat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243675
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0c0330f7b54e4b84df0b46cd74e5af68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1242861367,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1242861367,
+    "wof:lastmodified":1537702667,
+    "wof:name":"Hidjerat",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66964,
+    13.53352,
+    20.66964,
+    13.53352
+],
+  "geometry": {"coordinates":[20.66964,13.53352],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327120725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5773,11.2361,20.5773,11.2361",
+    "geom:latitude":11.2361,
+    "geom:longitude":20.5773,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sehep",
+    "gn:country_code":"TD",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241993,
+    "gn:latitude":11.2361,
+    "gn:longitude":20.5773,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e9hep",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cehep",
+        "S\u00e9hep"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241993
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"50d70320e48604bb72edf21427e70a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1327120725,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1327120725,
+    "wof:lastmodified":1537702651,
+    "wof:name":"Sehep",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5773,
+    11.2361,
+    20.5773,
+    11.2361
+],
+  "geometry": {"coordinates":[20.5773,11.2361],"type":"Point"}
+}

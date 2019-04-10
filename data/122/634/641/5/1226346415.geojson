@@ -1,0 +1,67 @@
+{
+  "id": 1226346415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2734,13.1573,18.2734,13.1573",
+    "geom:latitude":13.1573,
+    "geom:longitude":18.2734,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Angalbe",
+    "gn:country_code":"TD",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436709,
+    "gn:latitude":13.1573,
+    "gn:longitude":18.2734,
+    "gn:modification_date":"2008-09-04",
+    "gn:name":"Angalb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436709
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"90e5823437e7a23766e52a35ce8ef9cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1226346415,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1226346415,
+    "wof:lastmodified":1536788900,
+    "wof:name":"Angalbe",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2734,
+    13.1573,
+    18.2734,
+    13.1573
+],
+  "geometry": {"coordinates":[18.2734,13.1573],"type":"Point"}
+}

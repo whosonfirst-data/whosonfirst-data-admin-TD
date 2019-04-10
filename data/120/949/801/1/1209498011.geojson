@@ -1,0 +1,66 @@
+{
+  "id": 1209498011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71533,12.2383,15.71533,12.2383",
+    "geom:latitude":12.2383,
+    "geom:longitude":15.71533,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Abou",
+    "gn:country_code":"TD",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437610,
+    "gn:latitude":12.2383,
+    "gn:longitude":15.71533,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abousouf",
+        "Aboussouf",
+        "Abou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437610
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b270b83895905ab5dc974879f44c4845",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209498011
+        }
+    ],
+    "wof:id":1209498011,
+    "wof:lastmodified":1537702822,
+    "wof:name":"Abou",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71533,
+    12.2383,
+    15.71533,
+    12.2383
+],
+  "geometry": {"coordinates":[15.71533,12.2383],"type":"Point"}
+}

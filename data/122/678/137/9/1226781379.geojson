@@ -1,0 +1,67 @@
+{
+  "id": 1226781379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.774,12.7939,19.774,12.7939",
+    "geom:latitude":12.7939,
+    "geom:longitude":19.774,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bakhat Salman O. Diap",
+    "gn:country_code":"TD",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436174,
+    "gn:latitude":12.7939,
+    "gn:longitude":19.774,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"Bakhat Salman O. Diap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436174
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"561ccc0fbe924917203dc60e7c3a1e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900939,
+            "locality_id":1226781379,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1226781379,
+    "wof:lastmodified":1536664311,
+    "wof:name":"Bakhat Salman O. Diap",
+    "wof:parent_id":1091900939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.774,
+    12.7939,
+    19.774,
+    12.7939
+],
+  "geometry": {"coordinates":[19.774,12.7939],"type":"Point"}
+}

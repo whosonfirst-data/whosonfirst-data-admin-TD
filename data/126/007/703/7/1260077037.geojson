@@ -1,0 +1,67 @@
+{
+  "id": 1260077037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48275,13.46723,15.48275,13.46723",
+    "geom:latitude":13.46723,
+    "geom:longitude":15.48275,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kachelanga",
+    "gn:country_code":"TD",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6986366,
+    "gn:latitude":13.46723,
+    "gn:longitude":15.48275,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Kach\u00e9langa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986366
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"425326c4f369c799ede4dad8c26eb372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1260077037,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1260077037,
+    "wof:lastmodified":1536996589,
+    "wof:name":"Kachelanga",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48275,
+    13.46723,
+    15.48275,
+    13.46723
+],
+  "geometry": {"coordinates":[15.48275,13.46723],"type":"Point"}
+}

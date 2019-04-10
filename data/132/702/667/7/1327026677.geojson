@@ -1,0 +1,72 @@
+{
+  "id": 1327026677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98333,13.38333,14.98333,13.38333",
+    "geom:latitude":13.38333,
+    "geom:longitude":14.98333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ouan",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426510,
+    "gn:latitude":13.38333,
+    "gn:longitude":14.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouan I",
+        "Ouan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426510
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c693a133929177dd31e9c7c8520be5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1327026677,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1327026677,
+    "wof:lastmodified":1537702707,
+    "wof:name":"Ouan",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98333,
+    13.38333,
+    14.98333,
+    13.38333
+],
+  "geometry": {"coordinates":[14.98333,13.38333],"type":"Point"}
+}

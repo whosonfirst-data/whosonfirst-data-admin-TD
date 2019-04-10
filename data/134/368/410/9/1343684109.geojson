@@ -1,0 +1,67 @@
+{
+  "id": 1343684109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3373,8.4423,15.3373,8.4423",
+    "geom:latitude":8.4423,
+    "geom:longitude":15.3373,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Doba",
+    "gn:country_code":"TD",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859935,
+    "gn:latitude":8.4423,
+    "gn:longitude":15.3373,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Doba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859935
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"175f407ab2cacc1e3ad90b6888b71a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900057,
+            "locality_id":1343684109,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1343684109,
+    "wof:lastmodified":1536921636,
+    "wof:name":"Doba",
+    "wof:parent_id":1091900057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3373,
+    8.4423,
+    15.3373,
+    8.4423
+],
+  "geometry": {"coordinates":[15.3373,8.4423],"type":"Point"}
+}

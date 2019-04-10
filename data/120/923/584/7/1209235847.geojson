@@ -1,0 +1,61 @@
+{
+  "id": 1209235847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10616,13.69808,15.10616,13.69808",
+    "geom:latitude":13.69808,
+    "geom:longitude":15.10616,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yari",
+    "gn:country_code":"TD",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424312,
+    "gn:latitude":13.69808,
+    "gn:longitude":15.10616,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Yari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424312
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"36ccae8a35824a31ce499486e5aaef5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209235847
+        }
+    ],
+    "wof:id":1209235847,
+    "wof:lastmodified":1536293484,
+    "wof:name":"Yari",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10616,
+    13.69808,
+    15.10616,
+    13.69808
+],
+  "geometry": {"coordinates":[15.10616,13.69808],"type":"Point"}
+}

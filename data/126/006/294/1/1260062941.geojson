@@ -1,0 +1,71 @@
+{
+  "id": 1260062941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23375,12.15621,15.23375,12.15621",
+    "geom:latitude":12.15621,
+    "geom:longitude":15.23375,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Belede Madouan",
+    "gn:country_code":"TD",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435640,
+    "gn:latitude":12.15621,
+    "gn:longitude":15.23375,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Belede Madouan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belde Madouan",
+        "Belede Madouan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435640
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b2314e508d8ef4389aaf59c5b5ef3051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1260062941,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1260062941,
+    "wof:lastmodified":1537702802,
+    "wof:name":"Belede Madouan",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23375,
+    12.15621,
+    15.23375,
+    12.15621
+],
+  "geometry": {"coordinates":[15.23375,12.15621],"type":"Point"}
+}

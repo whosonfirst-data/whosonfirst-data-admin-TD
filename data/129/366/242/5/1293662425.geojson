@@ -1,0 +1,67 @@
+{
+  "id": 1293662425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24006,11.45935,15.24006,11.45935",
+    "geom:latitude":11.45935,
+    "geom:longitude":15.24006,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mankin",
+    "gn:country_code":"TD",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428413,
+    "gn:latitude":11.45935,
+    "gn:longitude":15.24006,
+    "gn:modification_date":"2008-05-28",
+    "gn:name":"Mankin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428413
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ee68ccc1eaedf5153919580e15834d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1293662425,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1293662425,
+    "wof:lastmodified":1537030838,
+    "wof:name":"Mankin",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24006,
+    11.45935,
+    15.24006,
+    11.45935
+],
+  "geometry": {"coordinates":[15.24006,11.45935],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277097985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.56667,14.25,13.56667,14.25",
+    "geom:latitude":14.25,
+    "geom:longitude":13.56667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Melasode",
+    "gn:country_code":"TD",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427972,
+    "gn:latitude":14.25,
+    "gn:longitude":13.56667,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"M\u00e9lasod\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427972
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"84f8f28ce60c90310765091c3963b62b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1277097985,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1277097985,
+    "wof:lastmodified":1536745404,
+    "wof:name":"Melasode",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56667,
+    14.25,
+    13.56667,
+    14.25
+],
+  "geometry": {"coordinates":[13.56667,14.25],"type":"Point"}
+}

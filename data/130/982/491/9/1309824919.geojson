@@ -1,0 +1,67 @@
+{
+  "id": 1309824919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5873,9.1318,16.5873,9.1318",
+    "geom:latitude":9.1318,
+    "geom:longitude":16.5873,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nankassa",
+    "gn:country_code":"TD",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427219,
+    "gn:latitude":9.1318,
+    "gn:longitude":16.5873,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Nankassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427219
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a2ca59519639c42fef36cbb8dd7f08f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900157,
+            "locality_id":1309824919,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1309824919,
+    "wof:lastmodified":1536903755,
+    "wof:name":"Nankassa",
+    "wof:parent_id":1091900157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5873,
+    9.1318,
+    16.5873,
+    9.1318
+],
+  "geometry": {"coordinates":[16.5873,9.1318],"type":"Point"}
+}

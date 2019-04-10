@@ -1,0 +1,67 @@
+{
+  "id": 1343632327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3647,9.8568,16.3647,9.8568",
+    "geom:latitude":9.8568,
+    "geom:longitude":16.3647,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sirada",
+    "gn:country_code":"TD",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870688,
+    "gn:latitude":9.8568,
+    "gn:longitude":16.3647,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Sirada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870688
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6a7d5ee0c70e0f34b3b016fe960bbf08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1343632327,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1343632327,
+    "wof:lastmodified":1536994933,
+    "wof:name":"Sirada",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3647,
+    9.8568,
+    16.3647,
+    9.8568
+],
+  "geometry": {"coordinates":[16.3647,9.8568],"type":"Point"}
+}

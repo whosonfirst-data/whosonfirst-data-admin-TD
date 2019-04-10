@@ -1,0 +1,67 @@
+{
+  "id": 1310281315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9257,9.9806,18.9257,9.9806",
+    "geom:latitude":9.9806,
+    "geom:longitude":18.9257,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yanga",
+    "gn:country_code":"TD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6872118,
+    "gn:latitude":9.9806,
+    "gn:longitude":18.9257,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Yanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6872118
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e7631fd77c4a5a8dc6891ba2838397c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1310281315,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1310281315,
+    "wof:lastmodified":1536742598,
+    "wof:name":"Yanga",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9257,
+    9.9806,
+    18.9257,
+    9.9806
+],
+  "geometry": {"coordinates":[18.9257,9.9806],"type":"Point"}
+}

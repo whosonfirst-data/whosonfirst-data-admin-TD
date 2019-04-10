@@ -1,0 +1,70 @@
+{
+  "id": 1343967573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.24717,13.2298,20.24717,13.2298",
+    "geom:latitude":13.2298,
+    "geom:longitude":20.24717,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Am Rhirebi",
+    "gn:country_code":"TD",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245371,
+    "gn:latitude":13.2298,
+    "gn:longitude":20.24717,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Am Rhir\u00e9bi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Am Rhir\u00e9bi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245371
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5c81ac668656189b4ac0e024142b909d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1343967573,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1343967573,
+    "wof:lastmodified":1537702682,
+    "wof:name":"Am Rhirebi",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.24717,
+    13.2298,
+    20.24717,
+    13.2298
+],
+  "geometry": {"coordinates":[20.24717,13.2298],"type":"Point"}
+}

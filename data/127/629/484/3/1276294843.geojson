@@ -1,0 +1,72 @@
+{
+  "id": 1276294843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70494,13.04253,15.70494,13.04253",
+    "geom:latitude":13.04253,
+    "geom:longitude":15.70494,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Karasoua",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430767,
+    "gn:latitude":13.04253,
+    "gn:longitude":15.70494,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karasoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanassoua",
+        "Karassoa",
+        "Karasoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430767
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"58041f686254398dfd0e320e8a22f13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1276294843,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1276294843,
+    "wof:lastmodified":1537702749,
+    "wof:name":"Karasoua",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70494,
+    13.04253,
+    15.70494,
+    13.04253
+],
+  "geometry": {"coordinates":[15.70494,13.04253],"type":"Point"}
+}

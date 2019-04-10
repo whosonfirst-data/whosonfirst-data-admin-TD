@@ -1,0 +1,105 @@
+{
+  "id": 890444445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0568,12.3807,17.0568,12.3807",
+    "geom:latitude":12.3807,
+    "geom:longitude":17.0568,
+    "gn:country":"TD",
+    "gn:fcode":"PPL",
+    "gn:pop":14723,
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0643\u0648\u0631\u0648"
+    ],
+    "name:chi_x_preferred":[
+        "\u535a\u79d1\u7f85"
+    ],
+    "name:dut_x_preferred":[
+        "Bokoro"
+    ],
+    "name:eng_x_preferred":[
+        "Bokoro"
+    ],
+    "name:fra_x_preferred":[
+        "Bokoro"
+    ],
+    "name:fre_x_preferred":[
+        "Bokoro"
+    ],
+    "name:ita_x_preferred":[
+        "Bokoro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30b3\u30ed"
+    ],
+    "name:pol_x_preferred":[
+        "Bokoro"
+    ],
+    "name:rum_x_preferred":[
+        "Bokoro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043a\u043e\u0440\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u06a9\u0648\u0631\u0648"
+    ],
+    "qs:name":"Bokoro",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434985,
+        "gp:id":1272647,
+        "qs:id":1035750,
+        "wd:id":"Q2909258",
+        "wk:page":"Bokoro"
+    },
+    "wof:country":"TD",
+    "wof:created":1469052469,
+    "wof:geomhash":"4ff0554ea1de0697486ac1f23c5dc3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":890444445,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":890444445,
+    "wof:lastmodified":1527782135,
+    "wof:name":"Bokoro",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:population":14723,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.0568,
+    12.3807,
+    17.0568,
+    12.3807
+],
+  "geometry": {"coordinates":[17.0568,12.3807],"type":"Point"}
+}

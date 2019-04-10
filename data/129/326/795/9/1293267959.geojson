@@ -1,0 +1,70 @@
+{
+  "id": 1293267959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97234,12.85007,14.97234,12.85007",
+    "geom:latitude":12.85007,
+    "geom:longitude":14.97234,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Assiguet",
+    "gn:country_code":"TD",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436448,
+    "gn:latitude":12.85007,
+    "gn:longitude":14.97234,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Assiguet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asiget"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436448
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8157ab88bd45232e62c36b075fb390f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1293267959,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1293267959,
+    "wof:lastmodified":1537702813,
+    "wof:name":"Assiguet",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97234,
+    12.85007,
+    14.97234,
+    12.85007
+],
+  "geometry": {"coordinates":[14.97234,12.85007],"type":"Point"}
+}

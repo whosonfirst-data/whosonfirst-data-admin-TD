@@ -1,0 +1,67 @@
+{
+  "id": 1276856887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28909,8.90873,16.28909,8.90873",
+    "geom:latitude":8.90873,
+    "geom:longitude":16.28909,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Begoumara",
+    "gn:country_code":"TD",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6909139,
+    "gn:latitude":8.90873,
+    "gn:longitude":16.28909,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"B\u00e9goumara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909139
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"933b74e381b2f83d272621172a7770d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1276856887,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1276856887,
+    "wof:lastmodified":1537068915,
+    "wof:name":"Begoumara",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28909,
+    8.90873,
+    16.28909,
+    8.90873
+],
+  "geometry": {"coordinates":[16.28909,8.90873],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242769541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69816,13.68969,15.69816,13.68969",
+    "geom:latitude":13.68969,
+    "geom:longitude":15.69816,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ilili",
+    "gn:country_code":"TD",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6986333,
+    "gn:latitude":13.68969,
+    "gn:longitude":15.69816,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Ilili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986333
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"359d078897a0a2e1210ee3c684c21798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1242769541,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1242769541,
+    "wof:lastmodified":1536787700,
+    "wof:name":"Ilili",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69816,
+    13.68969,
+    15.69816,
+    13.68969
+],
+  "geometry": {"coordinates":[15.69816,13.68969],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293387573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15718,14.25394,15.15718,14.25394",
+    "geom:latitude":14.25394,
+    "geom:longitude":15.15718,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Boula Fodou",
+    "gn:country_code":"TD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434741,
+    "gn:latitude":14.25394,
+    "gn:longitude":15.15718,
+    "gn:modification_date":"2009-02-24",
+    "gn:name":"Boula Fodou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434741
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5c816dd8b9876b830a24395d78193684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1293387573,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1293387573,
+    "wof:lastmodified":1536931823,
+    "wof:name":"Boula Fodou",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15718,
+    14.25394,
+    15.15718,
+    14.25394
+],
+  "geometry": {"coordinates":[15.15718,14.25394],"type":"Point"}
+}

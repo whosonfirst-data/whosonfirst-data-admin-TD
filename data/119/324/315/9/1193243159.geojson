@@ -1,0 +1,67 @@
+{
+  "id": 1193243159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3168,9.7687,14.3168,9.7687",
+    "geom:latitude":9.7687,
+    "geom:longitude":14.3168,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Matepanri",
+    "gn:country_code":"TD",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428167,
+    "gn:latitude":9.7687,
+    "gn:longitude":14.3168,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Mat\u00e9panri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091901927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428167
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c533180aa5c078c3166b91620e006d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901927,
+            "locality_id":1193243159,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1193243159,
+    "wof:lastmodified":1536376218,
+    "wof:name":"Matepanri",
+    "wof:parent_id":1091901927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3168,
+    9.7687,
+    14.3168,
+    9.7687
+],
+  "geometry": {"coordinates":[14.3168,9.7687],"type":"Point"}
+}

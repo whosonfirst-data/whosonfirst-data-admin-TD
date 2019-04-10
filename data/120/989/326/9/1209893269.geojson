@@ -1,0 +1,70 @@
+{
+  "id": 1209893269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.94041,13.55248,20.94041,13.55248",
+    "geom:latitude":13.55248,
+    "geom:longitude":20.94041,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kideyde",
+    "gn:country_code":"TD",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243313,
+    "gn:latitude":13.55248,
+    "gn:longitude":20.94041,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Kideyd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kideyd\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243313
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b723c7495230f3c2ae916457e46a134d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1209893269,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1209893269,
+    "wof:lastmodified":1537702663,
+    "wof:name":"Kideyde",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.94041,
+    13.55248,
+    20.94041,
+    13.55248
+],
+  "geometry": {"coordinates":[20.94041,13.55248],"type":"Point"}
+}

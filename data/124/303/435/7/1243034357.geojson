@@ -1,0 +1,71 @@
+{
+  "id": 1243034357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84089,12.96438,15.84089,12.96438",
+    "geom:latitude":12.96438,
+    "geom:longitude":15.84089,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Am Charma",
+    "gn:country_code":"TD",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437022,
+    "gn:latitude":12.96438,
+    "gn:longitude":15.84089,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Am Charma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Charm\u00e9",
+        "Am Charma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437022
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d6d3f973c27b570a177a9fda6660fc97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1243034357,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1243034357,
+    "wof:lastmodified":1537702816,
+    "wof:name":"Am Charma",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84089,
+    12.96438,
+    15.84089,
+    12.96438
+],
+  "geometry": {"coordinates":[15.84089,12.96438],"type":"Point"}
+}

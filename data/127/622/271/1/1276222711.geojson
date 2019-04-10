@@ -1,0 +1,71 @@
+{
+  "id": 1276222711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88489,8.78859,15.88489,8.78859",
+    "geom:latitude":8.78859,
+    "geom:longitude":15.88489,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dobeni",
+    "gn:country_code":"TD",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433420,
+    "gn:latitude":8.78859,
+    "gn:longitude":15.88489,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dob\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobeni I",
+        "Dob\u00e9ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433420
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c9ec7006c9fb7a3efbb923370e5340af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1276222711,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1276222711,
+    "wof:lastmodified":1537702777,
+    "wof:name":"Dobeni",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88489,
+    8.78859,
+    15.88489,
+    8.78859
+],
+  "geometry": {"coordinates":[15.88489,8.78859],"type":"Point"}
+}

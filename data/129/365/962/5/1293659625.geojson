@@ -1,0 +1,67 @@
+{
+  "id": 1293659625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7572,10.8195,16.7572,10.8195",
+    "geom:latitude":10.8195,
+    "geom:longitude":16.7572,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Al Adjiri",
+    "gn:country_code":"TD",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437285,
+    "gn:latitude":10.8195,
+    "gn:longitude":16.7572,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Al Adjiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437285
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"eddba394578e68371501f257299db067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900595,
+            "locality_id":1293659625,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1293659625,
+    "wof:lastmodified":1537034684,
+    "wof:name":"Al Adjiri",
+    "wof:parent_id":1091900595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7572,
+    10.8195,
+    16.7572,
+    10.8195
+],
+  "geometry": {"coordinates":[16.7572,10.8195],"type":"Point"}
+}

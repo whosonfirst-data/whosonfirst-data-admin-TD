@@ -1,0 +1,61 @@
+{
+  "id": 1209599849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6711,7.8586,16.6711,7.8586",
+    "geom:latitude":7.8586,
+    "geom:longitude":16.6711,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dobama",
+    "gn:country_code":"TD",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433430,
+    "gn:latitude":7.8586,
+    "gn:longitude":16.6711,
+    "gn:modification_date":"2008-10-14",
+    "gn:name":"Dobama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433430
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"25d3df84ec2370fa52c1925c7efa0091",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209599849
+        }
+    ],
+    "wof:id":1209599849,
+    "wof:lastmodified":1536282203,
+    "wof:name":"Dobama",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6711,
+    7.8586,
+    16.6711,
+    7.8586
+],
+  "geometry": {"coordinates":[16.6711,7.8586],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293849503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17043,8.61354,17.17043,8.61354",
+    "geom:latitude":8.61354,
+    "geom:longitude":17.17043,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bedobouyou",
+    "gn:country_code":"TD",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859493,
+    "gn:latitude":8.61354,
+    "gn:longitude":17.17043,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Bedobouyou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091899975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859493
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5fed00618d3cae37a09204b947f9fb9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899975,
+            "locality_id":1293849503,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1293849503,
+    "wof:lastmodified":1536762705,
+    "wof:name":"Bedobouyou",
+    "wof:parent_id":1091899975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17043,
+    8.61354,
+    17.17043,
+    8.61354
+],
+  "geometry": {"coordinates":[17.17043,8.61354],"type":"Point"}
+}

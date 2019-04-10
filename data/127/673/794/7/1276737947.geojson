@@ -1,0 +1,67 @@
+{
+  "id": 1276737947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.54508,8.90669,17.54508,8.90669",
+    "geom:latitude":8.90669,
+    "geom:longitude":17.54508,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ardef",
+    "gn:country_code":"TD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859565,
+    "gn:latitude":8.90669,
+    "gn:longitude":17.54508,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ardef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859565
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e4a5c7e889f2af965d3eefb96ae9be1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900193,
+            "locality_id":1276737947,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1276737947,
+    "wof:lastmodified":1536733943,
+    "wof:name":"Ardef",
+    "wof:parent_id":1091900193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.54508,
+    8.90669,
+    17.54508,
+    8.90669
+],
+  "geometry": {"coordinates":[17.54508,8.90669],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242591925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2947,13.0127,19.2947,13.0127",
+    "geom:latitude":13.0127,
+    "geom:longitude":19.2947,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hadjalidj",
+    "gn:country_code":"TD",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855735,
+    "gn:latitude":13.0127,
+    "gn:longitude":19.2947,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Hadjalidj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855735
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4ba48219a226aee09b600a4a69071140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1242591925,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1242591925,
+    "wof:lastmodified":1537041184,
+    "wof:name":"Hadjalidj",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2947,
+    13.0127,
+    19.2947,
+    13.0127
+],
+  "geometry": {"coordinates":[19.2947,13.0127],"type":"Point"}
+}

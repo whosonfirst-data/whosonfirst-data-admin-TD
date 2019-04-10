@@ -1,0 +1,67 @@
+{
+  "id": 1259465169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9841,9.8762,14.9841,9.8762",
+    "geom:latitude":9.8762,
+    "geom:longitude":14.9841,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tonton",
+    "gn:country_code":"TD",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424652,
+    "gn:latitude":9.8762,
+    "gn:longitude":14.9841,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Tonton",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424652
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b739ab58d1b9b6a7b75a393a5f4063a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900357,
+            "locality_id":1259465169,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1259465169,
+    "wof:lastmodified":1536884554,
+    "wof:name":"Tonton",
+    "wof:parent_id":1091900357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9841,
+    9.8762,
+    14.9841,
+    9.8762
+],
+  "geometry": {"coordinates":[14.9841,9.8762],"type":"Point"}
+}

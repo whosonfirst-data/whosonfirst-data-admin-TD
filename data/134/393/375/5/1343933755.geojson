@@ -1,0 +1,72 @@
+{
+  "id": 1343933755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00319,12.58268,15.00319,12.58268",
+    "geom:latitude":12.58268,
+    "geom:longitude":15.00319,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Madkous",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428885,
+    "gn:latitude":12.58268,
+    "gn:longitude":15.00319,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Madkous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mateukouss",
+        "Mateukous",
+        "Madkous"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428885
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b2a3a5084de5c7ddf0400c7c1020d051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1343933755,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1343933755,
+    "wof:lastmodified":1537702733,
+    "wof:name":"Madkous",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00319,
+    12.58268,
+    15.00319,
+    12.58268
+],
+  "geometry": {"coordinates":[15.00319,12.58268],"type":"Point"}
+}

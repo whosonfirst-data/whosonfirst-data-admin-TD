@@ -1,0 +1,73 @@
+{
+  "id": 1210015787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.63749,12.67554,18.63749,12.67554",
+    "geom:latitude":12.67554,
+    "geom:longitude":18.63749,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Delep",
+    "gn:country_code":"TD",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434058,
+    "gn:latitude":12.67554,
+    "gn:longitude":18.63749,
+    "gn:modification_date":"2017-03-29",
+    "gn:name":"D\u00e9l\u00e9p",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Deleb",
+        "D\u00e9l\u00e9b\u00e9",
+        "D\u00e9l\u00e9p",
+        "Delep"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434058
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7461dc8ab7608a37c0be834ab2f4f546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900821,
+            "locality_id":1210015787,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1210015787,
+    "wof:lastmodified":1537702784,
+    "wof:name":"Delep",
+    "wof:parent_id":1091900821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63749,
+    12.67554,
+    18.63749,
+    12.67554
+],
+  "geometry": {"coordinates":[18.63749,12.67554],"type":"Point"}
+}

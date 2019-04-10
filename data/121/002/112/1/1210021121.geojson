@@ -1,0 +1,67 @@
+{
+  "id": 1210021121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.6984,11.2835,17.6984,11.2835",
+    "geom:latitude":11.2835,
+    "geom:longitude":17.6984,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Oso",
+    "gn:country_code":"TD",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859173,
+    "gn:latitude":11.2835,
+    "gn:longitude":17.6984,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Oso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859173
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c3a5ca01ecb06e66c28ab81b9e66706f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1210021121,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1210021121,
+    "wof:lastmodified":1536392818,
+    "wof:name":"Oso",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.6984,
+    11.2835,
+    17.6984,
+    11.2835
+],
+  "geometry": {"coordinates":[17.6984,11.2835],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209027805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43868,13.42,15.43868,13.42",
+    "geom:latitude":13.42,
+    "geom:longitude":15.43868,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Morkirom",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427606,
+    "gn:latitude":13.42,
+    "gn:longitude":15.43868,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Morkirom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427606
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5b7039c780b82f7f18e49cb786e37320",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209027805
+        }
+    ],
+    "wof:id":1209027805,
+    "wof:lastmodified":1536299941,
+    "wof:name":"Morkirom",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.438679999999998,
+    13.42,
+    15.438679999999998,
+    13.42
+],
+  "geometry": {"coordinates":[15.43868,13.42],"type":"Point"}
+}

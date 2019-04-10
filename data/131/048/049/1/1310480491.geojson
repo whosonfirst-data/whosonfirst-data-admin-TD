@@ -1,0 +1,67 @@
+{
+  "id": 1310480491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7785,9.18199,15.7785,9.18199",
+    "geom:latitude":9.18199,
+    "geom:longitude":15.7785,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Disoua Gaidro",
+    "gn:country_code":"TD",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433778,
+    "gn:latitude":9.18199,
+    "gn:longitude":15.7785,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Disoua Gaidro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433778
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9086379d755ea2b07aa0ebe6d716571c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1310480491,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1310480491,
+    "wof:lastmodified":1536953125,
+    "wof:name":"Disoua Gaidro",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7785,
+    9.18199,
+    15.7785,
+    9.18199
+],
+  "geometry": {"coordinates":[15.7785,9.18199],"type":"Point"}
+}

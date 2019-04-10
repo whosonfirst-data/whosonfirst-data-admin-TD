@@ -1,0 +1,67 @@
+{
+  "id": 1193103309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44484,12.30294,15.44484,12.30294",
+    "geom:latitude":12.30294,
+    "geom:longitude":15.44484,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Himede",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431402,
+    "gn:latitude":12.30294,
+    "gn:longitude":15.44484,
+    "gn:modification_date":"2008-02-15",
+    "gn:name":"Him\u00e9d\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431402
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fdd4958fdb9e4769ec481449068c72b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1193103309,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1193103309,
+    "wof:lastmodified":1536381159,
+    "wof:name":"Himede",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44484,
+    12.30294,
+    15.44484,
+    12.30294
+],
+  "geometry": {"coordinates":[15.44484,12.30294],"type":"Point"}
+}

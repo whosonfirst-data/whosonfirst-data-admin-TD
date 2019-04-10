@@ -1,0 +1,67 @@
+{
+  "id": 1343962099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.388,12.8954,19.388,12.8954",
+    "geom:latitude":12.8954,
+    "geom:longitude":19.388,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Am Rimele",
+    "gn:country_code":"TD",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436815,
+    "gn:latitude":12.8954,
+    "gn:longitude":19.388,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"Am Rim\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436815
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f444f6c64a9080739abfaf441959b428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1343962099,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1343962099,
+    "wof:lastmodified":1537016851,
+    "wof:name":"Am Rimele",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.388,
+    12.8954,
+    19.388,
+    12.8954
+],
+  "geometry": {"coordinates":[19.388,12.8954],"type":"Point"}
+}

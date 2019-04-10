@@ -1,0 +1,71 @@
+{
+  "id": 1343565281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5932,13.3127,19.5932,13.3127",
+    "geom:latitude":13.3127,
+    "geom:longitude":19.5932,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Afanin Kouka",
+    "gn:country_code":"TD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437382,
+    "gn:latitude":13.3127,
+    "gn:longitude":19.5932,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Afanin Kouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Af\u00e1nine Kouka",
+        "Afanin Kouka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437382
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cf6133e400daadcbbcaf30c0eb52a867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1343565281,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1343565281,
+    "wof:lastmodified":1537702820,
+    "wof:name":"Afanin Kouka",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5932,
+    13.3127,
+    19.5932,
+    13.3127
+],
+  "geometry": {"coordinates":[19.5932,13.3127],"type":"Point"}
+}

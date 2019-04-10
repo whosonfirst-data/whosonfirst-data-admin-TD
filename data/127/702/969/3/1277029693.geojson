@@ -1,0 +1,67 @@
+{
+  "id": 1277029693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18544,11.96997,22.18544,11.96997",
+    "geom:latitude":11.96997,
+    "geom:longitude":22.18544,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Am Hadjer",
+    "gn:country_code":"TD",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245426,
+    "gn:latitude":11.96997,
+    "gn:longitude":22.18544,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Am Hadjer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245426
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"29da3bff79fb456f6124123b968e3f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1277029693,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1277029693,
+    "wof:lastmodified":1536839305,
+    "wof:name":"Am Hadjer",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18544,
+    11.96997,
+    22.18544,
+    11.96997
+],
+  "geometry": {"coordinates":[22.18544,11.96997],"type":"Point"}
+}

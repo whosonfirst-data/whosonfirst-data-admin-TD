@@ -1,0 +1,71 @@
+{
+  "id": 1225958537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3706,13.2101,18.3706,13.2101",
+    "geom:latitude":13.2101,
+    "geom:longitude":18.3706,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ab Djouet",
+    "gn:country_code":"TD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437638,
+    "gn:latitude":13.2101,
+    "gn:longitude":18.3706,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ab Djouet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abjouet",
+        "Ab Djouet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437638
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3cd347fabf01173057dc9a4a78969ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1225958537,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1225958537,
+    "wof:lastmodified":1537702822,
+    "wof:name":"Ab Djouet",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3706,
+    13.2101,
+    18.3706,
+    13.2101
+],
+  "geometry": {"coordinates":[18.3706,13.2101],"type":"Point"}
+}

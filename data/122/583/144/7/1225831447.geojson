@@ -1,0 +1,71 @@
+{
+  "id": 1225831447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8863,10.3784,19.8863,10.3784",
+    "geom:latitude":10.3784,
+    "geom:longitude":19.8863,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Magadada",
+    "gn:country_code":"TD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428846,
+    "gn:latitude":10.3784,
+    "gn:longitude":19.8863,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Magadada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mogadedda",
+        "Magadada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428846
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ee1477cbbb7e08e5ce4bdc5ca2eec77c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1225831447,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1225831447,
+    "wof:lastmodified":1537702732,
+    "wof:name":"Magadada",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8863,
+    10.3784,
+    19.8863,
+    10.3784
+],
+  "geometry": {"coordinates":[19.8863,10.3784],"type":"Point"}
+}

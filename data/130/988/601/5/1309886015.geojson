@@ -1,0 +1,67 @@
+{
+  "id": 1309886015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7544,14.26231,20.7544,14.26231",
+    "geom:latitude":14.26231,
+    "geom:longitude":20.7544,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sinangoun",
+    "gn:country_code":"TD",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241943,
+    "gn:latitude":14.26231,
+    "gn:longitude":20.7544,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Sinangoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241943
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"93e9099643eb9b1660772d8ff95116c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1309886015,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1309886015,
+    "wof:lastmodified":1536814819,
+    "wof:name":"Sinangoun",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7544,
+    14.26231,
+    20.7544,
+    14.26231
+],
+  "geometry": {"coordinates":[20.7544,14.26231],"type":"Point"}
+}

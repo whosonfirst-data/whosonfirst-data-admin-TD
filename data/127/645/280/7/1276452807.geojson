@@ -1,0 +1,67 @@
+{
+  "id": 1276452807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38476,13.02617,17.38476,13.02617",
+    "geom:latitude":13.02617,
+    "geom:longitude":17.38476,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Maleme",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428582,
+    "gn:latitude":13.02617,
+    "gn:longitude":17.38476,
+    "gn:modification_date":"2008-09-15",
+    "gn:name":"Mal\u00e9m\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428582
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4eb183bc4bb4b6f132ec0e6751ff939b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1276452807,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1276452807,
+    "wof:lastmodified":1536616195,
+    "wof:name":"Maleme",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38476,
+    13.02617,
+    17.38476,
+    13.02617
+],
+  "geometry": {"coordinates":[17.38476,13.02617],"type":"Point"}
+}

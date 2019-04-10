@@ -1,0 +1,71 @@
+{
+  "id": 1360166905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1128,10.6845,16.1128,10.6845",
+    "geom:latitude":10.6845,
+    "geom:longitude":16.1128,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Paikadi",
+    "gn:country_code":"TD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426247,
+    "gn:latitude":10.6845,
+    "gn:longitude":16.1128,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paikadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pahikadi",
+        "Paikadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426247
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ebd01823dfe2c0c5ec87f93282b59dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1360166905,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1360166905,
+    "wof:lastmodified":1537702705,
+    "wof:name":"Paikadi",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1128,
+    10.6845,
+    16.1128,
+    10.6845
+],
+  "geometry": {"coordinates":[16.1128,10.6845],"type":"Point"}
+}

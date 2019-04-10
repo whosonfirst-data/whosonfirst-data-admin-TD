@@ -1,0 +1,61 @@
+{
+  "id": 1209177337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.77101,13.16626,15.77101,13.16626",
+    "geom:latitude":13.16626,
+    "geom:longitude":15.77101,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Asairom",
+    "gn:country_code":"TD",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436458,
+    "gn:latitude":13.16626,
+    "gn:longitude":15.77101,
+    "gn:modification_date":"2009-03-04",
+    "gn:name":"Asairom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436458
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5e9877b96c9159cadedd526dc2f758ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209177337
+        }
+    ],
+    "wof:id":1209177337,
+    "wof:lastmodified":1536295377,
+    "wof:name":"Asairom",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77101,
+    13.16626,
+    15.77101,
+    13.16626
+],
+  "geometry": {"coordinates":[15.77101,13.16626],"type":"Point"}
+}

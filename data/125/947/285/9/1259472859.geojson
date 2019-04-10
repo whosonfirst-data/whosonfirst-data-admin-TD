@@ -1,0 +1,67 @@
+{
+  "id": 1259472859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.84486,8.21742,16.84486,8.21742",
+    "geom:latitude":8.21742,
+    "geom:longitude":16.84486,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ngara II",
+    "gn:country_code":"TD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6909340,
+    "gn:latitude":8.21742,
+    "gn:longitude":16.84486,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Ngara II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909340
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d76dc92533cccf5b25c930ea0e12cee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899821,
+            "locality_id":1259472859,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1259472859,
+    "wof:lastmodified":1536873126,
+    "wof:name":"Ngara II",
+    "wof:parent_id":1091899821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.84486,
+    8.21742,
+    16.84486,
+    8.21742
+],
+  "geometry": {"coordinates":[16.84486,8.21742],"type":"Point"}
+}

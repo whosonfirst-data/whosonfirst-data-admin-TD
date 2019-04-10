@@ -1,0 +1,67 @@
+{
+  "id": 1276338005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78921,14.76656,20.78921,14.76656",
+    "geom:latitude":14.76656,
+    "geom:longitude":20.78921,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Am Gafal",
+    "gn:country_code":"TD",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245452,
+    "gn:latitude":14.76656,
+    "gn:longitude":20.78921,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Am Gafal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245452
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f5722be05b3587591cb2b9720c0c15a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901409,
+            "locality_id":1276338005,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1276338005,
+    "wof:lastmodified":1536772799,
+    "wof:name":"Am Gafal",
+    "wof:parent_id":1091901409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78921,
+    14.76656,
+    20.78921,
+    14.76656
+],
+  "geometry": {"coordinates":[20.78921,14.76656],"type":"Point"}
+}

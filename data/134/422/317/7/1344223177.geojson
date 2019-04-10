@@ -1,0 +1,71 @@
+{
+  "id": 1344223177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28344,12.30258,15.28344,12.30258",
+    "geom:latitude":12.30258,
+    "geom:longitude":15.28344,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Am Chiguek",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437493,
+    "gn:latitude":12.30258,
+    "gn:longitude":15.28344,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Am Chiguek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Achigek",
+        "Am Chiguek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437493
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"764655743862d4970b496a2139d61193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1344223177,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1344223177,
+    "wof:lastmodified":1537702821,
+    "wof:name":"Am Chiguek",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28344,
+    12.30258,
+    15.28344,
+    12.30258
+],
+  "geometry": {"coordinates":[15.28344,12.30258],"type":"Point"}
+}

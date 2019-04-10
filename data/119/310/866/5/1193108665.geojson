@@ -1,0 +1,67 @@
+{
+  "id": 1193108665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.082,9.6218,19.082,9.6218",
+    "geom:latitude":9.6218,
+    "geom:longitude":19.082,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Garou",
+    "gn:country_code":"TD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6873260,
+    "gn:latitude":9.6218,
+    "gn:longitude":19.082,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Garou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6873260
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"921a87900ac539320e7f279946a9eda9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1193108665,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1193108665,
+    "wof:lastmodified":1536375692,
+    "wof:name":"Garou",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.082,
+    9.6218,
+    19.082,
+    9.6218
+],
+  "geometry": {"coordinates":[19.082,9.6218],"type":"Point"}
+}

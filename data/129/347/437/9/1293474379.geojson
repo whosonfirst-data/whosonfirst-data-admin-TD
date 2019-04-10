@@ -1,0 +1,70 @@
+{
+  "id": 1293474379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.91396,8.11881,16.91396,8.11881",
+    "geom:latitude":8.11881,
+    "geom:longitude":16.91396,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bake",
+    "gn:country_code":"TD",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436180,
+    "gn:latitude":8.11881,
+    "gn:longitude":16.91396,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bak\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bak\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436180
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"336869d34c88c0fc62667271a2066a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899821,
+            "locality_id":1293474379,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1293474379,
+    "wof:lastmodified":1537702810,
+    "wof:name":"Bake",
+    "wof:parent_id":1091899821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.91396,
+    8.11881,
+    16.91396,
+    8.11881
+],
+  "geometry": {"coordinates":[16.91396,8.11881],"type":"Point"}
+}

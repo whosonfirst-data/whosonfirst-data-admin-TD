@@ -1,0 +1,67 @@
+{
+  "id": 1310428277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9185,11.967,18.9185,11.967",
+    "geom:latitude":11.967,
+    "geom:longitude":18.9185,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Orat",
+    "gn:country_code":"TD",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426633,
+    "gn:latitude":11.967,
+    "gn:longitude":18.9185,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Orat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426633
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c510f21f3a11172478932da6b3612834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900821,
+            "locality_id":1310428277,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1310428277,
+    "wof:lastmodified":1537027194,
+    "wof:name":"Orat",
+    "wof:parent_id":1091900821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9185,
+    11.967,
+    18.9185,
+    11.967
+],
+  "geometry": {"coordinates":[18.9185,11.967],"type":"Point"}
+}

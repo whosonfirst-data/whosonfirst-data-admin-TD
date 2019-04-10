@@ -1,0 +1,67 @@
+{
+  "id": 1226415057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1696,9.6514,15.1696,9.6514",
+    "geom:latitude":9.6514,
+    "geom:longitude":15.1696,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Djadama",
+    "gn:country_code":"TD",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433768,
+    "gn:latitude":9.6514,
+    "gn:longitude":15.1696,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Djadama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433768
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3d5cfa7614617e9d4ea292a91d80dd57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900311,
+            "locality_id":1226415057,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1226415057,
+    "wof:lastmodified":1536689927,
+    "wof:name":"Djadama",
+    "wof:parent_id":1091900311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1696,
+    9.6514,
+    15.1696,
+    9.6514
+],
+  "geometry": {"coordinates":[15.1696,9.6514],"type":"Point"}
+}

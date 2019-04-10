@@ -1,0 +1,67 @@
+{
+  "id": 1260066529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3164,11.037,21.3164,11.037",
+    "geom:latitude":11.037,
+    "geom:longitude":21.3164,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Niansour",
+    "gn:country_code":"TD",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242380,
+    "gn:latitude":11.037,
+    "gn:longitude":21.3164,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Niansour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242380
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9e49ba0442ea62960583ee1de6c3507a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900659,
+            "locality_id":1260066529,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1260066529,
+    "wof:lastmodified":1537011749,
+    "wof:name":"Niansour",
+    "wof:parent_id":1091900659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3164,
+    11.037,
+    21.3164,
+    11.037
+],
+  "geometry": {"coordinates":[21.3164,11.037],"type":"Point"}
+}

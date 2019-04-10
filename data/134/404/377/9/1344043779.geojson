@@ -1,0 +1,67 @@
+{
+  "id": 1344043779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9359,11.4161,20.9359,11.4161",
+    "geom:latitude":11.4161,
+    "geom:longitude":20.9359,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Adar",
+    "gn:country_code":"TD",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245690,
+    "gn:latitude":11.4161,
+    "gn:longitude":20.9359,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Adar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245690
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d7e8f2fca70f4c9dfeea3a5a26530692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1344043779,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1344043779,
+    "wof:lastmodified":1536899732,
+    "wof:name":"Adar",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9359,
+    11.4161,
+    20.9359,
+    11.4161
+],
+  "geometry": {"coordinates":[20.9359,11.4161],"type":"Point"}
+}

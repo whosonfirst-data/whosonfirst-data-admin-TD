@@ -1,0 +1,67 @@
+{
+  "id": 1226720419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90921,11.03649,15.90921,11.03649",
+    "geom:latitude":11.03649,
+    "geom:longitude":15.90921,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dalborno",
+    "gn:country_code":"TD",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434278,
+    "gn:latitude":11.03649,
+    "gn:longitude":15.90921,
+    "gn:modification_date":"2008-06-03",
+    "gn:name":"Dalborno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434278
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d4c2910464a8636405a3964f26928656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1226720419,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1226720419,
+    "wof:lastmodified":1536752067,
+    "wof:name":"Dalborno",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90921,
+    11.03649,
+    15.90921,
+    11.03649
+],
+  "geometry": {"coordinates":[15.90921,11.03649],"type":"Point"}
+}

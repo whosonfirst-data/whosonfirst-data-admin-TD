@@ -1,0 +1,72 @@
+{
+  "id": 1259369903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3,12.78333,21.3,12.78333",
+    "geom:latitude":12.78333,
+    "geom:longitude":21.3,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dabangat",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244660,
+    "gn:latitude":12.78333,
+    "gn:longitude":21.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dabangat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dabanga",
+        "Dabangat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244660
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5b7357b1fc6f0d6c536501b10ad00835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901035,
+            "locality_id":1259369903,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1259369903,
+    "wof:lastmodified":1537702676,
+    "wof:name":"Dabangat",
+    "wof:parent_id":1091901035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3,
+    12.78333,
+    21.3,
+    12.78333
+],
+  "geometry": {"coordinates":[21.3,12.78333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209836777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46899,13.34909,15.46899,13.34909",
+    "geom:latitude":13.34909,
+    "geom:longitude":15.46899,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Fantairom",
+    "gn:country_code":"TD",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432719,
+    "gn:latitude":13.34909,
+    "gn:longitude":15.46899,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Fantairom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432719
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7aeabf7d4adcd3f13ebc936d5d77c35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1209836777,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1209836777,
+    "wof:lastmodified":1536394550,
+    "wof:name":"Fantairom",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46899,
+    13.34909,
+    15.46899,
+    13.34909
+],
+  "geometry": {"coordinates":[15.46899,13.34909],"type":"Point"}
+}

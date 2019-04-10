@@ -1,0 +1,64 @@
+{
+  "id": 1209190843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16813,9.95304,21.16813,9.95304",
+    "geom:latitude":9.95304,
+    "geom:longitude":21.16813,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kati",
+    "gn:country_code":"TD",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243412,
+    "gn:latitude":9.95304,
+    "gn:longitude":21.16813,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243412
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7026be4661227cec3dd0e6916f394ac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209190843
+        }
+    ],
+    "wof:id":1209190843,
+    "wof:lastmodified":1537702664,
+    "wof:name":"Kati",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16813,
+    9.95304,
+    21.16813,
+    9.95304
+],
+  "geometry": {"coordinates":[21.16813,9.95304],"type":"Point"}
+}

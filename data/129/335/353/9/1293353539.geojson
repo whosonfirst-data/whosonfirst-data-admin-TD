@@ -1,0 +1,67 @@
+{
+  "id": 1293353539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43029,12.9098,15.43029,12.9098",
+    "geom:latitude":12.9098,
+    "geom:longitude":15.43029,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Borizaria",
+    "gn:country_code":"TD",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434878,
+    "gn:latitude":12.9098,
+    "gn:longitude":15.43029,
+    "gn:modification_date":"2008-02-14",
+    "gn:name":"Borizaria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434878
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1a3cc99db27b46f87e09c321498944d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1293353539,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1293353539,
+    "wof:lastmodified":1536979654,
+    "wof:name":"Borizaria",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43029,
+    12.9098,
+    15.43029,
+    12.9098
+],
+  "geometry": {"coordinates":[15.43029,12.9098],"type":"Point"}
+}

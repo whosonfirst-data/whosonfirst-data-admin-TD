@@ -1,0 +1,66 @@
+{
+  "id": 1209436175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72161,13.4403,15.72161,13.4403",
+    "geom:latitude":13.4403,
+    "geom:longitude":15.72161,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koulkoulia",
+    "gn:country_code":"TD",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429706,
+    "gn:latitude":13.4403,
+    "gn:longitude":15.72161,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koulkoulia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mabol Kouloulia",
+        "Koulkoulaya",
+        "Koulkoulia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429706
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fc95a216d71fdba32430cc220beb3c26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209436175
+        }
+    ],
+    "wof:id":1209436175,
+    "wof:lastmodified":1537702741,
+    "wof:name":"Koulkoulia",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72161,
+    13.4403,
+    15.72161,
+    13.4403
+],
+  "geometry": {"coordinates":[15.72161,13.4403],"type":"Point"}
+}

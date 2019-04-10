@@ -1,0 +1,71 @@
+{
+  "id": 1343815485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98333,12.26667,21.98333,12.26667",
+    "geom:latitude":12.26667,
+    "geom:longitude":21.98333,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Metemetko",
+    "gn:country_code":"TD",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242635,
+    "gn:latitude":12.26667,
+    "gn:longitude":21.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u00e9t\u00e9metko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metemenko",
+        "M\u00e9t\u00e9metko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242635
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c1c5ad33b0192754826721146b8b7e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1343815485,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1343815485,
+    "wof:lastmodified":1537702656,
+    "wof:name":"Metemetko",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98333,
+    12.26667,
+    21.98333,
+    12.26667
+],
+  "geometry": {"coordinates":[21.98333,12.26667],"type":"Point"}
+}

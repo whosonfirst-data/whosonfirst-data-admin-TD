@@ -1,0 +1,67 @@
+{
+  "id": 1310467489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.31833,9.30143,17.31833,9.30143",
+    "geom:latitude":9.30143,
+    "geom:longitude":17.31833,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Guelemo",
+    "gn:country_code":"TD",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431574,
+    "gn:latitude":9.30143,
+    "gn:longitude":17.31833,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Gu\u00e9l\u00e9mo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431574
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"acbdbb62088b5b8aac5904cbb1680fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900193,
+            "locality_id":1310467489,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1310467489,
+    "wof:lastmodified":1536971459,
+    "wof:name":"Guelemo",
+    "wof:parent_id":1091900193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.31833,
+    9.30143,
+    17.31833,
+    9.30143
+],
+  "geometry": {"coordinates":[17.31833,9.30143],"type":"Point"}
+}

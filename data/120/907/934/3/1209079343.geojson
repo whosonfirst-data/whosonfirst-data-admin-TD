@@ -1,0 +1,61 @@
+{
+  "id": 1209079343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8,10.81667,15.8,10.81667",
+    "geom:latitude":10.81667,
+    "geom:longitude":15.8,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gole Toulbo",
+    "gn:country_code":"TD",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431998,
+    "gn:latitude":10.81667,
+    "gn:longitude":15.8,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Gol\u00e9 Toulbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431998
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"49250c64037f81324f9b8b049c5cd1c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209079343
+        }
+    ],
+    "wof:id":1209079343,
+    "wof:lastmodified":1536298390,
+    "wof:name":"Gole Toulbo",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8,
+    10.81667,
+    15.8,
+    10.81667
+],
+  "geometry": {"coordinates":[15.8,10.81667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209899125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83456,11.03551,15.83456,11.03551",
+    "geom:latitude":11.03551,
+    "geom:longitude":15.83456,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kari",
+    "gn:country_code":"TD",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430744,
+    "gn:latitude":11.03551,
+    "gn:longitude":15.83456,
+    "gn:modification_date":"2008-06-03",
+    "gn:name":"Kari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430744
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"429a1e6b87b55d431c471f90b3fdf041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1209899125,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1209899125,
+    "wof:lastmodified":1536387252,
+    "wof:name":"Kari",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83456,
+    11.03551,
+    15.83456,
+    11.03551
+],
+  "geometry": {"coordinates":[15.83456,11.03551],"type":"Point"}
+}

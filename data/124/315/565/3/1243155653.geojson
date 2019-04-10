@@ -1,0 +1,67 @@
+{
+  "id": 1243155653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25943,9.78243,17.25943,9.78243",
+    "geom:latitude":9.78243,
+    "geom:longitude":17.25943,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Koniene",
+    "gn:country_code":"TD",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430023,
+    "gn:latitude":9.78243,
+    "gn:longitude":17.25943,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Koni\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430023
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"834833d3cb2955514a182fb0efa56c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1243155653,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1243155653,
+    "wof:lastmodified":1536728201,
+    "wof:name":"Koniene",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25943,
+    9.78243,
+    17.25943,
+    9.78243
+],
+  "geometry": {"coordinates":[17.25943,9.78243],"type":"Point"}
+}

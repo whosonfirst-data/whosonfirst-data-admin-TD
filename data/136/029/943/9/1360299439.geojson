@@ -1,0 +1,67 @@
+{
+  "id": 1360299439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.31113,12.74861,18.31113,12.74861",
+    "geom:latitude":12.74861,
+    "geom:longitude":18.31113,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Redemat",
+    "gn:country_code":"TD",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426080,
+    "gn:latitude":12.74861,
+    "gn:longitude":18.31113,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Red\u00e8mat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426080
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bb92588b3cc5077adf02d59ca4c8d3f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1360299439,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1360299439,
+    "wof:lastmodified":1536635036,
+    "wof:name":"Redemat",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.31113,
+    12.74861,
+    18.31113,
+    12.74861
+],
+  "geometry": {"coordinates":[18.31113,12.74861],"type":"Point"}
+}

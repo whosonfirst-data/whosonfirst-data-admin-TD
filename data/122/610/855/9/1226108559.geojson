@@ -1,0 +1,71 @@
+{
+  "id": 1226108559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.80251,12.6552,15.80251,12.6552",
+    "geom:latitude":12.6552,
+    "geom:longitude":15.80251,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Am Souneta Karaga",
+    "gn:country_code":"TD",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436786,
+    "gn:latitude":12.6552,
+    "gn:longitude":15.80251,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Am Souneta Karaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Senete Karaga",
+        "Am Souneta Karaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436786
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c907f647d33c26c275b6e6a5e90e651b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1226108559,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1226108559,
+    "wof:lastmodified":1537702814,
+    "wof:name":"Am Souneta Karaga",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.80251,
+    12.6552,
+    15.80251,
+    12.6552
+],
+  "geometry": {"coordinates":[15.80251,12.6552],"type":"Point"}
+}

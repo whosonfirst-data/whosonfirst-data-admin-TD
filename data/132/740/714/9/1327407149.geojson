@@ -1,0 +1,72 @@
+{
+  "id": 1327407149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81664,12.1273,15.81664,12.1273",
+    "geom:latitude":12.1273,
+    "geom:longitude":15.81664,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Abel Bassane",
+    "gn:country_code":"TD",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437673,
+    "gn:latitude":12.1273,
+    "gn:longitude":15.81664,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abel Bassane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abel Basan",
+        "Abel Bassan",
+        "Abel Bassane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437673
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"86832be2106c2f2386bafb28cf38c2f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1327407149,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1327407149,
+    "wof:lastmodified":1537702823,
+    "wof:name":"Abel Bassane",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81664,
+    12.1273,
+    15.81664,
+    12.1273
+],
+  "geometry": {"coordinates":[15.81664,12.1273],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343929303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.92548,9.47338,18.92548,9.47338",
+    "geom:latitude":9.47338,
+    "geom:longitude":18.92548,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ndingambo",
+    "gn:country_code":"TD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427132,
+    "gn:latitude":9.47338,
+    "gn:longitude":18.92548,
+    "gn:modification_date":"2008-10-29",
+    "gn:name":"Ndingambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427132
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e25ae807645fcf1a2042b6086b25f03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1343929303,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1343929303,
+    "wof:lastmodified":1537062263,
+    "wof:name":"Ndingambo",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.92548,
+    9.47338,
+    18.92548,
+    9.47338
+],
+  "geometry": {"coordinates":[18.92548,9.47338],"type":"Point"}
+}

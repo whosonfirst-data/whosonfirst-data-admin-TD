@@ -1,0 +1,71 @@
+{
+  "id": 1343625189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4063,9.1289,18.4063,9.1289",
+    "geom:latitude":9.1289,
+    "geom:longitude":18.4063,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kassay",
+    "gn:country_code":"TD",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430669,
+    "gn:latitude":9.1289,
+    "gn:longitude":18.4063,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kassay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kassa\u00ef",
+        "Kassay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430669
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6cbe28dc8e9a79a39ac7d9991957ed18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1343625189,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1343625189,
+    "wof:lastmodified":1537702748,
+    "wof:name":"Kassay",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4063,
+    9.1289,
+    18.4063,
+    9.1289
+],
+  "geometry": {"coordinates":[18.4063,9.1289],"type":"Point"}
+}

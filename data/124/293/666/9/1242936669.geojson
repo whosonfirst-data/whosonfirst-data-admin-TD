@@ -1,0 +1,71 @@
+{
+  "id": 1242936669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.47313,9.84107,19.47313,9.84107",
+    "geom:latitude":9.84107,
+    "geom:longitude":19.47313,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Singako",
+    "gn:country_code":"TD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425628,
+    "gn:latitude":9.84107,
+    "gn:longitude":19.47313,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Singako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsingako",
+        "Singako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425628
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"924a6e39baa678deac9684aec64bb5ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1242936669,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1242936669,
+    "wof:lastmodified":1537702699,
+    "wof:name":"Singako",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.47313,
+    9.84107,
+    19.47313,
+    9.84107
+],
+  "geometry": {"coordinates":[19.47313,9.84107],"type":"Point"}
+}

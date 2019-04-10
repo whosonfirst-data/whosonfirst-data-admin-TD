@@ -1,0 +1,71 @@
+{
+  "id": 1226021401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2987,11.3339,19.2987,11.3339",
+    "geom:latitude":11.3339,
+    "geom:longitude":19.2987,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Djaouit",
+    "gn:country_code":"TD",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433709,
+    "gn:latitude":11.3339,
+    "gn:longitude":19.2987,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djaouit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daout",
+        "Djaouit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433709
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"357a98365943d6382009dbd88ba1d672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900707,
+            "locality_id":1226021401,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1226021401,
+    "wof:lastmodified":1537702781,
+    "wof:name":"Djaouit",
+    "wof:parent_id":1091900707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2987,
+    11.3339,
+    19.2987,
+    11.3339
+],
+  "geometry": {"coordinates":[19.2987,11.3339],"type":"Point"}
+}

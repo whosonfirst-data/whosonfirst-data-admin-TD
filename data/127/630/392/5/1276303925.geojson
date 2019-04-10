@@ -1,0 +1,71 @@
+{
+  "id": 1276303925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.4869,10.0858,19.4869,10.0858",
+    "geom:latitude":10.0858,
+    "geom:longitude":19.4869,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Goure",
+    "gn:country_code":"TD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431693,
+    "gn:latitude":10.0858,
+    "gn:longitude":19.4869,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kour\u00e9",
+        "Gour\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431693
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f93645331a19cdfbcc4c4217a268fe5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1276303925,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1276303925,
+    "wof:lastmodified":1537702758,
+    "wof:name":"Goure",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.4869,
+    10.0858,
+    19.4869,
+    10.0858
+],
+  "geometry": {"coordinates":[19.4869,10.0858],"type":"Point"}
+}

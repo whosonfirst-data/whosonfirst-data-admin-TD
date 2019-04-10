@@ -1,0 +1,67 @@
+{
+  "id": 1277142509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46667,8.08333,17.46667,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":17.46667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Carre de Bekourou",
+    "gn:country_code":"TD",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434520,
+    "gn:latitude":8.08333,
+    "gn:longitude":17.46667,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Carr\u00e9 de B\u00e9kourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434520
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cdabd77cc364719b006c9b42defdc1b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1277142509,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1277142509,
+    "wof:lastmodified":1536681551,
+    "wof:name":"Carre de Bekourou",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46667,
+    8.08333,
+    17.46667,
+    8.08333
+],
+  "geometry": {"coordinates":[17.46667,8.08333],"type":"Point"}
+}

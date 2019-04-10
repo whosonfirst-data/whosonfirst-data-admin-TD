@@ -1,0 +1,67 @@
+{
+  "id": 1276855591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8,7.7,15.8,7.7",
+    "geom:latitude":7.7,
+    "geom:longitude":15.8,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Leou",
+    "gn:country_code":"TD",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429160,
+    "gn:latitude":7.7,
+    "gn:longitude":15.8,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Leou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429160
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ba1397622670927b5bf51030e2f39ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1276855591,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1276855591,
+    "wof:lastmodified":1537070595,
+    "wof:name":"Leou",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8,
+    7.7,
+    15.8,
+    7.7
+],
+  "geometry": {"coordinates":[15.8,7.7],"type":"Point"}
+}

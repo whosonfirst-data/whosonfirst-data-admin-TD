@@ -1,0 +1,71 @@
+{
+  "id": 1243040339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3864,9.9358,15.3864,9.9358",
+    "geom:latitude":9.9358,
+    "geom:longitude":15.3864,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Barkevarba II",
+    "gn:country_code":"TD",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435937,
+    "gn:latitude":9.9358,
+    "gn:longitude":15.3864,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Barkevarba II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bark\u00e9varba",
+        "Barkevarba II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435937
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5b53028b8384eb232c37f588e646e183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900357,
+            "locality_id":1243040339,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1243040339,
+    "wof:lastmodified":1537702808,
+    "wof:name":"Barkevarba II",
+    "wof:parent_id":1091900357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3864,
+    9.9358,
+    15.3864,
+    9.9358
+],
+  "geometry": {"coordinates":[15.3864,9.9358],"type":"Point"}
+}

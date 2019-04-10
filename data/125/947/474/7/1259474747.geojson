@@ -1,0 +1,72 @@
+{
+  "id": 1259474747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5905,13.59887,15.5905,13.59887",
+    "geom:latitude":13.59887,
+    "geom:longitude":15.5905,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mounousa Dolouk",
+    "gn:country_code":"TD",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427442,
+    "gn:latitude":13.59887,
+    "gn:longitude":15.5905,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mounousa Dolouk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mounousa",
+        "Dolouk",
+        "Mounousa Dolouk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427442
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"61fab5dc4c48cd15cb5fdbf727198670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1259474747,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1259474747,
+    "wof:lastmodified":1537702717,
+    "wof:name":"Mounousa Dolouk",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5905,
+    13.59887,
+    15.5905,
+    13.59887
+],
+  "geometry": {"coordinates":[15.5905,13.59887],"type":"Point"}
+}

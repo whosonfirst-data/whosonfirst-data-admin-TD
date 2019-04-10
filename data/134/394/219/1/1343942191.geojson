@@ -1,0 +1,67 @@
+{
+  "id": 1343942191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78062,8.04526,16.78062,8.04526",
+    "geom:latitude":8.04526,
+    "geom:longitude":16.78062,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gouri",
+    "gn:country_code":"TD",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6909234,
+    "gn:latitude":8.04526,
+    "gn:longitude":16.78062,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Gouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909234
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b3a2f0751913f615f68e99428d98346c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899821,
+            "locality_id":1343942191,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1343942191,
+    "wof:lastmodified":1537044583,
+    "wof:name":"Gouri",
+    "wof:parent_id":1091899821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78062000000001,
+    8.04526,
+    16.78062000000001,
+    8.04526
+],
+  "geometry": {"coordinates":[16.78062000000001,8.04526],"type":"Point"}
+}

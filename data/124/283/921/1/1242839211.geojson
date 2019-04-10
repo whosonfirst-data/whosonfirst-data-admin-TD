@@ -1,0 +1,71 @@
+{
+  "id": 1242839211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3371,9.6777,14.3371,9.6777",
+    "geom:latitude":9.6777,
+    "geom:longitude":14.3371,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Trene",
+    "gn:country_code":"TD",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424458,
+    "gn:latitude":9.6777,
+    "gn:longitude":14.3371,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tr\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ir\u00e9n\u00e9",
+        "Tr\u00e9n\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424458
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"21ded10dce922331ef3c426fdea5c13a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900399,
+            "locality_id":1242839211,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1242839211,
+    "wof:lastmodified":1537702691,
+    "wof:name":"Trene",
+    "wof:parent_id":1091900399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3371,
+    9.6777,
+    14.3371,
+    9.6777
+],
+  "geometry": {"coordinates":[14.3371,9.6777],"type":"Point"}
+}

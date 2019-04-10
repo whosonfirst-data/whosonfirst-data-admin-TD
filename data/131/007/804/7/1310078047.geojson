@@ -1,0 +1,73 @@
+{
+  "id": 1310078047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41667,9.36667,15.41667,9.36667",
+    "geom:latitude":9.36667,
+    "geom:longitude":15.41667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Berete",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435461,
+    "gn:latitude":9.36667,
+    "gn:longitude":15.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9r\u00e9t\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bir\u00e9l\u00e9",
+        "Bir\u00e9t\u00e9",
+        "B\u00e9r\u00e9t\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435461
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"22a843b39e594a9bd68793c8d41aafce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900311,
+            "locality_id":1310078047,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1310078047,
+    "wof:lastmodified":1537702799,
+    "wof:name":"Berete",
+    "wof:parent_id":1091900311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41667,
+    9.36667,
+    15.41667,
+    9.36667
+],
+  "geometry": {"coordinates":[15.41667,9.36667],"type":"Point"}
+}

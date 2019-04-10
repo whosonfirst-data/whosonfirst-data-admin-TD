@@ -1,0 +1,73 @@
+{
+  "id": 1309679859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.9099,11.32867,22.9099,11.32867",
+    "geom:latitude":11.32867,
+    "geom:longitude":22.9099,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Gelember",
+    "gn:country_code":"TD",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243958,
+    "gn:latitude":11.32867,
+    "gn:longitude":22.9099,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00e9lember",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guit\u00e8imter",
+        "Getember",
+        "Gualember",
+        "G\u00e9lember"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243958
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ebd45afc55992b0f5dd249b481b65349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1309679859,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1309679859,
+    "wof:lastmodified":1537702670,
+    "wof:name":"Gelember",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.9099,
+    11.32867,
+    22.9099,
+    11.32867
+],
+  "geometry": {"coordinates":[22.9099,11.32867],"type":"Point"}
+}

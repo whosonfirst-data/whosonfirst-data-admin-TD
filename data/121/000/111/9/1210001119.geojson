@@ -1,0 +1,67 @@
+{
+  "id": 1210001119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89329,8.22833,15.89329,8.22833",
+    "geom:latitude":8.22833,
+    "geom:longitude":15.89329,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mekab",
+    "gn:country_code":"TD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427990,
+    "gn:latitude":8.22833,
+    "gn:longitude":15.89329,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"M\u00e9kab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427990
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3e83a920fddd6f738514a96d275c2d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1210001119,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1210001119,
+    "wof:lastmodified":1536378605,
+    "wof:name":"Mekab",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89329,
+    8.22833,
+    15.89329,
+    8.22833
+],
+  "geometry": {"coordinates":[15.89329,8.22833],"type":"Point"}
+}

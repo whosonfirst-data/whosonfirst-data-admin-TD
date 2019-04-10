@@ -1,0 +1,67 @@
+{
+  "id": 1242763175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11831,8.5672,16.11831,8.5672",
+    "geom:latitude":8.5672,
+    "geom:longitude":16.11831,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Makine",
+    "gn:country_code":"TD",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6909296,
+    "gn:latitude":8.5672,
+    "gn:longitude":16.11831,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Makin\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909296
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0882e890a11b0c43e612144bbde002fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1242763175,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1242763175,
+    "wof:lastmodified":1536796630,
+    "wof:name":"Makine",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11831,
+    8.5672,
+    16.11831,
+    8.5672
+],
+  "geometry": {"coordinates":[16.11831,8.5672],"type":"Point"}
+}

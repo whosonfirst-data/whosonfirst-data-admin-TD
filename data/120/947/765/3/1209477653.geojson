@@ -1,0 +1,61 @@
+{
+  "id": 1209477653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.27058,9.37661,17.27058,9.37661",
+    "geom:latitude":9.37661,
+    "geom:longitude":17.27058,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Paloum",
+    "gn:country_code":"TD",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426225,
+    "gn:latitude":9.37661,
+    "gn:longitude":17.27058,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Paloum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426225
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4d9ba74843d254dd9a57a377c9b7c6e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209477653
+        }
+    ],
+    "wof:id":1209477653,
+    "wof:lastmodified":1536285885,
+    "wof:name":"Paloum",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.27058,
+    9.37661,
+    17.27058,
+    9.37661
+],
+  "geometry": {"coordinates":[17.27058,9.37661],"type":"Point"}
+}

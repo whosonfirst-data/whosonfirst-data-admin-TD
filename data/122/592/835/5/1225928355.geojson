@@ -1,0 +1,71 @@
+{
+  "id": 1225928355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5135,8.1388,15.5135,8.1388",
+    "geom:latitude":8.1388,
+    "geom:longitude":15.5135,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kouday",
+    "gn:country_code":"TD",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429596,
+    "gn:latitude":8.1388,
+    "gn:longitude":15.5135,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouday",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kounday",
+        "Kouday"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429596
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"eef99cee8ee5c2fed1ff12159fdcedc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1225928355,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1225928355,
+    "wof:lastmodified":1537702739,
+    "wof:name":"Kouday",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5135,
+    8.1388,
+    15.5135,
+    8.1388
+],
+  "geometry": {"coordinates":[15.5135,8.1388],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326610309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.65938,13.9536,20.65938,13.9536",
+    "geom:latitude":13.9536,
+    "geom:longitude":20.65938,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Niatalay",
+    "gn:country_code":"TD",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242375,
+    "gn:latitude":13.9536,
+    "gn:longitude":20.65938,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Niatalay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Niatalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242375
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a33c84f56b8d99652720f4dba72a453b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1326610309,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1326610309,
+    "wof:lastmodified":1537702653,
+    "wof:name":"Niatalay",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.65938,
+    13.9536,
+    20.65938,
+    13.9536
+],
+  "geometry": {"coordinates":[20.65938,13.9536],"type":"Point"}
+}

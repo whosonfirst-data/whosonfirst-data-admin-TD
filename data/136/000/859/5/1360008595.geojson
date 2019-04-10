@@ -1,0 +1,67 @@
+{
+  "id": 1360008595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8156,12.7604,19.8156,12.7604",
+    "geom:latitude":12.7604,
+    "geom:longitude":19.8156,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hidjer",
+    "gn:country_code":"TD",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431415,
+    "gn:latitude":12.7604,
+    "gn:longitude":19.8156,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"Hidjer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431415
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"317221f15b6caac40fcbb4cc5a4e0281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900939,
+            "locality_id":1360008595,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1360008595,
+    "wof:lastmodified":1537053694,
+    "wof:name":"Hidjer",
+    "wof:parent_id":1091900939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8156,
+    12.7604,
+    19.8156,
+    12.7604
+],
+  "geometry": {"coordinates":[19.8156,12.7604],"type":"Point"}
+}

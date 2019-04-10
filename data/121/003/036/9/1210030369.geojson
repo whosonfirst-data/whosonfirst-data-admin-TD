@@ -1,0 +1,67 @@
+{
+  "id": 1210030369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5411,13.2351,19.5411,13.2351",
+    "geom:latitude":13.2351,
+    "geom:longitude":19.5411,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ouel Dalmara",
+    "gn:country_code":"TD",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855702,
+    "gn:latitude":13.2351,
+    "gn:longitude":19.5411,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ouel Dalmara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855702
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"988ee91ea810ec9ea2078dfa2b6c1674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1210030369,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1210030369,
+    "wof:lastmodified":1536388840,
+    "wof:name":"Ouel Dalmara",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5411,
+    13.2351,
+    19.5411,
+    13.2351
+],
+  "geometry": {"coordinates":[19.5411,13.2351],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310009983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2034,13.594,19.2034,13.594",
+    "geom:latitude":13.594,
+    "geom:longitude":19.2034,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ab Zobani",
+    "gn:country_code":"TD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437504,
+    "gn:latitude":13.594,
+    "gn:longitude":19.2034,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Ab Zobani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437504
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"07bbd7c530e392f66260087f7a35a6ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1310009983,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1310009983,
+    "wof:lastmodified":1536635555,
+    "wof:name":"Ab Zobani",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2034,
+    13.594,
+    19.2034,
+    13.594
+],
+  "geometry": {"coordinates":[19.2034,13.594],"type":"Point"}
+}

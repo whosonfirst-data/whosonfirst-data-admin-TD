@@ -1,0 +1,67 @@
+{
+  "id": 1293477053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02891,13.14344,22.02891,13.14344",
+    "geom:latitude":13.14344,
+    "geom:longitude":22.02891,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Andadja Djebel",
+    "gn:country_code":"TD",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11579002,
+    "gn:latitude":13.14344,
+    "gn:longitude":22.02891,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Andadja Djebel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11579002
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4ee9de69806d8c0ba68048a9d8bdc3c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1293477053,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1293477053,
+    "wof:lastmodified":1536802161,
+    "wof:name":"Andadja Djebel",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02891,
+    13.14344,
+    22.02891,
+    13.14344
+],
+  "geometry": {"coordinates":[22.02891,13.14344],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310027835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79109,14.11991,14.79109,14.11991",
+    "geom:latitude":14.11991,
+    "geom:longitude":14.79109,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Koro",
+    "gn:country_code":"TD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429955,
+    "gn:latitude":14.11991,
+    "gn:longitude":14.79109,
+    "gn:modification_date":"2008-03-27",
+    "gn:name":"Koro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429955
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"69056e009b032f7ebf11b987c79f1a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1310027835,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1310027835,
+    "wof:lastmodified":1536608373,
+    "wof:name":"Koro",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79109,
+    14.11991,
+    14.79109,
+    14.11991
+],
+  "geometry": {"coordinates":[14.79109,14.11991],"type":"Point"}
+}

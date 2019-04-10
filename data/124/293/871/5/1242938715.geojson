@@ -1,0 +1,67 @@
+{
+  "id": 1242938715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.54137,8.54015,17.54137,8.54015",
+    "geom:latitude":8.54015,
+    "geom:longitude":17.54137,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bara II",
+    "gn:country_code":"TD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435987,
+    "gn:latitude":8.54015,
+    "gn:longitude":17.54137,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Bara II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435987
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"89223c335dcb5828f99528dd4e8c537b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1242938715,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1242938715,
+    "wof:lastmodified":1537039019,
+    "wof:name":"Bara II",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.54137,
+    8.54015,
+    17.54137,
+    8.54015
+],
+  "geometry": {"coordinates":[17.54137,8.54015],"type":"Point"}
+}

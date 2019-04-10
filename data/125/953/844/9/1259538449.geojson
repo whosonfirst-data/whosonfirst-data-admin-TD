@@ -1,0 +1,67 @@
+{
+  "id": 1259538449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41667,21.11667,17.41667,21.11667",
+    "geom:latitude":21.11667,
+    "geom:longitude":17.41667,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bouro",
+    "gn:country_code":"TD",
+    "gn:dem":1459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434621,
+    "gn:latitude":21.11667,
+    "gn:longitude":17.41667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Bouro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678501,
+        1091901649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434621
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a99404e86282c8bf86c49ef683639760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901649,
+            "locality_id":1259538449,
+            "region_id":85678501
+        }
+    ],
+    "wof:id":1259538449,
+    "wof:lastmodified":1536780366,
+    "wof:name":"Bouro",
+    "wof:parent_id":1091901649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41667,
+    21.11667000000001,
+    17.41667,
+    21.11667000000001
+],
+  "geometry": {"coordinates":[17.41667,21.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209814653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05,12.9,22.05,12.9",
+    "geom:latitude":12.9,
+    "geom:longitude":22.05,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hallouf",
+    "gn:country_code":"TD",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243720,
+    "gn:latitude":12.9,
+    "gn:longitude":22.05,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Hallouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676881,
+        1091705349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243720
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a9c8677a4c51dd4b3193509b0c81c371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705349,
+            "locality_id":1209814653,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":1209814653,
+    "wof:lastmodified":1536384865,
+    "wof:name":"Hallouf",
+    "wof:parent_id":1091705349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05,
+    12.9,
+    22.05,
+    12.9
+],
+  "geometry": {"coordinates":[22.05,12.9],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276394267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98333,12.41667,21.98333,12.41667",
+    "geom:latitude":12.41667,
+    "geom:longitude":21.98333,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Erdebe",
+    "gn:country_code":"TD",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244183,
+    "gn:latitude":12.41667,
+    "gn:longitude":21.98333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Erd\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244183
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"402fb6e0a4029484c134f0410eb44b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1276394267,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1276394267,
+    "wof:lastmodified":1536697230,
+    "wof:name":"Erdebe",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98333,
+    12.41667,
+    21.98333,
+    12.41667
+],
+  "geometry": {"coordinates":[21.98333,12.41667],"type":"Point"}
+}

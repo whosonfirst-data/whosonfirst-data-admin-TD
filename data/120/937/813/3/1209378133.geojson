@@ -1,0 +1,61 @@
+{
+  "id": 1209378133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61241,13.12627,15.61241,13.12627",
+    "geom:latitude":13.12627,
+    "geom:longitude":15.61241,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bourni",
+    "gn:country_code":"TD",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434625,
+    "gn:latitude":13.12627,
+    "gn:longitude":15.61241,
+    "gn:modification_date":"2009-03-04",
+    "gn:name":"Bourni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434625
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ab27d4836ad18d2d1b629799c9b2c76a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209378133
+        }
+    ],
+    "wof:id":1209378133,
+    "wof:lastmodified":1536288877,
+    "wof:name":"Bourni",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61241,
+    13.126270000000002,
+    15.61241,
+    13.126270000000002
+],
+  "geometry": {"coordinates":[15.61241,13.12627],"type":"Point"}
+}

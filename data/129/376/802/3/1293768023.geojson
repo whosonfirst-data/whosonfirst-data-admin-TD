@@ -1,0 +1,70 @@
+{
+  "id": 1293768023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.83122,8.58524,16.83122,8.58524",
+    "geom:latitude":8.58524,
+    "geom:longitude":16.83122,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Madjio",
+    "gn:country_code":"TD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428892,
+    "gn:latitude":8.58524,
+    "gn:longitude":16.83122,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Madjio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Madjio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428892
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ad83972a7544ba6b5cc683671df6c9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900073,
+            "locality_id":1293768023,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1293768023,
+    "wof:lastmodified":1537702733,
+    "wof:name":"Madjio",
+    "wof:parent_id":1091900073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.83122,
+    8.58524,
+    16.83122,
+    8.58524
+],
+  "geometry": {"coordinates":[16.83122,8.58524],"type":"Point"}
+}

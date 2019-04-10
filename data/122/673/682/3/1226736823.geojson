@@ -1,0 +1,67 @@
+{
+  "id": 1226736823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24913,13.65036,21.24913,13.65036",
+    "geom:latitude":13.65036,
+    "geom:longitude":21.24913,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gozamra",
+    "gn:country_code":"TD",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243793,
+    "gn:latitude":13.65036,
+    "gn:longitude":21.24913,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Gozamra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243793
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"35b54e841347bc9ff4022ba45026bf9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1226736823,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1226736823,
+    "wof:lastmodified":1536728801,
+    "wof:name":"Gozamra",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24913,
+    13.65036,
+    21.24913,
+    13.65036
+],
+  "geometry": {"coordinates":[21.24913,13.65036],"type":"Point"}
+}

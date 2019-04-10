@@ -1,0 +1,71 @@
+{
+  "id": 1326892993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89629,7.97945,17.89629,7.97945",
+    "geom:latitude":7.97945,
+    "geom:longitude":17.89629,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Maikoutou",
+    "gn:country_code":"TD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428737,
+    "gn:latitude":7.97945,
+    "gn:longitude":17.89629,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ma\u00efkoutou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u00efkotou",
+        "Ma\u00efkoutou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428737
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a8315c8877e01509be52de8dbb450dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1326892993,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1326892993,
+    "wof:lastmodified":1537702730,
+    "wof:name":"Maikoutou",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89629,
+    7.97945,
+    17.89629,
+    7.97945
+],
+  "geometry": {"coordinates":[17.89629,7.97945],"type":"Point"}
+}

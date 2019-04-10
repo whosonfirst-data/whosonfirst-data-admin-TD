@@ -1,0 +1,67 @@
+{
+  "id": 1243137661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5031,8.8758,17.5031,8.8758",
+    "geom:latitude":8.8758,
+    "geom:longitude":17.5031,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dieye",
+    "gn:country_code":"TD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859558,
+    "gn:latitude":8.8758,
+    "gn:longitude":17.5031,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Dieye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859558
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3cbed671b9c1fdee0a57284377febb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900193,
+            "locality_id":1243137661,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1243137661,
+    "wof:lastmodified":1536753890,
+    "wof:name":"Dieye",
+    "wof:parent_id":1091900193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5031,
+    8.8758,
+    17.5031,
+    8.8758
+],
+  "geometry": {"coordinates":[17.5031,8.8758],"type":"Point"}
+}

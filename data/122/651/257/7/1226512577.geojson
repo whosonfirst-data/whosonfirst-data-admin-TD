@@ -1,0 +1,67 @@
+{
+  "id": 1226512577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7264,10.4478,16.7264,10.4478",
+    "geom:latitude":10.4478,
+    "geom:longitude":16.7264,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Aloua",
+    "gn:country_code":"TD",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861494,
+    "gn:latitude":10.4478,
+    "gn:longitude":16.7264,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Aloua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861494
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a70f950f1ec3f656ba524a4b6e1afbb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900595,
+            "locality_id":1226512577,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1226512577,
+    "wof:lastmodified":1537044150,
+    "wof:name":"Aloua",
+    "wof:parent_id":1091900595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7264,
+    10.4478,
+    16.7264,
+    10.4478
+],
+  "geometry": {"coordinates":[16.7264,10.4478],"type":"Point"}
+}

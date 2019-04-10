@@ -1,0 +1,67 @@
+{
+  "id": 1242595337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.44767,13.22739,18.44767,13.22739",
+    "geom:latitude":13.22739,
+    "geom:longitude":18.44767,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ab Ranga",
+    "gn:country_code":"TD",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437531,
+    "gn:latitude":13.22739,
+    "gn:longitude":18.44767,
+    "gn:modification_date":"2008-09-04",
+    "gn:name":"Ab Ranga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437531
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"93bf71d863f81f10a68e2720594cbb74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1242595337,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1242595337,
+    "wof:lastmodified":1537036509,
+    "wof:name":"Ab Ranga",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.44767,
+    13.22739,
+    18.44767,
+    13.22739
+],
+  "geometry": {"coordinates":[18.44767,13.22739],"type":"Point"}
+}

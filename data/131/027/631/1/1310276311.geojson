@@ -1,0 +1,67 @@
+{
+  "id": 1310276311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0699,9.2987,18.0699,9.2987",
+    "geom:latitude":9.2987,
+    "geom:longitude":18.0699,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sako",
+    "gn:country_code":"TD",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6872167,
+    "gn:latitude":9.2987,
+    "gn:longitude":18.0699,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Sako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6872167
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a00058e6f5def9f65acc2d2cc83f7683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1310276311,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1310276311,
+    "wof:lastmodified":1536749989,
+    "wof:name":"Sako",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0699,
+    9.2987,
+    18.0699,
+    9.2987
+],
+  "geometry": {"coordinates":[18.0699,9.2987],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293313777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39918,13.62565,15.39918,13.62565",
+    "geom:latitude":13.62565,
+    "geom:longitude":15.39918,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kalerom",
+    "gn:country_code":"TD",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430976,
+    "gn:latitude":13.62565,
+    "gn:longitude":15.39918,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Kal\u00e9rom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430976
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6fb0c6136078b7a8544ca8706673397d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1293313777,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1293313777,
+    "wof:lastmodified":1537035986,
+    "wof:name":"Kalerom",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39918,
+    13.62565,
+    15.39918,
+    13.62565
+],
+  "geometry": {"coordinates":[15.39918,13.62565],"type":"Point"}
+}

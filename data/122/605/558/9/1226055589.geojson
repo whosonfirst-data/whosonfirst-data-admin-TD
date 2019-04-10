@@ -1,0 +1,67 @@
+{
+  "id": 1226055589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11667,15.18333,22.11667,15.18333",
+    "geom:latitude":15.18333,
+    "geom:longitude":22.11667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Er",
+    "gn:country_code":"TD",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244191,
+    "gn:latitude":15.18333,
+    "gn:longitude":22.11667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Er",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244191
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a5a2f4e723297d2cfe6df2d84ef69369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901453,
+            "locality_id":1226055589,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1226055589,
+    "wof:lastmodified":1536711212,
+    "wof:name":"Er",
+    "wof:parent_id":1091901453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11667000000001,
+    15.18333,
+    22.11667000000001,
+    15.18333
+],
+  "geometry": {"coordinates":[22.11667000000001,15.18333],"type":"Point"}
+}

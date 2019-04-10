@@ -1,0 +1,67 @@
+{
+  "id": 1259548327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1417,9.9118,16.1417,9.9118",
+    "geom:latitude":9.9118,
+    "geom:longitude":16.1417,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Gonogono",
+    "gn:country_code":"TD",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431920,
+    "gn:latitude":9.9118,
+    "gn:longitude":16.1417,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Gonogono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431920
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"53ec444ce180cf08d3b6b1f271c3620b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1259548327,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1259548327,
+    "wof:lastmodified":1536766044,
+    "wof:name":"Gonogono",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1417,
+    9.9118,
+    16.1417,
+    9.9118
+],
+  "geometry": {"coordinates":[16.1417,9.9118],"type":"Point"}
+}

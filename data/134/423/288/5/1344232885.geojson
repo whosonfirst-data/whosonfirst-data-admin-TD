@@ -1,0 +1,71 @@
+{
+  "id": 1344232885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72447,12.38011,15.72447,12.38011",
+    "geom:latitude":12.38011,
+    "geom:longitude":15.72447,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bissi",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435153,
+    "gn:latitude":12.38011,
+    "gn:longitude":15.72447,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bissi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bisi",
+        "Bissi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435153
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8f6d676bb344edb23d2d0b5cef7ab8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1344232885,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1344232885,
+    "wof:lastmodified":1537702795,
+    "wof:name":"Bissi",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72447,
+    12.38011,
+    15.72447,
+    12.38011
+],
+  "geometry": {"coordinates":[15.72447,12.38011],"type":"Point"}
+}

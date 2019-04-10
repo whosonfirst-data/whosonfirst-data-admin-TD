@@ -1,0 +1,65 @@
+{
+  "id": 1209071807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7342,8.6821,17.7342,8.6821",
+    "geom:latitude":8.6821,
+    "geom:longitude":17.7342,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Datibo",
+    "gn:country_code":"TD",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433177,
+    "gn:latitude":8.6821,
+    "gn:longitude":17.7342,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Datibo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dotobo",
+        "Datibo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433177
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c6ddcab9260a30ad47abee8cc1fc49b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209071807
+        }
+    ],
+    "wof:id":1209071807,
+    "wof:lastmodified":1537702774,
+    "wof:name":"Datibo",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7342,
+    8.6821,
+    17.7342,
+    8.6821
+],
+  "geometry": {"coordinates":[17.7342,8.6821],"type":"Point"}
+}

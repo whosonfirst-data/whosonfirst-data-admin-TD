@@ -1,0 +1,67 @@
+{
+  "id": 1310001785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03922,7.7832,16.03922,7.7832",
+    "geom:latitude":7.7832,
+    "geom:longitude":16.03922,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bebangueur",
+    "gn:country_code":"TD",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435857,
+    "gn:latitude":7.7832,
+    "gn:longitude":16.03922,
+    "gn:modification_date":"2008-10-14",
+    "gn:name":"B\u00e9bangueur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435857
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6a1897f30ec923afd50328a3abb38467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1310001785,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1310001785,
+    "wof:lastmodified":1536648357,
+    "wof:name":"Bebangueur",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03922,
+    7.7832,
+    16.03922,
+    7.7832
+],
+  "geometry": {"coordinates":[16.03922,7.7832],"type":"Point"}
+}

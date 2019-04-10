@@ -1,0 +1,67 @@
+{
+  "id": 1276621399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95,21.35,15.95,21.35",
+    "geom:latitude":21.35,
+    "geom:longitude":15.95,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Wour",
+    "gn:country_code":"TD",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424362,
+    "gn:latitude":21.35,
+    "gn:longitude":15.95,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Wour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678505,
+        1091901659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424362
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1461f1021c4796694f296585a7029f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901659,
+            "locality_id":1276621399,
+            "region_id":85678505
+        }
+    ],
+    "wof:id":1276621399,
+    "wof:lastmodified":1536889704,
+    "wof:name":"Wour",
+    "wof:parent_id":1091901659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95,
+    21.35,
+    15.95,
+    21.35
+],
+  "geometry": {"coordinates":[15.95,21.35],"type":"Point"}
+}

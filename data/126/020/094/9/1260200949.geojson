@@ -1,0 +1,67 @@
+{
+  "id": 1260200949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.73145,13.05143,17.73145,13.05143",
+    "geom:latitude":13.05143,
+    "geom:longitude":17.73145,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ab Amdourou",
+    "gn:country_code":"TD",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437713,
+    "gn:latitude":13.05143,
+    "gn:longitude":17.73145,
+    "gn:modification_date":"2008-09-15",
+    "gn:name":"Ab Amdourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437713
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d8148f2849b24751fb84f662ca9560a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1260200949,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1260200949,
+    "wof:lastmodified":1536823124,
+    "wof:name":"Ab Amdourou",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.73145,
+    13.05143,
+    17.73145,
+    13.05143
+],
+  "geometry": {"coordinates":[17.73145,13.05143],"type":"Point"}
+}

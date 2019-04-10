@@ -1,0 +1,67 @@
+{
+  "id": 1226206003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.91199,9.44679,18.91199,9.44679",
+    "geom:latitude":9.44679,
+    "geom:longitude":18.91199,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mangou",
+    "gn:country_code":"TD",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428439,
+    "gn:latitude":9.44679,
+    "gn:longitude":18.91199,
+    "gn:modification_date":"2008-10-29",
+    "gn:name":"Mangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428439
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0cbca0e6be8475665ed27cbfdddcef01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1226206003,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1226206003,
+    "wof:lastmodified":1536990203,
+    "wof:name":"Mangou",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.91199,
+    9.44679,
+    18.91199,
+    9.44679
+],
+  "geometry": {"coordinates":[18.91199,9.44679],"type":"Point"}
+}

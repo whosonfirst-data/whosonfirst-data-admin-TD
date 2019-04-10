@@ -1,0 +1,71 @@
+{
+  "id": 1259949491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68536,10.00506,15.68536,10.00506",
+    "geom:latitude":10.00506,
+    "geom:longitude":15.68536,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ham",
+    "gn:country_code":"TD",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431473,
+    "gn:latitude":10.00506,
+    "gn:longitude":15.68536,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ham",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pilier",
+        "Ham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431473
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0242e8a6ce2130911aff8f3054a5eeee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1259949491,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1259949491,
+    "wof:lastmodified":1537702756,
+    "wof:name":"Ham",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68536,
+    10.00506,
+    15.68536,
+    10.00506
+],
+  "geometry": {"coordinates":[15.68536,10.00506],"type":"Point"}
+}

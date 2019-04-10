@@ -1,0 +1,70 @@
+{
+  "id": 1276206649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3455,13.2288,21.3455,13.2288",
+    "geom:latitude":13.2288,
+    "geom:longitude":21.3455,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Guendour",
+    "gn:country_code":"TD",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243955,
+    "gn:latitude":13.2288,
+    "gn:longitude":21.3455,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Guendour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gendour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243955
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"968c96d33cf65d7191fd3c2387957f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1276206649,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1276206649,
+    "wof:lastmodified":1537702670,
+    "wof:name":"Guendour",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3455,
+    13.2288,
+    21.3455,
+    13.2288
+],
+  "geometry": {"coordinates":[21.3455,13.2288],"type":"Point"}
+}

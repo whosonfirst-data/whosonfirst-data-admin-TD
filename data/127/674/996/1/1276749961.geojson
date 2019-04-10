@@ -1,0 +1,67 @@
+{
+  "id": 1276749961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7081,10.2738,19.7081,10.2738",
+    "geom:latitude":10.2738,
+    "geom:longitude":19.7081,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Djimez",
+    "gn:country_code":"TD",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433577,
+    "gn:latitude":10.2738,
+    "gn:longitude":19.7081,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Djim\u00e8z",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433577
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1de2cc6c0131dfc8056c49d91e44a8a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1276749961,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1276749961,
+    "wof:lastmodified":1536718030,
+    "wof:name":"Djimez",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7081,
+    10.2738,
+    19.7081,
+    10.2738
+],
+  "geometry": {"coordinates":[19.7081,10.2738],"type":"Point"}
+}

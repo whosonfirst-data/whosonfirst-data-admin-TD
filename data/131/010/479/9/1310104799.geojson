@@ -1,0 +1,71 @@
+{
+  "id": 1310104799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2493,10.5265,19.2493,10.5265",
+    "geom:latitude":10.5265,
+    "geom:longitude":19.2493,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zan",
+    "gn:country_code":"TD",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424103,
+    "gn:latitude":10.5265,
+    "gn:longitude":19.2493,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zane",
+        "Zan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424103
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ee0587335a2853f94e20fea448882aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1310104799,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1310104799,
+    "wof:lastmodified":1537702689,
+    "wof:name":"Zan",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2493,
+    10.5265,
+    19.2493,
+    10.5265
+],
+  "geometry": {"coordinates":[19.2493,10.5265],"type":"Point"}
+}

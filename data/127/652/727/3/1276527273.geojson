@@ -1,0 +1,73 @@
+{
+  "id": 1276527273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.82749,10.13585,19.82749,10.13585",
+    "geom:latitude":10.13585,
+    "geom:longitude":19.82749,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bir el Ghala",
+    "gn:country_code":"TD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435180,
+    "gn:latitude":10.13585,
+    "gn:longitude":19.82749,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bir el Ghala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dioua Berkala",
+        "Bir el Kala",
+        "Bir el Rhala",
+        "Bir el Ghala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435180
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f3c1359cbaeafe6d8f84cd5ee267c95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1276527273,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1276527273,
+    "wof:lastmodified":1537702795,
+    "wof:name":"Bir el Ghala",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.82749,
+    10.13585,
+    19.82749,
+    10.13585
+],
+  "geometry": {"coordinates":[19.82749,10.13585],"type":"Point"}
+}

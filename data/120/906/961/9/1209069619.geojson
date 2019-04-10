@@ -1,0 +1,61 @@
+{
+  "id": 1209069619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2724,11.6386,17.2724,11.6386",
+    "geom:latitude":11.6386,
+    "geom:longitude":17.2724,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Lawa",
+    "gn:country_code":"TD",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859216,
+    "gn:latitude":11.6386,
+    "gn:longitude":17.2724,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Lawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859216
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"de98024345512bab1360d836cda762d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209069619
+        }
+    ],
+    "wof:id":1209069619,
+    "wof:lastmodified":1536298690,
+    "wof:name":"Lawa",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2724,
+    11.6386,
+    17.2724,
+    11.6386
+],
+  "geometry": {"coordinates":[17.2724,11.6386],"type":"Point"}
+}

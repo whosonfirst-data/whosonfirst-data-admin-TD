@@ -1,0 +1,61 @@
+{
+  "id": 1209179705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7845,8.4664,17.7845,8.4664",
+    "geom:latitude":8.4664,
+    "geom:longitude":17.7845,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Betikandjia",
+    "gn:country_code":"TD",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435393,
+    "gn:latitude":8.4664,
+    "gn:longitude":17.7845,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Betikandjia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435393
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"15f1bf92ecd341c4ec3fc0f0936e114c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209179705
+        }
+    ],
+    "wof:id":1209179705,
+    "wof:lastmodified":1536295301,
+    "wof:name":"Betikandjia",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7845,
+    8.4664,
+    17.7845,
+    8.4664
+],
+  "geometry": {"coordinates":[17.7845,8.4664],"type":"Point"}
+}

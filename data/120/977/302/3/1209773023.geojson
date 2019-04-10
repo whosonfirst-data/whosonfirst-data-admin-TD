@@ -1,0 +1,67 @@
+{
+  "id": 1209773023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.31667,12.48333,22.31667,12.48333",
+    "geom:latitude":12.48333,
+    "geom:longitude":22.31667,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Gindesa",
+    "gn:country_code":"TD",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243903,
+    "gn:latitude":12.48333,
+    "gn:longitude":22.31667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Gind\u00e9sa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243903
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a8d3f71090a5ad165304b4b6279205e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1209773023,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1209773023,
+    "wof:lastmodified":1536381832,
+    "wof:name":"Gindesa",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.31667,
+    12.48333,
+    22.31667,
+    12.48333
+],
+  "geometry": {"coordinates":[22.31667,12.48333],"type":"Point"}
+}

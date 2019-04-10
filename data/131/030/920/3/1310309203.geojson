@@ -1,0 +1,67 @@
+{
+  "id": 1310309203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94553,13.1103,17.94553,13.1103",
+    "geom:latitude":13.1103,
+    "geom:longitude":17.94553,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khebena",
+    "gn:country_code":"TD",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430403,
+    "gn:latitude":13.1103,
+    "gn:longitude":17.94553,
+    "gn:modification_date":"2008-09-15",
+    "gn:name":"Kh\u00e9b\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430403
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"37c5d99533a135ba3af0a80c353625e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1310309203,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1310309203,
+    "wof:lastmodified":1536702819,
+    "wof:name":"Khebena",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.94552999999999,
+    13.1103,
+    17.94552999999999,
+    13.1103
+],
+  "geometry": {"coordinates":[17.94552999999999,13.1103],"type":"Point"}
+}

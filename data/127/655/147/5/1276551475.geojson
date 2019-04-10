@@ -1,0 +1,67 @@
+{
+  "id": 1276551475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98568,12.75394,17.98568,12.75394",
+    "geom:latitude":12.75394,
+    "geom:longitude":17.98568,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Baba Bornou",
+    "gn:country_code":"TD",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436337,
+    "gn:latitude":12.75394,
+    "gn:longitude":17.98568,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Baba Bornou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436337
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"08f33047d99ebf77053c486e65e2d4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1276551475,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1276551475,
+    "wof:lastmodified":1536982958,
+    "wof:name":"Baba Bornou",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98568,
+    12.75394,
+    17.98568,
+    12.75394
+],
+  "geometry": {"coordinates":[17.98568,12.75394],"type":"Point"}
+}

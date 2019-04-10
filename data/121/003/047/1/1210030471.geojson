@@ -1,0 +1,67 @@
+{
+  "id": 1210030471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.32543,12.89511,18.32543,12.89511",
+    "geom:latitude":12.89511,
+    "geom:longitude":18.32543,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mana Ouadji",
+    "gn:country_code":"TD",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428508,
+    "gn:latitude":12.89511,
+    "gn:longitude":18.32543,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Mana Ouadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428508
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0c7c392c2fc060546707b1792d868a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1210030471,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1210030471,
+    "wof:lastmodified":1536388796,
+    "wof:name":"Mana Ouadji",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.32543,
+    12.89511,
+    18.32543,
+    12.89511
+],
+  "geometry": {"coordinates":[18.32543,12.89511],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1293083245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29124,9.98009,15.29124,9.98009",
+    "geom:latitude":9.98009,
+    "geom:longitude":15.29124,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Grin",
+    "gn:country_code":"TD",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431601,
+    "gn:latitude":9.98009,
+    "gn:longitude":15.29124,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Grin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431601
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"89397d559f10349122f80e504510c865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293083245,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293083245,
+    "wof:lastmodified":1536871865,
+    "wof:name":"Grin",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29124,
+    9.98009,
+    15.29124,
+    9.98009
+],
+  "geometry": {"coordinates":[15.29124,9.98009],"type":"Point"}
+}

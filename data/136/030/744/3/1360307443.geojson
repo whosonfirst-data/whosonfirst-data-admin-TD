@@ -1,0 +1,71 @@
+{
+  "id": 1360307443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26213,14.04808,15.26213,14.04808",
+    "geom:latitude":14.04808,
+    "geom:longitude":15.26213,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Artiena",
+    "gn:country_code":"TD",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436463,
+    "gn:latitude":14.04808,
+    "gn:longitude":15.26213,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Arti\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Art\u00e9nia",
+        "Arti\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436463
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"32c7e9c5ee9c616b7b6dac542be6f804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1360307443,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1360307443,
+    "wof:lastmodified":1537702813,
+    "wof:name":"Artiena",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26213,
+    14.04808,
+    15.26213,
+    14.04808
+],
+  "geometry": {"coordinates":[15.26213,14.04808],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276307743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5719,8.5422,17.5719,8.5422",
+    "geom:latitude":8.5422,
+    "geom:longitude":17.5719,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Maikouma",
+    "gn:country_code":"TD",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859478,
+    "gn:latitude":8.5422,
+    "gn:longitude":17.5719,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ma\u00efkouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859478
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"68c0bcd9ff329a0a3b277765994375ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1276307743,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1276307743,
+    "wof:lastmodified":1536812448,
+    "wof:name":"Maikouma",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5719,
+    8.5422,
+    17.5719,
+    8.5422
+],
+  "geometry": {"coordinates":[17.5719,8.5422],"type":"Point"}
+}

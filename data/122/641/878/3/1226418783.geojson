@@ -1,0 +1,73 @@
+{
+  "id": 1226418783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.72313,8.26521,18.72313,8.26521",
+    "geom:latitude":8.26521,
+    "geom:longitude":18.72313,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Nadili",
+    "gn:country_code":"TD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427281,
+    "gn:latitude":8.26521,
+    "gn:longitude":18.72313,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nadili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nadeli",
+        "Nadelio",
+        "Nadel\u00e9",
+        "Nadili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091899945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427281
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"64d8777dbd85b451eabbe98e38927852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899945,
+            "locality_id":1226418783,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1226418783,
+    "wof:lastmodified":1537702715,
+    "wof:name":"Nadili",
+    "wof:parent_id":1091899945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72313,
+    8.26521,
+    18.72313,
+    8.26521
+],
+  "geometry": {"coordinates":[18.72313,8.26521],"type":"Point"}
+}

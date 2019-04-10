@@ -1,0 +1,67 @@
+{
+  "id": 1292937639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.71802,12.04698,18.71802,12.04698",
+    "geom:latitude":12.04698,
+    "geom:longitude":18.71802,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Koulka",
+    "gn:country_code":"TD",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429716,
+    "gn:latitude":12.04698,
+    "gn:longitude":18.71802,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Koulka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429716
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9bbfe4fc4495c43fd8c15bf2087c3aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900821,
+            "locality_id":1292937639,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1292937639,
+    "wof:lastmodified":1537079702,
+    "wof:name":"Koulka",
+    "wof:parent_id":1091900821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.71802000000001,
+    12.04698,
+    18.71802000000001,
+    12.04698
+],
+  "geometry": {"coordinates":[18.71802000000001,12.04698],"type":"Point"}
+}

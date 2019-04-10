@@ -1,0 +1,71 @@
+{
+  "id": 1310389833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08359,8.89883,17.08359,8.89883",
+    "geom:latitude":8.89883,
+    "geom:longitude":17.08359,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gatouambassa",
+    "gn:country_code":"TD",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432212,
+    "gn:latitude":8.89883,
+    "gn:longitude":17.08359,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gatouambassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gatom-Bassa",
+        "Gatouambassa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432212
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ddbb7acde89986766688745502ce2223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900157,
+            "locality_id":1310389833,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1310389833,
+    "wof:lastmodified":1537702765,
+    "wof:name":"Gatouambassa",
+    "wof:parent_id":1091900157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08359,
+    8.89883,
+    17.08359,
+    8.89883
+],
+  "geometry": {"coordinates":[17.08359,8.89883],"type":"Point"}
+}

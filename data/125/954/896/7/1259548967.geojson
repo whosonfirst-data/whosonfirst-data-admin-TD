@@ -1,0 +1,67 @@
+{
+  "id": 1259548967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15652,9.22713,17.15652,9.22713",
+    "geom:latitude":9.22713,
+    "geom:longitude":17.15652,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mahim III",
+    "gn:country_code":"TD",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428786,
+    "gn:latitude":9.22713,
+    "gn:longitude":17.15652,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Mahim III",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428786
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dc0250b28b0cbe34eea6650dce307df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900193,
+            "locality_id":1259548967,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1259548967,
+    "wof:lastmodified":1536765101,
+    "wof:name":"Mahim III",
+    "wof:parent_id":1091900193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15652,
+    9.22713,
+    17.15652,
+    9.22713
+],
+  "geometry": {"coordinates":[17.15652,9.22713],"type":"Point"}
+}

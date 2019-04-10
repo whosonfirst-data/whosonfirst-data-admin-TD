@@ -1,0 +1,67 @@
+{
+  "id": 1243262935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7335,11.8775,18.7335,11.8775",
+    "geom:latitude":11.8775,
+    "geom:longitude":18.7335,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Banda",
+    "gn:country_code":"TD",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436064,
+    "gn:latitude":11.8775,
+    "gn:longitude":18.7335,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Banda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436064
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"93902792c7da263a29fa45510aa8844a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900821,
+            "locality_id":1243262935,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1243262935,
+    "wof:lastmodified":1537067158,
+    "wof:name":"Banda",
+    "wof:parent_id":1091900821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7335,
+    11.8775,
+    18.7335,
+    11.8775
+],
+  "geometry": {"coordinates":[18.7335,11.8775],"type":"Point"}
+}

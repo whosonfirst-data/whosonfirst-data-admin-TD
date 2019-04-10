@@ -1,0 +1,73 @@
+{
+  "id": 1293453295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.28774,8.74603,18.28774,8.74603",
+    "geom:latitude":8.74603,
+    "geom:longitude":18.28774,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gainga I",
+    "gn:country_code":"TD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432421,
+    "gn:latitude":8.74603,
+    "gn:longitude":18.28774,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ga\u00efnga I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ganga",
+        "Ga\u00efnga",
+        "Gaginga",
+        "Ga\u00efnga I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432421
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"661b580a7603a438af50ff45e3fab310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1293453295,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1293453295,
+    "wof:lastmodified":1537702768,
+    "wof:name":"Gainga I",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.28774,
+    8.74603,
+    18.28774,
+    8.74603
+],
+  "geometry": {"coordinates":[18.28774,8.74603],"type":"Point"}
+}

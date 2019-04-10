@@ -1,0 +1,67 @@
+{
+  "id": 1292895655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1013,8.4441,17.1013,8.4441",
+    "geom:latitude":8.4441,
+    "geom:longitude":17.1013,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bengassa",
+    "gn:country_code":"TD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435525,
+    "gn:latitude":8.4441,
+    "gn:longitude":17.1013,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Bengassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435525
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1398cdd5ad9ef3dafe2d00c2ce1b8823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899891,
+            "locality_id":1292895655,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1292895655,
+    "wof:lastmodified":1536645698,
+    "wof:name":"Bengassa",
+    "wof:parent_id":1091899891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1013,
+    8.4441,
+    17.1013,
+    8.4441
+],
+  "geometry": {"coordinates":[17.1013,8.4441],"type":"Point"}
+}

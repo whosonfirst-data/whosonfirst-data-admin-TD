@@ -1,0 +1,67 @@
+{
+  "id": 1293763827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01523,13.31408,22.01523,13.31408",
+    "geom:latitude":13.31408,
+    "geom:longitude":22.01523,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taberi",
+    "gn:country_code":"TD",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241847,
+    "gn:latitude":13.31408,
+    "gn:longitude":22.01523,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Tab\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241847
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7da4a6ccdd92ba5951ee8b57a102cc1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1293763827,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1293763827,
+    "wof:lastmodified":1536885279,
+    "wof:name":"Taberi",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01523,
+    13.31408,
+    22.01523,
+    13.31408
+],
+  "geometry": {"coordinates":[22.01523,13.31408],"type":"Point"}
+}

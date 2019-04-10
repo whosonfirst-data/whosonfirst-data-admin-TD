@@ -1,0 +1,71 @@
+{
+  "id": 1310023339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0351,13.3435,19.0351,13.3435",
+    "geom:latitude":13.3435,
+    "geom:longitude":19.0351,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al Katit",
+    "gn:country_code":"TD",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437172,
+    "gn:latitude":13.3435,
+    "gn:longitude":19.0351,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al K\u00e1tit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Kattit",
+        "Al K\u00e1tit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437172
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ab0d62edc55b6c2d89c10dfe2974a5d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1310023339,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1310023339,
+    "wof:lastmodified":1537702818,
+    "wof:name":"Al Katit",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.0351,
+    13.3435,
+    19.0351,
+    13.3435
+],
+  "geometry": {"coordinates":[19.0351,13.3435],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209377469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63659,8.4712,17.63659,8.4712",
+    "geom:latitude":8.4712,
+    "geom:longitude":17.63659,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gandissi",
+    "gn:country_code":"TD",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432324,
+    "gn:latitude":8.4712,
+    "gn:longitude":17.63659,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Gandissi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432324
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2c7d9951a2bb5facb80c62f0e152b0bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209377469
+        }
+    ],
+    "wof:id":1209377469,
+    "wof:lastmodified":1536288899,
+    "wof:name":"Gandissi",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.636589999999995,
+    8.4712,
+    17.636589999999995,
+    8.4712
+],
+  "geometry": {"coordinates":[17.63658999999999,8.4712],"type":"Point"}
+}

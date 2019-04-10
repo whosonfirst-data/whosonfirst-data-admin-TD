@@ -1,0 +1,70 @@
+{
+  "id": 1360187697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.38105,14.3365,21.38105,14.3365",
+    "geom:latitude":14.3365,
+    "geom:longitude":21.38105,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nimeringa",
+    "gn:country_code":"TD",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242363,
+    "gn:latitude":14.3365,
+    "gn:longitude":21.38105,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Nim\u00e9ringa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nim\u00e9ringa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242363
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fabfb4314743882c5ed1a45bba74548b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901409,
+            "locality_id":1360187697,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1360187697,
+    "wof:lastmodified":1537702653,
+    "wof:name":"Nimeringa",
+    "wof:parent_id":1091901409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.38105,
+    14.3365,
+    21.38105,
+    14.3365
+],
+  "geometry": {"coordinates":[21.38105,14.3365],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360067583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36878,10.87067,15.36878,10.87067",
+    "geom:latitude":10.87067,
+    "geom:longitude":15.36878,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tindiaye",
+    "gn:country_code":"TD",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424780,
+    "gn:latitude":10.87067,
+    "gn:longitude":15.36878,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Tindiaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424780
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"91d6c2062517124b8c26f34f84606b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1360067583,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1360067583,
+    "wof:lastmodified":1536970596,
+    "wof:name":"Tindiaye",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36878,
+    10.87067,
+    15.36878,
+    10.87067
+],
+  "geometry": {"coordinates":[15.36878,10.87067],"type":"Point"}
+}

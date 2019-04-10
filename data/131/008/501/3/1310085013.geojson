@@ -1,0 +1,67 @@
+{
+  "id": 1310085013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9205,10.1896,19.9205,10.1896",
+    "geom:latitude":10.1896,
+    "geom:longitude":19.9205,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bibien",
+    "gn:country_code":"TD",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435353,
+    "gn:latitude":10.1896,
+    "gn:longitude":19.9205,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Bibi\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435353
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0ccc6cde0d405406147901759a6af8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1310085013,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1310085013,
+    "wof:lastmodified":1537024994,
+    "wof:name":"Bibien",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9205,
+    10.1896,
+    19.9205,
+    10.1896
+],
+  "geometry": {"coordinates":[19.9205,10.1896],"type":"Point"}
+}

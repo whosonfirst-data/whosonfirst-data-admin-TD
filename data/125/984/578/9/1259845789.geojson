@@ -1,0 +1,71 @@
+{
+  "id": 1259845789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.91623,12.42408,16.91623,12.42408",
+    "geom:latitude":12.42408,
+    "geom:longitude":16.91623,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Am Chidede",
+    "gn:country_code":"TD",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437016,
+    "gn:latitude":12.42408,
+    "gn:longitude":16.91623,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Am Chid\u00e9de",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Sid\u00e9r\u00e9",
+        "Am Chid\u00e9de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437016
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2e1e0d5eca310acf56adec7ca5541ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1259845789,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1259845789,
+    "wof:lastmodified":1537702816,
+    "wof:name":"Am Chidede",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.91623,
+    12.42408,
+    16.91623,
+    12.42408
+],
+  "geometry": {"coordinates":[16.91623,12.42408],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344151345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42696,13.57565,15.42696,13.57565",
+    "geom:latitude":13.57565,
+    "geom:longitude":15.42696,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ngirom Konkia",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426944,
+    "gn:latitude":13.57565,
+    "gn:longitude":15.42696,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngirom Konkia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngirom",
+        "Konkia",
+        "Ngirom Konkia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426944
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"59774e955e2a99e280dfb50bb6b9ceb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1344151345,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1344151345,
+    "wof:lastmodified":1537702710,
+    "wof:name":"Ngirom Konkia",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42696,
+    13.57565,
+    15.42696,
+    13.57565
+],
+  "geometry": {"coordinates":[15.42696,13.57565],"type":"Point"}
+}

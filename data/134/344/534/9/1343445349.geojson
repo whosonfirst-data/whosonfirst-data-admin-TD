@@ -1,0 +1,70 @@
+{
+  "id": 1343445349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6119,8.6183,16.6119,8.6183",
+    "geom:latitude":8.6183,
+    "geom:longitude":16.6119,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dobemmiti",
+    "gn:country_code":"TD",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433422,
+    "gn:latitude":8.6183,
+    "gn:longitude":16.6119,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dob\u00e9mmiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dob\u00e9mmiti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433422
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"df2b1b164695f1317d5fd0a13a3055e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900073,
+            "locality_id":1343445349,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1343445349,
+    "wof:lastmodified":1537702777,
+    "wof:name":"Dobemmiti",
+    "wof:parent_id":1091900073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6119,
+    8.6183,
+    16.6119,
+    8.6183
+],
+  "geometry": {"coordinates":[16.6119,8.6183],"type":"Point"}
+}

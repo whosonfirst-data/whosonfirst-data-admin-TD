@@ -1,0 +1,75 @@
+{
+  "id": 1343246471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.86667,8.38333,16.86667,8.38333",
+    "geom:latitude":8.38333,
+    "geom:longitude":16.86667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bebougai",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435834,
+    "gn:latitude":8.38333,
+    "gn:longitude":16.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bebouga\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bebugei",
+        "Bebongheye",
+        "Bebougheye",
+        "B\u00e9bougue\u00ef",
+        "Bebouga\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435834
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"332bc641800a6bf47b5dfb5836cec3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899891,
+            "locality_id":1343246471,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1343246471,
+    "wof:lastmodified":1537702806,
+    "wof:name":"Bebougai",
+    "wof:parent_id":1091899891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.86667000000001,
+    8.38333,
+    16.86667000000001,
+    8.38333
+],
+  "geometry": {"coordinates":[16.86667000000001,8.38333],"type":"Point"}
+}

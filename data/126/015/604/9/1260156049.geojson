@@ -1,0 +1,67 @@
+{
+  "id": 1260156049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29342,9.01073,17.29342,9.01073",
+    "geom:latitude":9.01073,
+    "geom:longitude":17.29342,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Diai",
+    "gn:country_code":"TD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433984,
+    "gn:latitude":9.01073,
+    "gn:longitude":17.29342,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Dia\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433984
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"98ef4a8c82d9ca49156521fe6806537b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900193,
+            "locality_id":1260156049,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1260156049,
+    "wof:lastmodified":1536885098,
+    "wof:name":"Diai",
+    "wof:parent_id":1091900193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29342,
+    9.01073,
+    17.29342,
+    9.01073
+],
+  "geometry": {"coordinates":[17.29342,9.01073],"type":"Point"}
+}

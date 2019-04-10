@@ -1,0 +1,67 @@
+{
+  "id": 1243527649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62579,12.17527,15.62579,12.17527",
+    "geom:latitude":12.17527,
+    "geom:longitude":15.62579,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Adorot",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437400,
+    "gn:latitude":12.17527,
+    "gn:longitude":15.62579,
+    "gn:modification_date":"2008-02-26",
+    "gn:name":"Adorot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437400
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"19581c48c6f12f9709bd6c9b9a1411db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1243527649,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1243527649,
+    "wof:lastmodified":1536688654,
+    "wof:name":"Adorot",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62579,
+    12.17527,
+    15.62579,
+    12.17527
+],
+  "geometry": {"coordinates":[15.62579,12.17527],"type":"Point"}
+}

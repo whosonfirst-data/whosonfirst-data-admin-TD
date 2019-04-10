@@ -1,0 +1,67 @@
+{
+  "id": 1276411691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93193,8.99477,18.93193,8.99477",
+    "geom:latitude":8.99477,
+    "geom:longitude":18.93193,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Beguigui",
+    "gn:country_code":"TD",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435715,
+    "gn:latitude":8.99477,
+    "gn:longitude":18.93193,
+    "gn:modification_date":"2008-10-10",
+    "gn:name":"B\u00e9guigui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435715
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3e04262f3b43803fff50f4d36e924c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1276411691,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1276411691,
+    "wof:lastmodified":1536673694,
+    "wof:name":"Beguigui",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93193,
+    8.99477,
+    18.93193,
+    8.99477
+],
+  "geometry": {"coordinates":[18.93193,8.99477],"type":"Point"}
+}

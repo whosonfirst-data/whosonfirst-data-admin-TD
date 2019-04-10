@@ -1,0 +1,67 @@
+{
+  "id": 1276401831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.44017,9.31515,17.44017,9.31515",
+    "geom:latitude":9.31515,
+    "geom:longitude":17.44017,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Wambegue",
+    "gn:country_code":"TD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424394,
+    "gn:latitude":9.31515,
+    "gn:longitude":17.44017,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Wamb\u00e9gu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424394
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c40ad815a3f998934f399e42fbf33e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900193,
+            "locality_id":1276401831,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1276401831,
+    "wof:lastmodified":1536686948,
+    "wof:name":"Wambegue",
+    "wof:parent_id":1091900193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.44017,
+    9.31515,
+    17.44017,
+    9.31515
+],
+  "geometry": {"coordinates":[17.44017,9.31515],"type":"Point"}
+}

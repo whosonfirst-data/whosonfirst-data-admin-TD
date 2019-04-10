@@ -1,0 +1,67 @@
+{
+  "id": 1293362913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10825,11.09591,15.10825,11.09591",
+    "geom:latitude":11.09591,
+    "geom:longitude":15.10825,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Alaoutem",
+    "gn:country_code":"TD",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437268,
+    "gn:latitude":11.09591,
+    "gn:longitude":15.10825,
+    "gn:modification_date":"2008-05-28",
+    "gn:name":"Alaoutem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437268
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"06692889d174929589f2b9b82be86ceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1293362913,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1293362913,
+    "wof:lastmodified":1536966472,
+    "wof:name":"Alaoutem",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10825,
+    11.09591,
+    15.10825,
+    11.09591
+],
+  "geometry": {"coordinates":[15.10825,11.09591],"type":"Point"}
+}

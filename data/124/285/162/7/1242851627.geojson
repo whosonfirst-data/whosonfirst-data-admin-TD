@@ -1,0 +1,67 @@
+{
+  "id": 1242851627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97411,13.24346,21.97411,13.24346",
+    "geom:latitude":13.24346,
+    "geom:longitude":21.97411,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Berbere",
+    "gn:country_code":"TD",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244927,
+    "gn:latitude":13.24346,
+    "gn:longitude":21.97411,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Berb\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244927
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"08c21ba56b20cee6ce23a09edf9ab7ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1242851627,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1242851627,
+    "wof:lastmodified":1536669009,
+    "wof:name":"Berbere",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97411,
+    13.24346,
+    21.97411,
+    13.24346
+],
+  "geometry": {"coordinates":[21.97411,13.24346],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293573827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28337,7.73434,16.28337,7.73434",
+    "geom:latitude":7.73434,
+    "geom:longitude":16.28337,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Odoumia",
+    "gn:country_code":"TD",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426714,
+    "gn:latitude":7.73434,
+    "gn:longitude":16.28337,
+    "gn:modification_date":"2008-10-14",
+    "gn:name":"Odoumia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426714
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"494de6ad2899c9b9c1964819607df11e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1293573827,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1293573827,
+    "wof:lastmodified":1536662664,
+    "wof:name":"Odoumia",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28337,
+    7.73434,
+    16.28337,
+    7.73434
+],
+  "geometry": {"coordinates":[16.28337,7.73434],"type":"Point"}
+}

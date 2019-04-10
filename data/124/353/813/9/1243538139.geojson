@@ -1,0 +1,71 @@
+{
+  "id": 1243538139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15757,9.12673,16.15757,9.12673",
+    "geom:latitude":9.12673,
+    "geom:longitude":16.15757,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Djaoula",
+    "gn:country_code":"TD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433707,
+    "gn:latitude":9.12673,
+    "gn:longitude":16.15757,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Djaoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019Zaola",
+        "Djaoula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091901691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433707
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3507cf29b39a796346bae5b770bdfd56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901691,
+            "locality_id":1243538139,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1243538139,
+    "wof:lastmodified":1537702781,
+    "wof:name":"Djaoula",
+    "wof:parent_id":1091901691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15757,
+    9.12673,
+    16.15757,
+    9.12673
+],
+  "geometry": {"coordinates":[16.15757,9.12673],"type":"Point"}
+}

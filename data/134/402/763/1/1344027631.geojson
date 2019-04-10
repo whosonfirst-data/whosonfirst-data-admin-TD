@@ -1,0 +1,71 @@
+{
+  "id": 1344027631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4399,9.416,15.4399,9.416",
+    "geom:latitude":9.416,
+    "geom:longitude":15.4399,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gounou Gale",
+    "gn:country_code":"TD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431728,
+    "gn:latitude":9.416,
+    "gn:longitude":15.4399,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gounou Gal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gounougal\u00e9 Dougssigui",
+        "Gounou Gal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431728
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bd43977fee0d758a81de7d0c1233a3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900311,
+            "locality_id":1344027631,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1344027631,
+    "wof:lastmodified":1537702759,
+    "wof:name":"Gounou Gale",
+    "wof:parent_id":1091900311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4399,
+    9.416,
+    15.4399,
+    9.416
+],
+  "geometry": {"coordinates":[15.4399,9.416],"type":"Point"}
+}

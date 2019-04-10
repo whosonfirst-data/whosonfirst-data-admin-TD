@@ -1,0 +1,67 @@
+{
+  "id": 1243327153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4119,9.8211,18.4119,9.8211",
+    "geom:latitude":9.8211,
+    "geom:longitude":18.4119,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ouaya",
+    "gn:country_code":"TD",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6872111,
+    "gn:latitude":9.8211,
+    "gn:longitude":18.4119,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Ouaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6872111
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b020237bbb5555b3f1ae3fb8e93d4eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1243327153,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1243327153,
+    "wof:lastmodified":1536977115,
+    "wof:name":"Ouaya",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4119,
+    9.8211,
+    18.4119,
+    9.8211
+],
+  "geometry": {"coordinates":[18.4119,9.8211],"type":"Point"}
+}

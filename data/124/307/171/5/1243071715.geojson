@@ -1,0 +1,71 @@
+{
+  "id": 1243071715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1291,12.9596,19.1291,12.9596",
+    "geom:latitude":12.9596,
+    "geom:longitude":19.1291,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Am Tabarik",
+    "gn:country_code":"TD",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436775,
+    "gn:latitude":12.9596,
+    "gn:longitude":19.1291,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Am Tabarik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Tabarit",
+        "Am Tabarik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436775
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7f0302a7aa66a2364b575362c74389e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1243071715,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1243071715,
+    "wof:lastmodified":1537702814,
+    "wof:name":"Am Tabarik",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1291,
+    12.9596,
+    19.1291,
+    12.9596
+],
+  "geometry": {"coordinates":[19.1291,12.9596],"type":"Point"}
+}

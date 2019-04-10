@@ -1,0 +1,72 @@
+{
+  "id": 1309861171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26667,12.51667,22.26667,12.51667",
+    "geom:latitude":12.51667,
+    "geom:longitude":22.26667,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Dorno Djoutougue",
+    "gn:country_code":"TD",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244333,
+    "gn:latitude":12.51667,
+    "gn:longitude":22.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dorno Djoutougu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dorno Djoutoug\u00e9",
+        "Dorno",
+        "Dorno Djoutougu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244333
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"95cf6679c5588c7b0445f45bb532099d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1309861171,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1309861171,
+    "wof:lastmodified":1537702673,
+    "wof:name":"Dorno Djoutougue",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26667,
+    12.51667,
+    22.26667,
+    12.51667
+],
+  "geometry": {"coordinates":[22.26667,12.51667],"type":"Point"}
+}

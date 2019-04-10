@@ -1,0 +1,67 @@
+{
+  "id": 1226015787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3578,9.7009,16.3578,9.7009",
+    "geom:latitude":9.7009,
+    "geom:longitude":16.3578,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gadjigou",
+    "gn:country_code":"TD",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432442,
+    "gn:latitude":9.7009,
+    "gn:longitude":16.3578,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Gadjigou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432442
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"df11ebf75615ff0eb2a3c35aa597c825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1226015787,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1226015787,
+    "wof:lastmodified":1536768961,
+    "wof:name":"Gadjigou",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3578,
+    9.7009,
+    16.3578,
+    9.7009
+],
+  "geometry": {"coordinates":[16.3578,9.7009],"type":"Point"}
+}

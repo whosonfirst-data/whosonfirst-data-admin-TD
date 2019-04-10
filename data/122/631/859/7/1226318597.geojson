@@ -1,0 +1,71 @@
+{
+  "id": 1226318597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61358,12.87025,15.61358,12.87025",
+    "geom:latitude":12.87025,
+    "geom:longitude":15.61358,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Guermari",
+    "gn:country_code":"TD",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432129,
+    "gn:latitude":12.87025,
+    "gn:longitude":15.61358,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guermari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Germari",
+        "Guermari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432129
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e50ab601596873d350f65ee6a9b9da6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1226318597,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1226318597,
+    "wof:lastmodified":1537702764,
+    "wof:name":"Guermari",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61358,
+    12.87025,
+    15.61358,
+    12.87025
+],
+  "geometry": {"coordinates":[15.61358,12.87025],"type":"Point"}
+}

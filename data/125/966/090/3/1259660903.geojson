@@ -1,0 +1,70 @@
+{
+  "id": 1259660903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.566,13.87033,20.566,13.87033",
+    "geom:latitude":13.87033,
+    "geom:longitude":20.566,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Misterede",
+    "gn:country_code":"TD",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242600,
+    "gn:latitude":13.87033,
+    "gn:longitude":20.566,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Mist\u00e9r\u00e9d\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mist\u00e9r\u00e9d\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242600
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bbc52738e576c76c9616913c19c894ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1259660903,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1259660903,
+    "wof:lastmodified":1537702656,
+    "wof:name":"Misterede",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.566,
+    13.87033,
+    20.566,
+    13.87033
+],
+  "geometry": {"coordinates":[20.566,13.87033],"type":"Point"}
+}

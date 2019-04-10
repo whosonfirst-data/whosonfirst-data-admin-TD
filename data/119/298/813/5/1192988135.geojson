@@ -1,0 +1,71 @@
+{
+  "id": 1192988135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91578,10.73775,15.91578,10.73775",
+    "geom:latitude":10.73775,
+    "geom:longitude":15.91578,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gole",
+    "gn:country_code":"TD",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432003,
+    "gn:latitude":10.73775,
+    "gn:longitude":15.91578,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gal\u00e9",
+        "Gol\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432003
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1c8faf2a3ebd21ba0e176984a3ccd465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1192988135,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1192988135,
+    "wof:lastmodified":1537702763,
+    "wof:name":"Gole",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91578,
+    10.73775,
+    15.91578,
+    10.73775
+],
+  "geometry": {"coordinates":[15.91578,10.73775],"type":"Point"}
+}

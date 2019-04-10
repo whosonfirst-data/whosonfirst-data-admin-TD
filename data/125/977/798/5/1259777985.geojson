@@ -1,0 +1,71 @@
+{
+  "id": 1259777985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.07091,8.53978,17.07091,8.53978",
+    "geom:latitude":8.53978,
+    "geom:longitude":17.07091,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Begada",
+    "gn:country_code":"TD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435741,
+    "gn:latitude":8.53978,
+    "gn:longitude":17.07091,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9gada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9gada I",
+        "B\u00e9gada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435741
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b5cb70ff1f36f8c78202ebf5ce2ab4f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899891,
+            "locality_id":1259777985,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1259777985,
+    "wof:lastmodified":1537702804,
+    "wof:name":"Begada",
+    "wof:parent_id":1091899891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07091,
+    8.53978,
+    17.07091,
+    8.53978
+],
+  "geometry": {"coordinates":[17.07091,8.53978],"type":"Point"}
+}

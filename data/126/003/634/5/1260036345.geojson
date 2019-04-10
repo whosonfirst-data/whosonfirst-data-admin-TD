@@ -1,0 +1,72 @@
+{
+  "id": 1260036345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7006,13.95474,15.7006,13.95474",
+    "geom:latitude":13.95474,
+    "geom:longitude":15.7006,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kiski",
+    "gn:country_code":"TD",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430246,
+    "gn:latitude":13.95474,
+    "gn:longitude":15.7006,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kiski",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tisky",
+        "Kisky",
+        "Kiski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430246
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b7ee47476a8aa7b7469295ebab98c7dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901247,
+            "locality_id":1260036345,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1260036345,
+    "wof:lastmodified":1537702745,
+    "wof:name":"Kiski",
+    "wof:parent_id":1091901247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7006,
+    13.95474,
+    15.7006,
+    13.95474
+],
+  "geometry": {"coordinates":[15.7006,13.95474],"type":"Point"}
+}

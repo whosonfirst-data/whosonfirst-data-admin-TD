@@ -1,0 +1,67 @@
+{
+  "id": 1260248311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48106,12.2633,15.48106,12.2633",
+    "geom:latitude":12.2633,
+    "geom:longitude":15.48106,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ilta el Khanain",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431287,
+    "gn:latitude":12.2633,
+    "gn:longitude":15.48106,
+    "gn:modification_date":"2008-02-15",
+    "gn:name":"Ilta el Khana\u00efn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431287
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b7819efc2ee626df3eb3911ed94d0c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1260248311,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1260248311,
+    "wof:lastmodified":1536759791,
+    "wof:name":"Ilta el Khanain",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48106,
+    12.2633,
+    15.48106,
+    12.2633
+],
+  "geometry": {"coordinates":[15.48106,12.2633],"type":"Point"}
+}

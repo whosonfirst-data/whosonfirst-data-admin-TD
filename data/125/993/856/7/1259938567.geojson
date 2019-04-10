@@ -1,0 +1,67 @@
+{
+  "id": 1259938567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94403,13.79677,15.94403,13.79677",
+    "geom:latitude":13.79677,
+    "geom:longitude":15.94403,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Adjaga",
+    "gn:country_code":"TD",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437419,
+    "gn:latitude":13.79677,
+    "gn:longitude":15.94403,
+    "gn:modification_date":"2009-03-04",
+    "gn:name":"Adjaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437419
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4ac1960c0563facf8bb0472f7dcc7c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901247,
+            "locality_id":1259938567,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1259938567,
+    "wof:lastmodified":1536700280,
+    "wof:name":"Adjaga",
+    "wof:parent_id":1091901247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94403,
+    13.79677,
+    15.94403,
+    13.79677
+],
+  "geometry": {"coordinates":[15.94403,13.79677],"type":"Point"}
+}

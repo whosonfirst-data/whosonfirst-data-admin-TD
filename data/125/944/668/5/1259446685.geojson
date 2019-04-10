@@ -1,0 +1,67 @@
+{
+  "id": 1259446685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7493,8.7135,18.7493,8.7135",
+    "geom:latitude":8.7135,
+    "geom:longitude":18.7493,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Modkion",
+    "gn:country_code":"TD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427744,
+    "gn:latitude":8.7135,
+    "gn:longitude":18.7493,
+    "gn:modification_date":"2008-10-10",
+    "gn:name":"Modkion",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427744
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"72fc47765bc0d8ac9426316ffaee5aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1259446685,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1259446685,
+    "wof:lastmodified":1536912208,
+    "wof:name":"Modkion",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7493,
+    8.7135,
+    18.7493,
+    8.7135
+],
+  "geometry": {"coordinates":[18.7493,8.7135],"type":"Point"}
+}

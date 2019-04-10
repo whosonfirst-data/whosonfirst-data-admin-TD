@@ -1,0 +1,64 @@
+{
+  "id": 1209119163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.11925,14.71698,21.11925,14.71698",
+    "geom:latitude":14.71698,
+    "geom:longitude":21.11925,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lolo",
+    "gn:country_code":"TD",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11526862,
+    "gn:latitude":14.71698,
+    "gn:longitude":21.11925,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Lolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11526862
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1b120746537e722a90decfa6bb9bff02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209119163
+        }
+    ],
+    "wof:id":1209119163,
+    "wof:lastmodified":1537702826,
+    "wof:name":"Lolo",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.11925,
+    14.71698,
+    21.11925,
+    14.71698
+],
+  "geometry": {"coordinates":[21.11925,14.71698],"type":"Point"}
+}

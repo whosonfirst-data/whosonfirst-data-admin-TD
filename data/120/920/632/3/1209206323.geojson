@@ -1,0 +1,65 @@
+{
+  "id": 1209206323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78454,13.7697,15.78454,13.7697",
+    "geom:latitude":13.7697,
+    "geom:longitude":15.78454,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ereganga",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432832,
+    "gn:latitude":13.7697,
+    "gn:longitude":15.78454,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ereganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Err\u00e9ganga",
+        "Ereganga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432832
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"50fc629374f8cb11170ff85562ed984f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209206323
+        }
+    ],
+    "wof:id":1209206323,
+    "wof:lastmodified":1537702771,
+    "wof:name":"Ereganga",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78454,
+    13.7697,
+    15.78454,
+    13.7697
+],
+  "geometry": {"coordinates":[15.78454,13.7697],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260053837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.83029,9.32504,16.83029,9.32504",
+    "geom:latitude":9.32504,
+    "geom:longitude":16.83029,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tchinga",
+    "gn:country_code":"TD",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425100,
+    "gn:latitude":9.32504,
+    "gn:longitude":16.83029,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Tchinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425100
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2def6d36c93cea6aa2236ffb6bb8194b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1260053837,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1260053837,
+    "wof:lastmodified":1537029555,
+    "wof:name":"Tchinga",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.83029,
+    9.32504,
+    16.83029,
+    9.32504
+],
+  "geometry": {"coordinates":[16.83029,9.32504],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226322863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16426,13.50954,21.16426,13.50954",
+    "geom:latitude":13.50954,
+    "geom:longitude":21.16426,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Toutoula",
+    "gn:country_code":"TD",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241527,
+    "gn:latitude":13.50954,
+    "gn:longitude":21.16426,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Toutoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241527
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ae38dc6271c6437dc5a2380e77e05b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1226322863,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1226322863,
+    "wof:lastmodified":1536821676,
+    "wof:name":"Toutoula",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16426,
+    13.50954,
+    21.16426,
+    13.50954
+],
+  "geometry": {"coordinates":[21.16426,13.50954],"type":"Point"}
+}

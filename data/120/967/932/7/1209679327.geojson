@@ -1,0 +1,61 @@
+{
+  "id": 1209679327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35017,9.20693,18.35017,9.20693",
+    "geom:latitude":9.20693,
+    "geom:longitude":18.35017,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kokaga",
+    "gn:country_code":"TD",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6872124,
+    "gn:latitude":9.20693,
+    "gn:longitude":18.35017,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Kokaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6872124
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"79f3ef50184f3240b45fc9f043b2a092",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209679327
+        }
+    ],
+    "wof:id":1209679327,
+    "wof:lastmodified":1536279634,
+    "wof:name":"Kokaga",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35017,
+    9.20693,
+    18.35017,
+    9.20693
+],
+  "geometry": {"coordinates":[18.35017,9.20693],"type":"Point"}
+}

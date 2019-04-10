@@ -1,0 +1,71 @@
+{
+  "id": 1343544773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87822,9.42387,15.87822,9.42387",
+    "geom:latitude":9.42387,
+    "geom:longitude":15.87822,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bagay Deoue",
+    "gn:country_code":"TD",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436243,
+    "gn:latitude":9.42387,
+    "gn:longitude":15.87822,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bagay D\u00e9ou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagey Deou\u00e9",
+        "Bagay D\u00e9ou\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436243
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"87bce711709f31da7b45e148e9598e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1343544773,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1343544773,
+    "wof:lastmodified":1537702811,
+    "wof:name":"Bagay Deoue",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87822,
+    9.42387,
+    15.87822,
+    9.42387
+],
+  "geometry": {"coordinates":[15.87822,9.42387],"type":"Point"}
+}

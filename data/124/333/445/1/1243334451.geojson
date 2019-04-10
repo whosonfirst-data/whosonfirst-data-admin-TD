@@ -1,0 +1,67 @@
+{
+  "id": 1243334451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.085,9.162,16.085,9.162",
+    "geom:latitude":9.162,
+    "geom:longitude":16.085,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Komadjia",
+    "gn:country_code":"TD",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430081,
+    "gn:latitude":9.162,
+    "gn:longitude":16.085,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Komadjia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091901691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430081
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8d9a06a8635f74e3c85e55b09ccdb9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901691,
+            "locality_id":1243334451,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1243334451,
+    "wof:lastmodified":1536966891,
+    "wof:name":"Komadjia",
+    "wof:parent_id":1091901691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.085,
+    9.162,
+    16.085,
+    9.162
+],
+  "geometry": {"coordinates":[16.085,9.162],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343425457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0746,12.14099,15.0746,12.14099",
+    "geom:latitude":12.14099,
+    "geom:longitude":15.0746,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Chankrous",
+    "gn:country_code":"TD",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434491,
+    "gn:latitude":12.14099,
+    "gn:longitude":15.0746,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Chankrous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678491,
+        421193929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434491
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"904968d9d6a4264604979b6d0bafd016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421193929,
+            "locality_id":1343425457,
+            "region_id":85678491
+        }
+    ],
+    "wof:id":1343425457,
+    "wof:lastmodified":1536797072,
+    "wof:name":"Chankrous",
+    "wof:parent_id":421193929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0746,
+    12.14099,
+    15.0746,
+    12.14099
+],
+  "geometry": {"coordinates":[15.0746,12.14099],"type":"Point"}
+}

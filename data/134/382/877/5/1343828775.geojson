@@ -1,0 +1,71 @@
+{
+  "id": 1343828775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6696,9.1327,15.6696,9.1327",
+    "geom:latitude":9.1327,
+    "geom:longitude":15.6696,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nangasou Oudjing",
+    "gn:country_code":"TD",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427235,
+    "gn:latitude":9.1327,
+    "gn:longitude":15.6696,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nangasou Oudjing",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nangassou Oudjing",
+        "Nangasou Oudjing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427235
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5b8f7741d5e294a39ac7d7443cef9424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1343828775,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1343828775,
+    "wof:lastmodified":1537702715,
+    "wof:name":"Nangasou Oudjing",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6696,
+    9.1327,
+    15.6696,
+    9.1327
+],
+  "geometry": {"coordinates":[15.6696,9.1327],"type":"Point"}
+}

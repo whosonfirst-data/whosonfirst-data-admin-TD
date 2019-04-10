@@ -1,0 +1,70 @@
+{
+  "id": 1344271367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.15532,13.66461,20.15532,13.66461",
+    "geom:latitude":13.66461,
+    "geom:longitude":20.15532,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Noumi",
+    "gn:country_code":"TD",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242329,
+    "gn:latitude":13.66461,
+    "gn:longitude":20.15532,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Noumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Noumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242329
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dad2cedfbd385557db7ea3a163833034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1344271367,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1344271367,
+    "wof:lastmodified":1537702653,
+    "wof:name":"Noumi",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.15532,
+    13.66461,
+    20.15532,
+    13.66461
+],
+  "geometry": {"coordinates":[20.15532,13.66461],"type":"Point"}
+}

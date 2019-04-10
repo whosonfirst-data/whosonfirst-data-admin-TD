@@ -1,0 +1,67 @@
+{
+  "id": 1293223415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8508,11.2681,17.8508,11.2681",
+    "geom:latitude":11.2681,
+    "geom:longitude":17.8508,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gosondoum",
+    "gn:country_code":"TD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859169,
+    "gn:latitude":11.2681,
+    "gn:longitude":17.8508,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Gosondoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859169
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a2fd6e7477e613eb3be7b1c63b5029ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1293223415,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1293223415,
+    "wof:lastmodified":1536670723,
+    "wof:name":"Gosondoum",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8508,
+    11.2681,
+    17.8508,
+    11.2681
+],
+  "geometry": {"coordinates":[17.8508,11.2681],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326739011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2648,14.10429,21.2648,14.10429",
+    "geom:latitude":14.10429,
+    "geom:longitude":21.2648,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Monmorga",
+    "gn:country_code":"TD",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242558,
+    "gn:latitude":14.10429,
+    "gn:longitude":21.2648,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Monmorga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Monmorga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242558
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c80f61aba6cb46c918da4bf4f91cc269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901409,
+            "locality_id":1326739011,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1326739011,
+    "wof:lastmodified":1537702655,
+    "wof:name":"Monmorga",
+    "wof:parent_id":1091901409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2648,
+    14.10429,
+    21.2648,
+    14.10429
+],
+  "geometry": {"coordinates":[21.2648,14.10429],"type":"Point"}
+}

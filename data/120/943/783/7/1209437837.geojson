@@ -1,0 +1,61 @@
+{
+  "id": 1209437837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.6012,12.4512,19.6012,12.4512",
+    "geom:latitude":12.4512,
+    "geom:longitude":19.6012,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gormolo Doungous",
+    "gn:country_code":"TD",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431891,
+    "gn:latitude":12.4512,
+    "gn:longitude":19.6012,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"Gormolo Doungous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431891
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c4c3537935cedf9199b15f83f9682da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209437837
+        }
+    ],
+    "wof:id":1209437837,
+    "wof:lastmodified":1536287049,
+    "wof:name":"Gormolo Doungous",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.6012,
+    12.4512,
+    19.6012,
+    12.4512
+],
+  "geometry": {"coordinates":[19.6012,12.4512],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343751535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7177,7.8855,15.7177,7.8855",
+    "geom:latitude":7.8855,
+    "geom:longitude":15.7177,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kotoyo",
+    "gn:country_code":"TD",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429884,
+    "gn:latitude":7.8855,
+    "gn:longitude":15.7177,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Kotoyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429884
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"85ce343ff35483abef1069a9864d2dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1343751535,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1343751535,
+    "wof:lastmodified":1536822914,
+    "wof:name":"Kotoyo",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7177,
+    7.8855,
+    15.7177,
+    7.8855
+],
+  "geometry": {"coordinates":[15.7177,7.8855],"type":"Point"}
+}

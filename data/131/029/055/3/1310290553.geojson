@@ -1,0 +1,67 @@
+{
+  "id": 1310290553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8106,8.9547,15.8106,8.9547",
+    "geom:latitude":8.9547,
+    "geom:longitude":15.8106,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kokole Karpay",
+    "gn:country_code":"TD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859984,
+    "gn:latitude":8.9547,
+    "gn:longitude":15.8106,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kokol\u00e9 Karpay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859984
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"89d886281e75820c5ce5ecfb59cfd577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900113,
+            "locality_id":1310290553,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1310290553,
+    "wof:lastmodified":1536729902,
+    "wof:name":"Kokole Karpay",
+    "wof:parent_id":1091900113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8106,
+    8.9547,
+    15.8106,
+    8.9547
+],
+  "geometry": {"coordinates":[15.8106,8.9547],"type":"Point"}
+}

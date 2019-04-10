@@ -1,0 +1,61 @@
+{
+  "id": 1209384565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8718,9.9262,14.8718,9.9262",
+    "geom:latitude":9.9262,
+    "geom:longitude":14.8718,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dambere",
+    "gn:country_code":"TD",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434255,
+    "gn:latitude":9.9262,
+    "gn:longitude":14.8718,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Damb\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434255
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a416cf74f6b6d5903c8084bcfc0264de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209384565
+        }
+    ],
+    "wof:id":1209384565,
+    "wof:lastmodified":1536288668,
+    "wof:name":"Dambere",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8718,
+    9.9262,
+    14.8718,
+    9.9262
+],
+  "geometry": {"coordinates":[14.8718,9.9262],"type":"Point"}
+}

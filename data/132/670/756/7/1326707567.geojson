@@ -1,0 +1,67 @@
+{
+  "id": 1326707567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.77408,13.5186,21.77408,13.5186",
+    "geom:latitude":13.5186,
+    "geom:longitude":21.77408,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sira",
+    "gn:country_code":"TD",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241932,
+    "gn:latitude":13.5186,
+    "gn:longitude":21.77408,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Sira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241932
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5bac9da52a79facd5d053daebdf6048e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1326707567,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1326707567,
+    "wof:lastmodified":1536731624,
+    "wof:name":"Sira",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.77408,
+    13.5186,
+    21.77408,
+    13.5186
+],
+  "geometry": {"coordinates":[21.77408,13.5186],"type":"Point"}
+}

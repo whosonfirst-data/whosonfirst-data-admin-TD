@@ -1,0 +1,67 @@
+{
+  "id": 1293263711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0716,9.97728,19.0716,9.97728",
+    "geom:latitude":9.97728,
+    "geom:longitude":19.0716,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Male",
+    "gn:country_code":"TD",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428588,
+    "gn:latitude":9.97728,
+    "gn:longitude":19.0716,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Mal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428588
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"93f05f43464c70a03b4accc478638071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1293263711,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1293263711,
+    "wof:lastmodified":1536610072,
+    "wof:name":"Male",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.0716,
+    9.97728,
+    19.0716,
+    9.97728
+],
+  "geometry": {"coordinates":[19.0716,9.97728],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276681453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4441,11.6331,18.4441,11.6331",
+    "geom:latitude":11.6331,
+    "geom:longitude":18.4441,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kerkena",
+    "gn:country_code":"TD",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6856538,
+    "gn:latitude":11.6331,
+    "gn:longitude":18.4441,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kerk\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6856538
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"59508cab6ad150e5a632c1d39b6bb0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900785,
+            "locality_id":1276681453,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1276681453,
+    "wof:lastmodified":1536808926,
+    "wof:name":"Kerkena",
+    "wof:parent_id":1091900785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4441,
+    11.6331,
+    18.4441,
+    11.6331
+],
+  "geometry": {"coordinates":[18.4441,11.6331],"type":"Point"}
+}

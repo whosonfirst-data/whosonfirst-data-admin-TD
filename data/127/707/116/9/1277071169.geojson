@@ -1,0 +1,67 @@
+{
+  "id": 1277071169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9444,13.2944,14.9444,13.2944",
+    "geom:latitude":13.2944,
+    "geom:longitude":14.9444,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Njar Yakou",
+    "gn:country_code":"TD",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426803,
+    "gn:latitude":13.2944,
+    "gn:longitude":14.9444,
+    "gn:modification_date":"2008-03-25",
+    "gn:name":"Njar Yakou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426803
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8311f58f096d115d6db079bcfa8957a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1277071169,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1277071169,
+    "wof:lastmodified":1536784842,
+    "wof:name":"Njar Yakou",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9444,
+    13.2944,
+    14.9444,
+    13.2944
+],
+  "geometry": {"coordinates":[14.9444,13.2944],"type":"Point"}
+}

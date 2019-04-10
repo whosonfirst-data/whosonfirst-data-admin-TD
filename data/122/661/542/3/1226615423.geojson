@@ -1,0 +1,67 @@
+{
+  "id": 1226615423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7832,9.8777,14.7832,9.8777",
+    "geom:latitude":9.8777,
+    "geom:longitude":14.7832,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Brikete",
+    "gn:country_code":"TD",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6869389,
+    "gn:latitude":9.8777,
+    "gn:longitude":14.7832,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Brik\u00e9t\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6869389
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"67e3db28bc4b66ce577dbc04dbc38422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900357,
+            "locality_id":1226615423,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1226615423,
+    "wof:lastmodified":1536902883,
+    "wof:name":"Brikete",
+    "wof:parent_id":1091900357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7832,
+    9.8777,
+    14.7832,
+    9.8777
+],
+  "geometry": {"coordinates":[14.7832,9.8777],"type":"Point"}
+}

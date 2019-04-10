@@ -1,0 +1,65 @@
+{
+  "id": 1209680607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3485,8.8222,15.3485,8.8222",
+    "geom:latitude":8.8222,
+    "geom:longitude":15.3485,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Dang",
+    "gn:country_code":"TD",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434243,
+    "gn:latitude":8.8222,
+    "gn:longitude":15.3485,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dan",
+        "Dang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434243
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"aa3e3f9820d64952debbeec004063e76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209680607
+        }
+    ],
+    "wof:id":1209680607,
+    "wof:lastmodified":1537702786,
+    "wof:name":"Dang",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3485,
+    8.8222,
+    15.3485,
+    8.8222
+],
+  "geometry": {"coordinates":[15.3485,8.8222],"type":"Point"}
+}

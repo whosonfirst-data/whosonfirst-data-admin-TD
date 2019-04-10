@@ -1,0 +1,71 @@
+{
+  "id": 1343550953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.05457,8.41145,17.05457,8.41145",
+    "geom:latitude":8.41145,
+    "geom:longitude":17.05457,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Seri",
+    "gn:country_code":"TD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425693,
+    "gn:latitude":8.41145,
+    "gn:longitude":17.05457,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9ti",
+        "S\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425693
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6fb4af1fab2d52700674050feb7591f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899891,
+            "locality_id":1343550953,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1343550953,
+    "wof:lastmodified":1537702700,
+    "wof:name":"Seri",
+    "wof:parent_id":1091899891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.05457,
+    8.41145,
+    17.05457,
+    8.41145
+],
+  "geometry": {"coordinates":[17.05457,8.41145],"type":"Point"}
+}

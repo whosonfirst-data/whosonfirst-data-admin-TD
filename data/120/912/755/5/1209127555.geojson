@@ -1,0 +1,61 @@
+{
+  "id": 1209127555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40685,13.35522,15.40685,13.35522",
+    "geom:latitude":13.35522,
+    "geom:longitude":15.40685,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dioundouseria",
+    "gn:country_code":"TD",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6986387,
+    "gn:latitude":13.35522,
+    "gn:longitude":15.40685,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Dioundouseria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986387
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5f4629a1f6c01f20eecd69cd30171ce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209127555
+        }
+    ],
+    "wof:id":1209127555,
+    "wof:lastmodified":1536296909,
+    "wof:name":"Dioundouseria",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40685,
+    13.35522,
+    15.40685,
+    13.35522
+],
+  "geometry": {"coordinates":[15.40685,13.35522],"type":"Point"}
+}

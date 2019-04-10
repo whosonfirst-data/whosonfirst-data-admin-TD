@@ -1,0 +1,71 @@
+{
+  "id": 1277038041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25463,12.4648,15.25463,12.4648",
+    "geom:latitude":12.4648,
+    "geom:longitude":15.25463,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bendioui",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435559,
+    "gn:latitude":12.4648,
+    "gn:longitude":15.25463,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bendioui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bendiwi",
+        "Bendioui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435559
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1e719d3e5c104d9b2db4bdff04e5ef77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1277038041,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1277038041,
+    "wof:lastmodified":1537702801,
+    "wof:name":"Bendioui",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25463,
+    12.4648,
+    15.25463,
+    12.4648
+],
+  "geometry": {"coordinates":[15.25463,12.4648],"type":"Point"}
+}

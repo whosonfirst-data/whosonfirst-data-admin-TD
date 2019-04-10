@@ -1,0 +1,70 @@
+{
+  "id": 1360094605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1311,13.82148,20.1311,13.82148",
+    "geom:latitude":13.82148,
+    "geom:longitude":20.1311,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Djire",
+    "gn:country_code":"TD",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244396,
+    "gn:latitude":13.82148,
+    "gn:longitude":20.1311,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Djir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Djir\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244396
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8ebe37ca68db527f56e502e9febd04e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1360094605,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1360094605,
+    "wof:lastmodified":1537702673,
+    "wof:name":"Djire",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.1311,
+    13.82148,
+    20.1311,
+    13.82148
+],
+  "geometry": {"coordinates":[20.1311,13.82148],"type":"Point"}
+}

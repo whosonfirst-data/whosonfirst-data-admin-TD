@@ -1,0 +1,67 @@
+{
+  "id": 1226412749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3506,11.29485,15.3506,11.29485",
+    "geom:latitude":11.29485,
+    "geom:longitude":15.3506,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sinbe",
+    "gn:country_code":"TD",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6773906,
+    "gn:latitude":11.29485,
+    "gn:longitude":15.3506,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Sinbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6773906
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"91fd2f0acd5fd5b67251d278ebe3f71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1226412749,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1226412749,
+    "wof:lastmodified":1536693367,
+    "wof:name":"Sinbe",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3506,
+    11.29485,
+    15.3506,
+    11.29485
+],
+  "geometry": {"coordinates":[15.3506,11.29485],"type":"Point"}
+}

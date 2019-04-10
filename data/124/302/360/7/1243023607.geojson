@@ -1,0 +1,67 @@
+{
+  "id": 1243023607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.58333,12.78333,20.58333,12.78333",
+    "geom:latitude":12.78333,
+    "geom:longitude":20.58333,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Iredibe",
+    "gn:country_code":"TD",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243596,
+    "gn:latitude":12.78333,
+    "gn:longitude":20.58333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ir\u00e9dib\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243596
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0b973886627aa6a5535c824f0e75c0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900983,
+            "locality_id":1243023607,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1243023607,
+    "wof:lastmodified":1536918790,
+    "wof:name":"Iredibe",
+    "wof:parent_id":1091900983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.58333,
+    12.78333,
+    20.58333,
+    12.78333
+],
+  "geometry": {"coordinates":[20.58333,12.78333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242764661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49662,14.04673,20.49662,14.04673",
+    "geom:latitude":14.04673,
+    "geom:longitude":20.49662,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Fircha",
+    "gn:country_code":"TD",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244082,
+    "gn:latitude":14.04673,
+    "gn:longitude":20.49662,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Fircha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244082
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"02153410230154c75a0c7856a8dc9fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1242764661,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1242764661,
+    "wof:lastmodified":1536794516,
+    "wof:name":"Fircha",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49662,
+    14.04673,
+    20.49662,
+    14.04673
+],
+  "geometry": {"coordinates":[20.49662,14.04673],"type":"Point"}
+}

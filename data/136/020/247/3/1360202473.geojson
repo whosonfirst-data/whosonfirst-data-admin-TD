@@ -1,0 +1,71 @@
+{
+  "id": 1360202473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3568,13.2322,18.3568,13.2322",
+    "geom:latitude":13.2322,
+    "geom:longitude":18.3568,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ouled Isa",
+    "gn:country_code":"TD",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426401,
+    "gn:latitude":13.2322,
+    "gn:longitude":18.3568,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouled Isa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Issa",
+        "Ouled Isa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426401
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"43cc622a7b3b35d37f4d381c3f84e107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1360202473,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1360202473,
+    "wof:lastmodified":1537702706,
+    "wof:name":"Ouled Isa",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3568,
+    13.2322,
+    18.3568,
+    13.2322
+],
+  "geometry": {"coordinates":[18.3568,13.2322],"type":"Point"}
+}

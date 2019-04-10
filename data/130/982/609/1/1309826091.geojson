@@ -1,0 +1,71 @@
+{
+  "id": 1309826091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3379,8.6049,15.3379,8.6049",
+    "geom:latitude":8.6049,
+    "geom:longitude":15.3379,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ndao",
+    "gn:country_code":"TD",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434197,
+    "gn:latitude":8.6049,
+    "gn:longitude":15.3379,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ndao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dao",
+        "Ndao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434197
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0e6972bc1f9858f3ec37869a1b424557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900057,
+            "locality_id":1309826091,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1309826091,
+    "wof:lastmodified":1537702785,
+    "wof:name":"Ndao",
+    "wof:parent_id":1091900057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3379,
+    8.6049,
+    15.3379,
+    8.6049
+],
+  "geometry": {"coordinates":[15.3379,8.6049],"type":"Point"}
+}

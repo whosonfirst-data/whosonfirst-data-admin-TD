@@ -1,0 +1,67 @@
+{
+  "id": 1310319241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.3415,13.353,19.3415,13.353",
+    "geom:latitude":13.353,
+    "geom:longitude":19.3415,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ab Gara",
+    "gn:country_code":"TD",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437658,
+    "gn:latitude":13.353,
+    "gn:longitude":19.3415,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Ab Gara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437658
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0682abb6e381e2f00d7514bcb62d5484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1310319241,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1310319241,
+    "wof:lastmodified":1536688084,
+    "wof:name":"Ab Gara",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.3415,
+    13.353,
+    19.3415,
+    13.353
+],
+  "geometry": {"coordinates":[19.3415,13.353],"type":"Point"}
+}

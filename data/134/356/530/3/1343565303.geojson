@@ -1,0 +1,67 @@
+{
+  "id": 1343565303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15672,12.6626,17.15672,12.6626",
+    "geom:latitude":12.6626,
+    "geom:longitude":17.15672,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Abgoada",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6842278,
+    "gn:latitude":12.6626,
+    "gn:longitude":17.15672,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Abgoada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6842278
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4cf92338c49226913584e7c2566fabed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1343565303,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1343565303,
+    "wof:lastmodified":1537089224,
+    "wof:name":"Abgoada",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15672,
+    12.6626,
+    17.15672,
+    12.6626
+],
+  "geometry": {"coordinates":[17.15672,12.6626],"type":"Point"}
+}

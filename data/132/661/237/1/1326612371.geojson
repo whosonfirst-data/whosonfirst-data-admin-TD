@@ -1,0 +1,63 @@
+{
+  "id": 1326612371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1547,9.9912,15.1547,9.9912",
+    "geom:latitude":9.9912,
+    "geom:longitude":15.1547,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Debangou",
+    "gn:country_code":"TD",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434104,
+    "gn:latitude":9.9912,
+    "gn:longitude":15.1547,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"D\u00e9bangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434104
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4f324fb41397b47943a398b587f4a015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1326612371,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326612371,
+    "wof:lastmodified":1536867273,
+    "wof:name":"Debangou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1547,
+    9.9912,
+    15.1547,
+    9.9912
+],
+  "geometry": {"coordinates":[15.1547,9.9912],"type":"Point"}
+}

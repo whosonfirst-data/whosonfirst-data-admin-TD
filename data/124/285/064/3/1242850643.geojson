@@ -1,0 +1,67 @@
+{
+  "id": 1242850643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8437,9.44934,18.8437,9.44934",
+    "geom:latitude":9.44934,
+    "geom:longitude":18.8437,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dengao",
+    "gn:country_code":"TD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434033,
+    "gn:latitude":9.44934,
+    "gn:longitude":18.8437,
+    "gn:modification_date":"2008-10-29",
+    "gn:name":"Dengao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434033
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0c033d1a5577d6124080ec3f32a34a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1242850643,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1242850643,
+    "wof:lastmodified":1536670408,
+    "wof:name":"Dengao",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8437,
+    9.44934,
+    18.8437,
+    9.44934
+],
+  "geometry": {"coordinates":[18.8437,9.44934],"type":"Point"}
+}

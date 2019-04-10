@@ -1,0 +1,71 @@
+{
+  "id": 1327404809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7247,9.5215,15.7247,9.5215",
+    "geom:latitude":9.5215,
+    "geom:longitude":15.7247,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mouso Mandjo",
+    "gn:country_code":"TD",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427551,
+    "gn:latitude":9.5215,
+    "gn:longitude":15.7247,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mouso Mandjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mosso Mandjo",
+        "Mouso Mandjo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427551
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"306de6b24c0da8ceba2dd3914f606283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1327404809,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1327404809,
+    "wof:lastmodified":1537702718,
+    "wof:name":"Mouso Mandjo",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7247,
+    9.5215,
+    15.7247,
+    9.5215
+],
+  "geometry": {"coordinates":[15.7247,9.5215],"type":"Point"}
+}

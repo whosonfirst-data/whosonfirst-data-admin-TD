@@ -1,0 +1,61 @@
+{
+  "id": 1209198801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6032,9.0946,16.6032,9.0946",
+    "geom:latitude":9.0946,
+    "geom:longitude":16.6032,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Be Mangra",
+    "gn:country_code":"TD",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435613,
+    "gn:latitude":9.0946,
+    "gn:longitude":16.6032,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"B\u00e9 Mangra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435613
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4a2c651440349438c7017b5903c401a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209198801
+        }
+    ],
+    "wof:id":1209198801,
+    "wof:lastmodified":1536294681,
+    "wof:name":"Be Mangra",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6032,
+    9.0946,
+    16.6032,
+    9.0946
+],
+  "geometry": {"coordinates":[16.6032,9.0946],"type":"Point"}
+}

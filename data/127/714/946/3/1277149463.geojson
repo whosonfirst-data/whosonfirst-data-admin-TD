@@ -1,0 +1,67 @@
+{
+  "id": 1277149463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48903,11.01089,15.48903,11.01089",
+    "geom:latitude":11.01089,
+    "geom:longitude":15.48903,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dilka",
+    "gn:country_code":"TD",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433858,
+    "gn:latitude":11.01089,
+    "gn:longitude":15.48903,
+    "gn:modification_date":"2008-05-29",
+    "gn:name":"Dilka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433858
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5a6fd7cc9fb5f60260cc7865c9f768d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1277149463,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1277149463,
+    "wof:lastmodified":1536671519,
+    "wof:name":"Dilka",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48903,
+    11.01089,
+    15.48903,
+    11.01089
+],
+  "geometry": {"coordinates":[15.48903,11.01089],"type":"Point"}
+}

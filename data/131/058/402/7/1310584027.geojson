@@ -1,0 +1,67 @@
+{
+  "id": 1310584027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7785,10.62826,16.7785,10.62826",
+    "geom:latitude":10.62826,
+    "geom:longitude":16.7785,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Delfin Sara",
+    "gn:country_code":"TD",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434053,
+    "gn:latitude":10.62826,
+    "gn:longitude":16.7785,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Delfin Sara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434053
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bca8f17d0a78d20ae94f73e69c0540cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900595,
+            "locality_id":1310584027,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1310584027,
+    "wof:lastmodified":1536803630,
+    "wof:name":"Delfin Sara",
+    "wof:parent_id":1091900595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7785,
+    10.62826,
+    16.7785,
+    10.62826
+],
+  "geometry": {"coordinates":[16.7785,10.62826],"type":"Point"}
+}

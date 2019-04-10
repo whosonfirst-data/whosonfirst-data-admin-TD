@@ -1,0 +1,72 @@
+{
+  "id": 1310068155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80731,8.0206,17.80731,8.0206",
+    "geom:latitude":8.0206,
+    "geom:longitude":17.80731,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bedege",
+    "gn:country_code":"TD",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435799,
+    "gn:latitude":8.0206,
+    "gn:longitude":17.80731,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bedege",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9degh\u00e9",
+        "B\u00e9digh\u00e9",
+        "B\u00e9d\u00e9gu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435799
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4ec2fe0dcfe42533fdc17d28a5069eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1310068155,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1310068155,
+    "wof:lastmodified":1537702805,
+    "wof:name":"Bedege",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80731,
+    8.0206,
+    17.80731,
+    8.0206
+],
+  "geometry": {"coordinates":[17.80731,8.0206],"type":"Point"}
+}

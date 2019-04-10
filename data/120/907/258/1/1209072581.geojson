@@ -1,0 +1,65 @@
+{
+  "id": 1209072581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65556,12.84247,15.65556,12.84247",
+    "geom:latitude":12.84247,
+    "geom:longitude":15.65556,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bachoum",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436306,
+    "gn:latitude":12.84247,
+    "gn:longitude":15.65556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bachoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batchoum",
+        "Bachoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436306
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ddb50cad42b08454baf7725df276399a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209072581
+        }
+    ],
+    "wof:id":1209072581,
+    "wof:lastmodified":1537702812,
+    "wof:name":"Bachoum",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65556,
+    12.84247,
+    15.65556,
+    12.84247
+],
+  "geometry": {"coordinates":[15.65556,12.84247],"type":"Point"}
+}

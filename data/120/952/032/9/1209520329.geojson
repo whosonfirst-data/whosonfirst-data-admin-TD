@@ -1,0 +1,61 @@
+{
+  "id": 1209520329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9018,10.3675,18.9018,10.3675",
+    "geom:latitude":10.3675,
+    "geom:longitude":18.9018,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tiberi",
+    "gn:country_code":"TD",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861538,
+    "gn:latitude":10.3675,
+    "gn:longitude":18.9018,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Tib\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861538
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3d8bcb8c43679e9b2f6fe59bac837772",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209520329
+        }
+    ],
+    "wof:id":1209520329,
+    "wof:lastmodified":1536284600,
+    "wof:name":"Tiberi",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9018,
+    10.3675,
+    18.9018,
+    10.3675
+],
+  "geometry": {"coordinates":[18.9018,10.3675],"type":"Point"}
+}

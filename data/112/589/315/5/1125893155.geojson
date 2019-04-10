@@ -1,0 +1,81 @@
+{
+  "id": 1125893155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.94493,9.45149,18.94493,9.45149",
+    "geom:latitude":9.45149,
+    "geom:longitude":18.94493,
+    "gn:gn_country":"TD",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":16177,
+    "gn:population":16177,
+    "iso:country":"TD",
+    "lbl:latitude":9.45149,
+    "lbl:longitude":18.94493,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Kiyab\u00e9"
+    ],
+    "qs_pg:aaroncc":"TD",
+    "qs_pg:gn_country":"TD",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2429344,
+    "qs_pg:gn_pop":16177,
+    "qs_pg:name":"Kyab\u00e9",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1035661,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429344,
+        "qs_pg:id":1035661
+    },
+    "wof:country":"TD",
+    "wof:created":1497295415,
+    "wof:geomhash":"8a6e6d6866851bdb93cae1958082f907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1125893155,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1125893155,
+    "wof:lastmodified":1509398920,
+    "wof:name":"Kyab\u00e9",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:population":16177,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.94493,
+    9.45149,
+    18.94493,
+    9.45149
+],
+  "geometry": {"coordinates":[18.94493,9.45149],"type":"Point"}
+}

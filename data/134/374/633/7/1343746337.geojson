@@ -1,0 +1,71 @@
+{
+  "id": 1343746337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82884,8.24882,15.82884,8.24882",
+    "geom:latitude":8.24882,
+    "geom:longitude":15.82884,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Belia",
+    "gn:country_code":"TD",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435623,
+    "gn:latitude":8.24882,
+    "gn:longitude":15.82884,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9lia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bella",
+        "B\u00e9lia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435623
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"09a7198b9e0fa1136261e68a36b83c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1343746337,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1343746337,
+    "wof:lastmodified":1537702802,
+    "wof:name":"Belia",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82884,
+    8.24882,
+    15.82884,
+    8.24882
+],
+  "geometry": {"coordinates":[15.82884,8.24882],"type":"Point"}
+}

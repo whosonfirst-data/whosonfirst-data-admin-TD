@@ -1,0 +1,67 @@
+{
+  "id": 1242650627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1352,10.5531,16.1352,10.5531",
+    "geom:latitude":10.5531,
+    "geom:longitude":16.1352,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tchior",
+    "gn:country_code":"TD",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861491,
+    "gn:latitude":10.5531,
+    "gn:longitude":16.1352,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Tchior",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861491
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d8bbc53981d32ad69bf6e536ab456c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900595,
+            "locality_id":1242650627,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1242650627,
+    "wof:lastmodified":1536958724,
+    "wof:name":"Tchior",
+    "wof:parent_id":1091900595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1352,
+    10.5531,
+    16.1352,
+    10.5531
+],
+  "geometry": {"coordinates":[16.1352,10.5531],"type":"Point"}
+}

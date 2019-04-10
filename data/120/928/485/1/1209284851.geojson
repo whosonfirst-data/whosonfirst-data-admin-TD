@@ -1,0 +1,61 @@
+{
+  "id": 1209284851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1483,10.6889,17.1483,10.6889",
+    "geom:latitude":10.6889,
+    "geom:longitude":17.1483,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Absorto",
+    "gn:country_code":"TD",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437515,
+    "gn:latitude":10.6889,
+    "gn:longitude":17.1483,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Absorto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437515
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9ee487f946bcce3c37cb5ce94a588898",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209284851
+        }
+    ],
+    "wof:id":1209284851,
+    "wof:lastmodified":1536291895,
+    "wof:name":"Absorto",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1483,
+    10.6889,
+    17.1483,
+    10.6889
+],
+  "geometry": {"coordinates":[17.1483,10.6889],"type":"Point"}
+}

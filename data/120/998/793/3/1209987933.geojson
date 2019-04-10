@@ -1,0 +1,74 @@
+{
+  "id": 1209987933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.3319,10.1288,19.3319,10.1288",
+    "geom:latitude":10.1288,
+    "geom:longitude":19.3319,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Souka Sagher",
+    "gn:country_code":"TD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425477,
+    "gn:latitude":10.1288,
+    "gn:longitude":19.3319,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Souka Sagher",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souka I",
+        "Souka Serhir",
+        "Souka",
+        "Souka Sarher",
+        "Souka Sagher"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425477
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d871c80876c25b8c3f8704dc2ba05e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1209987933,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1209987933,
+    "wof:lastmodified":1537702698,
+    "wof:name":"Souka Sagher",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.3319,
+    10.1288,
+    19.3319,
+    10.1288
+],
+  "geometry": {"coordinates":[19.3319,10.1288],"type":"Point"}
+}

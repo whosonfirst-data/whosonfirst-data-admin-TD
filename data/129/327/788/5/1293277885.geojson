@@ -1,0 +1,70 @@
+{
+  "id": 1293277885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23713,8.69601,16.23713,8.69601",
+    "geom:latitude":8.69601,
+    "geom:longitude":16.23713,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dobara",
+    "gn:country_code":"TD",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433427,
+    "gn:latitude":8.69601,
+    "gn:longitude":16.23713,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dobara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dobara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433427
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"371428b4864d61d9558263e2822d6c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1293277885,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1293277885,
+    "wof:lastmodified":1537702778,
+    "wof:name":"Dobara",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23713,
+    8.69601,
+    16.23713,
+    8.69601
+],
+  "geometry": {"coordinates":[16.23713,8.69601],"type":"Point"}
+}

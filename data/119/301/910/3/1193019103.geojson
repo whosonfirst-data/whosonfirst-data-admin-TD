@@ -1,0 +1,70 @@
+{
+  "id": 1193019103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97868,14.88399,21.97868,14.88399",
+    "geom:latitude":14.88399,
+    "geom:longitude":21.97868,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sirinie",
+    "gn:country_code":"TD",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11526801,
+    "gn:latitude":14.88399,
+    "gn:longitude":21.97868,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Sirini\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sirini\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11526801
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1e52c22239e6a6ac966b274a8b2048df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":1193019103,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1193019103,
+    "wof:lastmodified":1537702826,
+    "wof:name":"Sirinie",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97868,
+    14.88399,
+    21.97868,
+    14.88399
+],
+  "geometry": {"coordinates":[21.97868,14.88399],"type":"Point"}
+}

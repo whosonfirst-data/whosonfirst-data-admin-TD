@@ -1,0 +1,67 @@
+{
+  "id": 1293162649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31703,9.0821,15.31703,9.0821",
+    "geom:latitude":9.0821,
+    "geom:longitude":15.31703,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ngara Bosno",
+    "gn:country_code":"TD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427008,
+    "gn:latitude":9.0821,
+    "gn:longitude":15.31703,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Ngara Bosno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427008
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"51bb0fedc043c8c7b4bd76bba6691164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1293162649,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1293162649,
+    "wof:lastmodified":1536758712,
+    "wof:name":"Ngara Bosno",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31703,
+    9.0821,
+    15.31703,
+    9.0821
+],
+  "geometry": {"coordinates":[15.31703,9.0821],"type":"Point"}
+}

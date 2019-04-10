@@ -1,0 +1,67 @@
+{
+  "id": 1309695747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1015,9.3259,16.1015,9.3259",
+    "geom:latitude":9.3259,
+    "geom:longitude":16.1015,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pakoulioum",
+    "gn:country_code":"TD",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426243,
+    "gn:latitude":9.3259,
+    "gn:longitude":16.1015,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"P\u00e2koulioum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091901691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426243
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3045ce17dc497601f193312a1578b35b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901691,
+            "locality_id":1309695747,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1309695747,
+    "wof:lastmodified":1537086613,
+    "wof:name":"Pakoulioum",
+    "wof:parent_id":1091901691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1015,
+    9.3259,
+    16.1015,
+    9.3259
+],
+  "geometry": {"coordinates":[16.1015,9.3259],"type":"Point"}
+}

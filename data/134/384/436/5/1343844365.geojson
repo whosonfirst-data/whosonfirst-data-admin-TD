@@ -1,0 +1,67 @@
+{
+  "id": 1343844365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9274,10.0708,20.9274,10.0708",
+    "geom:latitude":10.0708,
+    "geom:longitude":20.9274,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Doudei",
+    "gn:country_code":"TD",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244312,
+    "gn:latitude":10.0708,
+    "gn:longitude":20.9274,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Doud\u00e9\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244312
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b1c646b9fcc8bfc8f62b9b931e7e4381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900659,
+            "locality_id":1343844365,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1343844365,
+    "wof:lastmodified":1536689959,
+    "wof:name":"Doudei",
+    "wof:parent_id":1091900659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9274,
+    10.0708,
+    20.9274,
+    10.0708
+],
+  "geometry": {"coordinates":[20.9274,10.0708],"type":"Point"}
+}

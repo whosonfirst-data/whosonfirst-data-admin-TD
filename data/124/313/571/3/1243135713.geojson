@@ -1,0 +1,73 @@
+{
+  "id": 1243135713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2488,9.4832,19.2488,9.4832",
+    "geom:latitude":9.4832,
+    "geom:longitude":19.2488,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kosokobo II",
+    "gn:country_code":"TD",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429896,
+    "gn:latitude":9.4832,
+    "gn:longitude":19.2488,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kosokobo II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kosokobo",
+        "Koskobo",
+        "Kossokobo",
+        "Kosokobo II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429896
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3d081c0e506b76dfad7da992f02597e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1243135713,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1243135713,
+    "wof:lastmodified":1537702742,
+    "wof:name":"Kosokobo II",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2488,
+    9.4832,
+    19.2488,
+    9.4832
+],
+  "geometry": {"coordinates":[19.2488,9.4832],"type":"Point"}
+}

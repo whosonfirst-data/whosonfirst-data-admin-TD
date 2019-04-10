@@ -1,0 +1,61 @@
+{
+  "id": 1209619335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7065,13.0051,17.7065,13.0051",
+    "geom:latitude":13.0051,
+    "geom:longitude":17.7065,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gamakoro",
+    "gn:country_code":"TD",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432371,
+    "gn:latitude":13.0051,
+    "gn:longitude":17.7065,
+    "gn:modification_date":"2008-09-15",
+    "gn:name":"Gamakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432371
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ac30b8e48c5f0d3361b1b4f2f26add23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209619335
+        }
+    ],
+    "wof:id":1209619335,
+    "wof:lastmodified":1536281575,
+    "wof:name":"Gamakoro",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7065,
+    13.0051,
+    17.7065,
+    13.0051
+],
+  "geometry": {"coordinates":[17.7065,13.0051],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209910889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78777,13.57677,15.78777,13.57677",
+    "geom:latitude":13.57677,
+    "geom:longitude":15.78777,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Andjialay",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436725,
+    "gn:latitude":13.57677,
+    "gn:longitude":15.78777,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Andjialay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436725
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b1c54df0cc5de18017ea20d9bef578c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1209910889,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1209910889,
+    "wof:lastmodified":1536378917,
+    "wof:name":"Andjialay",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78777,
+    13.57677,
+    15.78777,
+    13.57677
+],
+  "geometry": {"coordinates":[15.78777,13.57677],"type":"Point"}
+}

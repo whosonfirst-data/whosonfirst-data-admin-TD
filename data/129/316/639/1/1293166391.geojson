@@ -1,0 +1,71 @@
+{
+  "id": 1293166391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.70145,8.02213,17.70145,8.02213",
+    "geom:latitude":8.02213,
+    "geom:longitude":17.70145,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Betikanjia",
+    "gn:country_code":"TD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435394,
+    "gn:latitude":8.02213,
+    "gn:longitude":17.70145,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Betikanjia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9tikanda",
+        "Betikanjia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435394
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"18aa54efa28ca8ecaa56a7533f2a1720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1293166391,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1293166391,
+    "wof:lastmodified":1537702797,
+    "wof:name":"Betikanjia",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.70145,
+    8.02213,
+    17.70145,
+    8.02213
+],
+  "geometry": {"coordinates":[17.70145,8.02213],"type":"Point"}
+}

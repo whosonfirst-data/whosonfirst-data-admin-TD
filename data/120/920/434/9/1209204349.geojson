@@ -1,0 +1,61 @@
+{
+  "id": 1209204349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5131,8.5134,16.5131,8.5134",
+    "geom:latitude":8.5134,
+    "geom:longitude":16.5131,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kayrati",
+    "gn:country_code":"TD",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6909255,
+    "gn:latitude":8.5134,
+    "gn:longitude":16.5131,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Kayrati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909255
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"792c3cc11573e1c794ca6ea05b38ebb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209204349
+        }
+    ],
+    "wof:id":1209204349,
+    "wof:lastmodified":1536294503,
+    "wof:name":"Kayrati",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5131,
+    8.5134,
+    16.5131,
+    8.5134
+],
+  "geometry": {"coordinates":[16.5131,8.5134],"type":"Point"}
+}

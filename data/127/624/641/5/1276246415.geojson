@@ -1,0 +1,67 @@
+{
+  "id": 1276246415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.4178,13.5103,19.4178,13.5103",
+    "geom:latitude":13.5103,
+    "geom:longitude":19.4178,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al Haroup",
+    "gn:country_code":"TD",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437206,
+    "gn:latitude":13.5103,
+    "gn:longitude":19.4178,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Al Haroup",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437206
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"aa5f7dcbc9550b237945275345ffd5fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1276246415,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1276246415,
+    "wof:lastmodified":1536894873,
+    "wof:name":"Al Haroup",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.4178,
+    13.5103,
+    19.4178,
+    13.5103
+],
+  "geometry": {"coordinates":[19.4178,13.5103],"type":"Point"}
+}

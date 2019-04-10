@@ -1,0 +1,71 @@
+{
+  "id": 1226820101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5625,9.2158,16.5625,9.2158",
+    "geom:latitude":9.2158,
+    "geom:longitude":16.5625,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mouroum Touloum",
+    "gn:country_code":"TD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427398,
+    "gn:latitude":9.2158,
+    "gn:longitude":16.5625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mouroum Touloum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mourountouloum",
+        "Mouroum Touloum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427398
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"78e4bc18cdfb8cfd67dae62dec08deed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1226820101,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1226820101,
+    "wof:lastmodified":1537702717,
+    "wof:name":"Mouroum Touloum",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5625,
+    9.2158,
+    16.5625,
+    9.2158
+],
+  "geometry": {"coordinates":[16.5625,9.2158],"type":"Point"}
+}

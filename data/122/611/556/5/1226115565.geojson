@@ -1,0 +1,67 @@
+{
+  "id": 1226115565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5716,11.3334,16.5716,11.3334",
+    "geom:latitude":11.3334,
+    "geom:longitude":16.5716,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pouro",
+    "gn:country_code":"TD",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426146,
+    "gn:latitude":11.3334,
+    "gn:longitude":16.5716,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Pouro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426146
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ace57a669e17b9ba063bdccce123f2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1226115565,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1226115565,
+    "wof:lastmodified":1536622395,
+    "wof:name":"Pouro",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5716,
+    11.3334,
+    16.5716,
+    11.3334
+],
+  "geometry": {"coordinates":[16.5716,11.3334],"type":"Point"}
+}

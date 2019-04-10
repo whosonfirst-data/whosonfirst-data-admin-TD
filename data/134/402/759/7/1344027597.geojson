@@ -1,0 +1,67 @@
+{
+  "id": 1344027597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1241,10.0517,16.1241,10.0517",
+    "geom:latitude":10.0517,
+    "geom:longitude":16.1241,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mougoumou Gabori",
+    "gn:country_code":"TD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427508,
+    "gn:latitude":10.0517,
+    "gn:longitude":16.1241,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Mougoumou Gabori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427508
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b009b2ef2d0cab3723150953daf912c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1344027597,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1344027597,
+    "wof:lastmodified":1536923849,
+    "wof:name":"Mougoumou Gabori",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1241,
+    10.0517,
+    16.1241,
+    10.0517
+],
+  "geometry": {"coordinates":[16.1241,10.0517],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276977005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89462,8.68331,15.89462,8.68331",
+    "geom:latitude":8.68331,
+    "geom:longitude":15.89462,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kana I",
+    "gn:country_code":"TD",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430892,
+    "gn:latitude":8.68331,
+    "gn:longitude":15.89462,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kana I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cana",
+        "Kana",
+        "Kana I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430892
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"baf2993ba9cd3a106cd3dd8f702e6593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1276977005,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1276977005,
+    "wof:lastmodified":1537702751,
+    "wof:name":"Kana I",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89462,
+    8.68331,
+    15.89462,
+    8.68331
+],
+  "geometry": {"coordinates":[15.89462,8.68331],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209923257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.52298,14.1858,21.52298,14.1858",
+    "geom:latitude":14.1858,
+    "geom:longitude":21.52298,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Erne",
+    "gn:country_code":"TD",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244156,
+    "gn:latitude":14.1858,
+    "gn:longitude":21.52298,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Ern\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ern\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244156
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"20a9a334de3d8707ba3779bd7f92d12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":1209923257,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1209923257,
+    "wof:lastmodified":1537702671,
+    "wof:name":"Erne",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.52298,
+    14.1858,
+    21.52298,
+    14.1858
+],
+  "geometry": {"coordinates":[21.52298,14.1858],"type":"Point"}
+}

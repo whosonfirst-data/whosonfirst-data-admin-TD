@@ -1,0 +1,67 @@
+{
+  "id": 1209778927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.59586,12.57152,16.59586,12.57152",
+    "geom:latitude":12.57152,
+    "geom:longitude":16.59586,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Masarma",
+    "gn:country_code":"TD",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428257,
+    "gn:latitude":12.57152,
+    "gn:longitude":16.59586,
+    "gn:modification_date":"2008-08-08",
+    "gn:name":"Masarma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428257
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6be895c283ed8c7438c5813619a14292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1209778927,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1209778927,
+    "wof:lastmodified":1536375827,
+    "wof:name":"Masarma",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.59586,
+    12.57152,
+    16.59586,
+    12.57152
+],
+  "geometry": {"coordinates":[16.59586,12.57152],"type":"Point"}
+}

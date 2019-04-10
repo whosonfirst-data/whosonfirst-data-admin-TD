@@ -1,0 +1,67 @@
+{
+  "id": 1343816507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83959,13.93797,15.83959,13.93797",
+    "geom:latitude":13.93797,
+    "geom:longitude":15.83959,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Bilanga",
+    "gn:country_code":"TD",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435284,
+    "gn:latitude":13.93797,
+    "gn:longitude":15.83959,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Bilanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435284
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d8bfdd5a2f6ba9672a6de55d154de5e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901247,
+            "locality_id":1343816507,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1343816507,
+    "wof:lastmodified":1536730539,
+    "wof:name":"Bilanga",
+    "wof:parent_id":1091901247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83959,
+    13.93797,
+    15.83959,
+    13.93797
+],
+  "geometry": {"coordinates":[15.83959,13.93797],"type":"Point"}
+}

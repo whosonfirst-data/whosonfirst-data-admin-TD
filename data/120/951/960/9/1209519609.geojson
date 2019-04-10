@@ -1,0 +1,61 @@
+{
+  "id": 1209519609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.28333,13.38333,18.28333,13.38333",
+    "geom:latitude":13.38333,
+    "geom:longitude":18.28333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Am Garada",
+    "gn:country_code":"TD",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436942,
+    "gn:latitude":13.38333,
+    "gn:longitude":18.28333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Am Garada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436942
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"896888bd9855e24489cc8c2d6406d18c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209519609
+        }
+    ],
+    "wof:id":1209519609,
+    "wof:lastmodified":1536284622,
+    "wof:name":"Am Garada",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.28333,
+    13.38333,
+    18.28333,
+    13.38333
+],
+  "geometry": {"coordinates":[18.28333,13.38333],"type":"Point"}
+}

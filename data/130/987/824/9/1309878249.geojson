@@ -1,0 +1,67 @@
+{
+  "id": 1309878249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1212,9.7839,15.1212,9.7839",
+    "geom:latitude":9.7839,
+    "geom:longitude":15.1212,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Grand Saika",
+    "gn:country_code":"TD",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431616,
+    "gn:latitude":9.7839,
+    "gn:longitude":15.1212,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Grand Sa\u00efka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431616
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"43c3999482ea9c2224243ec4b6a6a623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900357,
+            "locality_id":1309878249,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1309878249,
+    "wof:lastmodified":1536825870,
+    "wof:name":"Grand Saika",
+    "wof:parent_id":1091900357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1212,
+    9.7839,
+    15.1212,
+    9.7839
+],
+  "geometry": {"coordinates":[15.1212,9.7839],"type":"Point"}
+}

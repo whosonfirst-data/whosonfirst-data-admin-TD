@@ -1,0 +1,61 @@
+{
+  "id": 1209300861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6049,11.3763,20.6049,11.3763",
+    "geom:latitude":11.3763,
+    "geom:longitude":20.6049,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Karaka",
+    "gn:country_code":"TD",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243466,
+    "gn:latitude":11.3763,
+    "gn:longitude":20.6049,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Karaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243466
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e0346a56af88a1c8dbc82f5880086292",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209300861
+        }
+    ],
+    "wof:id":1209300861,
+    "wof:lastmodified":1536291363,
+    "wof:name":"Karaka",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6049,
+    11.3763,
+    20.6049,
+    11.3763
+],
+  "geometry": {"coordinates":[20.6049,11.3763],"type":"Point"}
+}

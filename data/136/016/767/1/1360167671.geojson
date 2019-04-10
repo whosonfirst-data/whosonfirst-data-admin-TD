@@ -1,0 +1,67 @@
+{
+  "id": 1360167671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92592,11.43734,15.92592,11.43734",
+    "geom:latitude":11.43734,
+    "geom:longitude":15.92592,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bougal",
+    "gn:country_code":"TD",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434784,
+    "gn:latitude":11.43734,
+    "gn:longitude":15.92592,
+    "gn:modification_date":"2008-06-03",
+    "gn:name":"Bougal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434784
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bc53f6c9053f5412b9f4e4261373d9fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1360167671,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1360167671,
+    "wof:lastmodified":1536825614,
+    "wof:name":"Bougal",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92592,
+    11.43734,
+    15.92592,
+    11.43734
+],
+  "geometry": {"coordinates":[15.92592,11.43734],"type":"Point"}
+}

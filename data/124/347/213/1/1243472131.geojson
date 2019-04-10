@@ -1,0 +1,67 @@
+{
+  "id": 1243472131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7351,13.4853,19.7351,13.4853",
+    "geom:latitude":13.4853,
+    "geom:longitude":19.7351,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dalakena II",
+    "gn:country_code":"TD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855641,
+    "gn:latitude":13.4853,
+    "gn:longitude":19.7351,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Dalak\u00e9na II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855641
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a55e4118d8258b5c0a8b63ff74b0d66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1243472131,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1243472131,
+    "wof:lastmodified":1536768988,
+    "wof:name":"Dalakena II",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7351,
+    13.4853,
+    19.7351,
+    13.4853
+],
+  "geometry": {"coordinates":[19.7351,13.4853],"type":"Point"}
+}

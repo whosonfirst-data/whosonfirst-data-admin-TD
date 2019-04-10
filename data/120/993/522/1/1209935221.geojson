@@ -1,0 +1,67 @@
+{
+  "id": 1209935221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.26813,8.3086,17.26813,8.3086",
+    "geom:latitude":8.3086,
+    "geom:longitude":17.26813,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ko Mbo",
+    "gn:country_code":"TD",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859408,
+    "gn:latitude":8.3086,
+    "gn:longitude":17.26813,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ko Mbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859408
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e3293cf162733dcb91b4c416baa07632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899891,
+            "locality_id":1209935221,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1209935221,
+    "wof:lastmodified":1536390955,
+    "wof:name":"Ko Mbo",
+    "wof:parent_id":1091899891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.26813,
+    8.3086,
+    17.26813,
+    8.3086
+],
+  "geometry": {"coordinates":[17.26813,8.3086],"type":"Point"}
+}

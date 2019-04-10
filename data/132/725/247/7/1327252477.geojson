@@ -1,0 +1,67 @@
+{
+  "id": 1327252477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86667,7.75,15.86667,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":15.86667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Djoro",
+    "gn:country_code":"TD",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433499,
+    "gn:latitude":7.75,
+    "gn:longitude":15.86667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Djoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433499
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"db43045842c6f987b4499c50e442e2a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1327252477,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1327252477,
+    "wof:lastmodified":1536941227,
+    "wof:name":"Djoro",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86667,
+    7.75,
+    15.86667,
+    7.75
+],
+  "geometry": {"coordinates":[15.86667,7.75],"type":"Point"}
+}

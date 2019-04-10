@@ -1,0 +1,71 @@
+{
+  "id": 1260002329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0032,11.9938,19.0032,11.9938",
+    "geom:latitude":11.9938,
+    "geom:longitude":19.0032,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Domboti",
+    "gn:country_code":"TD",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433273,
+    "gn:latitude":11.9938,
+    "gn:longitude":19.0032,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Domboti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Demboti",
+        "Domboti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433273
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"291fa2d1dcf1fc2fc183daceafcbe145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900821,
+            "locality_id":1260002329,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1260002329,
+    "wof:lastmodified":1537702775,
+    "wof:name":"Domboti",
+    "wof:parent_id":1091900821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.0032,
+    11.9938,
+    19.0032,
+    11.9938
+],
+  "geometry": {"coordinates":[19.0032,11.9938],"type":"Point"}
+}

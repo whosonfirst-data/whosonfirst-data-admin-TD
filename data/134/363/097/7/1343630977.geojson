@@ -1,0 +1,67 @@
+{
+  "id": 1343630977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31667,10.5,15.31667,10.5",
+    "geom:latitude":10.5,
+    "geom:longitude":15.31667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Toura",
+    "gn:country_code":"TD",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424505,
+    "gn:latitude":10.5,
+    "gn:longitude":15.31667,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Toura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424505
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6cdf1ecbd8759d98eb251a795fd17a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1343630977,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1343630977,
+    "wof:lastmodified":1536996932,
+    "wof:name":"Toura",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31667,
+    10.5,
+    15.31667,
+    10.5
+],
+  "geometry": {"coordinates":[15.31667,10.5],"type":"Point"}
+}

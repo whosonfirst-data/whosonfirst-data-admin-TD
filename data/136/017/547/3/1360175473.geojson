@@ -1,0 +1,67 @@
+{
+  "id": 1360175473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.27833,9.11709,16.27833,9.11709",
+    "geom:latitude":9.11709,
+    "geom:longitude":16.27833,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Djabi",
+    "gn:country_code":"TD",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433772,
+    "gn:latitude":9.11709,
+    "gn:longitude":16.27833,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Djabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433772
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"51bdac56f5991f5a34fb24235975c378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1360175473,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1360175473,
+    "wof:lastmodified":1536814592,
+    "wof:name":"Djabi",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27833,
+    9.11709,
+    16.27833,
+    9.11709
+],
+  "geometry": {"coordinates":[16.27833,9.11709],"type":"Point"}
+}

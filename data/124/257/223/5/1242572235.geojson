@@ -1,0 +1,67 @@
+{
+  "id": 1242572235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87545,13.51687,15.87545,13.51687",
+    "geom:latitude":13.51687,
+    "geom:longitude":15.87545,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tchekaganawa",
+    "gn:country_code":"TD",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425160,
+    "gn:latitude":13.51687,
+    "gn:longitude":15.87545,
+    "gn:modification_date":"2009-03-04",
+    "gn:name":"Tch\u00e9kaganawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425160
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bcc1bc4fd60f9802bc93b6c71ec96132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1242572235,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1242572235,
+    "wof:lastmodified":1537068439,
+    "wof:name":"Tchekaganawa",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87545,
+    13.51687,
+    15.87545,
+    13.51687
+],
+  "geometry": {"coordinates":[15.87545,13.51687],"type":"Point"}
+}

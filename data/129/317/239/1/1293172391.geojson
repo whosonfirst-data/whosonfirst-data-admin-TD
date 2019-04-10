@@ -1,0 +1,67 @@
+{
+  "id": 1293172391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1861,8.4247,18.1861,8.4247",
+    "geom:latitude":8.4247,
+    "geom:longitude":18.1861,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Moundigui",
+    "gn:country_code":"TD",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427458,
+    "gn:latitude":8.4247,
+    "gn:longitude":18.1861,
+    "gn:modification_date":"2008-10-10",
+    "gn:name":"Moundigui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091899945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427458
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e089e58b8bee79d7ca39549a1eae94bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899945,
+            "locality_id":1293172391,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1293172391,
+    "wof:lastmodified":1536744196,
+    "wof:name":"Moundigui",
+    "wof:parent_id":1091899945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1861,
+    8.4247,
+    18.1861,
+    8.4247
+],
+  "geometry": {"coordinates":[18.1861,8.4247],"type":"Point"}
+}

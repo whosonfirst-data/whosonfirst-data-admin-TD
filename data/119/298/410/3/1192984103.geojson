@@ -1,0 +1,71 @@
+{
+  "id": 1192984103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0014,8.3572,18.0014,8.3572",
+    "geom:latitude":8.3572,
+    "geom:longitude":18.0014,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gabian",
+    "gn:country_code":"TD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432469,
+    "gn:latitude":8.3572,
+    "gn:longitude":18.0014,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gabian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gabiane",
+        "Gabian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432469
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"86f89dc12ae9aa4c6639fdc70da31907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1192984103,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1192984103,
+    "wof:lastmodified":1537702769,
+    "wof:name":"Gabian",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0014,
+    8.3572,
+    18.0014,
+    8.3572
+],
+  "geometry": {"coordinates":[18.0014,8.3572],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343849689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00696,13.61717,15.00696,13.61717",
+    "geom:latitude":13.61717,
+    "geom:longitude":15.00696,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koreyourom",
+    "gn:country_code":"TD",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429974,
+    "gn:latitude":13.61717,
+    "gn:longitude":15.00696,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Kor\u00e9yourom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429974
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a703c603b76a5779d3c73adf96b3d5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1343849689,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1343849689,
+    "wof:lastmodified":1536682121,
+    "wof:name":"Koreyourom",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00696,
+    13.61717,
+    15.00696,
+    13.61717
+],
+  "geometry": {"coordinates":[15.00696,13.61717],"type":"Point"}
+}

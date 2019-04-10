@@ -1,0 +1,67 @@
+{
+  "id": 1276624981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37404,12.14755,16.37404,12.14755",
+    "geom:latitude":12.14755,
+    "geom:longitude":16.37404,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Baogarada",
+    "gn:country_code":"TD",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436019,
+    "gn:latitude":12.14755,
+    "gn:longitude":16.37404,
+    "gn:modification_date":"2008-08-08",
+    "gn:name":"Baogarada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436019
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"419f54060c4a4e88f30ef269ca8843bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1276624981,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1276624981,
+    "wof:lastmodified":1536884822,
+    "wof:name":"Baogarada",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37404,
+    12.14755,
+    16.37404,
+    12.14755
+],
+  "geometry": {"coordinates":[16.37404,12.14755],"type":"Point"}
+}

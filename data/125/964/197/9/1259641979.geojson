@@ -1,0 +1,67 @@
+{
+  "id": 1259641979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2629,13.3191,16.2629,13.3191",
+    "geom:latitude":13.3191,
+    "geom:longitude":16.2629,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Toulousanga",
+    "gn:country_code":"TD",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424533,
+    "gn:latitude":13.3191,
+    "gn:longitude":16.2629,
+    "gn:modification_date":"2008-09-16",
+    "gn:name":"Toulousanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424533
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3513a32b2486c09b698212ece1ebdcc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901733,
+            "locality_id":1259641979,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1259641979,
+    "wof:lastmodified":1536628834,
+    "wof:name":"Toulousanga",
+    "wof:parent_id":1091901733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2629,
+    13.3191,
+    16.2629,
+    13.3191
+],
+  "geometry": {"coordinates":[16.2629,13.3191],"type":"Point"}
+}

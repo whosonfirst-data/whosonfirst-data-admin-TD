@@ -1,0 +1,67 @@
+{
+  "id": 1259703705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2904,9.1134,16.2904,9.1134",
+    "geom:latitude":9.1134,
+    "geom:longitude":16.2904,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mouroumar",
+    "gn:country_code":"TD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870626,
+    "gn:latitude":9.1134,
+    "gn:longitude":16.2904,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Mouroumar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870626
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"287f9b16e7900ac6f12696e0eedbddac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1259703705,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1259703705,
+    "wof:lastmodified":1537036409,
+    "wof:name":"Mouroumar",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2904,
+    9.1134,
+    16.2904,
+    9.1134
+],
+  "geometry": {"coordinates":[16.2904,9.1134],"type":"Point"}
+}

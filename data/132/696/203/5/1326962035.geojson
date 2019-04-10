@@ -1,0 +1,67 @@
+{
+  "id": 1326962035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68893,12.05011,18.68893,12.05011",
+    "geom:latitude":12.05011,
+    "geom:longitude":18.68893,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zarli",
+    "gn:country_code":"TD",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424086,
+    "gn:latitude":12.05011,
+    "gn:longitude":18.68893,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Zarli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424086
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bc7e8113bed0fda19d0ec915f7329d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900821,
+            "locality_id":1326962035,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1326962035,
+    "wof:lastmodified":1536860550,
+    "wof:name":"Zarli",
+    "wof:parent_id":1091900821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68893,
+    12.05011,
+    18.68893,
+    12.05011
+],
+  "geometry": {"coordinates":[18.68893,12.05011],"type":"Point"}
+}

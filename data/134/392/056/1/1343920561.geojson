@@ -1,0 +1,67 @@
+{
+  "id": 1343920561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15842,8.57526,17.15842,8.57526",
+    "geom:latitude":8.57526,
+    "geom:longitude":17.15842,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gongti",
+    "gn:country_code":"TD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431934,
+    "gn:latitude":8.57526,
+    "gn:longitude":17.15842,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Gongti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091899975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431934
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"97d1363fa27c5341d0339085dd4e8375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899975,
+            "locality_id":1343920561,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1343920561,
+    "wof:lastmodified":1537074622,
+    "wof:name":"Gongti",
+    "wof:parent_id":1091899975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15842,
+    8.57526,
+    17.15842,
+    8.57526
+],
+  "geometry": {"coordinates":[17.15842,8.57526],"type":"Point"}
+}

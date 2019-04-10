@@ -1,0 +1,67 @@
+{
+  "id": 1260267533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17766,7.71567,16.17766,7.71567",
+    "geom:latitude":7.71567,
+    "geom:longitude":16.17766,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Betimongo",
+    "gn:country_code":"TD",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435391,
+    "gn:latitude":7.71567,
+    "gn:longitude":16.17766,
+    "gn:modification_date":"2008-10-14",
+    "gn:name":"B\u00e9timongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435391
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6f93b6231d5d466b6310ba1d06ca3188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1260267533,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1260267533,
+    "wof:lastmodified":1536733539,
+    "wof:name":"Betimongo",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17766,
+    7.71567,
+    16.17766,
+    7.71567
+],
+  "geometry": {"coordinates":[16.17766,7.71567],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226315371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24384,11.0717,15.24384,11.0717",
+    "geom:latitude":11.0717,
+    "geom:longitude":15.24384,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ouahi",
+    "gn:country_code":"TD",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426553,
+    "gn:latitude":11.0717,
+    "gn:longitude":15.24384,
+    "gn:modification_date":"2008-05-28",
+    "gn:name":"Ouahi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426553
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4849ca26f9811b769114c3286e6a18f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1226315371,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1226315371,
+    "wof:lastmodified":1536832362,
+    "wof:name":"Ouahi",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24384,
+    11.0717,
+    15.24384,
+    11.0717
+],
+  "geometry": {"coordinates":[15.24384,11.0717],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293464127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3732,9.4382,14.3732,9.4382",
+    "geom:latitude":9.4382,
+    "geom:longitude":14.3732,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Foul Plantegouin",
+    "gn:country_code":"TD",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6869456,
+    "gn:latitude":9.4382,
+    "gn:longitude":14.3732,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Foul Plantegouin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6869456
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c0ff259b7d2b29b1fb9c1e0966b07fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900399,
+            "locality_id":1293464127,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1293464127,
+    "wof:lastmodified":1536819994,
+    "wof:name":"Foul Plantegouin",
+    "wof:parent_id":1091900399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3732,
+    9.4382,
+    14.3732,
+    9.4382
+],
+  "geometry": {"coordinates":[14.3732,9.4382],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343627781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2829,11.875,17.2829,11.875",
+    "geom:latitude":11.875,
+    "geom:longitude":17.2829,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tordona",
+    "gn:country_code":"TD",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859255,
+    "gn:latitude":11.875,
+    "gn:longitude":17.2829,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Tordona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859255
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9827b91c75187e145d8af8383b4f0c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1343627781,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1343627781,
+    "wof:lastmodified":1537001518,
+    "wof:name":"Tordona",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2829,
+    11.875,
+    17.2829,
+    11.875
+],
+  "geometry": {"coordinates":[17.2829,11.875],"type":"Point"}
+}

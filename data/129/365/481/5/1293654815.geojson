@@ -1,0 +1,67 @@
+{
+  "id": 1293654815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.70899,8.65694,17.70899,8.65694",
+    "geom:latitude":8.65694,
+    "geom:longitude":17.70899,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sandene",
+    "gn:country_code":"TD",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859502,
+    "gn:latitude":8.65694,
+    "gn:longitude":17.70899,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Sand\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859502
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"60bbf23aa8d53bde78c2d131ffa1fee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1293654815,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1293654815,
+    "wof:lastmodified":1537041416,
+    "wof:name":"Sandene",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.70899,
+    8.65694,
+    17.70899,
+    8.65694
+],
+  "geometry": {"coordinates":[17.70899,8.65694],"type":"Point"}
+}

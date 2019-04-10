@@ -1,0 +1,67 @@
+{
+  "id": 1276401107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9758,9.5519,14.9758,9.5519",
+    "geom:latitude":9.5519,
+    "geom:longitude":14.9758,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Gouin Lara",
+    "gn:country_code":"TD",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431799,
+    "gn:latitude":9.5519,
+    "gn:longitude":14.9758,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Gouin Lara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431799
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dae8a0329209808fc99980413a603663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1276401107,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1276401107,
+    "wof:lastmodified":1536687966,
+    "wof:name":"Gouin Lara",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9758,
+    9.5519,
+    14.9758,
+    9.5519
+],
+  "geometry": {"coordinates":[14.9758,9.5519],"type":"Point"}
+}

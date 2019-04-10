@@ -1,0 +1,67 @@
+{
+  "id": 1259396367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5944,13.5289,18.5944,13.5289",
+    "geom:latitude":13.5289,
+    "geom:longitude":18.5944,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Am Aradjat",
+    "gn:country_code":"TD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823663,
+    "gn:latitude":13.5289,
+    "gn:longitude":18.5944,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Am Aradjat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823663
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ffa447deabdc7456aa6b38b8fe0a55bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1259396367,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1259396367,
+    "wof:lastmodified":1536982962,
+    "wof:name":"Am Aradjat",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5944,
+    13.5289,
+    18.5944,
+    13.5289
+],
+  "geometry": {"coordinates":[18.5944,13.5289],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260380821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.77692,8.93202,16.77692,8.93202",
+    "geom:latitude":8.93202,
+    "geom:longitude":16.77692,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bekoule",
+    "gn:country_code":"TD",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6909149,
+    "gn:latitude":8.93202,
+    "gn:longitude":16.77692,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"B\u00e9koule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909149
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"aa1dae5eec42d57515fc322874ecb822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900157,
+            "locality_id":1260380821,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1260380821,
+    "wof:lastmodified":1537075492,
+    "wof:name":"Bekoule",
+    "wof:parent_id":1091900157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.77692,
+    8.93202,
+    16.77692,
+    8.93202
+],
+  "geometry": {"coordinates":[16.77692,8.93202],"type":"Point"}
+}

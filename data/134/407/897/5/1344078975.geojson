@@ -1,0 +1,71 @@
+{
+  "id": 1344078975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26647,14.18939,15.26647,14.18939",
+    "geom:latitude":14.18939,
+    "geom:longitude":15.26647,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sountra",
+    "gn:country_code":"TD",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425432,
+    "gn:latitude":14.18939,
+    "gn:longitude":15.26647,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sountra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sountara",
+        "Sountra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425432
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"66ac0c96838f5aeb9150b60d0fb79c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1344078975,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1344078975,
+    "wof:lastmodified":1537702698,
+    "wof:name":"Sountra",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26647,
+    14.18939,
+    15.26647,
+    14.18939
+],
+  "geometry": {"coordinates":[15.26647,14.18939],"type":"Point"}
+}

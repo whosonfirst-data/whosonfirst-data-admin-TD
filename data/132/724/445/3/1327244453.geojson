@@ -1,0 +1,74 @@
+{
+  "id": 1327244453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03333,14.01667,22.03333,14.01667",
+    "geom:latitude":14.01667,
+    "geom:longitude":22.03333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ardemi",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245201,
+    "gn:latitude":14.01667,
+    "gn:longitude":22.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ard\u00e9mi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djimm\u00e9ze el Hamra",
+        "Djimez",
+        "Djimez\u00e9",
+        "Ard\u00e9mi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245201
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"30d890f3d1b0e0c3c7a3e498dce19745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":1327244453,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1327244453,
+    "wof:lastmodified":1537702680,
+    "wof:name":"Ardemi",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03333,
+    14.01667,
+    22.03333,
+    14.01667
+],
+  "geometry": {"coordinates":[22.03333,14.01667],"type":"Point"}
+}

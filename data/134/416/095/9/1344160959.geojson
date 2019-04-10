@@ -1,0 +1,71 @@
+{
+  "id": 1344160959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2056,13.3178,18.2056,13.3178",
+    "geom:latitude":13.3178,
+    "geom:longitude":18.2056,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Grefa",
+    "gn:country_code":"TD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431607,
+    "gn:latitude":13.3178,
+    "gn:longitude":18.2056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gr\u00e9fa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guerf\u00e9",
+        "Gr\u00e9fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431607
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e76fb98a30fb2b79a3d7d323329c9f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1344160959,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1344160959,
+    "wof:lastmodified":1537702758,
+    "wof:name":"Grefa",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2056,
+    13.3178,
+    18.2056,
+    13.3178
+],
+  "geometry": {"coordinates":[18.2056,13.3178],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326787879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.09718,11.68154,22.09718,11.68154",
+    "geom:latitude":11.68154,
+    "geom:longitude":22.09718,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Marabila",
+    "gn:country_code":"TD",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242789,
+    "gn:latitude":11.68154,
+    "gn:longitude":22.09718,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Marabila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marabira",
+        "Marabila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242789
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"eaf146ab8cb44b53919605accfa1fc68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1326787879,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1326787879,
+    "wof:lastmodified":1537702658,
+    "wof:name":"Marabila",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.09718,
+    11.68154,
+    22.09718,
+    11.68154
+],
+  "geometry": {"coordinates":[22.09718,11.68154],"type":"Point"}
+}

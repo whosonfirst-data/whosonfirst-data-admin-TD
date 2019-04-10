@@ -1,0 +1,67 @@
+{
+  "id": 1243526089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0924,9.5161,19.0924,9.5161",
+    "geom:latitude":9.5161,
+    "geom:longitude":19.0924,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Alakao",
+    "gn:country_code":"TD",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437281,
+    "gn:latitude":9.5161,
+    "gn:longitude":19.0924,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Alakao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437281
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8fa7c4932b764a6e9ddd170eb6614b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1243526089,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1243526089,
+    "wof:lastmodified":1536690968,
+    "wof:name":"Alakao",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.0924,
+    9.5161,
+    19.0924,
+    9.5161
+],
+  "geometry": {"coordinates":[19.0924,9.5161],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225828695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62863,9.26772,15.62863,9.26772",
+    "geom:latitude":9.26772,
+    "geom:longitude":15.62863,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bero Mola",
+    "gn:country_code":"TD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435442,
+    "gn:latitude":9.26772,
+    "gn:longitude":15.62863,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"B\u00e9ro Mola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435442
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cf123188393b6ca6677a8cb1642bcad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1225828695,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1225828695,
+    "wof:lastmodified":1537036695,
+    "wof:name":"Bero Mola",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62863,
+    9.26772,
+    15.62863,
+    9.26772
+],
+  "geometry": {"coordinates":[15.62863,9.26772],"type":"Point"}
+}

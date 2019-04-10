@@ -1,0 +1,67 @@
+{
+  "id": 1327445675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.51283,12.97251,18.51283,12.97251",
+    "geom:latitude":12.97251,
+    "geom:longitude":18.51283,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Argoudgafa",
+    "gn:country_code":"TD",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436538,
+    "gn:latitude":12.97251,
+    "gn:longitude":18.51283,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Argoudgafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436538
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"82290e5ea8be34e06908e390777231d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1327445675,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1327445675,
+    "wof:lastmodified":1536661560,
+    "wof:name":"Argoudgafa",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51283,
+    12.97251,
+    18.51283,
+    12.97251
+],
+  "geometry": {"coordinates":[18.51283,12.97251],"type":"Point"}
+}

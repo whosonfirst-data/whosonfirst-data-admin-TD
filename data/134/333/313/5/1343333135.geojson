@@ -1,0 +1,67 @@
+{
+  "id": 1343333135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63662,9.73863,17.63662,9.73863",
+    "geom:latitude":9.73863,
+    "geom:longitude":17.63662,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dene",
+    "gn:country_code":"TD",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434037,
+    "gn:latitude":9.73863,
+    "gn:longitude":17.63662,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"D\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434037
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2250ffb86aa43ef866c759372e64d8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1343333135,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1343333135,
+    "wof:lastmodified":1536930886,
+    "wof:name":"Dene",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63662,
+    9.73863,
+    17.63662,
+    9.73863
+],
+  "geometry": {"coordinates":[17.63662,9.73863],"type":"Point"}
+}

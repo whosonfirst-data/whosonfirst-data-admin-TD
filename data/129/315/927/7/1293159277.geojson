@@ -1,0 +1,67 @@
+{
+  "id": 1293159277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4553,13.3756,16.4553,13.3756",
+    "geom:latitude":13.3756,
+    "geom:longitude":16.4553,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sananga",
+    "gn:country_code":"TD",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425858,
+    "gn:latitude":13.3756,
+    "gn:longitude":16.4553,
+    "gn:modification_date":"2008-09-16",
+    "gn:name":"Sananga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425858
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b43796472568cf47e1ce0970ef11d8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901733,
+            "locality_id":1293159277,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1293159277,
+    "wof:lastmodified":1536763747,
+    "wof:name":"Sananga",
+    "wof:parent_id":1091901733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4553,
+    13.3756,
+    16.4553,
+    13.3756
+],
+  "geometry": {"coordinates":[16.4553,13.3756],"type":"Point"}
+}

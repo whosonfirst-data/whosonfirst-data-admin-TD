@@ -1,0 +1,66 @@
+{
+  "id": 1209085787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3254,10.7505,20.3254,10.7505",
+    "geom:latitude":10.7505,
+    "geom:longitude":20.3254,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Al Midodil",
+    "gn:country_code":"TD",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245566,
+    "gn:latitude":10.7505,
+    "gn:longitude":20.3254,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Midodil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9dod\u00e9",
+        "Al M\u00e9dodel",
+        "Al Midodil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245566
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"410783e5c13b553943e35c2fbc27839f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209085787
+        }
+    ],
+    "wof:id":1209085787,
+    "wof:lastmodified":1537702685,
+    "wof:name":"Al Midodil",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.3254,
+    10.7505,
+    20.3254,
+    10.7505
+],
+  "geometry": {"coordinates":[20.3254,10.7505],"type":"Point"}
+}

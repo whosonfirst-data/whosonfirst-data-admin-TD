@@ -1,0 +1,67 @@
+{
+  "id": 1242959681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98333,11.51667,20.98333,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":20.98333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Am Beldi",
+    "gn:country_code":"TD",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245526,
+    "gn:latitude":11.51667,
+    "gn:longitude":20.98333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Am Beldi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245526
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"34a5268be8096e07829c6ccf941de668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1242959681,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1242959681,
+    "wof:lastmodified":1537009696,
+    "wof:name":"Am Beldi",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98333,
+    11.51667,
+    20.98333,
+    11.51667
+],
+  "geometry": {"coordinates":[20.98333,11.51667],"type":"Point"}
+}

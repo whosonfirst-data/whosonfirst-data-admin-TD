@@ -1,0 +1,67 @@
+{
+  "id": 1209110755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8249,11.8608,18.8249,11.8608",
+    "geom:latitude":11.8608,
+    "geom:longitude":18.8249,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kadam",
+    "gn:country_code":"TD",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431137,
+    "gn:latitude":11.8608,
+    "gn:longitude":18.8249,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kadam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koddem",
+        "Kaddem",
+        "Kaddam",
+        "Kadam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431137
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ae72f4a039a5157d8db556f9be81466a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209110755
+        }
+    ],
+    "wof:id":1209110755,
+    "wof:lastmodified":1537702753,
+    "wof:name":"Kadam",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8249,
+    11.8608,
+    18.8249,
+    11.8608
+],
+  "geometry": {"coordinates":[18.8249,11.8608],"type":"Point"}
+}

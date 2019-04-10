@@ -1,0 +1,67 @@
+{
+  "id": 1360008363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8564,11.2784,17.8564,11.2784",
+    "geom:latitude":11.2784,
+    "geom:longitude":17.8564,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sondoum",
+    "gn:country_code":"TD",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859170,
+    "gn:latitude":11.2784,
+    "gn:longitude":17.8564,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Sondoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859170
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"73782d6822721f963b36c9e7689974ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1360008363,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1360008363,
+    "wof:lastmodified":1537054014,
+    "wof:name":"Sondoum",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8564,
+    11.2784,
+    17.8564,
+    11.2784
+],
+  "geometry": {"coordinates":[17.8564,11.2784],"type":"Point"}
+}

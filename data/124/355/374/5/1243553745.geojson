@@ -1,0 +1,67 @@
+{
+  "id": 1243553745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0067,12.0427,19.0067,12.0427",
+    "geom:latitude":12.0427,
+    "geom:longitude":19.0067,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tokore",
+    "gn:country_code":"TD",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424686,
+    "gn:latitude":12.0427,
+    "gn:longitude":19.0067,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"Tokor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424686
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7f53ed28b8c077ace7b38e8756069654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900821,
+            "locality_id":1243553745,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1243553745,
+    "wof:lastmodified":1536650723,
+    "wof:name":"Tokore",
+    "wof:parent_id":1091900821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.0067,
+    12.0427,
+    19.0067,
+    12.0427
+],
+  "geometry": {"coordinates":[19.0067,12.0427],"type":"Point"}
+}

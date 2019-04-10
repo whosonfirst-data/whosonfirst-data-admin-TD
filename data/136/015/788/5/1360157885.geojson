@@ -1,0 +1,67 @@
+{
+  "id": 1360157885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3049,11.35764,15.3049,11.35764",
+    "geom:latitude":11.35764,
+    "geom:longitude":15.3049,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mandcha",
+    "gn:country_code":"TD",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428484,
+    "gn:latitude":11.35764,
+    "gn:longitude":15.3049,
+    "gn:modification_date":"2008-05-29",
+    "gn:name":"Mandcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428484
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"91fc7d72e959323341efec135676be94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1360157885,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1360157885,
+    "wof:lastmodified":1536839724,
+    "wof:name":"Mandcha",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3049,
+    11.35764,
+    15.3049,
+    11.35764
+],
+  "geometry": {"coordinates":[15.3049,11.35764],"type":"Point"}
+}

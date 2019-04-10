@@ -1,0 +1,67 @@
+{
+  "id": 1259396351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.70582,13.02695,17.70582,13.02695",
+    "geom:latitude":13.02695,
+    "geom:longitude":17.70582,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kherkatir",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430402,
+    "gn:latitude":13.02695,
+    "gn:longitude":17.70582,
+    "gn:modification_date":"2008-09-15",
+    "gn:name":"Kherkatir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430402
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b64b571620fa4c049117bb7d63182697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1259396351,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1259396351,
+    "wof:lastmodified":1536982982,
+    "wof:name":"Kherkatir",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.70582000000001,
+    13.02695,
+    17.70582000000001,
+    13.02695
+],
+  "geometry": {"coordinates":[17.70582000000001,13.02695],"type":"Point"}
+}

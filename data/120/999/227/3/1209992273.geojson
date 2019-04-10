@@ -1,0 +1,67 @@
+{
+  "id": 1209992273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.39649,12.03838,17.39649,12.03838",
+    "geom:latitude":12.03838,
+    "geom:longitude":17.39649,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Am Ladoba",
+    "gn:country_code":"TD",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436867,
+    "gn:latitude":12.03838,
+    "gn:longitude":17.39649,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Am Ladoba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436867
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8b47e8e14c237e9f58df0461779c5fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1209992273,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1209992273,
+    "wof:lastmodified":1536385869,
+    "wof:name":"Am Ladoba",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.39649,
+    12.03838,
+    17.39649,
+    12.03838
+],
+  "geometry": {"coordinates":[17.39649,12.03838],"type":"Point"}
+}

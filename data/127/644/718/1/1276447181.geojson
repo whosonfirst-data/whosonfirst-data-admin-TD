@@ -1,0 +1,71 @@
+{
+  "id": 1276447181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.747,11.234,17.747,11.234",
+    "geom:latitude":11.234,
+    "geom:longitude":17.747,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dasingue",
+    "gn:country_code":"TD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859164,
+    "gn:latitude":11.234,
+    "gn:longitude":17.747,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dasingu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dasing\u00e9",
+        "Dasingu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859164
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ccf32feaf6b71f62643bfadb3f0962e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1276447181,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1276447181,
+    "wof:lastmodified":1537702825,
+    "wof:name":"Dasingue",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.747,
+    11.234,
+    17.747,
+    11.234
+],
+  "geometry": {"coordinates":[17.747,11.234],"type":"Point"}
+}

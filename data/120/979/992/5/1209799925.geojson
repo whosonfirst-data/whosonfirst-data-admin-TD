@@ -1,0 +1,72 @@
+{
+  "id": 1209799925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53333,7.83333,15.53333,7.83333",
+    "geom:latitude":7.83333,
+    "geom:longitude":15.53333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mba",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428116,
+    "gn:latitude":7.83333,
+    "gn:longitude":15.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mb\u00e9",
+        "Mba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428116
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fc3fad6bf532c9d8d17b38a9633bc109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1209799925,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1209799925,
+    "wof:lastmodified":1537702724,
+    "wof:name":"Mba",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53333,
+    7.83333,
+    15.53333,
+    7.83333
+],
+  "geometry": {"coordinates":[15.53333,7.83333],"type":"Point"}
+}

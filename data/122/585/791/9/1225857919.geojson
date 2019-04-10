@@ -1,0 +1,67 @@
+{
+  "id": 1225857919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98042,14.21433,20.98042,14.21433",
+    "geom:latitude":14.21433,
+    "geom:longitude":20.98042,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kourkoule",
+    "gn:country_code":"TD",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243026,
+    "gn:latitude":14.21433,
+    "gn:longitude":20.98042,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Kourkoul\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243026
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c7f80793630701c01b3ae5b5adcf3303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901409,
+            "locality_id":1225857919,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1225857919,
+    "wof:lastmodified":1536995238,
+    "wof:name":"Kourkoule",
+    "wof:parent_id":1091901409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98042,
+    14.21433,
+    20.98042,
+    14.21433
+],
+  "geometry": {"coordinates":[20.98042,14.21433],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226425331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.711,11.5939,16.711,11.5939",
+    "geom:latitude":11.5939,
+    "geom:longitude":16.711,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Adjarai",
+    "gn:country_code":"TD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6856514,
+    "gn:latitude":11.5939,
+    "gn:longitude":16.711,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Adjara\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6856514
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0e28e0510dd95293690393c34b895fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1226425331,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1226425331,
+    "wof:lastmodified":1536674887,
+    "wof:name":"Adjarai",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.711,
+    11.5939,
+    16.711,
+    11.5939
+],
+  "geometry": {"coordinates":[16.711,11.5939],"type":"Point"}
+}

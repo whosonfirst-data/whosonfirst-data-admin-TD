@@ -1,0 +1,67 @@
+{
+  "id": 1209492509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.95317,13.84951,20.95317,13.84951",
+    "geom:latitude":13.84951,
+    "geom:longitude":20.95317,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kiliguen",
+    "gn:country_code":"TD",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243301,
+    "gn:latitude":13.84951,
+    "gn:longitude":20.95317,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Kiliguen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kiliguen"
+    ],
+    "name:fra_x_variant":[
+        "Kiligen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243301
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d7fa32aab32a6456e481da52ef6e53b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209492509
+        }
+    ],
+    "wof:id":1209492509,
+    "wof:lastmodified":1537702663,
+    "wof:name":"Kiliguen",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95317,
+    13.84951,
+    20.95317,
+    13.84951
+],
+  "geometry": {"coordinates":[20.95317,13.84951],"type":"Point"}
+}

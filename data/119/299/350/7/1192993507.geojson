@@ -1,0 +1,67 @@
+{
+  "id": 1192993507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58485,8.33208,17.58485,8.33208",
+    "geom:latitude":8.33208,
+    "geom:longitude":17.58485,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Moyon",
+    "gn:country_code":"TD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859416,
+    "gn:latitude":8.33208,
+    "gn:longitude":17.58485,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Moyon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859416
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ee72e73a1b96d48301004891562777aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1192993507,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1192993507,
+    "wof:lastmodified":1536378328,
+    "wof:name":"Moyon",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58485,
+    8.33208,
+    17.58485,
+    8.33208
+],
+  "geometry": {"coordinates":[17.58485,8.33208],"type":"Point"}
+}

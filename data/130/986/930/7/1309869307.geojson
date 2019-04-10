@@ -1,0 +1,67 @@
+{
+  "id": 1309869307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.00663,9.64749,19.00663,9.64749",
+    "geom:latitude":9.64749,
+    "geom:longitude":19.00663,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Koumakeniako",
+    "gn:country_code":"TD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429646,
+    "gn:latitude":9.64749,
+    "gn:longitude":19.00663,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Koumak\u00e9niako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429646
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8033ac836cb25bc438fc2b1da7a2bb5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1309869307,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1309869307,
+    "wof:lastmodified":1536838677,
+    "wof:name":"Koumakeniako",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.00663,
+    9.64749,
+    19.00663,
+    9.64749
+],
+  "geometry": {"coordinates":[19.00663,9.64749],"type":"Point"}
+}

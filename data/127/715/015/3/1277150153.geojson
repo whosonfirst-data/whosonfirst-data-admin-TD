@@ -1,0 +1,71 @@
+{
+  "id": 1277150153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6701,12.23694,15.6701,12.23694",
+    "geom:latitude":12.23694,
+    "geom:longitude":15.6701,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Aboul Ebde",
+    "gn:country_code":"TD",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437575,
+    "gn:latitude":12.23694,
+    "gn:longitude":15.6701,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aboul Ebde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abouliebde",
+        "Aboul Ebde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437575
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4fc560e661ddea0bbebd8f2fd50eb99c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1277150153,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1277150153,
+    "wof:lastmodified":1537702821,
+    "wof:name":"Aboul Ebde",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6701,
+    12.23694,
+    15.6701,
+    12.23694
+],
+  "geometry": {"coordinates":[15.6701,12.23694],"type":"Point"}
+}

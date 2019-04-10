@@ -1,0 +1,71 @@
+{
+  "id": 1226608841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8912,10.03394,17.8912,10.03394",
+    "geom:latitude":10.03394,
+    "geom:longitude":17.8912,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dokoro",
+    "gn:country_code":"TD",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433336,
+    "gn:latitude":10.03394,
+    "gn:longitude":17.8912,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dokoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dogoro",
+        "Dokoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433336
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2d893da8b622c5db08e82fac318ac063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1226608841,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1226608841,
+    "wof:lastmodified":1537702776,
+    "wof:name":"Dokoro",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8912,
+    10.03394,
+    17.8912,
+    10.03394
+],
+  "geometry": {"coordinates":[17.8912,10.03394],"type":"Point"}
+}

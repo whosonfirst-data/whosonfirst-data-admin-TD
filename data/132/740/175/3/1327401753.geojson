@@ -1,0 +1,67 @@
+{
+  "id": 1327401753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55,12.6,21.55,12.6",
+    "geom:latitude":12.6,
+    "geom:longitude":21.55,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Sounta",
+    "gn:country_code":"TD",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241869,
+    "gn:latitude":12.6,
+    "gn:longitude":21.55,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Sounta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241869
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d89f5110a5b9e309628a413df165528e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1327401753,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1327401753,
+    "wof:lastmodified":1536725484,
+    "wof:name":"Sounta",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55,
+    12.6,
+    21.55,
+    12.6
+],
+  "geometry": {"coordinates":[21.55,12.6],"type":"Point"}
+}

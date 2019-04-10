@@ -1,0 +1,67 @@
+{
+  "id": 1293896203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81667,15.55,21.81667,15.55",
+    "geom:latitude":15.55,
+    "geom:longitude":21.81667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kelgouli Adia",
+    "gn:country_code":"TD",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243380,
+    "gn:latitude":15.55,
+    "gn:longitude":21.81667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kelgouli Adia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243380
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"21a83a31df2f4e73987a159a9fc967b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901775,
+            "locality_id":1293896203,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1293896203,
+    "wof:lastmodified":1536695188,
+    "wof:name":"Kelgouli Adia",
+    "wof:parent_id":1091901775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81667,
+    15.55,
+    21.81667,
+    15.55
+],
+  "geometry": {"coordinates":[21.81667,15.55],"type":"Point"}
+}

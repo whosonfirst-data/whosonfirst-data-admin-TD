@@ -1,0 +1,67 @@
+{
+  "id": 1310397179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.80394,13.34625,15.80394,13.34625",
+    "geom:latitude":13.34625,
+    "geom:longitude":15.80394,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Badari",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436297,
+    "gn:latitude":13.34625,
+    "gn:longitude":15.80394,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Badari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436297
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"20a9f4eb4fa303d2f70bd99914cec886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1310397179,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1310397179,
+    "wof:lastmodified":1537070241,
+    "wof:name":"Badari",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.80394,
+    13.34625,
+    15.80394,
+    13.34625
+],
+  "geometry": {"coordinates":[15.80394,13.34625],"type":"Point"}
+}

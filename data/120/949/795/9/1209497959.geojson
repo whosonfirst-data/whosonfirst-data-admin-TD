@@ -1,0 +1,61 @@
+{
+  "id": 1209497959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94555,11.0067,15.94555,11.0067",
+    "geom:latitude":11.0067,
+    "geom:longitude":15.94555,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Boubagorgel",
+    "gn:country_code":"TD",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434810,
+    "gn:latitude":11.0067,
+    "gn:longitude":15.94555,
+    "gn:modification_date":"2008-06-03",
+    "gn:name":"Boubagorgel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434810
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"83439954237cb06dce60c74a490e1859",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209497959
+        }
+    ],
+    "wof:id":1209497959,
+    "wof:lastmodified":1536285275,
+    "wof:name":"Boubagorgel",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94555,
+    11.0067,
+    15.94555,
+    11.0067
+],
+  "geometry": {"coordinates":[15.94555,11.0067],"type":"Point"}
+}

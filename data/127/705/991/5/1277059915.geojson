@@ -1,0 +1,72 @@
+{
+  "id": 1277059915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4,9.23333,16.4,9.23333",
+    "geom:latitude":9.23333,
+    "geom:longitude":16.4,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Totchere",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424610,
+    "gn:latitude":9.23333,
+    "gn:longitude":16.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Totch\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tedj\u00e9r\u00e9",
+        "Totch\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424610
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2a21b8abaa224c6e7e021bb9e9d81246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1277059915,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1277059915,
+    "wof:lastmodified":1537702691,
+    "wof:name":"Totchere",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4,
+    9.23333,
+    16.4,
+    9.23333
+],
+  "geometry": {"coordinates":[16.4,9.23333],"type":"Point"}
+}

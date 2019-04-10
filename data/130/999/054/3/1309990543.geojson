@@ -1,0 +1,67 @@
+{
+  "id": 1309990543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10119,7.88886,16.10119,7.88886",
+    "geom:latitude":7.88886,
+    "geom:longitude":16.10119,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dolao",
+    "gn:country_code":"TD",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433315,
+    "gn:latitude":7.88886,
+    "gn:longitude":16.10119,
+    "gn:modification_date":"2008-10-14",
+    "gn:name":"Dolao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433315
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c9ef8de9d63e1356ea0d00111e9e2cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1309990543,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1309990543,
+    "wof:lastmodified":1536664886,
+    "wof:name":"Dolao",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10119,
+    7.88886,
+    16.10119,
+    7.88886
+],
+  "geometry": {"coordinates":[16.10119,7.88886],"type":"Point"}
+}

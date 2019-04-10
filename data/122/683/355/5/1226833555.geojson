@@ -1,0 +1,73 @@
+{
+  "id": 1226833555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.42309,8.40509,16.42309,8.40509",
+    "geom:latitude":8.40509,
+    "geom:longitude":16.42309,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Donia",
+    "gn:country_code":"TD",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433212,
+    "gn:latitude":8.40509,
+    "gn:longitude":16.42309,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Donia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Donya"
+    ],
+    "name:und_x_variant":[
+        "Donya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433212
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7985993f0bef64017f19375ad862fb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899861,
+            "locality_id":1226833555,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1226833555,
+    "wof:lastmodified":1537702774,
+    "wof:name":"Donia",
+    "wof:parent_id":1091899861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.42309,
+    8.40509,
+    16.42309,
+    8.40509
+],
+  "geometry": {"coordinates":[16.42309,8.40509],"type":"Point"}
+}

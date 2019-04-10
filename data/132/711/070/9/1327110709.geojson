@@ -1,0 +1,67 @@
+{
+  "id": 1327110709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.29576,8.75601,18.29576,8.75601",
+    "geom:latitude":8.75601,
+    "geom:longitude":18.29576,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dorkoli",
+    "gn:country_code":"TD",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433191,
+    "gn:latitude":8.75601,
+    "gn:longitude":18.29576,
+    "gn:modification_date":"2008-10-10",
+    "gn:name":"Dorkoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433191
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"096e3e6360a5f651be2e6b053c5f8e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1327110709,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1327110709,
+    "wof:lastmodified":1536647125,
+    "wof:name":"Dorkoli",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.29576,
+    8.75601,
+    18.29576,
+    8.75601
+],
+  "geometry": {"coordinates":[18.29576,8.75601],"type":"Point"}
+}

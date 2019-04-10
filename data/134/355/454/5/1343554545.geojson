@@ -1,0 +1,67 @@
+{
+  "id": 1343554545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33345,9.04487,16.33345,9.04487",
+    "geom:latitude":9.04487,
+    "geom:longitude":16.33345,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Benoybeur",
+    "gn:country_code":"TD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435507,
+    "gn:latitude":9.04487,
+    "gn:longitude":16.33345,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"B\u00e9noybeur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435507
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dde0798da34c2216606f6973af4feb60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1343554545,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1343554545,
+    "wof:lastmodified":1536607671,
+    "wof:name":"Benoybeur",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33345,
+    9.04487,
+    16.33345,
+    9.04487
+],
+  "geometry": {"coordinates":[16.33345,9.04487],"type":"Point"}
+}

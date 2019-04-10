@@ -1,0 +1,67 @@
+{
+  "id": 1226111807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33475,11.08859,15.33475,11.08859",
+    "geom:latitude":11.08859,
+    "geom:longitude":15.33475,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zagrarao",
+    "gn:country_code":"TD",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6773889,
+    "gn:latitude":11.08859,
+    "gn:longitude":15.33475,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Zagrarao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6773889
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fdd0e0b0a3180451694e07dcdc21050a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1226111807,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1226111807,
+    "wof:lastmodified":1536628144,
+    "wof:name":"Zagrarao",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33475,
+    11.08859,
+    15.33475,
+    11.08859
+],
+  "geometry": {"coordinates":[15.33475,11.08859],"type":"Point"}
+}

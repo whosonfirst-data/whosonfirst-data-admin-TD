@@ -1,0 +1,70 @@
+{
+  "id": 1360299657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08402,13.81422,20.08402,13.81422",
+    "geom:latitude":13.81422,
+    "geom:longitude":20.08402,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Am Arhar al Omar Am Djoubay",
+    "gn:country_code":"TD",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245547,
+    "gn:latitude":13.81422,
+    "gn:longitude":20.08402,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Am Arhar al Omar Am Djoubay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Am Arhar al Omar Am Djoubay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245547
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"02db6fccd893fd47c80ea5c21ebfd2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1360299657,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1360299657,
+    "wof:lastmodified":1537702685,
+    "wof:name":"Am Arhar al Omar Am Djoubay",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08402,
+    13.81422,
+    20.08402,
+    13.81422
+],
+  "geometry": {"coordinates":[20.08402,13.81422],"type":"Point"}
+}

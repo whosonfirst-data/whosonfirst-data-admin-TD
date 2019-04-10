@@ -1,0 +1,71 @@
+{
+  "id": 1292976763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37465,12.43169,15.37465,12.43169",
+    "geom:latitude":12.43169,
+    "geom:longitude":15.37465,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Assourdje",
+    "gn:country_code":"TD",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436425,
+    "gn:latitude":12.43169,
+    "gn:longitude":15.37465,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Assourdj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asourdj\u00e9",
+        "Assourdj\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436425
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f340b04314d15fa92ea917ad4610ef24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1292976763,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1292976763,
+    "wof:lastmodified":1537702813,
+    "wof:name":"Assourdje",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37465,
+    12.43169,
+    15.37465,
+    12.43169
+],
+  "geometry": {"coordinates":[15.37465,12.43169],"type":"Point"}
+}

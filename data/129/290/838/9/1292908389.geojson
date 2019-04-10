@@ -1,0 +1,67 @@
+{
+  "id": 1292908389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9915,10.3506,18.9915,10.3506",
+    "geom:latitude":10.3506,
+    "geom:longitude":18.9915,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mate",
+    "gn:country_code":"TD",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861540,
+    "gn:latitude":10.3506,
+    "gn:longitude":18.9915,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Mat\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861540
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a11948bf461cdcb8b3dc44d27fa66871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1292908389,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1292908389,
+    "wof:lastmodified":1536625909,
+    "wof:name":"Mate",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9915,
+    10.3506,
+    18.9915,
+    10.3506
+],
+  "geometry": {"coordinates":[18.9915,10.3506],"type":"Point"}
+}

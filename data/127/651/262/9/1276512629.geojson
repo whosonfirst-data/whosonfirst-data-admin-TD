@@ -1,0 +1,71 @@
+{
+  "id": 1276512629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.82875,8.16474,17.82875,8.16474",
+    "geom:latitude":8.16474,
+    "geom:longitude":17.82875,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dansama",
+    "gn:country_code":"TD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434215,
+    "gn:latitude":8.16474,
+    "gn:longitude":17.82875,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dansama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dangssama",
+        "Dansama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434215
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b40875788c4accc6590e33bbeb043182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1276512629,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1276512629,
+    "wof:lastmodified":1537702785,
+    "wof:name":"Dansama",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.82875,
+    8.16474,
+    17.82875,
+    8.16474
+],
+  "geometry": {"coordinates":[17.82875,8.16474],"type":"Point"}
+}

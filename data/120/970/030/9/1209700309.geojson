@@ -1,0 +1,71 @@
+{
+  "id": 1209700309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0218,7.6805,17.0218,7.6805",
+    "geom:latitude":7.6805,
+    "geom:longitude":17.0218,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Komba",
+    "gn:country_code":"TD",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429628,
+    "gn:latitude":7.6805,
+    "gn:longitude":17.0218,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Komba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koumba",
+        "Komba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429628
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8d937fb9662a519aa6898bff6dbbb31c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899861,
+            "locality_id":1209700309,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1209700309,
+    "wof:lastmodified":1537702739,
+    "wof:name":"Komba",
+    "wof:parent_id":1091899861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.0218,
+    7.6805,
+    17.0218,
+    7.6805
+],
+  "geometry": {"coordinates":[17.0218,7.6805],"type":"Point"}
+}

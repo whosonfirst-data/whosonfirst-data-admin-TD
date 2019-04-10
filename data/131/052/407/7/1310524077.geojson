@@ -1,0 +1,67 @@
+{
+  "id": 1310524077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8273,11.0481,17.8273,11.0481",
+    "geom:latitude":11.0481,
+    "geom:longitude":17.8273,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dara",
+    "gn:country_code":"TD",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859125,
+    "gn:latitude":11.0481,
+    "gn:longitude":17.8273,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Dara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859125
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3d46b3bedded25ea1adb906e0fdd91b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1310524077,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1310524077,
+    "wof:lastmodified":1536889729,
+    "wof:name":"Dara",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8273,
+    11.0481,
+    17.8273,
+    11.0481
+],
+  "geometry": {"coordinates":[17.8273,11.0481],"type":"Point"}
+}

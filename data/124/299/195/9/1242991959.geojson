@@ -1,0 +1,67 @@
+{
+  "id": 1242991959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48333,7.96667,15.48333,7.96667",
+    "geom:latitude":7.96667,
+    "geom:longitude":15.48333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kombe",
+    "gn:country_code":"TD",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430077,
+    "gn:latitude":7.96667,
+    "gn:longitude":15.48333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Komb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430077
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b46412577603ce18c3167f8acc0dbcce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1242991959,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1242991959,
+    "wof:lastmodified":1536963677,
+    "wof:name":"Kombe",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48333,
+    7.96667,
+    15.48333,
+    7.96667
+],
+  "geometry": {"coordinates":[15.48333,7.96667],"type":"Point"}
+}

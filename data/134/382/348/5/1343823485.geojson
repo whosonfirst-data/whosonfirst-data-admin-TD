@@ -1,0 +1,67 @@
+{
+  "id": 1343823485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0434,8.29884,18.0434,8.29884",
+    "geom:latitude":8.29884,
+    "geom:longitude":18.0434,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ndanguelo",
+    "gn:country_code":"TD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427163,
+    "gn:latitude":8.29884,
+    "gn:longitude":18.0434,
+    "gn:modification_date":"2008-10-10",
+    "gn:name":"Ndangu\u00e9lo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427163
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a557476e195f793e3404a3a7b8a53643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1343823485,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1343823485,
+    "wof:lastmodified":1536720472,
+    "wof:name":"Ndanguelo",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0434,
+    8.29884,
+    18.0434,
+    8.29884
+],
+  "geometry": {"coordinates":[18.0434,8.29884],"type":"Point"}
+}

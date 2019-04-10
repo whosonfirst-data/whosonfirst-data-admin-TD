@@ -1,0 +1,67 @@
+{
+  "id": 1210030135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.626,13.4994,19.626,13.4994",
+    "geom:latitude":13.4994,
+    "geom:longitude":19.626,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Andarloe",
+    "gn:country_code":"TD",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855646,
+    "gn:latitude":13.4994,
+    "gn:longitude":19.626,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Andarlo\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855646
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6c27517a15b5c75c693c86e6c58a3ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1210030135,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1210030135,
+    "wof:lastmodified":1536388942,
+    "wof:name":"Andarloe",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.626,
+    13.4994,
+    19.626,
+    13.4994
+],
+  "geometry": {"coordinates":[19.626,13.4994],"type":"Point"}
+}

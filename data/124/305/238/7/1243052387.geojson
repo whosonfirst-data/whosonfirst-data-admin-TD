@@ -1,0 +1,67 @@
+{
+  "id": 1243052387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6012,7.7744,15.6012,7.7744",
+    "geom:latitude":7.7744,
+    "geom:longitude":15.6012,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Koutre",
+    "gn:country_code":"TD",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429403,
+    "gn:latitude":7.7744,
+    "gn:longitude":15.6012,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Koutr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429403
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"612d9bca02f5163d81de9eb91cba5622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1243052387,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1243052387,
+    "wof:lastmodified":1536875723,
+    "wof:name":"Koutre",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6012,
+    7.7744,
+    15.6012,
+    7.7744
+],
+  "geometry": {"coordinates":[15.6012,7.7744],"type":"Point"}
+}

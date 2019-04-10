@@ -1,0 +1,61 @@
+{
+  "id": 1209419779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.53333,10.9,18.53333,10.9",
+    "geom:latitude":10.9,
+    "geom:longitude":18.53333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Beldou",
+    "gn:country_code":"TD",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435639,
+    "gn:latitude":10.9,
+    "gn:longitude":18.53333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Beldou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435639
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5fbba8ca59ced17eecd83d538dd7962d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209419779
+        }
+    ],
+    "wof:id":1209419779,
+    "wof:lastmodified":1536287569,
+    "wof:name":"Beldou",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.53333,
+    10.9,
+    18.53333,
+    10.9
+],
+  "geometry": {"coordinates":[18.53333,10.9],"type":"Point"}
+}

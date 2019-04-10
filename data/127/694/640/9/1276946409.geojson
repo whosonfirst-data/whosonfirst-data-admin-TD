@@ -1,0 +1,67 @@
+{
+  "id": 1276946409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90605,13.87807,15.90605,13.87807",
+    "geom:latitude":13.87807,
+    "geom:longitude":15.90605,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Britou",
+    "gn:country_code":"TD",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434532,
+    "gn:latitude":13.87807,
+    "gn:longitude":15.90605,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Britou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434532
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"105a3a87acc5899df2d8f1846bac266b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901247,
+            "locality_id":1276946409,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1276946409,
+    "wof:lastmodified":1536952374,
+    "wof:name":"Britou",
+    "wof:parent_id":1091901247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90605,
+    13.87807,
+    15.90605,
+    13.87807
+],
+  "geometry": {"coordinates":[15.90605,13.87807],"type":"Point"}
+}

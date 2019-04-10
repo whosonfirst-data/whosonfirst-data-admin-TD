@@ -1,0 +1,71 @@
+{
+  "id": 1292958265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2973,11.9255,21.2973,11.9255",
+    "geom:latitude":11.9255,
+    "geom:longitude":21.2973,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Hille Ouaddai",
+    "gn:country_code":"TD",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243665,
+    "gn:latitude":11.9255,
+    "gn:longitude":21.2973,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hille Ouadda\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hille Ouadd\u00ef",
+        "Hille Ouadda\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243665
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9a5908b314c0823646695d2d2f21c65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1292958265,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1292958265,
+    "wof:lastmodified":1537702667,
+    "wof:name":"Hille Ouaddai",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2973,
+    11.9255,
+    21.2973,
+    11.9255
+],
+  "geometry": {"coordinates":[21.2973,11.9255],"type":"Point"}
+}

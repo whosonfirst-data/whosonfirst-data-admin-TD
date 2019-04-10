@@ -1,0 +1,67 @@
+{
+  "id": 1326706657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.82532,9.69353,17.82532,9.69353",
+    "geom:latitude":9.69353,
+    "geom:longitude":17.82532,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Perim",
+    "gn:country_code":"TD",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426184,
+    "gn:latitude":9.69353,
+    "gn:longitude":17.82532,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"P\u00e9rim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426184
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3bd0a32d1553da079fd2bc916cbef7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1326706657,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1326706657,
+    "wof:lastmodified":1536732910,
+    "wof:name":"Perim",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.82532,
+    9.69353,
+    17.82532,
+    9.69353
+],
+  "geometry": {"coordinates":[17.82532,9.69353],"type":"Point"}
+}

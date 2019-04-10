@@ -1,0 +1,71 @@
+{
+  "id": 1276305725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6276,11.10623,15.6276,11.10623",
+    "geom:latitude":11.10623,
+    "geom:longitude":15.6276,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Doulba Malmana",
+    "gn:country_code":"TD",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433099,
+    "gn:latitude":11.10623,
+    "gn:longitude":15.6276,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doulba Malmana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doulba",
+        "Doulba Malmana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433099
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e4f81ae4ebe868885e9a8e9182c5768b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1276305725,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1276305725,
+    "wof:lastmodified":1537702773,
+    "wof:name":"Doulba Malmana",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6276,
+    11.10623,
+    15.6276,
+    11.10623
+],
+  "geometry": {"coordinates":[15.6276,11.10623],"type":"Point"}
+}

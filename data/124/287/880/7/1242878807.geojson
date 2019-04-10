@@ -1,0 +1,71 @@
+{
+  "id": 1242878807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.27933,11.47141,18.27933,11.47141",
+    "geom:latitude":11.47141,
+    "geom:longitude":18.27933,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Magnam",
+    "gn:country_code":"TD",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428129,
+    "gn:latitude":11.47141,
+    "gn:longitude":18.27933,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Magnam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayom",
+        "Magnam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428129
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9c7e88fb97ac9330c9837cd9f219cb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1242878807,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1242878807,
+    "wof:lastmodified":1537702725,
+    "wof:name":"Magnam",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.27933,
+    11.47141,
+    18.27933,
+    11.47141
+],
+  "geometry": {"coordinates":[18.27933,11.47141],"type":"Point"}
+}

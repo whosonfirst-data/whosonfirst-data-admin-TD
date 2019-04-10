@@ -1,0 +1,64 @@
+{
+  "id": 1209696037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3833,13.94206,20.3833,13.94206",
+    "geom:latitude":13.94206,
+    "geom:longitude":20.3833,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tabadja",
+    "gn:country_code":"TD",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241849,
+    "gn:latitude":13.94206,
+    "gn:longitude":20.3833,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Tabadja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tabadja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241849
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6d37e26a8cb526bc1c6154ff4c22b73d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209696037
+        }
+    ],
+    "wof:id":1209696037,
+    "wof:lastmodified":1537702650,
+    "wof:name":"Tabadja",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.3833,
+    13.94206,
+    20.3833,
+    13.94206
+],
+  "geometry": {"coordinates":[20.3833,13.94206],"type":"Point"}
+}

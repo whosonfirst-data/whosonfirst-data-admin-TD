@@ -1,0 +1,67 @@
+{
+  "id": 1259349085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58727,13.25555,15.58727,13.25555",
+    "geom:latitude":13.25555,
+    "geom:longitude":15.58727,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Gneoukilirom",
+    "gn:country_code":"TD",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432057,
+    "gn:latitude":13.25555,
+    "gn:longitude":15.58727,
+    "gn:modification_date":"2009-03-04",
+    "gn:name":"Gneoukilirom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432057
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"30503e1b3470c2dd8ad0a4049302c5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1259349085,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1259349085,
+    "wof:lastmodified":1537049804,
+    "wof:name":"Gneoukilirom",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58727,
+    13.25555,
+    15.58727,
+    13.25555
+],
+  "geometry": {"coordinates":[15.58727,13.25555],"type":"Point"}
+}

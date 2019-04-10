@@ -1,0 +1,67 @@
+{
+  "id": 1326695025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9952,8.9369,14.9952,8.9369",
+    "geom:latitude":8.9369,
+    "geom:longitude":14.9952,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Douboula",
+    "gn:country_code":"TD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433156,
+    "gn:latitude":8.9369,
+    "gn:longitude":14.9952,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Douboula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433156
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"58679617c1fc4aa5d1ae1cb6cbed1d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1326695025,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1326695025,
+    "wof:lastmodified":1536749354,
+    "wof:name":"Douboula",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9952,
+    8.9369,
+    14.9952,
+    8.9369
+],
+  "geometry": {"coordinates":[14.9952,8.9369],"type":"Point"}
+}

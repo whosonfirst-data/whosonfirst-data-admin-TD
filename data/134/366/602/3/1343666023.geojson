@@ -1,0 +1,67 @@
+{
+  "id": 1343666023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51107,13.03155,17.51107,13.03155",
+    "geom:latitude":13.03155,
+    "geom:longitude":17.51107,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mabarde",
+    "gn:country_code":"TD",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428952,
+    "gn:latitude":13.03155,
+    "gn:longitude":17.51107,
+    "gn:modification_date":"2008-09-15",
+    "gn:name":"Mabard\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428952
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9ba279d29e76a8f0723572702c7de722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1343666023,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1343666023,
+    "wof:lastmodified":1536947372,
+    "wof:name":"Mabarde",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51107,
+    13.03155,
+    17.51107,
+    13.03155
+],
+  "geometry": {"coordinates":[17.51107,13.03155],"type":"Point"}
+}

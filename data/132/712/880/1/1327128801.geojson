@@ -1,0 +1,67 @@
+{
+  "id": 1327128801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.86783,8.42557,16.86783,8.42557",
+    "geom:latitude":8.42557,
+    "geom:longitude":16.86783,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dodoum",
+    "gn:country_code":"TD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433395,
+    "gn:latitude":8.42557,
+    "gn:longitude":16.86783,
+    "gn:modification_date":"2008-11-14",
+    "gn:name":"Dodoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433395
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"352cdc74a8df2c366b745543aae0054f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899891,
+            "locality_id":1327128801,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1327128801,
+    "wof:lastmodified":1536619188,
+    "wof:name":"Dodoum",
+    "wof:parent_id":1091899891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.86783,
+    8.42557,
+    16.86783,
+    8.42557
+],
+  "geometry": {"coordinates":[16.86783,8.42557],"type":"Point"}
+}

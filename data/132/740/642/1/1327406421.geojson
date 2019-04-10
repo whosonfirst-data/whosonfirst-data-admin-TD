@@ -1,0 +1,72 @@
+{
+  "id": 1327406421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30683,9.51481,15.30683,9.51481",
+    "geom:latitude":9.51481,
+    "geom:longitude":15.30683,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Horey Suildoulna",
+    "gn:country_code":"TD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431380,
+    "gn:latitude":9.51481,
+    "gn:longitude":15.30683,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Horey Suildoulna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horey Suidoulna",
+        "Horeye Suildoulna",
+        "Horey Suildoulna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431380
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6107ff440835a4475699a0e26230f35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900311,
+            "locality_id":1327406421,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1327406421,
+    "wof:lastmodified":1537702754,
+    "wof:name":"Horey Suildoulna",
+    "wof:parent_id":1091900311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30683,
+    9.51481,
+    15.30683,
+    9.51481
+],
+  "geometry": {"coordinates":[15.30683,9.51481],"type":"Point"}
+}

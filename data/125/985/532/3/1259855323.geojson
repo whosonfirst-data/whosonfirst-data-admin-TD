@@ -1,0 +1,71 @@
+{
+  "id": 1259855323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31952,12.4698,15.31952,12.4698",
+    "geom:latitude":12.4698,
+    "geom:longitude":15.31952,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Al Moura",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432871,
+    "gn:latitude":12.4698,
+    "gn:longitude":15.31952,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Moura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Moura",
+        "Al Moura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432871
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dc6b3469d47231e9208fc7a3fd04b190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1259855323,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1259855323,
+    "wof:lastmodified":1537702771,
+    "wof:name":"Al Moura",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31952,
+    12.4698,
+    15.31952,
+    12.4698
+],
+  "geometry": {"coordinates":[15.31952,12.4698],"type":"Point"}
+}

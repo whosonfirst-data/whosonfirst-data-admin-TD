@@ -1,0 +1,71 @@
+{
+  "id": 1309687971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.83333,13.03333,16.83333,13.03333",
+    "geom:latitude":13.03333,
+    "geom:longitude":16.83333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Abou Gounde",
+    "gn:country_code":"TD",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437588,
+    "gn:latitude":13.03333,
+    "gn:longitude":16.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abou Gound\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aboungod\u00e9",
+        "Abou Gound\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437588
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"165fc1b45983142def0c1d6b298e6e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1309687971,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1309687971,
+    "wof:lastmodified":1537702822,
+    "wof:name":"Abou Gounde",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.83333,
+    13.03333,
+    16.83333,
+    13.03333
+],
+  "geometry": {"coordinates":[16.83333,13.03333],"type":"Point"}
+}

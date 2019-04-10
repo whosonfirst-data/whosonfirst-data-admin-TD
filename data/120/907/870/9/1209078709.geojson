@@ -1,0 +1,61 @@
+{
+  "id": 1209078709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7636,9.8916,14.7636,9.8916",
+    "geom:latitude":9.8916,
+    "geom:longitude":14.7636,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mbourao Ouampa",
+    "gn:country_code":"TD",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428045,
+    "gn:latitude":9.8916,
+    "gn:longitude":14.7636,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Mbourao Ouampa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428045
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"23d36e6949c0ee62f5f1e2f304bf99fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209078709
+        }
+    ],
+    "wof:id":1209078709,
+    "wof:lastmodified":1536298409,
+    "wof:name":"Mbourao Ouampa",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7636,
+    9.8916,
+    14.7636,
+    9.8916
+],
+  "geometry": {"coordinates":[14.7636,9.8916],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309724993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35,15.06667,21.35,15.06667",
+    "geom:latitude":15.06667,
+    "geom:longitude":21.35,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hamena",
+    "gn:country_code":"TD",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243713,
+    "gn:latitude":15.06667,
+    "gn:longitude":21.35,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Hamena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243713
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fd98404fe3049fb9c42549118d5f82db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901775,
+            "locality_id":1309724993,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1309724993,
+    "wof:lastmodified":1537045618,
+    "wof:name":"Hamena",
+    "wof:parent_id":1091901775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35,
+    15.06667,
+    21.35,
+    15.06667
+],
+  "geometry": {"coordinates":[21.35,15.06667],"type":"Point"}
+}

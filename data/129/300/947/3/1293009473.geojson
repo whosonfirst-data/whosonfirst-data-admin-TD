@@ -1,0 +1,70 @@
+{
+  "id": 1293009473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99516,14.46862,21.99516,14.46862",
+    "geom:latitude":14.46862,
+    "geom:longitude":21.99516,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Meri",
+    "gn:country_code":"TD",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527085,
+    "gn:latitude":14.46862,
+    "gn:longitude":21.99516,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Meri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Meri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527085
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"256702014f867a2b6ff0fe82f802951f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":1293009473,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1293009473,
+    "wof:lastmodified":1537702829,
+    "wof:name":"Meri",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99516,
+    14.46862,
+    21.99516,
+    14.46862
+],
+  "geometry": {"coordinates":[21.99516,14.46862],"type":"Point"}
+}

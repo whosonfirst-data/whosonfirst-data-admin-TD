@@ -1,0 +1,67 @@
+{
+  "id": 1259675441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11667,13.8,14.11667,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":14.11667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oremi",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426623,
+    "gn:latitude":13.8,
+    "gn:longitude":14.11667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Or\u00e9mi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426623
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"aa299a63ff4ac18f8bb3e3ef7e0a998d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1259675441,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1259675441,
+    "wof:lastmodified":1537075545,
+    "wof:name":"Oremi",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11667,
+    13.8,
+    14.11667,
+    13.8
+],
+  "geometry": {"coordinates":[14.11667,13.8],"type":"Point"}
+}

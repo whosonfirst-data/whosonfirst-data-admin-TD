@@ -1,0 +1,71 @@
+{
+  "id": 1343392931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.059,12.1135,19.059,12.1135",
+    "geom:latitude":12.1135,
+    "geom:longitude":19.059,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Malogon",
+    "gn:country_code":"TD",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428550,
+    "gn:latitude":12.1135,
+    "gn:longitude":19.059,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malogon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malogoni",
+        "Malogon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428550
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a3dcfd75d376313395e7c03ef8409cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900821,
+            "locality_id":1343392931,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1343392931,
+    "wof:lastmodified":1537702729,
+    "wof:name":"Malogon",
+    "wof:parent_id":1091900821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.059,
+    12.1135,
+    19.059,
+    12.1135
+],
+  "geometry": {"coordinates":[19.059,12.1135],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343881157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3835,10.6883,18.3835,10.6883",
+    "geom:latitude":10.6883,
+    "geom:longitude":18.3835,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Singue",
+    "gn:country_code":"TD",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425625,
+    "gn:latitude":10.6883,
+    "gn:longitude":18.3835,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Singu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sing\u00e9",
+        "Singu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425625
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0ee89109efd4dfb83882dcf98f52e413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1343881157,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1343881157,
+    "wof:lastmodified":1537702699,
+    "wof:name":"Singue",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3835,
+    10.6883,
+    18.3835,
+    10.6883
+],
+  "geometry": {"coordinates":[18.3835,10.6883],"type":"Point"}
+}

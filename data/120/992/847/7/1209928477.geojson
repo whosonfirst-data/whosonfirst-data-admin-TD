@@ -1,0 +1,67 @@
+{
+  "id": 1209928477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3897,13.2132,18.3897,13.2132",
+    "geom:latitude":13.2132,
+    "geom:longitude":18.3897,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ab Roki",
+    "gn:country_code":"TD",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437525,
+    "gn:latitude":13.2132,
+    "gn:longitude":18.3897,
+    "gn:modification_date":"2008-09-04",
+    "gn:name":"Ab Roki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437525
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ed2a420e40757aa7f7bbf8fdbd5d4595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1209928477,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1209928477,
+    "wof:lastmodified":1536393805,
+    "wof:name":"Ab Roki",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3897,
+    13.2132,
+    18.3897,
+    13.2132
+],
+  "geometry": {"coordinates":[18.3897,13.2132],"type":"Point"}
+}

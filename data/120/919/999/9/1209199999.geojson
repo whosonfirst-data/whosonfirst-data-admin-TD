@@ -1,0 +1,61 @@
+{
+  "id": 1209199999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5873,8.43092,15.5873,8.43092",
+    "geom:latitude":8.43092,
+    "geom:longitude":15.5873,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mandaya",
+    "gn:country_code":"TD",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428487,
+    "gn:latitude":8.43092,
+    "gn:longitude":15.5873,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Mandaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428487
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6f05e2e06873239a552f8ae12320dd3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209199999
+        }
+    ],
+    "wof:id":1209199999,
+    "wof:lastmodified":1536294644,
+    "wof:name":"Mandaya",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5873,
+    8.43092,
+    15.5873,
+    8.43092
+],
+  "geometry": {"coordinates":[15.5873,8.43092],"type":"Point"}
+}

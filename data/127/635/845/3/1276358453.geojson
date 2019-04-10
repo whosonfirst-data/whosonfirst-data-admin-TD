@@ -1,0 +1,67 @@
+{
+  "id": 1276358453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01788,14.32667,15.01788,14.32667",
+    "geom:latitude":14.32667,
+    "geom:longitude":15.01788,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tiala Geni",
+    "gn:country_code":"TD",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424876,
+    "gn:latitude":14.32667,
+    "gn:longitude":15.01788,
+    "gn:modification_date":"2009-02-23",
+    "gn:name":"Tiala G\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424876
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e4138b9671460c709836ae5db0fdcc9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1276358453,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1276358453,
+    "wof:lastmodified":1536744624,
+    "wof:name":"Tiala Geni",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01788,
+    14.32667,
+    15.01788,
+    14.32667
+],
+  "geometry": {"coordinates":[15.01788,14.32667],"type":"Point"}
+}

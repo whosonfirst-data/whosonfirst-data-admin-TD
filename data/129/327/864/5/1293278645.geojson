@@ -1,0 +1,67 @@
+{
+  "id": 1293278645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7377,11.114,19.7377,11.114",
+    "geom:latitude":11.114,
+    "geom:longitude":19.7377,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sirer",
+    "gn:country_code":"TD",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425615,
+    "gn:latitude":11.114,
+    "gn:longitude":19.7377,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Sirer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425615
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cec3c6c96fea53c5a7a7567ceaa51194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900707,
+            "locality_id":1293278645,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1293278645,
+    "wof:lastmodified":1537084960,
+    "wof:name":"Sirer",
+    "wof:parent_id":1091900707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7377,
+    11.114,
+    19.7377,
+    11.114
+],
+  "geometry": {"coordinates":[19.7377,11.114],"type":"Point"}
+}

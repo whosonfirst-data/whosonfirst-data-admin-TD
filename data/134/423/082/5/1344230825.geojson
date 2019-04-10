@@ -1,0 +1,67 @@
+{
+  "id": 1344230825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7371,9.1817,16.7371,9.1817",
+    "geom:latitude":9.1817,
+    "geom:longitude":16.7371,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Koulabanga",
+    "gn:country_code":"TD",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870818,
+    "gn:latitude":9.1817,
+    "gn:longitude":16.7371,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Koulabanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870818
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"44104db43591db0c2e4173b35443c4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1344230825,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1344230825,
+    "wof:lastmodified":1536628100,
+    "wof:name":"Koulabanga",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7371,
+    9.1817,
+    16.7371,
+    9.1817
+],
+  "geometry": {"coordinates":[16.7371,9.1817],"type":"Point"}
+}

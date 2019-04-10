@@ -1,0 +1,73 @@
+{
+  "id": 1310308261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.07604,14.67928,21.07604,14.67928",
+    "geom:latitude":14.67928,
+    "geom:longitude":21.07604,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Toumbouloum",
+    "gn:country_code":"TD",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241604,
+    "gn:latitude":14.67928,
+    "gn:longitude":21.07604,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Toumbouloum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Toumbouloum"
+    ],
+    "name:fra_x_variant":[
+        "Tomboulou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241604
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cdb245222d67b8f4049192170f39216c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901409,
+            "locality_id":1310308261,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1310308261,
+    "wof:lastmodified":1537702648,
+    "wof:name":"Toumbouloum",
+    "wof:parent_id":1091901409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.07604,
+    14.67928,
+    21.07604,
+    14.67928
+],
+  "geometry": {"coordinates":[21.07604,14.67928],"type":"Point"}
+}

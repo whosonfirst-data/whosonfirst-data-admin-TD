@@ -1,0 +1,73 @@
+{
+  "id": 1276420893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.89247,13.9451,20.89247,13.9451",
+    "geom:latitude":13.9451,
+    "geom:longitude":20.89247,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Guilin",
+    "gn:country_code":"TD",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243915,
+    "gn:latitude":13.9451,
+    "gn:longitude":20.89247,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Guilin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Guilin"
+    ],
+    "name:fra_x_variant":[
+        "Gilin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243915
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7bd9c5a4d4f3277c77831b313c7239b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1276420893,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1276420893,
+    "wof:lastmodified":1537702669,
+    "wof:name":"Guilin",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.89247,
+    13.9451,
+    20.89247,
+    13.9451
+],
+  "geometry": {"coordinates":[20.89247,13.9451],"type":"Point"}
+}

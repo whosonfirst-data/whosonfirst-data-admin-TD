@@ -1,0 +1,71 @@
+{
+  "id": 1243225433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24677,8.62276,15.24677,8.62276",
+    "geom:latitude":8.62276,
+    "geom:longitude":15.24677,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kanbanla",
+    "gn:country_code":"TD",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430889,
+    "gn:latitude":8.62276,
+    "gn:longitude":15.24677,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kanbanla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanbamla",
+        "Kanbanla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430889
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"213e947f3624167993567a7d44bd6452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1243225433,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1243225433,
+    "wof:lastmodified":1537702750,
+    "wof:name":"Kanbanla",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24677,
+    8.62276,
+    15.24677,
+    8.62276
+],
+  "geometry": {"coordinates":[15.24677,8.62276],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243161869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.94697,8.28163,16.94697,8.28163",
+    "geom:latitude":8.28163,
+    "geom:longitude":16.94697,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kossia",
+    "gn:country_code":"TD",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6909266,
+    "gn:latitude":8.28163,
+    "gn:longitude":16.94697,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Kossia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909266
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"64c4d4c9f94b4aedd038d3b8a67dbc4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899821,
+            "locality_id":1243161869,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1243161869,
+    "wof:lastmodified":1536719226,
+    "wof:name":"Kossia",
+    "wof:parent_id":1091899821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.94697,
+    8.28163,
+    16.94697,
+    8.28163
+],
+  "geometry": {"coordinates":[16.94697,8.28163],"type":"Point"}
+}

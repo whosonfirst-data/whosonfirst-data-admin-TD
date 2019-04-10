@@ -1,0 +1,71 @@
+{
+  "id": 1310075239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45704,9.54591,15.45704,9.54591",
+    "geom:latitude":9.54591,
+    "geom:longitude":15.45704,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Berem Dikna",
+    "gn:country_code":"TD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435177,
+    "gn:latitude":9.54591,
+    "gn:longitude":15.45704,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9rem Dikna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birem Dikna",
+        "B\u00e9rem Dikna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435177
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c99c8365542630263457977ff959e174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900311,
+            "locality_id":1310075239,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1310075239,
+    "wof:lastmodified":1537702795,
+    "wof:name":"Berem Dikna",
+    "wof:parent_id":1091900311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45704,
+    9.54591,
+    15.45704,
+    9.54591
+],
+  "geometry": {"coordinates":[15.45704,9.54591],"type":"Point"}
+}

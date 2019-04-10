@@ -1,0 +1,72 @@
+{
+  "id": 1343840845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4097,10.3895,17.4097,10.3895",
+    "geom:latitude":10.3895,
+    "geom:longitude":17.4097,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kerebo",
+    "gn:country_code":"TD",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430452,
+    "gn:latitude":10.3895,
+    "gn:longitude":17.4097,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00e9r\u00e9bo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korbo",
+        "Kerbo",
+        "K\u00e9r\u00e9bo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430452
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"00336aa85aac3dd6cb4fc66ee7cbac10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900595,
+            "locality_id":1343840845,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1343840845,
+    "wof:lastmodified":1537702747,
+    "wof:name":"Kerebo",
+    "wof:parent_id":1091900595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4097,
+    10.3895,
+    17.4097,
+    10.3895
+],
+  "geometry": {"coordinates":[17.4097,10.3895],"type":"Point"}
+}

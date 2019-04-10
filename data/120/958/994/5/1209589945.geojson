@@ -1,0 +1,61 @@
+{
+  "id": 1209589945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01678,9.59969,15.01678,9.59969",
+    "geom:latitude":9.59969,
+    "geom:longitude":15.01678,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Malanigome",
+    "gn:country_code":"TD",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428605,
+    "gn:latitude":9.59969,
+    "gn:longitude":15.01678,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Malanigom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428605
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0f5551844a54c5f779d9933924f1261d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209589945
+        }
+    ],
+    "wof:id":1209589945,
+    "wof:lastmodified":1536282513,
+    "wof:name":"Malanigome",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01678,
+    9.59969,
+    15.01678,
+    9.59969
+],
+  "geometry": {"coordinates":[15.01678,9.59969],"type":"Point"}
+}

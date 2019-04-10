@@ -1,0 +1,71 @@
+{
+  "id": 1243162775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78883,8.51245,15.78883,8.51245",
+    "geom:latitude":8.51245,
+    "geom:longitude":15.78883,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mailo",
+    "gn:country_code":"TD",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428730,
+    "gn:latitude":8.51245,
+    "gn:longitude":15.78883,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ma\u00eflo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mailao",
+        "Ma\u00eflo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428730
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7a81c5e70dcf106917d21efbda5adee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1243162775,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1243162775,
+    "wof:lastmodified":1537702730,
+    "wof:name":"Mailo",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78883,
+    8.51245,
+    15.78883,
+    8.51245
+],
+  "geometry": {"coordinates":[15.78883,8.51245],"type":"Point"}
+}

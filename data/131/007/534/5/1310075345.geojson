@@ -1,0 +1,67 @@
+{
+  "id": 1310075345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24674,10.71137,15.24674,10.71137",
+    "geom:latitude":10.71137,
+    "geom:longitude":15.24674,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ouadam",
+    "gn:country_code":"TD",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426578,
+    "gn:latitude":10.71137,
+    "gn:longitude":15.24674,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Ouadam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426578
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7a85bbbb36cb1e3e03098fc99ded83b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1310075345,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1310075345,
+    "wof:lastmodified":1537038454,
+    "wof:name":"Ouadam",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24674,
+    10.71137,
+    15.24674,
+    10.71137
+],
+  "geometry": {"coordinates":[15.24674,10.71137],"type":"Point"}
+}

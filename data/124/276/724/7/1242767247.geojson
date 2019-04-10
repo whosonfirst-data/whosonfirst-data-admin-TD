@@ -1,0 +1,74 @@
+{
+  "id": 1242767247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.66439,8.28878,16.66439,8.28878",
+    "geom:latitude":8.28878,
+    "geom:longitude":16.66439,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bebala",
+    "gn:country_code":"TD",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435868,
+    "gn:latitude":8.28878,
+    "gn:longitude":16.66439,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9bala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bebal"
+    ],
+    "name:und_x_variant":[
+        "Bebal",
+        "B\u00e9bala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435868
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"104b124f4feeb010237546d0d7a83641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900073,
+            "locality_id":1242767247,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1242767247,
+    "wof:lastmodified":1537702807,
+    "wof:name":"Bebala",
+    "wof:parent_id":1091900073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.66439,
+    8.28878,
+    16.66439,
+    8.28878
+],
+  "geometry": {"coordinates":[16.66439,8.28878],"type":"Point"}
+}

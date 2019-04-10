@@ -1,0 +1,67 @@
+{
+  "id": 1292981099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.47854,13.40751,21.47854,13.40751",
+    "geom:latitude":13.40751,
+    "geom:longitude":21.47854,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Herel",
+    "gn:country_code":"TD",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243684,
+    "gn:latitude":13.40751,
+    "gn:longitude":21.47854,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"H\u00e9rel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243684
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6c75319d5e01dbe00ffecf460f88920a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1292981099,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1292981099,
+    "wof:lastmodified":1537019212,
+    "wof:name":"Herel",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.47854,
+    13.40751,
+    21.47854,
+    13.40751
+],
+  "geometry": {"coordinates":[21.47854,13.40751],"type":"Point"}
+}

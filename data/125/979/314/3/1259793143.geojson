@@ -1,0 +1,67 @@
+{
+  "id": 1259793143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8144,13.0378,17.8144,13.0378",
+    "geom:latitude":13.0378,
+    "geom:longitude":17.8144,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Allakhedir",
+    "gn:country_code":"TD",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6842797,
+    "gn:latitude":13.0378,
+    "gn:longitude":17.8144,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Allakh\u00e9dir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6842797
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6a526db4f25cd024a2bb180b20e662a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1259793143,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1259793143,
+    "wof:lastmodified":1536909474,
+    "wof:name":"Allakhedir",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8144,
+    13.0378,
+    17.8144,
+    13.0378
+],
+  "geometry": {"coordinates":[17.8144,13.0378],"type":"Point"}
+}

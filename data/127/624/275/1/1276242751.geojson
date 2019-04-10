@@ -1,0 +1,67 @@
+{
+  "id": 1276242751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.177,12.67008,17.177,12.67008",
+    "geom:latitude":12.67008,
+    "geom:longitude":17.177,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rametch",
+    "gn:country_code":"TD",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426105,
+    "gn:latitude":12.67008,
+    "gn:longitude":17.177,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Rametch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426105
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3ea6ad3f72dc1c75f5050df77cf04195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1276242751,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1276242751,
+    "wof:lastmodified":1536900011,
+    "wof:name":"Rametch",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.177,
+    12.67008,
+    17.177,
+    12.67008
+],
+  "geometry": {"coordinates":[17.177,12.67008],"type":"Point"}
+}

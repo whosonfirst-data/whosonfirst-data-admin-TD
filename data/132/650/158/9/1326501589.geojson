@@ -1,0 +1,67 @@
+{
+  "id": 1326501589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.60117,9.59517,18.60117,9.59517",
+    "geom:latitude":9.59517,
+    "geom:longitude":18.60117,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Soho Gotoko",
+    "gn:country_code":"TD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425568,
+    "gn:latitude":9.59517,
+    "gn:longitude":18.60117,
+    "gn:modification_date":"2008-10-29",
+    "gn:name":"Soho Gotoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425568
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"01ed85efe1cc6ab1213051cd2e10df27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1326501589,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1326501589,
+    "wof:lastmodified":1537027101,
+    "wof:name":"Soho Gotoko",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.60117,
+    9.59517,
+    18.60117,
+    9.59517
+],
+  "geometry": {"coordinates":[18.60117,9.59517],"type":"Point"}
+}

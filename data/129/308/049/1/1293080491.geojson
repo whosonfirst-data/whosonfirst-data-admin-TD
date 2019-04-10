@@ -1,0 +1,67 @@
+{
+  "id": 1293080491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.6517,10.2369,19.6517,10.2369",
+    "geom:latitude":10.2369,
+    "geom:longitude":19.6517,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tidi",
+    "gn:country_code":"TD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424851,
+    "gn:latitude":10.2369,
+    "gn:longitude":19.6517,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Tidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424851
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6843d57c9fccb4db1ebad07a2b28e893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1293080491,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1293080491,
+    "wof:lastmodified":1536876019,
+    "wof:name":"Tidi",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.6517,
+    10.2369,
+    19.6517,
+    10.2369
+],
+  "geometry": {"coordinates":[19.6517,10.2369],"type":"Point"}
+}

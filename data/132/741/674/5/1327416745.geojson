@@ -1,0 +1,71 @@
+{
+  "id": 1327416745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25991,12.23302,15.25991,12.23302",
+    "geom:latitude":12.23302,
+    "geom:longitude":15.25991,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Al Melguerguef",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437136,
+    "gn:latitude":12.23302,
+    "gn:longitude":15.25991,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Melguerguef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Megargaf",
+        "Al Melguerguef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437136
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4d354a3848a8190469e1ff7eccb733b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1327416745,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1327416745,
+    "wof:lastmodified":1537702818,
+    "wof:name":"Al Melguerguef",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25991,
+    12.23302,
+    15.25991,
+    12.23302
+],
+  "geometry": {"coordinates":[15.25991,12.23302],"type":"Point"}
+}

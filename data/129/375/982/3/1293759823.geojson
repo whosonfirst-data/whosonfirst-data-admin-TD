@@ -1,0 +1,67 @@
+{
+  "id": 1293759823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1886,8.8711,18.1886,8.8711",
+    "geom:latitude":8.8711,
+    "geom:longitude":18.1886,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Maibo",
+    "gn:country_code":"TD",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857171,
+    "gn:latitude":8.8711,
+    "gn:longitude":18.1886,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ma\u00efbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857171
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"93c5af228f4919e36ed2edb1a89d993e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1293759823,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1293759823,
+    "wof:lastmodified":1536891259,
+    "wof:name":"Maibo",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1886,
+    8.8711,
+    18.1886,
+    8.8711
+],
+  "geometry": {"coordinates":[18.1886,8.8711],"type":"Point"}
+}

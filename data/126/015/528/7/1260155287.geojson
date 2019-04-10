@@ -1,0 +1,67 @@
+{
+  "id": 1260155287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8424,9.098,14.8424,9.098",
+    "geom:latitude":9.098,
+    "geom:longitude":14.8424,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Baida Bara",
+    "gn:country_code":"TD",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436210,
+    "gn:latitude":9.098,
+    "gn:longitude":14.8424,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Ba\u00efda Bara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436210
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"580426b7ef1070ab1479f09555d67d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1260155287,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1260155287,
+    "wof:lastmodified":1536886196,
+    "wof:name":"Baida Bara",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8424,
+    9.098,
+    14.8424,
+    9.098
+],
+  "geometry": {"coordinates":[14.8424,9.098],"type":"Point"}
+}

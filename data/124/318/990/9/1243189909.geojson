@@ -1,0 +1,70 @@
+{
+  "id": 1243189909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.11319,13.59824,20.11319,13.59824",
+    "geom:latitude":13.59824,
+    "geom:longitude":20.11319,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Oualad Baachoum",
+    "gn:country_code":"TD",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242237,
+    "gn:latitude":13.59824,
+    "gn:longitude":20.11319,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Oualad Baachoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Oualad Baachoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242237
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"81b0246e2c1f3a81678740a282e6b80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1243189909,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1243189909,
+    "wof:lastmodified":1537702652,
+    "wof:name":"Oualad Baachoum",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.11319,
+    13.59824,
+    20.11319,
+    13.59824
+],
+  "geometry": {"coordinates":[20.11319,13.59824],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276934221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75,12.01667,20.75,12.01667",
+    "geom:latitude":12.01667,
+    "geom:longitude":20.75,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Gana",
+    "gn:country_code":"TD",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244017,
+    "gn:latitude":12.01667,
+    "gn:longitude":20.75,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Gana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244017
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9160b5312eed7353f7feacd537db9663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900983,
+            "locality_id":1276934221,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1276934221,
+    "wof:lastmodified":1536968269,
+    "wof:name":"Gana",
+    "wof:parent_id":1091900983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75,
+    12.01667,
+    20.75,
+    12.01667
+],
+  "geometry": {"coordinates":[20.75,12.01667],"type":"Point"}
+}

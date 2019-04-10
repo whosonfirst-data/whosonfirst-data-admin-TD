@@ -1,0 +1,67 @@
+{
+  "id": 1327323383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01667,7.7,16.01667,7.7",
+    "geom:latitude":7.7,
+    "geom:longitude":16.01667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gorobaya",
+    "gn:country_code":"TD",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431884,
+    "gn:latitude":7.7,
+    "gn:longitude":16.01667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Gorobaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431884
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"78876619fbad3d91b64e1a05d691f808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1327323383,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1327323383,
+    "wof:lastmodified":1536837254,
+    "wof:name":"Gorobaya",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01667,
+    7.7,
+    16.01667,
+    7.7
+],
+  "geometry": {"coordinates":[16.01667,7.7],"type":"Point"}
+}

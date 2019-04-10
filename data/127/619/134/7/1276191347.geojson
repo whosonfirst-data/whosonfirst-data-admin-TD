@@ -1,0 +1,67 @@
+{
+  "id": 1276191347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78333,12.95,16.78333,12.95",
+    "geom:latitude":12.95,
+    "geom:longitude":16.78333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Aouni",
+    "gn:country_code":"TD",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436641,
+    "gn:latitude":12.95,
+    "gn:longitude":16.78333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Aouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436641
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"950f9869ebf75772a505947c2b0f8385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1276191347,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1276191347,
+    "wof:lastmodified":1536968989,
+    "wof:name":"Aouni",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78333,
+    12.95,
+    16.78333,
+    12.95
+],
+  "geometry": {"coordinates":[16.78333,12.95],"type":"Point"}
+}

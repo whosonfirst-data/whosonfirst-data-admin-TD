@@ -1,0 +1,61 @@
+{
+  "id": 1209077153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2823,9.3119,16.2823,9.3119",
+    "geom:latitude":9.3119,
+    "geom:longitude":16.2823,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tiadam",
+    "gn:country_code":"TD",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424882,
+    "gn:latitude":9.3119,
+    "gn:longitude":16.2823,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Tiadam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424882
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"915dcc4fe5d8207436dd8418d629d232",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209077153
+        }
+    ],
+    "wof:id":1209077153,
+    "wof:lastmodified":1536298457,
+    "wof:name":"Tiadam",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2823,
+    9.3119,
+    16.2823,
+    9.3119
+],
+  "geometry": {"coordinates":[16.2823,9.3119],"type":"Point"}
+}

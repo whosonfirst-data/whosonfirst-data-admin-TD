@@ -1,0 +1,67 @@
+{
+  "id": 1243363003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7927,11.1972,17.7927,11.1972",
+    "geom:latitude":11.1972,
+    "geom:longitude":17.7927,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Deher",
+    "gn:country_code":"TD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859156,
+    "gn:latitude":11.1972,
+    "gn:longitude":17.7927,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"D\u00e9her",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859156
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"89be2c819e27f0490a342e49bb8d8044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1243363003,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1243363003,
+    "wof:lastmodified":1536926595,
+    "wof:name":"Deher",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7927,
+    11.1972,
+    17.7927,
+    11.1972
+],
+  "geometry": {"coordinates":[17.7927,11.1972],"type":"Point"}
+}

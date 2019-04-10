@@ -1,0 +1,70 @@
+{
+  "id": 1326991447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.87522,18.90922,20.87522,18.90922",
+    "geom:latitude":18.90922,
+    "geom:longitude":20.87522,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ounianga Serir",
+    "gn:country_code":"TD",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7628502,
+    "gn:latitude":18.90922,
+    "gn:longitude":20.87522,
+    "gn:modification_date":"2013-10-10",
+    "gn:name":"Ounianga S\u00e9rir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ounianga S\u00e9rir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        1108808537,
+        1091901873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7628502
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a6cea8a5847c36ae8574f7185c9a8a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901873,
+            "locality_id":1326991447,
+            "region_id":1108808537
+        }
+    ],
+    "wof:id":1326991447,
+    "wof:lastmodified":1537702826,
+    "wof:name":"Ounianga Serir",
+    "wof:parent_id":1091901873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.87522,
+    18.90922,
+    20.87522,
+    18.90922
+],
+  "geometry": {"coordinates":[20.87522,18.90922],"type":"Point"}
+}

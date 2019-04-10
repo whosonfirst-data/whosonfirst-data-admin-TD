@@ -1,0 +1,162 @@
+{
+  "id": 421182809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5,9.3333,18.5,9.3333",
+    "geom:latitude":9.3333,
+    "geom:longitude":18.5,
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.6,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0430\u044f\u043d-\u0428\u0430\u0440\u0438"
+    ],
+    "name:dan_x_preferred":[
+        "Moyen-Chari"
+    ],
+    "name:deu_x_preferred":[
+        "Region Moyen-Chari"
+    ],
+    "name:eng_x_preferred":[
+        "Moyen-Chari"
+    ],
+    "name:eng_x_variant":[
+        "Moyen-Chari Region"
+    ],
+    "name:est_x_preferred":[
+        "Kesk-Chari piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Moyen-Chari"
+    ],
+    "name:fin_x_preferred":[
+        "Moyen-Chari"
+    ],
+    "name:fra_x_preferred":[
+        "Moyen-Chari"
+    ],
+    "name:fra_x_variant":[
+        "R\u00e9gion du Moyen-Chari"
+    ],
+    "name:ind_x_preferred":[
+        "Region Moyen-Chari"
+    ],
+    "name:ita_x_preferred":[
+        "Regione di Moyen-Chari"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30ef\u30a4\u30e4\u30f3\u30fb\u30b7\u30e3\u30ea\u5dde"
+    ],
+    "name:kor_x_preferred":[
+        "\ubb34\uc544\uc5ad\uc0e4\ub9ac \uc8fc"
+    ],
+    "name:lit_x_preferred":[
+        "Vidurio \u0160ario regionas"
+    ],
+    "name:nld_x_preferred":[
+        "Moyen-Chari"
+    ],
+    "name:nor_x_preferred":[
+        "Moyen-Chari"
+    ],
+    "name:pol_x_preferred":[
+        "Region Szari \u015arodkowe"
+    ],
+    "name:por_x_preferred":[
+        "Moyen-Chari"
+    ],
+    "name:ron_x_preferred":[
+        "Regiunea Moyen-Chari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0440\u0435\u0434\u043d\u0435\u0435 \u0428\u0430\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Regi\u00f3n de Moyen-Chari"
+    ],
+    "name:tur_x_preferred":[
+        "Moyen-Chari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0440\u0435\u0434\u043d\u0454 \u0428\u0430\u0440\u0456"
+    ],
+    "name:unk_x_variant":[
+        "R\u00e9gion du Moyen-Chari"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u06cc\u0646-\u0634\u0627\u0631\u06cc \u0639\u0644\u0627\u0642\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u6c99\u91cc\u5340"
+    ],
+    "qs:gn_country":"TD",
+    "qs:gn_fcode":"ADM1",
+    "qs:gn_id":2427315,
+    "qs:gn_pop":1003054,
+    "qs:name":"Moyen-Chari",
+    "qs:name_adm0":"Tchad",
+    "qs:name_adm1":"Moyen-Chari",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":86,
+    "qs:photos_sr":0,
+    "qs:placetype":"State",
+    "qs:pop_sr":"12",
+    "qs:qs_id":946775,
+    "qs:woe_adm0":23424777,
+    "qs:woe_id":2344955,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":75,
+    "wof:belongsto":[
+        102191573,
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427315,
+        "gp:id":2344955,
+        "qs:id":946775,
+        "wd:id":"Q177799",
+        "wk:page":"Moyen-Chari Region"
+    },
+    "wof:country":"TD",
+    "wof:created":1459009348,
+    "wof:geomhash":"caa9eb1a36aedf19f54c5acadfcfecd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "region_id":421182809
+        }
+    ],
+    "wof:id":421182809,
+    "wof:lastmodified":1529541196,
+    "wof:name":"Moyen-Chari",
+    "wof:parent_id":85632325,
+    "wof:placetype":"region",
+    "wof:population":1003054,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5,
+    9.3333,
+    18.5,
+    9.3333
+],
+  "geometry": {"coordinates":[18.5,9.3333],"type":"Point"}
+}

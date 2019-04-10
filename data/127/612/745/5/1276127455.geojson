@@ -1,0 +1,70 @@
+{
+  "id": 1276127455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81865,14.81504,21.81865,14.81504",
+    "geom:latitude":14.81504,
+    "geom:longitude":21.81865,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bartanigue",
+    "gn:country_code":"TD",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11526808,
+    "gn:latitude":14.81504,
+    "gn:longitude":21.81865,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Bartanigu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bartanigu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11526808
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"245fcc36e9e33825eb3b23256d7c57bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":1276127455,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1276127455,
+    "wof:lastmodified":1537702826,
+    "wof:name":"Bartanigue",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81865,
+    14.81504,
+    21.81865,
+    14.81504
+],
+  "geometry": {"coordinates":[21.81865,14.81504],"type":"Point"}
+}

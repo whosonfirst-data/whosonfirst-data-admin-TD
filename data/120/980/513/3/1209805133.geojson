@@ -1,0 +1,71 @@
+{
+  "id": 1209805133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.605,8.1668,15.605,8.1668",
+    "geom:latitude":8.1668,
+    "geom:longitude":15.605,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sara I",
+    "gn:country_code":"TD",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425799,
+    "gn:latitude":8.1668,
+    "gn:longitude":15.605,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sara I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sara II",
+        "Sara I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425799
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ede34fe7f923a8d6cbdd5dbb15e42de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1209805133,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1209805133,
+    "wof:lastmodified":1537702701,
+    "wof:name":"Sara I",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.605,
+    8.1668,
+    15.605,
+    8.1668
+],
+  "geometry": {"coordinates":[15.605,8.1668],"type":"Point"}
+}

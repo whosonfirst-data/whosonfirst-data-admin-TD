@@ -1,0 +1,67 @@
+{
+  "id": 1226464791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95,13.91667,14.95,13.91667",
+    "geom:latitude":13.91667,
+    "geom:longitude":14.95,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Boudoute",
+    "gn:country_code":"TD",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434789,
+    "gn:latitude":13.91667,
+    "gn:longitude":14.95,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Boudout\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434789
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5576b716dddaec86354f6ac6de2222d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1226464791,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1226464791,
+    "wof:lastmodified":1536615757,
+    "wof:name":"Boudoute",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95,
+    13.91667,
+    14.95,
+    13.91667
+],
+  "geometry": {"coordinates":[14.95,13.91667],"type":"Point"}
+}

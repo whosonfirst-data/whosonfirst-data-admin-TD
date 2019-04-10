@@ -1,0 +1,67 @@
+{
+  "id": 1326710501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81212,13.70901,21.81212,13.70901",
+    "geom:latitude":13.70901,
+    "geom:longitude":21.81212,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tirlanga",
+    "gn:country_code":"TD",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241644,
+    "gn:latitude":13.70901,
+    "gn:longitude":21.81212,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Tirlanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241644
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1078db8781615d0ba342cfb062aa92c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1326710501,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1326710501,
+    "wof:lastmodified":1536727496,
+    "wof:name":"Tirlanga",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81212,
+    13.70901,
+    21.81212,
+    13.70901
+],
+  "geometry": {"coordinates":[21.81212,13.70901],"type":"Point"}
+}

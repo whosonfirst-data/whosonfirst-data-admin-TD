@@ -1,0 +1,67 @@
+{
+  "id": 1276777199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1069,12.9352,19.1069,12.9352",
+    "geom:latitude":12.9352,
+    "geom:longitude":19.1069,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Illelt al Koro",
+    "gn:country_code":"TD",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431295,
+    "gn:latitude":12.9352,
+    "gn:longitude":19.1069,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"Illelt al Koro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431295
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"04a06487777db0d4d9883ccc9658af3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1276777199,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1276777199,
+    "wof:lastmodified":1536681010,
+    "wof:name":"Illelt al Koro",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1069,
+    12.9352,
+    19.1069,
+    12.9352
+],
+  "geometry": {"coordinates":[19.1069,12.9352],"type":"Point"}
+}

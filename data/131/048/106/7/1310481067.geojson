@@ -1,0 +1,67 @@
+{
+  "id": 1310481067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.20554,10.17969,21.20554,10.17969",
+    "geom:latitude":10.17969,
+    "geom:longitude":21.20554,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hadjera",
+    "gn:country_code":"TD",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243740,
+    "gn:latitude":10.17969,
+    "gn:longitude":21.20554,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Hadj\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243740
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2cc11184377c9c8aa9c3d644cc105ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900659,
+            "locality_id":1310481067,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1310481067,
+    "wof:lastmodified":1536952340,
+    "wof:name":"Hadjera",
+    "wof:parent_id":1091900659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.20554,
+    10.17969,
+    21.20554,
+    10.17969
+],
+  "geometry": {"coordinates":[21.20554,10.17969],"type":"Point"}
+}

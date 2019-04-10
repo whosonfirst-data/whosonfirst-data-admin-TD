@@ -1,0 +1,67 @@
+{
+  "id": 1243089663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67081,14.08892,14.67081,14.08892",
+    "geom:latitude":14.08892,
+    "geom:longitude":14.67081,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kimikimi",
+    "gn:country_code":"TD",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430315,
+    "gn:latitude":14.08892,
+    "gn:longitude":14.67081,
+    "gn:modification_date":"2008-03-27",
+    "gn:name":"Kimikimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430315
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0417b7c81cd74d470a7ffe2df993fcfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1243089663,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1243089663,
+    "wof:lastmodified":1536821974,
+    "wof:name":"Kimikimi",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67081,
+    14.08892,
+    14.67081,
+    14.08892
+],
+  "geometry": {"coordinates":[14.67081,14.08892],"type":"Point"}
+}

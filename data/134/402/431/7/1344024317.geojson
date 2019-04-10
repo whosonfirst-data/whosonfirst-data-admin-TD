@@ -1,0 +1,71 @@
+{
+  "id": 1344024317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57812,12.40526,15.57812,12.40526",
+    "geom:latitude":12.40526,
+    "geom:longitude":15.57812,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Al Farch",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437222,
+    "gn:latitude":12.40526,
+    "gn:longitude":15.57812,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Farch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alfrech",
+        "Al Farch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437222
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fdd02a3fe67add9887330c3b94435112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1344024317,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1344024317,
+    "wof:lastmodified":1537702818,
+    "wof:name":"Al Farch",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57812,
+    12.40526,
+    15.57812,
+    12.40526
+],
+  "geometry": {"coordinates":[15.57812,12.40526],"type":"Point"}
+}

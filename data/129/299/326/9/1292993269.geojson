@@ -1,0 +1,71 @@
+{
+  "id": 1292993269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42536,14.06505,15.42536,14.06505",
+    "geom:latitude":14.06505,
+    "geom:longitude":15.42536,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kalkala",
+    "gn:country_code":"TD",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430957,
+    "gn:latitude":14.06505,
+    "gn:longitude":15.42536,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalkala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalakala",
+        "Kalkala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430957
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7b27190d285404e21ecdc5d2e659256e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1292993269,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1292993269,
+    "wof:lastmodified":1537702751,
+    "wof:name":"Kalkala",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42536,
+    14.06505,
+    15.42536,
+    14.06505
+],
+  "geometry": {"coordinates":[15.42536,14.06505],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344019899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2254,8.9217,15.2254,8.9217",
+    "geom:latitude":8.9217,
+    "geom:longitude":15.2254,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kaakou",
+    "gn:country_code":"TD",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431195,
+    "gn:latitude":8.9217,
+    "gn:longitude":15.2254,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Kaakou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431195
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"102f6b7f22dc93bae47e5a46495227fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1344019899,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1344019899,
+    "wof:lastmodified":1536935081,
+    "wof:name":"Kaakou",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2254,
+    8.9217,
+    15.2254,
+    8.9217
+],
+  "geometry": {"coordinates":[15.2254,8.9217],"type":"Point"}
+}

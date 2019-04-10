@@ -1,0 +1,71 @@
+{
+  "id": 1210034063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2426,13.7663,19.2426,13.7663",
+    "geom:latitude":13.7663,
+    "geom:longitude":19.2426,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kachako Guemis",
+    "gn:country_code":"TD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855565,
+    "gn:latitude":13.7663,
+    "gn:longitude":19.2426,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kachako Guemis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kachako Gemis",
+        "Kachako Guemis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855565
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"29048686e2d26a634376fbedb76281a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1210034063,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1210034063,
+    "wof:lastmodified":1537702824,
+    "wof:name":"Kachako Guemis",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2426,
+    13.7663,
+    19.2426,
+    13.7663
+],
+  "geometry": {"coordinates":[19.2426,13.7663],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259505707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18839,14.27272,15.18839,14.27272",
+    "geom:latitude":14.27272,
+    "geom:longitude":15.18839,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Targagala",
+    "gn:country_code":"TD",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425241,
+    "gn:latitude":14.27272,
+    "gn:longitude":15.18839,
+    "gn:modification_date":"2009-02-23",
+    "gn:name":"Targagala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425241
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e275214086d1dbbdfef518c87f502d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1259505707,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1259505707,
+    "wof:lastmodified":1536825974,
+    "wof:name":"Targagala",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18839,
+    14.27272,
+    15.18839,
+    14.27272
+],
+  "geometry": {"coordinates":[15.18839,14.27272],"type":"Point"}
+}

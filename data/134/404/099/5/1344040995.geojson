@@ -1,0 +1,67 @@
+{
+  "id": 1344040995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12343,9.21518,16.12343,9.21518",
+    "geom:latitude":9.21518,
+    "geom:longitude":16.12343,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Baoul",
+    "gn:country_code":"TD",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870657,
+    "gn:latitude":9.21518,
+    "gn:longitude":16.12343,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Baoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091901691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870657
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3f50f5759a7af1f4d295cc736d06f04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901691,
+            "locality_id":1344040995,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1344040995,
+    "wof:lastmodified":1536903899,
+    "wof:name":"Baoul",
+    "wof:parent_id":1091901691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12343,
+    9.21518,
+    16.12343,
+    9.21518
+],
+  "geometry": {"coordinates":[16.12343,9.21518],"type":"Point"}
+}

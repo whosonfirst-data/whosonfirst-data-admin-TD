@@ -1,0 +1,72 @@
+{
+  "id": 1343821519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.61667,9.21667,18.61667,9.21667",
+    "geom:latitude":9.21667,
+    "geom:longitude":18.61667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kandje",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430879,
+    "gn:latitude":9.21667,
+    "gn:longitude":18.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kandj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamanga",
+        "Kandj\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430879
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ef24d1141b5b51df67c48413fdc55ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1343821519,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1343821519,
+    "wof:lastmodified":1537702750,
+    "wof:name":"Kandje",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61667000000001,
+    9.21667,
+    18.61667000000001,
+    9.21667
+],
+  "geometry": {"coordinates":[18.61667000000001,9.21667],"type":"Point"}
+}

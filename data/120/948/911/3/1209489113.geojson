@@ -1,0 +1,61 @@
+{
+  "id": 1209489113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5684,9.4311,16.5684,9.4311",
+    "geom:latitude":9.4311,
+    "geom:longitude":16.5684,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bourmaye",
+    "gn:country_code":"TD",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434628,
+    "gn:latitude":9.4311,
+    "gn:longitude":16.5684,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Bourmaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434628
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0daf1ce934148ecec7e08fe2e35e3ac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209489113
+        }
+    ],
+    "wof:id":1209489113,
+    "wof:lastmodified":1536285542,
+    "wof:name":"Bourmaye",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5684,
+    9.4311,
+    16.5684,
+    9.4311
+],
+  "geometry": {"coordinates":[16.5684,9.4311],"type":"Point"}
+}

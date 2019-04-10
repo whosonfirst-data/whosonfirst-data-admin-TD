@@ -1,0 +1,71 @@
+{
+  "id": 1310175021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18628,9.75772,15.18628,9.75772",
+    "geom:latitude":9.75772,
+    "geom:longitude":15.18628,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Golonloubou",
+    "gn:country_code":"TD",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431984,
+    "gn:latitude":9.75772,
+    "gn:longitude":15.18628,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Golonloubou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Golonhoubou",
+        "Golonloubou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431984
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ee4ef97a37b8948f3a878e86320a4edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900357,
+            "locality_id":1310175021,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1310175021,
+    "wof:lastmodified":1537702762,
+    "wof:name":"Golonloubou",
+    "wof:parent_id":1091900357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18628,
+    9.75772,
+    15.18628,
+    9.75772
+],
+  "geometry": {"coordinates":[15.18628,9.75772],"type":"Point"}
+}

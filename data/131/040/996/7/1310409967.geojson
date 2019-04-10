@@ -1,0 +1,67 @@
+{
+  "id": 1310409967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.31468,12.90959,17.31468,12.90959",
+    "geom:latitude":12.90959,
+    "geom:longitude":17.31468,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wagna",
+    "gn:country_code":"TD",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424409,
+    "gn:latitude":12.90959,
+    "gn:longitude":17.31468,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Wagna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424409
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"eb60249c1f6338715c0a95840905878f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1310409967,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1310409967,
+    "wof:lastmodified":1537052561,
+    "wof:name":"Wagna",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.31468,
+    12.90959,
+    17.31468,
+    12.90959
+],
+  "geometry": {"coordinates":[17.31468,12.90959],"type":"Point"}
+}

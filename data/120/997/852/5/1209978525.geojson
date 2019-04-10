@@ -1,0 +1,67 @@
+{
+  "id": 1209978525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0991,9.6525,14.0991,9.6525",
+    "geom:latitude":9.6525,
+    "geom:longitude":14.0991,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tikepabaidang",
+    "gn:country_code":"TD",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6869433,
+    "gn:latitude":9.6525,
+    "gn:longitude":14.0991,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Tikepaba\u00efdang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6869433
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"afcdf696abe7a8372063fa11ad198542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900399,
+            "locality_id":1209978525,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1209978525,
+    "wof:lastmodified":1536391812,
+    "wof:name":"Tikepabaidang",
+    "wof:parent_id":1091900399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0991,
+    9.6525,
+    14.0991,
+    9.6525
+],
+  "geometry": {"coordinates":[14.0991,9.6525],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293469075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9083,10.0403,20.9083,10.0403",
+    "geom:latitude":10.0403,
+    "geom:longitude":20.9083,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Badie",
+    "gn:country_code":"TD",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245078,
+    "gn:latitude":10.0403,
+    "gn:longitude":20.9083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Badi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badji",
+        "Badi\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245078
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"812ef7a07e81c37cc93a8afd30d47ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900659,
+            "locality_id":1293469075,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1293469075,
+    "wof:lastmodified":1537702679,
+    "wof:name":"Badie",
+    "wof:parent_id":1091900659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9083,
+    10.0403,
+    20.9083,
+    10.0403
+],
+  "geometry": {"coordinates":[20.9083,10.0403],"type":"Point"}
+}

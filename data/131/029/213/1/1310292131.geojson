@@ -1,0 +1,72 @@
+{
+  "id": 1310292131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.63897,14.05803,20.63897,14.05803",
+    "geom:latitude":14.05803,
+    "geom:longitude":20.63897,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bourtay Ganoun",
+    "gn:country_code":"TD",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244737,
+    "gn:latitude":14.05803,
+    "gn:longitude":20.63897,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Bourtay Ganoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ganoune",
+        "Bourtail Ganoun",
+        "Bourtay Ganoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244737
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"11ccaed2c8d64df968d61554ef579e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1310292131,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1310292131,
+    "wof:lastmodified":1537702677,
+    "wof:name":"Bourtay Ganoun",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.63897,
+    14.05803,
+    20.63897,
+    14.05803
+],
+  "geometry": {"coordinates":[20.63897,14.05803],"type":"Point"}
+}

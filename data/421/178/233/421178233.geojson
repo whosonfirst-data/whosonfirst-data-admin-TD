@@ -1,0 +1,82 @@
+{
+  "id": 421178233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5501,10.91762,15.5501,10.91762",
+    "geom:latitude":10.91762,
+    "geom:longitude":15.5501,
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "G\u00e9lengdeng"
+    ],
+    "qs:gn_country":"TD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2431573,
+    "qs:gn_pop":11379,
+    "qs:name":"Gu\u00e9lengdeng",
+    "qs:name_adm0":"Tchad",
+    "qs:name_adm1":"Mayo-Kebbi Est",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":278645,
+    "qs:woe_adm0":23424777,
+    "qs:woe_id":1274747,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431573,
+        "gp:id":1274747,
+        "qs:id":278645
+    },
+    "wof:country":"TD",
+    "wof:created":1459009175,
+    "wof:geomhash":"7b44aec32f3c0678dbf9c792bd363772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":421178233,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":421178233,
+    "wof:lastmodified":1505340636,
+    "wof:name":"Gu\u00e9lengdeng",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:population":11379,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5501,
+    10.91762,
+    15.5501,
+    10.91762
+],
+  "geometry": {"coordinates":[15.5501,10.91762],"type":"Point"}
+}

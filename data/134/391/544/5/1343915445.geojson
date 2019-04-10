@@ -1,0 +1,70 @@
+{
+  "id": 1343915445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50573,11.43191,22.50573,11.43191",
+    "geom:latitude":11.43191,
+    "geom:longitude":22.50573,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Singila",
+    "gn:country_code":"TD",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241939,
+    "gn:latitude":11.43191,
+    "gn:longitude":22.50573,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Singila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Singuila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241939
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"470ff899aa0e319fad287ef53d93f326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1343915445,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1343915445,
+    "wof:lastmodified":1537702651,
+    "wof:name":"Singila",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50573,
+    11.43191,
+    22.50573,
+    11.43191
+],
+  "geometry": {"coordinates":[22.50573,11.43191],"type":"Point"}
+}

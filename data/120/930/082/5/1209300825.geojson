@@ -1,0 +1,67 @@
+{
+  "id": 1209300825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3132,10.5151,21.3132,10.5151",
+    "geom:latitude":10.5151,
+    "geom:longitude":21.3132,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mangueigne",
+    "gn:country_code":"TD",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242802,
+    "gn:latitude":10.5151,
+    "gn:longitude":21.3132,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mangueigne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manguei\u00f3ne",
+        "Mangeine",
+        "Mangeigne",
+        "Mangueigne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242802
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bfcd597b3694c81f5cc9f2dcc7403330",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209300825
+        }
+    ],
+    "wof:id":1209300825,
+    "wof:lastmodified":1537702658,
+    "wof:name":"Mangueigne",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3132,
+    10.5151,
+    21.3132,
+    10.5151
+],
+  "geometry": {"coordinates":[21.3132,10.5151],"type":"Point"}
+}

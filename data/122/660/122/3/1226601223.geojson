@@ -1,0 +1,67 @@
+{
+  "id": 1226601223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1349,13.2773,16.1349,13.2773",
+    "geom:latitude":13.2773,
+    "geom:longitude":16.1349,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kouri Olonga",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429515,
+    "gn:latitude":13.2773,
+    "gn:longitude":16.1349,
+    "gn:modification_date":"2008-09-16",
+    "gn:name":"Kouri Olonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429515
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"14bbe6cb9c1636f624787ade7d415bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901733,
+            "locality_id":1226601223,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1226601223,
+    "wof:lastmodified":1536922471,
+    "wof:name":"Kouri Olonga",
+    "wof:parent_id":1091901733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1349,
+    13.2773,
+    16.1349,
+    13.2773
+],
+  "geometry": {"coordinates":[16.1349,13.2773],"type":"Point"}
+}

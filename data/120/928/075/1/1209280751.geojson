@@ -1,0 +1,61 @@
+{
+  "id": 1209280751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54763,12.52412,15.54763,12.52412",
+    "geom:latitude":12.52412,
+    "geom:longitude":15.54763,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ladalam",
+    "gn:country_code":"TD",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429320,
+    "gn:latitude":12.52412,
+    "gn:longitude":15.54763,
+    "gn:modification_date":"2008-02-22",
+    "gn:name":"Ladalam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429320
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"39da4308b9f506d7d9b9a66ce0d03f60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209280751
+        }
+    ],
+    "wof:id":1209280751,
+    "wof:lastmodified":1536292031,
+    "wof:name":"Ladalam",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.547629999999998,
+    12.52412,
+    15.547629999999998,
+    12.52412
+],
+  "geometry": {"coordinates":[15.54763,12.52412],"type":"Point"}
+}

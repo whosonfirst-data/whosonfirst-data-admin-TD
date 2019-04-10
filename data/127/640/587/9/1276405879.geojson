@@ -1,0 +1,72 @@
+{
+  "id": 1276405879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.60862,12.95557,16.60862,12.95557",
+    "geom:latitude":12.95557,
+    "geom:longitude":16.60862,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Am Kouakib",
+    "gn:country_code":"TD",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436872,
+    "gn:latitude":12.95557,
+    "gn:longitude":16.60862,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Am Kouakib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Koabib",
+        "Ab Koabib",
+        "Am Kouakib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436872
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a631a16404ca1a9c083488786e72b195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1276405879,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1276405879,
+    "wof:lastmodified":1537702815,
+    "wof:name":"Am Kouakib",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.60862,
+    12.95557,
+    16.60862,
+    12.95557
+],
+  "geometry": {"coordinates":[16.60862,12.95557],"type":"Point"}
+}

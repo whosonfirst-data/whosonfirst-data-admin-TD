@@ -1,0 +1,71 @@
+{
+  "id": 1243335943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6735,9.6027,15.6735,9.6027",
+    "geom:latitude":9.6027,
+    "geom:longitude":15.6735,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Leo Djargay I",
+    "gn:country_code":"TD",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429164,
+    "gn:latitude":9.6027,
+    "gn:longitude":15.6735,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00e9o Djargay I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9o Djargaye",
+        "L\u00e9o Djargay I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429164
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9043382b8b6ab22ca1be72ade04893f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900311,
+            "locality_id":1243335943,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1243335943,
+    "wof:lastmodified":1537702734,
+    "wof:name":"Leo Djargay I",
+    "wof:parent_id":1091900311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6735,
+    9.6027,
+    15.6735,
+    9.6027
+],
+  "geometry": {"coordinates":[15.6735,9.6027],"type":"Point"}
+}

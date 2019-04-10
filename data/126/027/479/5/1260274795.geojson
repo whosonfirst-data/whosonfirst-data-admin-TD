@@ -1,0 +1,67 @@
+{
+  "id": 1260274795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13283,13.64221,15.13283,13.64221",
+    "geom:latitude":13.64221,
+    "geom:longitude":15.13283,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ouakali",
+    "gn:country_code":"TD",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426545,
+    "gn:latitude":13.64221,
+    "gn:longitude":15.13283,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Ouakali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426545
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0f1693b6937ba353101eb6137e156438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1260274795,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1260274795,
+    "wof:lastmodified":1536723972,
+    "wof:name":"Ouakali",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13283,
+    13.64221,
+    15.13283,
+    13.64221
+],
+  "geometry": {"coordinates":[15.13283,13.64221],"type":"Point"}
+}

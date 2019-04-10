@@ -1,0 +1,67 @@
+{
+  "id": 1193233705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.61711,11.98539,21.61711,11.98539",
+    "geom:latitude":11.98539,
+    "geom:longitude":21.61711,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Damre",
+    "gn:country_code":"TD",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244630,
+    "gn:latitude":11.98539,
+    "gn:longitude":21.61711,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Damr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244630
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3ac1b2fc1c27b5c4d96142308645e30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1193233705,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1193233705,
+    "wof:lastmodified":1536364121,
+    "wof:name":"Damre",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.61711,
+    11.98539,
+    21.61711,
+    11.98539
+],
+  "geometry": {"coordinates":[21.61711,11.98539],"type":"Point"}
+}

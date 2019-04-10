@@ -1,0 +1,67 @@
+{
+  "id": 1260237821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94786,13.2205,15.94786,13.2205",
+    "geom:latitude":13.2205,
+    "geom:longitude":15.94786,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Legeyem",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429185,
+    "gn:latitude":13.2205,
+    "gn:longitude":15.94786,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"L\u00e9g\u00e9yem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429185
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b1d7125fb88da6588262c17a16293996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901733,
+            "locality_id":1260237821,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1260237821,
+    "wof:lastmodified":1536774593,
+    "wof:name":"Legeyem",
+    "wof:parent_id":1091901733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94786,
+    13.2205,
+    15.94786,
+    13.2205
+],
+  "geometry": {"coordinates":[15.94786,13.2205],"type":"Point"}
+}

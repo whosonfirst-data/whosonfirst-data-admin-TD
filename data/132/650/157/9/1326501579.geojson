@@ -1,0 +1,67 @@
+{
+  "id": 1326501579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9365,8.6491,18.9365,8.6491",
+    "geom:latitude":8.6491,
+    "geom:longitude":18.9365,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Jingana",
+    "gn:country_code":"TD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857190,
+    "gn:latitude":8.6491,
+    "gn:longitude":18.9365,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Jingana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091899945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857190
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a3352df5f8d959a096bf8680f138be78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899945,
+            "locality_id":1326501579,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1326501579,
+    "wof:lastmodified":1537027113,
+    "wof:name":"Jingana",
+    "wof:parent_id":1091899945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9365,
+    8.6491,
+    18.9365,
+    8.6491
+],
+  "geometry": {"coordinates":[18.9365,8.6491],"type":"Point"}
+}

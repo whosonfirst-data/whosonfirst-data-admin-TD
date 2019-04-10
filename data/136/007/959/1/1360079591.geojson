@@ -1,0 +1,67 @@
+{
+  "id": 1360079591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35959,13.5312,15.35959,13.5312",
+    "geom:latitude":13.5312,
+    "geom:longitude":15.35959,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kamerone",
+    "gn:country_code":"TD",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430916,
+    "gn:latitude":13.5312,
+    "gn:longitude":15.35959,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Kam\u00e9ron\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430916
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6f9eef40ea020a371f1f73529f65a2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1360079591,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1360079591,
+    "wof:lastmodified":1536953731,
+    "wof:name":"Kamerone",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35959,
+    13.5312,
+    15.35959,
+    13.5312
+],
+  "geometry": {"coordinates":[15.35959,13.5312],"type":"Point"}
+}

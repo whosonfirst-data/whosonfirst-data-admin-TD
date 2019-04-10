@@ -1,0 +1,67 @@
+{
+  "id": 1276737987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.93333,8.46667,17.93333,8.46667",
+    "geom:latitude":8.46667,
+    "geom:longitude":17.93333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Maimada",
+    "gn:country_code":"TD",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428724,
+    "gn:latitude":8.46667,
+    "gn:longitude":17.93333,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Ma\u00efmada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428724
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a76c0008eac42ee688ce039c621ca58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1276737987,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1276737987,
+    "wof:lastmodified":1536733889,
+    "wof:name":"Maimada",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93332999999999,
+    8.46667,
+    17.93332999999999,
+    8.46667
+],
+  "geometry": {"coordinates":[17.93332999999999,8.46667],"type":"Point"}
+}

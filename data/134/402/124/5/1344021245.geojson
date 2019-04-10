@@ -1,0 +1,67 @@
+{
+  "id": 1344021245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7644,12.83976,14.7644,12.83976",
+    "geom:latitude":12.83976,
+    "geom:longitude":14.7644,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Karal",
+    "gn:country_code":"TD",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430781,
+    "gn:latitude":12.83976,
+    "gn:longitude":14.7644,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Karal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430781
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dfbbbbb9fecf39327c06f24306e849ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1344021245,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1344021245,
+    "wof:lastmodified":1536933113,
+    "wof:name":"Karal",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7644,
+    12.83976,
+    14.7644,
+    12.83976
+],
+  "geometry": {"coordinates":[14.7644,12.83976],"type":"Point"}
+}

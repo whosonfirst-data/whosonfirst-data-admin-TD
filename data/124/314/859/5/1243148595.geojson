@@ -1,0 +1,72 @@
+{
+  "id": 1243148595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9036,11.3857,20.9036,11.3857",
+    "geom:latitude":11.3857,
+    "geom:longitude":20.9036,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Doumbane",
+    "gn:country_code":"TD",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244288,
+    "gn:latitude":11.3857,
+    "gn:longitude":20.9036,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doumban\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dumbwane",
+        "Doumbouan\u00e9",
+        "Doumban\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244288
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"35e7d9cc401e763df83f1f1970637fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1243148595,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1243148595,
+    "wof:lastmodified":1537702673,
+    "wof:name":"Doumbane",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9036,
+    11.3857,
+    20.9036,
+    11.3857
+],
+  "geometry": {"coordinates":[20.9036,11.3857],"type":"Point"}
+}

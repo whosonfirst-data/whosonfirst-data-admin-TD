@@ -1,0 +1,71 @@
+{
+  "id": 1243528239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.79381,9.04965,15.79381,9.04965",
+    "geom:latitude":9.04965,
+    "geom:longitude":15.79381,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Manbagay",
+    "gn:country_code":"TD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428526,
+    "gn:latitude":9.04965,
+    "gn:longitude":15.79381,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Manbagay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mambagaye",
+        "Manbagay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428526
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c44e0fd3e3fd510c5ddbd28dbb0f9162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1243528239,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1243528239,
+    "wof:lastmodified":1537702729,
+    "wof:name":"Manbagay",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.79381,
+    9.04965,
+    15.79381,
+    9.04965
+],
+  "geometry": {"coordinates":[15.79381,9.04965],"type":"Point"}
+}

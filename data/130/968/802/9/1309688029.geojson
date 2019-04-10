@@ -1,0 +1,67 @@
+{
+  "id": 1309688029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1802,11.7911,17.1802,11.7911",
+    "geom:latitude":11.7911,
+    "geom:longitude":17.1802,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ngama Ambasatna",
+    "gn:country_code":"TD",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427033,
+    "gn:latitude":11.7911,
+    "gn:longitude":17.1802,
+    "gn:modification_date":"2008-10-16",
+    "gn:name":"Ngama Ambasatna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427033
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"37f5169e09cd21c7f3d82122e0eaee4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1309688029,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1309688029,
+    "wof:lastmodified":1536600786,
+    "wof:name":"Ngama Ambasatna",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1802,
+    11.7911,
+    17.1802,
+    11.7911
+],
+  "geometry": {"coordinates":[17.1802,11.7911],"type":"Point"}
+}

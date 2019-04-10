@@ -1,0 +1,71 @@
+{
+  "id": 1243041721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8214,9.4602,15.8214,9.4602",
+    "geom:latitude":9.4602,
+    "geom:longitude":15.8214,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kososey",
+    "gn:country_code":"TD",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429893,
+    "gn:latitude":9.4602,
+    "gn:longitude":15.8214,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kososey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kossosseye",
+        "Kososey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429893
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6ef35c1c5de308f9a3e1478d1ae3ac64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1243041721,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1243041721,
+    "wof:lastmodified":1537702742,
+    "wof:name":"Kososey",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8214,
+    9.4602,
+    15.8214,
+    9.4602
+],
+  "geometry": {"coordinates":[15.8214,9.4602],"type":"Point"}
+}

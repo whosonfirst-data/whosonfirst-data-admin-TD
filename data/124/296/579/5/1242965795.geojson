@@ -1,0 +1,67 @@
+{
+  "id": 1242965795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49241,13.80848,15.49241,13.80848",
+    "geom:latitude":13.80848,
+    "geom:longitude":15.49241,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Galis",
+    "gn:country_code":"TD",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432381,
+    "gn:latitude":13.80848,
+    "gn:longitude":15.49241,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Galis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432381
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9a53ce139150a22dc7ef10c18f746824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1242965795,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1242965795,
+    "wof:lastmodified":1537000808,
+    "wof:name":"Galis",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49241,
+    13.80848,
+    15.49241,
+    13.80848
+],
+  "geometry": {"coordinates":[15.49241,13.80848],"type":"Point"}
+}

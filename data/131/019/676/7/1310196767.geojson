@@ -1,0 +1,67 @@
+{
+  "id": 1310196767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2616,13.53929,15.2616,13.53929",
+    "geom:latitude":13.53929,
+    "geom:longitude":15.2616,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kayioua",
+    "gn:country_code":"TD",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430603,
+    "gn:latitude":13.53929,
+    "gn:longitude":15.2616,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Kayioua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430603
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4b52c7da29cba743dd4cb579bf76bc91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1310196767,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1310196767,
+    "wof:lastmodified":1536863583,
+    "wof:name":"Kayioua",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2616,
+    13.53929,
+    15.2616,
+    13.53929
+],
+  "geometry": {"coordinates":[15.2616,13.53929],"type":"Point"}
+}

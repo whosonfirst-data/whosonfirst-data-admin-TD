@@ -1,0 +1,67 @@
+{
+  "id": 1293254751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2527,8.67033,17.2527,8.67033",
+    "geom:latitude":8.67033,
+    "geom:longitude":17.2527,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bekessi",
+    "gn:country_code":"TD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859505,
+    "gn:latitude":8.67033,
+    "gn:longitude":17.2527,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Bekessi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091899975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859505
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"799dacefbb104ae7892365766d4cf5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899975,
+            "locality_id":1293254751,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1293254751,
+    "wof:lastmodified":1536623636,
+    "wof:name":"Bekessi",
+    "wof:parent_id":1091899975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2527,
+    8.67033,
+    17.2527,
+    8.67033
+],
+  "geometry": {"coordinates":[17.2527,8.67033],"type":"Point"}
+}

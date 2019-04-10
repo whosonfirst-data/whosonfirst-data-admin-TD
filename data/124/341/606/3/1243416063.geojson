@@ -1,0 +1,71 @@
+{
+  "id": 1243416063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1852,9.8622,14.1852,9.8622",
+    "geom:latitude":9.8622,
+    "geom:longitude":14.1852,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Matta",
+    "gn:country_code":"TD",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428157,
+    "gn:latitude":9.8622,
+    "gn:longitude":14.1852,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Matta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matta Binder",
+        "Matta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428157
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d0186f2c735463bb93315d711cb644bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900399,
+            "locality_id":1243416063,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1243416063,
+    "wof:lastmodified":1537702725,
+    "wof:name":"Matta",
+    "wof:parent_id":1091900399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1852,
+    9.8622,
+    14.1852,
+    9.8622
+],
+  "geometry": {"coordinates":[14.1852,9.8622],"type":"Point"}
+}

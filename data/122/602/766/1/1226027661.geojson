@@ -1,0 +1,71 @@
+{
+  "id": 1226027661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24239,12.25245,15.24239,12.25245",
+    "geom:latitude":12.25245,
+    "geom:longitude":15.24239,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Michedire",
+    "gn:country_code":"TD",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427866,
+    "gn:latitude":12.25245,
+    "gn:longitude":15.24239,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mich\u00e9dir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Michetire",
+        "Mich\u00e9dir\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427866
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d5d8333402a4105352aa903f674bb199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1226027661,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1226027661,
+    "wof:lastmodified":1537702722,
+    "wof:name":"Michedire",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24239,
+    12.25245,
+    15.24239,
+    12.25245
+],
+  "geometry": {"coordinates":[15.24239,12.25245],"type":"Point"}
+}

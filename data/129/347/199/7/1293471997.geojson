@@ -1,0 +1,67 @@
+{
+  "id": 1293471997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43157,10.9372,15.43157,10.9372",
+    "geom:latitude":10.9372,
+    "geom:longitude":15.43157,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Belem",
+    "gn:country_code":"TD",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435631,
+    "gn:latitude":10.9372,
+    "gn:longitude":15.43157,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Belem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435631
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1ceeed8d5db56d8aa46d88dff54ecaf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1293471997,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1293471997,
+    "wof:lastmodified":1536809079,
+    "wof:name":"Belem",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43157,
+    10.9372,
+    15.43157,
+    10.9372
+],
+  "geometry": {"coordinates":[15.43157,10.9372],"type":"Point"}
+}

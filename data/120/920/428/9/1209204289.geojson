@@ -1,0 +1,61 @@
+{
+  "id": 1209204289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93691,8.63406,16.93691,8.63406",
+    "geom:latitude":8.63406,
+    "geom:longitude":16.93691,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ndonambo",
+    "gn:country_code":"TD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427108,
+    "gn:latitude":8.63406,
+    "gn:longitude":16.93691,
+    "gn:modification_date":"2008-11-14",
+    "gn:name":"Ndonambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427108
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fec3cf964c7ccfe316af4b6c6b219f89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209204289
+        }
+    ],
+    "wof:id":1209204289,
+    "wof:lastmodified":1536294505,
+    "wof:name":"Ndonambo",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93691,
+    8.63406,
+    16.93691,
+    8.63406
+],
+  "geometry": {"coordinates":[16.93691,8.63406],"type":"Point"}
+}

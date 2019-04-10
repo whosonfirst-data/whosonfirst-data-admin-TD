@@ -1,0 +1,61 @@
+{
+  "id": 1209310373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7696,7.8911,15.7696,7.8911",
+    "geom:latitude":7.8911,
+    "geom:longitude":15.7696,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mangouei",
+    "gn:country_code":"TD",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428438,
+    "gn:latitude":7.8911,
+    "gn:longitude":15.7696,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Mangoue\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428438
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cabcec0dc88d7694c402efb30eadda40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209310373
+        }
+    ],
+    "wof:id":1209310373,
+    "wof:lastmodified":1536291050,
+    "wof:name":"Mangouei",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7696,
+    7.8911,
+    15.7696,
+    7.8911
+],
+  "geometry": {"coordinates":[15.7696,7.8911],"type":"Point"}
+}

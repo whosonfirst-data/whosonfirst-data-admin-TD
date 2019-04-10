@@ -1,0 +1,71 @@
+{
+  "id": 1292974059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46727,11.63609,15.46727,11.63609",
+    "geom:latitude":11.63609,
+    "geom:longitude":15.46727,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Amoud al Ridjal",
+    "gn:country_code":"TD",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436840,
+    "gn:latitude":11.63609,
+    "gn:longitude":15.46727,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Amoud al Ridjal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hamoud al Ridjal",
+        "Amoud al Ridjal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436840
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8f2c9e173fe5b3a043e972b6af777dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1292974059,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1292974059,
+    "wof:lastmodified":1537702815,
+    "wof:name":"Amoud al Ridjal",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46727,
+    11.63609,
+    15.46727,
+    11.63609
+],
+  "geometry": {"coordinates":[15.46727,11.63609],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1277153259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44453,9.10022,19.44453,9.10022",
+    "geom:latitude":9.10022,
+    "geom:longitude":19.44453,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kouyabani",
+    "gn:country_code":"TD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429401,
+    "gn:latitude":9.10022,
+    "gn:longitude":19.44453,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouyabani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kouyabani"
+    ],
+    "name:fra_x_variant":[
+        "Kouyab\u00e9n\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Kouyab\u00e9n\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429401
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b79af8293ab5feb84685b5af8115f052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1277153259,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1277153259,
+    "wof:lastmodified":1537702737,
+    "wof:name":"Kouyabani",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44453,
+    9.10022,
+    19.44453,
+    9.10022
+],
+  "geometry": {"coordinates":[19.44453,9.10022],"type":"Point"}
+}

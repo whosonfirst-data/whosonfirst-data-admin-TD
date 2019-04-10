@@ -1,0 +1,67 @@
+{
+  "id": 1242643487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.22038,12.34971,17.22038,12.34971",
+    "geom:latitude":12.34971,
+    "geom:longitude":17.22038,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Am Malak",
+    "gn:country_code":"TD",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436855,
+    "gn:latitude":12.34971,
+    "gn:longitude":17.22038,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Am Malak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436855
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0a8eb2980bd412840d9cf451d7255054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1242643487,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1242643487,
+    "wof:lastmodified":1536968774,
+    "wof:name":"Am Malak",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.22038,
+    12.34971,
+    17.22038,
+    12.34971
+],
+  "geometry": {"coordinates":[17.22038,12.34971],"type":"Point"}
+}

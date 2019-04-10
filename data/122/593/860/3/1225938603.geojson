@@ -1,0 +1,67 @@
+{
+  "id": 1225938603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45716,13.65686,15.45716,13.65686",
+    "geom:latitude":13.65686,
+    "geom:longitude":15.45716,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ndaratiako",
+    "gn:country_code":"TD",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427159,
+    "gn:latitude":13.65686,
+    "gn:longitude":15.45716,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"Ndaratiako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427159
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"91f681fdc80f95ae632fe99d5fa3695b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1225938603,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1225938603,
+    "wof:lastmodified":1536878939,
+    "wof:name":"Ndaratiako",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45716,
+    13.65686,
+    15.45716,
+    13.65686
+],
+  "geometry": {"coordinates":[15.45716,13.65686],"type":"Point"}
+}

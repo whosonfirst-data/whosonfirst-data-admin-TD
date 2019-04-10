@@ -1,0 +1,71 @@
+{
+  "id": 1293176711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42117,12.96069,15.42117,12.96069",
+    "geom:latitude":12.96069,
+    "geom:longitude":15.42117,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kougouna",
+    "gn:country_code":"TD",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430029,
+    "gn:latitude":12.96069,
+    "gn:longitude":15.42117,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kougouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kongona",
+        "Kougouna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430029
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"47c78a9e5affe543dd84e41c097ca3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1293176711,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1293176711,
+    "wof:lastmodified":1537702742,
+    "wof:name":"Kougouna",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42117,
+    12.96069,
+    15.42117,
+    12.96069
+],
+  "geometry": {"coordinates":[15.42117,12.96069],"type":"Point"}
+}

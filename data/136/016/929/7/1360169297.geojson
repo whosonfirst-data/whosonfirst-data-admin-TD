@@ -1,0 +1,70 @@
+{
+  "id": 1360169297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6654,8.1027,16.6654,8.1027",
+    "geom:latitude":8.1027,
+    "geom:longitude":16.6654,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ngobo",
+    "gn:country_code":"TD",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426942,
+    "gn:latitude":8.1027,
+    "gn:longitude":16.6654,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ngobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426942
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bea4a6e9f56f7a2152ac1caf6d20eae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900073,
+            "locality_id":1360169297,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1360169297,
+    "wof:lastmodified":1537702710,
+    "wof:name":"Ngobo",
+    "wof:parent_id":1091900073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6654,
+    8.1027,
+    16.6654,
+    8.1027
+],
+  "geometry": {"coordinates":[16.6654,8.1027],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343467515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.33333,14.26667,22.33333,14.26667",
+    "geom:latitude":14.26667,
+    "geom:longitude":22.33333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ibeyde",
+    "gn:country_code":"TD",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243645,
+    "gn:latitude":14.26667,
+    "gn:longitude":22.33333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ib\u00e9yd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243645
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"98f38a4f9316aefdf63f6db9d57b5d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":1343467515,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1343467515,
+    "wof:lastmodified":1536735926,
+    "wof:name":"Ibeyde",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.33333,
+    14.26667,
+    22.33333,
+    14.26667
+],
+  "geometry": {"coordinates":[22.33333,14.26667],"type":"Point"}
+}

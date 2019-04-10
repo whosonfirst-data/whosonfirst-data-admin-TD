@@ -1,0 +1,67 @@
+{
+  "id": 1259346109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48058,12.3238,15.48058,12.3238",
+    "geom:latitude":12.3238,
+    "geom:longitude":15.48058,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Djaour el Goz",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433706,
+    "gn:latitude":12.3238,
+    "gn:longitude":15.48058,
+    "gn:modification_date":"2008-02-15",
+    "gn:name":"Djaour el Goz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433706
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"81c3cad462a70093b9a941b3190757ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1259346109,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1259346109,
+    "wof:lastmodified":1537053874,
+    "wof:name":"Djaour el Goz",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48058,
+    12.3238,
+    15.48058,
+    12.3238
+],
+  "geometry": {"coordinates":[15.48058,12.3238],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344025839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31667,12.5,20.31667,12.5",
+    "geom:latitude":12.5,
+    "geom:longitude":20.31667,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Direite",
+    "gn:country_code":"TD",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244493,
+    "gn:latitude":12.5,
+    "gn:longitude":20.31667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Dire\u00eft\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244493
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e4ae2f323e9208b23798cb7a0f18fc40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900983,
+            "locality_id":1344025839,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1344025839,
+    "wof:lastmodified":1536926375,
+    "wof:name":"Direite",
+    "wof:parent_id":1091900983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31667,
+    12.5,
+    20.31667,
+    12.5
+],
+  "geometry": {"coordinates":[20.31667,12.5],"type":"Point"}
+}

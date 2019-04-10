@@ -1,0 +1,67 @@
+{
+  "id": 1343942349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6562,7.8433,15.6562,7.8433",
+    "geom:latitude":7.8433,
+    "geom:longitude":15.6562,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Babao",
+    "gn:country_code":"TD",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436324,
+    "gn:latitude":7.8433,
+    "gn:longitude":15.6562,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Babao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436324
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0acad335982561297996d70c65cbffa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1343942349,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1343942349,
+    "wof:lastmodified":1537044376,
+    "wof:name":"Babao",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6562,
+    7.8433,
+    15.6562,
+    7.8433
+],
+  "geometry": {"coordinates":[15.6562,7.8433],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225816391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6859,9.2312,16.6859,9.2312",
+    "geom:latitude":9.2312,
+    "geom:longitude":16.6859,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Maingone",
+    "gn:country_code":"TD",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428682,
+    "gn:latitude":9.2312,
+    "gn:longitude":16.6859,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Ma\u00efngone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428682
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"461d5ab3c421ed5d893adb5030a12e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1225816391,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1225816391,
+    "wof:lastmodified":1537053801,
+    "wof:name":"Maingone",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6859,
+    9.2312,
+    16.6859,
+    9.2312
+],
+  "geometry": {"coordinates":[16.6859,9.2312],"type":"Point"}
+}

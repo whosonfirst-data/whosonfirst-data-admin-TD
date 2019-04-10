@@ -1,0 +1,67 @@
+{
+  "id": 1327197207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78495,13.14342,15.78495,13.14342",
+    "geom:latitude":13.14342,
+    "geom:longitude":15.78495,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Lisadou",
+    "gn:country_code":"TD",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429088,
+    "gn:latitude":13.14342,
+    "gn:longitude":15.78495,
+    "gn:modification_date":"2009-03-05",
+    "gn:name":"Lisadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429088
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f641f38af7e9ab6b3291178fc0031554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1327197207,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1327197207,
+    "wof:lastmodified":1537019672,
+    "wof:name":"Lisadou",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78495,
+    13.14342,
+    15.78495,
+    13.14342
+],
+  "geometry": {"coordinates":[15.78495,13.14342],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343949833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6319,13.56342,15.6319,13.56342",
+    "geom:latitude":13.56342,
+    "geom:longitude":15.6319,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kale Ayerom",
+    "gn:country_code":"TD",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430985,
+    "gn:latitude":13.56342,
+    "gn:longitude":15.6319,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Kal\u00e9 Ay\u00e9rom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430985
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9f977f0d22129fac8b5062c304d7d1e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1343949833,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1343949833,
+    "wof:lastmodified":1537033935,
+    "wof:name":"Kale Ayerom",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6319,
+    13.56342,
+    15.6319,
+    13.56342
+],
+  "geometry": {"coordinates":[15.6319,13.56342],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293172355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.403,8.6832,18.403,8.6832",
+    "geom:latitude":8.6832,
+    "geom:longitude":18.403,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bengono",
+    "gn:country_code":"TD",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435520,
+    "gn:latitude":8.6832,
+    "gn:longitude":18.403,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bengono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bangono",
+        "Bengono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091899945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435520
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"93fd2360df8e26cd0ef40b1d2942694d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899945,
+            "locality_id":1293172355,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1293172355,
+    "wof:lastmodified":1537702800,
+    "wof:name":"Bengono",
+    "wof:parent_id":1091899945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.403,
+    8.6832,
+    18.403,
+    8.6832
+],
+  "geometry": {"coordinates":[18.403,8.6832],"type":"Point"}
+}

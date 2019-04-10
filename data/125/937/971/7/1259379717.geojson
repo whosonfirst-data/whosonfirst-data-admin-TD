@@ -1,0 +1,71 @@
+{
+  "id": 1259379717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29282,13.68222,15.29282,13.68222",
+    "geom:latitude":13.68222,
+    "geom:longitude":15.29282,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gala Konoa",
+    "gn:country_code":"TD",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435896,
+    "gn:latitude":13.68222,
+    "gn:longitude":15.29282,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gala Konoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batiri Gala Konoa",
+        "Gala Konoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435896
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8896c32cf5884c8887da29e59848be7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1259379717,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1259379717,
+    "wof:lastmodified":1537702808,
+    "wof:name":"Gala Konoa",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29282,
+    13.68222,
+    15.29282,
+    13.68222
+],
+  "geometry": {"coordinates":[15.29282,13.68222],"type":"Point"}
+}

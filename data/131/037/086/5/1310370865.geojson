@@ -1,0 +1,71 @@
+{
+  "id": 1310370865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5461,8.2162,17.5461,8.2162",
+    "geom:latitude":8.2162,
+    "geom:longitude":17.5461,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Koudoti",
+    "gn:country_code":"TD",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429810,
+    "gn:latitude":8.2162,
+    "gn:longitude":17.5461,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koudoti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koudou",
+        "Koudoti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429810
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1a6e8aa3b453f439cbb815099bc8ec61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1310370865,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1310370865,
+    "wof:lastmodified":1537702741,
+    "wof:name":"Koudoti",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5461,
+    8.2162,
+    17.5461,
+    8.2162
+],
+  "geometry": {"coordinates":[17.5461,8.2162],"type":"Point"}
+}

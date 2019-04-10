@@ -1,0 +1,67 @@
+{
+  "id": 1226137189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68596,13.48858,15.68596,13.48858",
+    "geom:latitude":13.48858,
+    "geom:longitude":15.68596,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bile Choukouri",
+    "gn:country_code":"TD",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435277,
+    "gn:latitude":13.48858,
+    "gn:longitude":15.68596,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Bil\u00e9 Choukouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435277
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d5fa26a25548a0a1df3afe6fe02cf405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1226137189,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1226137189,
+    "wof:lastmodified":1537086876,
+    "wof:name":"Bile Choukouri",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68596,
+    13.48858,
+    15.68596,
+    13.48858
+],
+  "geometry": {"coordinates":[15.68596,13.48858],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293459377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48296,10.33858,15.48296,10.33858",
+    "geom:latitude":10.33858,
+    "geom:longitude":15.48296,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Golo",
+    "gn:country_code":"TD",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431991,
+    "gn:latitude":10.33858,
+    "gn:longitude":15.48296,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Golo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Golona",
+        "Golo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431991
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"848b90bcdcca24bb4bf659ec6cfbc91d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1293459377,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1293459377,
+    "wof:lastmodified":1537702762,
+    "wof:name":"Golo",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48296,
+    10.33858,
+    15.48296,
+    10.33858
+],
+  "geometry": {"coordinates":[15.48296,10.33858],"type":"Point"}
+}

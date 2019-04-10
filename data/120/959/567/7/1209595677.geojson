@@ -1,0 +1,61 @@
+{
+  "id": 1209595677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00928,13.62343,22.00928,13.62343",
+    "geom:latitude":13.62343,
+    "geom:longitude":22.00928,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Brege",
+    "gn:country_code":"TD",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244726,
+    "gn:latitude":13.62343,
+    "gn:longitude":22.00928,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Br\u00e9ge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244726
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cee350be6b3cd6a31eb09f31694b472f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209595677
+        }
+    ],
+    "wof:id":1209595677,
+    "wof:lastmodified":1536282332,
+    "wof:name":"Brege",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00928,
+    13.62343,
+    22.00928,
+    13.62343
+],
+  "geometry": {"coordinates":[22.00928,13.62343],"type":"Point"}
+}

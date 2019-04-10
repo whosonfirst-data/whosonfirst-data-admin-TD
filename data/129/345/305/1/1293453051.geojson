@@ -1,0 +1,67 @@
+{
+  "id": 1293453051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.69318,12.43493,16.69318,12.43493",
+    "geom:latitude":12.43493,
+    "geom:longitude":16.69318,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Arda Farat",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806531,
+    "gn:latitude":12.43493,
+    "gn:longitude":16.69318,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Arda Farat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806531
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b493f2b5d625d869f37ccb8af410b1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1293453051,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1293453051,
+    "wof:lastmodified":1536835810,
+    "wof:name":"Arda Farat",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.69318,
+    12.43493,
+    16.69318,
+    12.43493
+],
+  "geometry": {"coordinates":[16.69318,12.43493],"type":"Point"}
+}

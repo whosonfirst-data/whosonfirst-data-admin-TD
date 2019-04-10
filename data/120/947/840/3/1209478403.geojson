@@ -1,0 +1,65 @@
+{
+  "id": 1209478403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17432,12.38255,15.17432,12.38255",
+    "geom:latitude":12.38255,
+    "geom:longitude":15.17432,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Assouet",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436418,
+    "gn:latitude":12.38255,
+    "gn:longitude":15.17432,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Assou\u00e8t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asuet",
+        "Assou\u00e8t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436418
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"52c035c3a55428897afc605fa315bf97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209478403
+        }
+    ],
+    "wof:id":1209478403,
+    "wof:lastmodified":1537702812,
+    "wof:name":"Assouet",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17432,
+    12.38255,
+    15.17432,
+    12.38255
+],
+  "geometry": {"coordinates":[15.17432,12.38255],"type":"Point"}
+}

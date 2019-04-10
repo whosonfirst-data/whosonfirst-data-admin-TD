@@ -1,0 +1,71 @@
+{
+  "id": 1344222591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7134,8.3546,17.7134,8.3546",
+    "geom:latitude":8.3546,
+    "geom:longitude":17.7134,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Maikolo",
+    "gn:country_code":"TD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428741,
+    "gn:latitude":8.3546,
+    "gn:longitude":17.7134,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ma\u00efkolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u00efkolo Guira",
+        "Ma\u00efkolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428741
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2bdd43ba0b20bf833df5db277b526ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1344222591,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1344222591,
+    "wof:lastmodified":1537702731,
+    "wof:name":"Maikolo",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7134,
+    8.3546,
+    17.7134,
+    8.3546
+],
+  "geometry": {"coordinates":[17.7134,8.3546],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209782003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96893,12.34469,15.96893,12.34469",
+    "geom:latitude":12.34469,
+    "geom:longitude":15.96893,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mikefa",
+    "gn:country_code":"TD",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427841,
+    "gn:latitude":12.34469,
+    "gn:longitude":15.96893,
+    "gn:modification_date":"2008-03-18",
+    "gn:name":"Mik\u00e9fa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427841
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0cf96e77d871f7e11f935bbd12cad7ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1209782003,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1209782003,
+    "wof:lastmodified":1536372650,
+    "wof:name":"Mikefa",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96893,
+    12.34469,
+    15.96893,
+    12.34469
+],
+  "geometry": {"coordinates":[15.96893,12.34469],"type":"Point"}
+}

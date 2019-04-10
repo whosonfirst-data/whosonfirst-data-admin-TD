@@ -1,0 +1,68 @@
+{
+  "id": 1276562271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.642,13.6719,18.642,13.6719",
+    "geom:latitude":13.6719,
+    "geom:longitude":18.642,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ifenat",
+    "gn:country_code":"TD",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431318,
+    "gn:latitude":13.6719,
+    "gn:longitude":18.642,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ifenat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431318,
+        "wk:page":"Ifenat"
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9dd96625b0a3a6474bb38be8b79ea7c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1276562271,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1276562271,
+    "wof:lastmodified":1537573877,
+    "wof:name":"Ifenat",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.642,
+    13.6719,
+    18.642,
+    13.6719
+],
+  "geometry": {"coordinates":[18.642,13.6719],"type":"Point"}
+}

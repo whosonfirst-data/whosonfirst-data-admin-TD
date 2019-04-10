@@ -1,0 +1,61 @@
+{
+  "id": 1209511065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6981,8.0068,15.6981,8.0068",
+    "geom:latitude":8.0068,
+    "geom:longitude":15.6981,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bobi",
+    "gn:country_code":"TD",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435100,
+    "gn:latitude":8.0068,
+    "gn:longitude":15.6981,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Bobi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435100
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a6ff6fc17ac51f7766dbad6afae71cc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209511065
+        }
+    ],
+    "wof:id":1209511065,
+    "wof:lastmodified":1536284880,
+    "wof:name":"Bobi",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6981,
+    8.0068,
+    15.6981,
+    8.0068
+],
+  "geometry": {"coordinates":[15.6981,8.0068],"type":"Point"}
+}

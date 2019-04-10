@@ -1,0 +1,67 @@
+{
+  "id": 1327110783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.29663,8.67184,18.29663,8.67184",
+    "geom:latitude":8.67184,
+    "geom:longitude":18.29663,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Guidlolo",
+    "gn:country_code":"TD",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857213,
+    "gn:latitude":8.67184,
+    "gn:longitude":18.29663,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Guidlolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857213
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"059901947c0f706e59e541ec9fa3b757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1327110783,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1327110783,
+    "wof:lastmodified":1536647006,
+    "wof:name":"Guidlolo",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.29663,
+    8.67184,
+    18.29663,
+    8.67184
+],
+  "geometry": {"coordinates":[18.29663,8.67184],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276140849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9516,8.344,16.9516,8.344",
+    "geom:latitude":8.344,
+    "geom:longitude":16.9516,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tagolde",
+    "gn:country_code":"TD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6909357,
+    "gn:latitude":8.344,
+    "gn:longitude":16.9516,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Tagold\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909357
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"99370111e31224c34abbccc55276b980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899891,
+            "locality_id":1276140849,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1276140849,
+    "wof:lastmodified":1537035085,
+    "wof:name":"Tagolde",
+    "wof:parent_id":1091899891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9516,
+    8.344,
+    16.9516,
+    8.344
+],
+  "geometry": {"coordinates":[16.9516,8.344],"type":"Point"}
+}

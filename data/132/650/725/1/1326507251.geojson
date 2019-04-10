@@ -1,0 +1,71 @@
+{
+  "id": 1326507251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70632,13.36702,20.70632,13.36702",
+    "geom:latitude":13.36702,
+    "geom:longitude":20.70632,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Koundouno",
+    "gn:country_code":"TD",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243070,
+    "gn:latitude":13.36702,
+    "gn:longitude":20.70632,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Koundouno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koumdoumbo",
+        "Koundouno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243070
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d363aed2a35d71808e6ff6f5d114e0d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1326507251,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1326507251,
+    "wof:lastmodified":1537702661,
+    "wof:name":"Koundouno",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70632,
+    13.36702,
+    20.70632,
+    13.36702
+],
+  "geometry": {"coordinates":[20.70632,13.36702],"type":"Point"}
+}

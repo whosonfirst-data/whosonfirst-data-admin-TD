@@ -1,0 +1,67 @@
+{
+  "id": 1293074191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18411,11.16897,15.18411,11.16897",
+    "geom:latitude":11.16897,
+    "geom:longitude":15.18411,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bogom",
+    "gn:country_code":"TD",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435017,
+    "gn:latitude":11.16897,
+    "gn:longitude":15.18411,
+    "gn:modification_date":"2008-05-28",
+    "gn:name":"Bogom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435017
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7a3a1fff4df31d9da776290e05a4bf54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1293074191,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1293074191,
+    "wof:lastmodified":1536885535,
+    "wof:name":"Bogom",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18411,
+    11.16897,
+    15.18411,
+    11.16897
+],
+  "geometry": {"coordinates":[15.18411,11.16897],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209588865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.07082,12.06828,16.07082,12.06828",
+    "geom:latitude":12.06828,
+    "geom:longitude":16.07082,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kartie",
+    "gn:country_code":"TD",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430686,
+    "gn:latitude":12.06828,
+    "gn:longitude":16.07082,
+    "gn:modification_date":"2008-08-08",
+    "gn:name":"Kartie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430686
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7c4d8dd28267a62bc89c34aa0fe24b33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209588865
+        }
+    ],
+    "wof:id":1209588865,
+    "wof:lastmodified":1536282544,
+    "wof:name":"Kartie",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.07082,
+    12.06828,
+    16.07082,
+    12.06828
+],
+  "geometry": {"coordinates":[16.07082,12.06828],"type":"Point"}
+}

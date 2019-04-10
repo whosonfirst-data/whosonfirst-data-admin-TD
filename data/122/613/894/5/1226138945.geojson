@@ -1,0 +1,67 @@
+{
+  "id": 1226138945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8646,7.8087,16.8646,7.8087",
+    "geom:latitude":7.8087,
+    "geom:longitude":16.8646,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Belama",
+    "gn:country_code":"TD",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857413,
+    "gn:latitude":7.8087,
+    "gn:longitude":16.8646,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"B\u00e9lama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857413
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c5f9b6a8d24e654f71e23a5a9e2b7b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899861,
+            "locality_id":1226138945,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1226138945,
+    "wof:lastmodified":1537084361,
+    "wof:name":"Belama",
+    "wof:parent_id":1091899861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8646,
+    7.8087,
+    16.8646,
+    7.8087
+],
+  "geometry": {"coordinates":[16.8646,7.8087],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293213305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43016,14.35421,21.43016,14.35421",
+    "geom:latitude":14.35421,
+    "geom:longitude":21.43016,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Baroua",
+    "gn:country_code":"TD",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244984,
+    "gn:latitude":14.35421,
+    "gn:longitude":21.43016,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Baroua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Baroua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244984
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7951aed4f109c0ab5c3b10d119d8d810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901409,
+            "locality_id":1293213305,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1293213305,
+    "wof:lastmodified":1537702679,
+    "wof:name":"Baroua",
+    "wof:parent_id":1091901409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43016,
+    14.35421,
+    21.43016,
+    14.35421
+],
+  "geometry": {"coordinates":[21.43016,14.35421],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243446833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13505,14.1707,15.13505,14.1707",
+    "geom:latitude":14.1707,
+    "geom:longitude":15.13505,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Karka",
+    "gn:country_code":"TD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430736,
+    "gn:latitude":14.1707,
+    "gn:longitude":15.13505,
+    "gn:modification_date":"2009-02-24",
+    "gn:name":"Karka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430736
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7e6470cd888c20d9f065c4d029b95089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1243446833,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1243446833,
+    "wof:lastmodified":1536804829,
+    "wof:name":"Karka",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13505,
+    14.1707,
+    15.13505,
+    14.1707
+],
+  "geometry": {"coordinates":[15.13505,14.1707],"type":"Point"}
+}

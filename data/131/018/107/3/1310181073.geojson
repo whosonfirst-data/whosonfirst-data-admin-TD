@@ -1,0 +1,71 @@
+{
+  "id": 1310181073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1625,11.9436,17.1625,11.9436",
+    "geom:latitude":11.9436,
+    "geom:longitude":17.1625,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Oudou Malemi",
+    "gn:country_code":"TD",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428579,
+    "gn:latitude":11.9436,
+    "gn:longitude":17.1625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oudou Mal\u00e9mi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mal\u00e9mi",
+        "Oudou Mal\u00e9mi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428579
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c5caf8e8f013db76c113b15e290d587d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1310181073,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1310181073,
+    "wof:lastmodified":1537702729,
+    "wof:name":"Oudou Malemi",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1625,
+    11.9436,
+    17.1625,
+    11.9436
+],
+  "geometry": {"coordinates":[17.1625,11.9436],"type":"Point"}
+}

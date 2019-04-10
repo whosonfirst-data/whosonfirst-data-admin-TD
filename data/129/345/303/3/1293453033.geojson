@@ -1,0 +1,67 @@
+{
+  "id": 1293453033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.783,12.88538,16.783,12.88538",
+    "geom:latitude":12.88538,
+    "geom:longitude":16.783,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kama",
+    "gn:country_code":"TD",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806529,
+    "gn:latitude":12.88538,
+    "gn:longitude":16.783,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806529
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8486dbe8136d89c866fae8ec11abe3b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1293453033,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1293453033,
+    "wof:lastmodified":1536835837,
+    "wof:name":"Kama",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.783,
+    12.88538,
+    16.783,
+    12.88538
+],
+  "geometry": {"coordinates":[16.783,12.88538],"type":"Point"}
+}

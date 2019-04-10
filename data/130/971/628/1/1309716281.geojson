@@ -1,0 +1,71 @@
+{
+  "id": 1309716281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35863,12.96811,18.35863,12.96811",
+    "geom:latitude":12.96811,
+    "geom:longitude":18.35863,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Souene",
+    "gn:country_code":"TD",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425489,
+    "gn:latitude":12.96811,
+    "gn:longitude":18.35863,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sou\u00e9ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Su\u00e8n\u00e9",
+        "Sou\u00e9ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425489
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c22c8c981d13e865526aedde35606962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1309716281,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1309716281,
+    "wof:lastmodified":1537702698,
+    "wof:name":"Souene",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35863,
+    12.96811,
+    18.35863,
+    12.96811
+],
+  "geometry": {"coordinates":[18.35863,12.96811],"type":"Point"}
+}

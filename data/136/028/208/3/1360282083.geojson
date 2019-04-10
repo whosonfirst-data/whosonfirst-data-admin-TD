@@ -1,0 +1,73 @@
+{
+  "id": 1360282083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12793,8.04608,16.12793,8.04608",
+    "geom:latitude":8.04608,
+    "geom:longitude":16.12793,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gadjibian",
+    "gn:country_code":"TD",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432444,
+    "gn:latitude":8.04608,
+    "gn:longitude":16.12793,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gadjibian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gadjibiam"
+    ],
+    "name:und_x_variant":[
+        "Gadjibiam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432444
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dfc3289247f96f5e0fdf2fc4720f0265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1360282083,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1360282083,
+    "wof:lastmodified":1537702768,
+    "wof:name":"Gadjibian",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12793,
+    8.04608,
+    16.12793,
+    8.04608
+],
+  "geometry": {"coordinates":[16.12793,8.04608],"type":"Point"}
+}

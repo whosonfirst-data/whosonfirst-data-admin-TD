@@ -1,0 +1,61 @@
+{
+  "id": 1209008393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.15919,12.98361,19.15919,12.98361",
+    "geom:latitude":12.98361,
+    "geom:longitude":19.15919,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Am Sidre",
+    "gn:country_code":"TD",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436785,
+    "gn:latitude":12.98361,
+    "gn:longitude":19.15919,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"Am Sidr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436785
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"40c8ca8b438fa277792a1ca0b3430758",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209008393
+        }
+    ],
+    "wof:id":1209008393,
+    "wof:lastmodified":1536300528,
+    "wof:name":"Am Sidre",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.15919,
+    12.98361,
+    19.15919,
+    12.98361
+],
+  "geometry": {"coordinates":[19.15919,12.98361],"type":"Point"}
+}

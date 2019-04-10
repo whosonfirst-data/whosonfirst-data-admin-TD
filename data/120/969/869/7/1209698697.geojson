@@ -1,0 +1,71 @@
+{
+  "id": 1209698697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.49026,10.87271,16.49026,10.87271",
+    "geom:latitude":10.87271,
+    "geom:longitude":16.49026,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Boudabogo Bornou",
+    "gn:country_code":"TD",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434805,
+    "gn:latitude":10.87271,
+    "gn:longitude":16.49026,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boudabogo Bornou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boudabogo",
+        "Boudabogo Bornou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434805
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a7bf038a073eb6aca21d56a5e9a48e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900595,
+            "locality_id":1209698697,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1209698697,
+    "wof:lastmodified":1537702790,
+    "wof:name":"Boudabogo Bornou",
+    "wof:parent_id":1091900595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.49026,
+    10.87271,
+    16.49026,
+    10.87271
+],
+  "geometry": {"coordinates":[16.49026,10.87271],"type":"Point"}
+}

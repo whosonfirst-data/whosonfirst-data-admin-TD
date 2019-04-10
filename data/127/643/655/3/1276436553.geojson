@@ -1,0 +1,71 @@
+{
+  "id": 1276436553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7515,8.1936,15.7515,8.1936",
+    "geom:latitude":8.1936,
+    "geom:longitude":15.7515,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kaguetao",
+    "gn:country_code":"TD",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431075,
+    "gn:latitude":8.1936,
+    "gn:longitude":15.7515,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kagu\u00e9tao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kag\u00e9tao",
+        "Kagu\u00e9tao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431075
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5422529d1254ff62dcac6946015375cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1276436553,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1276436553,
+    "wof:lastmodified":1537702752,
+    "wof:name":"Kaguetao",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7515,
+    8.1936,
+    15.7515,
+    8.1936
+],
+  "geometry": {"coordinates":[15.7515,8.1936],"type":"Point"}
+}

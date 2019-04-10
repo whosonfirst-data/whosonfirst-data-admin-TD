@@ -1,0 +1,73 @@
+{
+  "id": 1293195005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16667,13.73333,14.16667,13.73333",
+    "geom:latitude":13.73333,
+    "geom:longitude":14.16667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ngilimi",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426948,
+    "gn:latitude":13.73333,
+    "gn:longitude":14.16667,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Ngilimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019Guilima",
+        "N\u2019Guilimi",
+        "Ngilimi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426948
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a5fdbbbc13d194de2322329eedde8b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1293195005,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1293195005,
+    "wof:lastmodified":1537702710,
+    "wof:name":"Ngilimi",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16667,
+    13.73333,
+    14.16667,
+    13.73333
+],
+  "geometry": {"coordinates":[14.16667,13.73333],"type":"Point"}
+}

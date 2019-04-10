@@ -1,0 +1,71 @@
+{
+  "id": 1327397537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8648,10.3811,17.8648,10.3811",
+    "geom:latitude":10.3811,
+    "geom:longitude":17.8648,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kouendok",
+    "gn:country_code":"TD",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429789,
+    "gn:latitude":10.3811,
+    "gn:longitude":17.8648,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouendok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kondok",
+        "Kouendok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429789
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"10e0de4ef8b5c9cfad7b08ea887009a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1327397537,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1327397537,
+    "wof:lastmodified":1537702741,
+    "wof:name":"Kouendok",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8648,
+    10.3811,
+    17.8648,
+    10.3811
+],
+  "geometry": {"coordinates":[17.8648,10.3811],"type":"Point"}
+}

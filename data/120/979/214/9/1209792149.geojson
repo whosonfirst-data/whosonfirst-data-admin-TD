@@ -1,0 +1,67 @@
+{
+  "id": 1209792149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9383,10.4117,19.9383,10.4117",
+    "geom:latitude":10.4117,
+    "geom:longitude":19.9383,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Garindji",
+    "gn:country_code":"TD",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861517,
+    "gn:latitude":10.4117,
+    "gn:longitude":19.9383,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Garindji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861517
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0fb7e25279366b7961f1baa22e6ae134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1209792149,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1209792149,
+    "wof:lastmodified":1536394523,
+    "wof:name":"Garindji",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9383,
+    10.4117,
+    19.9383,
+    10.4117
+],
+  "geometry": {"coordinates":[19.9383,10.4117],"type":"Point"}
+}

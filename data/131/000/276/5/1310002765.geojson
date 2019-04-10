@@ -1,0 +1,67 @@
+{
+  "id": 1310002765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9729,8.7044,15.9729,8.7044",
+    "geom:latitude":8.7044,
+    "geom:longitude":15.9729,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bebo",
+    "gn:country_code":"TD",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6860025,
+    "gn:latitude":8.7044,
+    "gn:longitude":15.9729,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"B\u00e9bo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6860025
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d5aad2c52464881f53cd8a1e29203a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1310002765,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1310002765,
+    "wof:lastmodified":1536646871,
+    "wof:name":"Bebo",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9729,
+    8.7044,
+    15.9729,
+    8.7044
+],
+  "geometry": {"coordinates":[15.9729,8.7044],"type":"Point"}
+}

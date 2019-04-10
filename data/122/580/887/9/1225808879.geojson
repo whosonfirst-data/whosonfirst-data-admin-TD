@@ -1,0 +1,72 @@
+{
+  "id": 1225808879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0552,9.4575,18.0552,9.4575",
+    "geom:latitude":9.4575,
+    "geom:longitude":18.0552,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kara",
+    "gn:country_code":"TD",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430797,
+    "gn:latitude":9.4575,
+    "gn:longitude":18.0552,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karr",
+        "Kar",
+        "Kara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430797
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"eff54ba0f743dd787efb24c47546a341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1225808879,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1225808879,
+    "wof:lastmodified":1537702750,
+    "wof:name":"Kara",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0552,
+    9.4575,
+    18.0552,
+    9.4575
+],
+  "geometry": {"coordinates":[18.0552,9.4575],"type":"Point"}
+}

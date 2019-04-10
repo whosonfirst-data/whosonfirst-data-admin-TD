@@ -1,0 +1,72 @@
+{
+  "id": 1243072463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.83383,12.36711,18.83383,12.36711",
+    "geom:latitude":12.36711,
+    "geom:longitude":18.83383,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dalao",
+    "gn:country_code":"TD",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434281,
+    "gn:latitude":12.36711,
+    "gn:longitude":18.83383,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dalao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malakandji",
+        "Malekandji",
+        "Dalao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434281
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b8e0eaecaa3610dc80e216bbefa3164f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900821,
+            "locality_id":1243072463,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1243072463,
+    "wof:lastmodified":1537702786,
+    "wof:name":"Dalao",
+    "wof:parent_id":1091900821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.83383,
+    12.36711,
+    18.83383,
+    12.36711
+],
+  "geometry": {"coordinates":[18.83383,12.36711],"type":"Point"}
+}

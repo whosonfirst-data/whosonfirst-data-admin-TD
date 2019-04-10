@@ -1,0 +1,70 @@
+{
+  "id": 1327346759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.01985,14.3444,21.01985,14.3444",
+    "geom:latitude":14.3444,
+    "geom:longitude":21.01985,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Korouba",
+    "gn:country_code":"TD",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243165,
+    "gn:latitude":14.3444,
+    "gn:longitude":21.01985,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Korouba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Korouba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243165
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4d18d3795b491e39f9ad8d34b6916904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901409,
+            "locality_id":1327346759,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1327346759,
+    "wof:lastmodified":1537702662,
+    "wof:name":"Korouba",
+    "wof:parent_id":1091901409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01985,
+    14.3444,
+    21.01985,
+    14.3444
+],
+  "geometry": {"coordinates":[21.01985,14.3444],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225808393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.20325,12.06152,17.20325,12.06152",
+    "geom:latitude":12.06152,
+    "geom:longitude":17.20325,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Hourel",
+    "gn:country_code":"TD",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6842321,
+    "gn:latitude":12.06152,
+    "gn:longitude":17.20325,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Hourel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6842321
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"229531b506cb4fd7d16fbe6032340813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1225808393,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1225808393,
+    "wof:lastmodified":1537064852,
+    "wof:name":"Hourel",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.20325,
+    12.06152,
+    17.20325,
+    12.06152
+],
+  "geometry": {"coordinates":[17.20325,12.06152],"type":"Point"}
+}

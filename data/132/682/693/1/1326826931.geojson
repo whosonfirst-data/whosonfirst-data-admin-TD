@@ -1,0 +1,67 @@
+{
+  "id": 1326826931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0263,8.568,16.0263,8.568",
+    "geom:latitude":8.568,
+    "geom:longitude":16.0263,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Guelkou",
+    "gn:country_code":"TD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6909236,
+    "gn:latitude":8.568,
+    "gn:longitude":16.0263,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Guelkou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909236
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ac29b37283f03205961bcf400066d92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1326826931,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1326826931,
+    "wof:lastmodified":1537054126,
+    "wof:name":"Guelkou",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0263,
+    8.568,
+    16.0263,
+    8.568
+],
+  "geometry": {"coordinates":[16.0263,8.568],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259446209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10542,12.66387,17.10542,12.66387",
+    "geom:latitude":12.66387,
+    "geom:longitude":17.10542,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Iredja Seghir",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6842371,
+    "gn:latitude":12.66387,
+    "gn:longitude":17.10542,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Ir\u00e9dja S\u00e9ghir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6842371
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"98e0dae730c57bfd2acf1a12b246a317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1259446209,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1259446209,
+    "wof:lastmodified":1536912922,
+    "wof:name":"Iredja Seghir",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10542,
+    12.66387,
+    17.10542,
+    12.66387
+],
+  "geometry": {"coordinates":[17.10542,12.66387],"type":"Point"}
+}

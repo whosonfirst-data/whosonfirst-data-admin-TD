@@ -1,0 +1,67 @@
+{
+  "id": 1259349019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94681,12.78289,14.94681,12.78289",
+    "geom:latitude":12.78289,
+    "geom:longitude":14.94681,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Soudour-al-Khel",
+    "gn:country_code":"TD",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425492,
+    "gn:latitude":12.78289,
+    "gn:longitude":14.94681,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Soudour-al-Khel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425492
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"91ea3c833a221924237763d25d41d036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1259349019,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1259349019,
+    "wof:lastmodified":1537049898,
+    "wof:name":"Soudour-al-Khel",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94681,
+    12.78289,
+    14.94681,
+    12.78289
+],
+  "geometry": {"coordinates":[14.94681,12.78289],"type":"Point"}
+}

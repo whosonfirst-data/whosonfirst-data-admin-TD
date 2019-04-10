@@ -1,0 +1,71 @@
+{
+  "id": 1226625681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8762,10.2427,19.8762,10.2427",
+    "geom:latitude":10.2427,
+    "geom:longitude":19.8762,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Charati Gato",
+    "gn:country_code":"TD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434480,
+    "gn:latitude":10.2427,
+    "gn:longitude":19.8762,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Charati Gato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cherati Salah",
+        "Charati Gato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434480
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9651111c73c5b3a8cbbddb148f82bdc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1226625681,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1226625681,
+    "wof:lastmodified":1537702788,
+    "wof:name":"Charati Gato",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8762,
+    10.2427,
+    19.8762,
+    10.2427
+],
+  "geometry": {"coordinates":[19.8762,10.2427],"type":"Point"}
+}

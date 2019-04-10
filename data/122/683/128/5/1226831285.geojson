@@ -1,0 +1,67 @@
+{
+  "id": 1226831285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25729,11.13497,15.25729,11.13497",
+    "geom:latitude":11.13497,
+    "geom:longitude":15.25729,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mousga",
+    "gn:country_code":"TD",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6773871,
+    "gn:latitude":11.13497,
+    "gn:longitude":15.25729,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Mousga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6773871
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bb0e7bc3377dda7d08a861d11dcd569a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1226831285,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1226831285,
+    "wof:lastmodified":1537085980,
+    "wof:name":"Mousga",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25729,
+    11.13497,
+    15.25729,
+    11.13497
+],
+  "geometry": {"coordinates":[15.25729,11.13497],"type":"Point"}
+}

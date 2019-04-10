@@ -1,0 +1,67 @@
+{
+  "id": 1259670779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99346,13.3004,21.99346,13.3004",
+    "geom:latitude":13.3004,
+    "geom:longitude":21.99346,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Korobat",
+    "gn:country_code":"TD",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11572368,
+    "gn:latitude":13.3004,
+    "gn:longitude":21.99346,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Korobat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11572368
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"96111856933a5ee19d589c35ff6c37e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1259670779,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1259670779,
+    "wof:lastmodified":1537082183,
+    "wof:name":"Korobat",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99346,
+    13.3004,
+    21.99346,
+    13.3004
+],
+  "geometry": {"coordinates":[21.99346,13.3004],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343934173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1332,11.5946,20.1332,11.5946",
+    "geom:latitude":11.5946,
+    "geom:longitude":20.1332,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nabakay",
+    "gn:country_code":"TD",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242461,
+    "gn:latitude":11.5946,
+    "gn:longitude":20.1332,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Nabakay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242461
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5387b08f91d4bfe6221ccc7d401128f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1343934173,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1343934173,
+    "wof:lastmodified":1537055592,
+    "wof:name":"Nabakay",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.1332,
+    11.5946,
+    20.1332,
+    11.5946
+],
+  "geometry": {"coordinates":[20.1332,11.5946],"type":"Point"}
+}

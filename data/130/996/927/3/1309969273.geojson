@@ -1,0 +1,71 @@
+{
+  "id": 1309969273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9252,12.35487,15.9252,12.35487",
+    "geom:latitude":12.35487,
+    "geom:longitude":15.9252,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Dedehech",
+    "gn:country_code":"TD",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434085,
+    "gn:latitude":12.35487,
+    "gn:longitude":15.9252,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u00e9d\u00e9hech",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dehech",
+        "D\u00e9d\u00e9hech"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434085
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0cb91c79bee3ac044f529008a5cd9b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1309969273,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1309969273,
+    "wof:lastmodified":1537702784,
+    "wof:name":"Dedehech",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9252,
+    12.35487,
+    15.9252,
+    12.35487
+],
+  "geometry": {"coordinates":[15.9252,12.35487],"type":"Point"}
+}

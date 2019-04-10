@@ -1,0 +1,72 @@
+{
+  "id": 1326713161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.26667,10.28333,17.26667,10.28333",
+    "geom:latitude":10.28333,
+    "geom:longitude":17.26667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Goudak",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431837,
+    "gn:latitude":10.28333,
+    "gn:longitude":17.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Goudak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guoddak",
+        "Goudak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431837
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a17af1f7618e8c5fdb6b9a842af45a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900595,
+            "locality_id":1326713161,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1326713161,
+    "wof:lastmodified":1537702760,
+    "wof:name":"Goudak",
+    "wof:parent_id":1091900595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.26667,
+    10.28333,
+    17.26667,
+    10.28333
+],
+  "geometry": {"coordinates":[17.26667,10.28333],"type":"Point"}
+}

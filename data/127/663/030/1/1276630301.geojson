@@ -1,0 +1,67 @@
+{
+  "id": 1276630301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7013,8.4004,17.7013,8.4004",
+    "geom:latitude":8.4004,
+    "geom:longitude":17.7013,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Djaroua II",
+    "gn:country_code":"TD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433688,
+    "gn:latitude":8.4004,
+    "gn:longitude":17.7013,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Djaroua II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433688
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"27f32e38b407566370a9d8e0c7b05492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1276630301,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1276630301,
+    "wof:lastmodified":1536877349,
+    "wof:name":"Djaroua II",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7013,
+    8.4004,
+    17.7013,
+    8.4004
+],
+  "geometry": {"coordinates":[17.7013,8.4004],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209294665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.63083,14.08807,20.63083,14.08807",
+    "geom:latitude":14.08807,
+    "geom:longitude":20.63083,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bourtay Zaoue",
+    "gn:country_code":"TD",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244736,
+    "gn:latitude":14.08807,
+    "gn:longitude":20.63083,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Bourtay Zaou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244736
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b81c4f868c0977987069ccb547416534",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209294665
+        }
+    ],
+    "wof:id":1209294665,
+    "wof:lastmodified":1536291572,
+    "wof:name":"Bourtay Zaoue",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.63083,
+    14.088070000000002,
+    20.63083,
+    14.088070000000002
+],
+  "geometry": {"coordinates":[20.63083,14.08807],"type":"Point"}
+}

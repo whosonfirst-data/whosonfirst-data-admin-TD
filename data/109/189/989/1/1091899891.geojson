@@ -1,0 +1,86 @@
+{
+  "id": 1091899891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.133374,
+    "geom:area_square_m":1631538105.21795,
+    "geom:bbox":"16.8129663397,8.13437136831,17.2915663397,8.62587136831",
+    "geom:latitude":8.387699,
+    "geom:longitude":17.051056,
+    "iso:country":"TD",
+    "lbl:latitude":8.403705,
+    "lbl:longitude":17.04743,
+    "meso:admin_1":"Logone Oriental",
+    "meso:gadm_admin":"Pend\u00e9",
+    "meso:gadm_hasc2":"TD.LR.PE",
+    "meso:mps_x":17.04743,
+    "meso:mps_y":8.403705,
+    "meso:name_local":"Kouh Est",
+    "mps:latitude":8.403705,
+    "mps:longitude":17.04743,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kouh Est"
+    ],
+    "name:eng_x_variant":[
+        "Pend\u00e9"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2009-06-20",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2009-06-20",
+    "statoids:capital":"Bodo",
+    "statoids:country":"TD",
+    "statoids:hasc":"TD.LR",
+    "statoids:name":"Kouh Est",
+    "statoids:population":"100401",
+    "statoids:statoid":"TD.LR.KE",
+    "statoids:timezone":"1",
+    "statoids:type":"department",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"TD.LR.KE"
+    },
+    "wof:country":"TD",
+    "wof:created":1473892104,
+    "wof:geomhash":"4311dd7290e44f4c46d3aeb8e91a108f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899891,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1091899891,
+    "wof:lastmodified":1536614991,
+    "wof:name":"Kouh Est",
+    "wof:parent_id":85678469,
+    "wof:placetype":"county",
+    "wof:placetype_local":"department",
+    "wof:population":100401,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:shortcode":"KE",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.81296633973261,
+    8.13437136831217,
+    17.29156633973263,
+    8.62587136831213
+],
+  "geometry": {"coordinates":[[[16.84926633973262,8.57507136831213],[16.92966633973258,8.58727136831215],[16.9965663397326,8.60777136831217],[17.04896633973264,8.62587136831213],[17.09596633973264,8.56857136831211],[17.11846633973259,8.54007136831212],[17.14306633973266,8.51477136831214],[17.16686633973261,8.47997136831216],[17.29156633973263,8.28517136831211],[17.24726633973265,8.21507136831217],[17.20516633973263,8.15707136831215],[17.15366633973262,8.1535713683121],[17.11386633973257,8.13437136831217],[17.06296633973265,8.19247136831212],[17.02286633973264,8.22177136831213],[16.9952663397326,8.25617136831214],[16.96256633973265,8.28807136831216],[16.93256633973263,8.31007136831213],[16.87486633973265,8.35397136831213],[16.83726633973263,8.38337136831216],[16.81296633973261,8.41397136831217],[16.82086633973265,8.4356713683121],[16.83116633973258,8.45427136831212],[16.83666633973264,8.4655713683121],[16.84436633973264,8.47407136831213],[16.84286633973262,8.47997136831216],[16.84416633973262,8.48957136831217],[16.83786633973263,8.49727136831218],[16.83316633973259,8.50777136831214],[16.83066633973259,8.51847136831212],[16.8294663397326,8.53057136831213],[16.82926633973258,8.5424713683121],[16.83166633973265,8.55017136831211],[16.83926633973265,8.56177136831214],[16.84926633973262,8.57507136831213]]],"type":"Polygon"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209313673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1318,12.1711,19.1318,12.1711",
+    "geom:latitude":12.1711,
+    "geom:longitude":19.1318,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Amgatoura",
+    "gn:country_code":"TD",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436938,
+    "gn:latitude":12.1711,
+    "gn:longitude":19.1318,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"Amgatoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436938
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a1457ed371797c0c2e812deac5740a73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209313673
+        }
+    ],
+    "wof:id":1209313673,
+    "wof:lastmodified":1536290939,
+    "wof:name":"Amgatoura",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1318,
+    12.1711,
+    19.1318,
+    12.1711
+],
+  "geometry": {"coordinates":[19.1318,12.1711],"type":"Point"}
+}

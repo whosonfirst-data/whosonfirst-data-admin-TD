@@ -1,0 +1,71 @@
+{
+  "id": 1344239719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2036,10.8983,16.2036,10.8983",
+    "geom:latitude":10.8983,
+    "geom:longitude":16.2036,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tsakameder",
+    "gn:country_code":"TD",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424443,
+    "gn:latitude":10.8983,
+    "gn:longitude":16.2036,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tsakam\u00e9der",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsakam\u00e9d\u00e9ri",
+        "Tsakam\u00e9der"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424443
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"02a4d09ed9a0fcc9b84ddc13d2d9e7b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900595,
+            "locality_id":1344239719,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1344239719,
+    "wof:lastmodified":1537702691,
+    "wof:name":"Tsakameder",
+    "wof:parent_id":1091900595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2036,
+    10.8983,
+    16.2036,
+    10.8983
+],
+  "geometry": {"coordinates":[16.2036,10.8983],"type":"Point"}
+}

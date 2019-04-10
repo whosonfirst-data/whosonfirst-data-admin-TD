@@ -1,0 +1,71 @@
+{
+  "id": 1276962483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2904,9.4732,16.2904,9.4732",
+    "geom:latitude":9.4732,
+    "geom:longitude":16.2904,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tchindaye",
+    "gn:country_code":"TD",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425103,
+    "gn:latitude":9.4732,
+    "gn:longitude":16.2904,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tchindaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchinda\u00ef",
+        "Tchindaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425103
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d74cb4c971c5091427810d0bdb428e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1276962483,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1276962483,
+    "wof:lastmodified":1537702695,
+    "wof:name":"Tchindaye",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2904,
+    9.4732,
+    16.2904,
+    9.4732
+],
+  "geometry": {"coordinates":[16.2904,9.4732],"type":"Point"}
+}

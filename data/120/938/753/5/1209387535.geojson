@@ -1,0 +1,65 @@
+{
+  "id": 1209387535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3585,9.8991,15.3585,9.8991",
+    "geom:latitude":9.8991,
+    "geom:longitude":15.3585,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hollom II",
+    "gn:country_code":"TD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431390,
+    "gn:latitude":9.8991,
+    "gn:longitude":15.3585,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hollom II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hollom",
+        "Hollom II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431390
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"20fa0605c05312eaebb398865c24ddbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209387535
+        }
+    ],
+    "wof:id":1209387535,
+    "wof:lastmodified":1537702755,
+    "wof:name":"Hollom II",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3585,
+    9.8991,
+    15.3585,
+    9.8991
+],
+  "geometry": {"coordinates":[15.3585,9.8991],"type":"Point"}
+}

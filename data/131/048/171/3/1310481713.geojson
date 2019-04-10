@@ -1,0 +1,67 @@
+{
+  "id": 1310481713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28723,13.61002,21.28723,13.61002",
+    "geom:latitude":13.61002,
+    "geom:longitude":21.28723,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Lelkinbe",
+    "gn:country_code":"TD",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242935,
+    "gn:latitude":13.61002,
+    "gn:longitude":21.28723,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"L\u00e8lkinb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242935
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"37674337e8e4e6052b9a8b053a19b91e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1310481713,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1310481713,
+    "wof:lastmodified":1536951453,
+    "wof:name":"Lelkinbe",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28723,
+    13.61002,
+    21.28723,
+    13.61002
+],
+  "geometry": {"coordinates":[21.28723,13.61002],"type":"Point"}
+}

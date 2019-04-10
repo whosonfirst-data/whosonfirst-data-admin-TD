@@ -1,0 +1,71 @@
+{
+  "id": 1310194835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74316,8.07869,15.74316,8.07869",
+    "geom:latitude":8.07869,
+    "geom:longitude":15.74316,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bembindi",
+    "gn:country_code":"TD",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435598,
+    "gn:latitude":8.07869,
+    "gn:longitude":15.74316,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e8mbindi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bemba\u00efndi",
+        "B\u00e8mbindi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435598
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8955025ef9130c1b30f499a8d12960d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1310194835,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1310194835,
+    "wof:lastmodified":1537702801,
+    "wof:name":"Bembindi",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74316,
+    8.07869,
+    15.74316,
+    8.07869
+],
+  "geometry": {"coordinates":[15.74316,8.07869],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259396633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.3915,13.2932,19.3915,13.2932",
+    "geom:latitude":13.2932,
+    "geom:longitude":19.3915,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mourdass I",
+    "gn:country_code":"TD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427419,
+    "gn:latitude":13.2932,
+    "gn:longitude":19.3915,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Mourdass I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mourdasse I",
+        "Mourdass I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427419
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"65664464661df7ceb01f0e255439add1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1259396633,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1259396633,
+    "wof:lastmodified":1537702717,
+    "wof:name":"Mourdass I",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.3915,
+    13.2932,
+    19.3915,
+    13.2932
+],
+  "geometry": {"coordinates":[19.3915,13.2932],"type":"Point"}
+}

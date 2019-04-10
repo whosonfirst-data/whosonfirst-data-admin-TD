@@ -1,0 +1,67 @@
+{
+  "id": 1243085131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19872,12.69179,17.19872,12.69179",
+    "geom:latitude":12.69179,
+    "geom:longitude":17.19872,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sultan Taib",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6842279,
+    "gn:latitude":12.69179,
+    "gn:longitude":17.19872,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Sultan Ta\u00efb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6842279
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5786fdf2cd966e2e123df614ddc63be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1243085131,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1243085131,
+    "wof:lastmodified":1536828388,
+    "wof:name":"Sultan Taib",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19872,
+    12.69179,
+    17.19872,
+    12.69179
+],
+  "geometry": {"coordinates":[17.19872,12.69179],"type":"Point"}
+}

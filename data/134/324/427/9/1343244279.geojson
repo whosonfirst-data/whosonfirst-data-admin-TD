@@ -1,0 +1,71 @@
+{
+  "id": 1343244279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0179,9.7579,15.0179,9.7579",
+    "geom:latitude":9.7579,
+    "geom:longitude":15.0179,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Biseo I",
+    "gn:country_code":"TD",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435144,
+    "gn:latitude":9.7579,
+    "gn:longitude":15.0179,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bis\u00e9o I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biss\u00e9o I",
+        "Bis\u00e9o I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435144
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"55e6b9f52647fad27fdf958908e95f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900357,
+            "locality_id":1343244279,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1343244279,
+    "wof:lastmodified":1537702794,
+    "wof:name":"Biseo I",
+    "wof:parent_id":1091900357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0179,
+    9.7579,
+    15.0179,
+    9.7579
+],
+  "geometry": {"coordinates":[15.0179,9.7579],"type":"Point"}
+}

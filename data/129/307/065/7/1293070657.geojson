@@ -1,0 +1,67 @@
+{
+  "id": 1293070657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46667,10.8,15.46667,10.8",
+    "geom:latitude":10.8,
+    "geom:longitude":15.46667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bourlo",
+    "gn:country_code":"TD",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434633,
+    "gn:latitude":10.8,
+    "gn:longitude":15.46667,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Bourlo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434633
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9b0fd2de0e3e6e7e2af4a756a4aba33c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1293070657,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1293070657,
+    "wof:lastmodified":1536890795,
+    "wof:name":"Bourlo",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46667,
+    10.8,
+    15.46667,
+    10.8
+],
+  "geometry": {"coordinates":[15.46667,10.8],"type":"Point"}
+}

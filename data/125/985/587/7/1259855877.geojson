@@ -1,0 +1,72 @@
+{
+  "id": 1259855877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.26667,10.68333,21.26667,10.68333",
+    "geom:latitude":10.68333,
+    "geom:longitude":21.26667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mineri",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242613,
+    "gn:latitude":10.68333,
+    "gn:longitude":21.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Min\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minneri",
+        "Min\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242613
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"22fdd34649d50350838ed207482db767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900659,
+            "locality_id":1259855877,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1259855877,
+    "wof:lastmodified":1537702656,
+    "wof:name":"Mineri",
+    "wof:parent_id":1091900659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.26667,
+    10.68333,
+    21.26667,
+    10.68333
+],
+  "geometry": {"coordinates":[21.26667,10.68333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276308571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2019,11.6926,17.2019,11.6926",
+    "geom:latitude":11.6926,
+    "geom:longitude":17.2019,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Djouroudji",
+    "gn:country_code":"TD",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859227,
+    "gn:latitude":11.6926,
+    "gn:longitude":17.2019,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Djouroudji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859227
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ff119b8bac35118c0030238a0b648739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1276308571,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1276308571,
+    "wof:lastmodified":1536811385,
+    "wof:name":"Djouroudji",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2019,
+    11.6926,
+    17.2019,
+    11.6926
+],
+  "geometry": {"coordinates":[17.2019,11.6926],"type":"Point"}
+}

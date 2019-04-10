@@ -1,0 +1,67 @@
+{
+  "id": 1243285063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15199,13.80153,14.15199,13.80153",
+    "geom:latitude":13.80153,
+    "geom:longitude":14.15199,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baga Kiskra",
+    "gn:country_code":"TD",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436265,
+    "gn:latitude":13.80153,
+    "gn:longitude":14.15199,
+    "gn:modification_date":"2008-03-25",
+    "gn:name":"Baga Kiskra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436265
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"351162ef713347c459fa417e99ddd4fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1243285063,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1243285063,
+    "wof:lastmodified":1537036670,
+    "wof:name":"Baga Kiskra",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15199,
+    13.80153,
+    14.15199,
+    13.80153
+],
+  "geometry": {"coordinates":[14.15199,13.80153],"type":"Point"}
+}

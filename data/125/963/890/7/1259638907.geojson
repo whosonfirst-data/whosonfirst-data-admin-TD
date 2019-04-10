@@ -1,0 +1,67 @@
+{
+  "id": 1259638907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.68679,11.43408,22.68679,11.43408",
+    "geom:latitude":11.43408,
+    "geom:longitude":22.68679,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Kedet",
+    "gn:country_code":"TD",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243396,
+    "gn:latitude":11.43408,
+    "gn:longitude":22.68679,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"K\u00e9det",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243396
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f8425044152b261ff2d1c36df3d16410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1259638907,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1259638907,
+    "wof:lastmodified":1536633584,
+    "wof:name":"Kedet",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.68679,
+    11.43408,
+    22.68679,
+    11.43408
+],
+  "geometry": {"coordinates":[22.68679,11.43408],"type":"Point"}
+}

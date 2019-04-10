@@ -1,0 +1,67 @@
+{
+  "id": 1326688503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96838,13.74647,15.96838,13.74647",
+    "geom:latitude":13.74647,
+    "geom:longitude":15.96838,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Balbout",
+    "gn:country_code":"TD",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436125,
+    "gn:latitude":13.74647,
+    "gn:longitude":15.96838,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Balbout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436125
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1578a21d89a89825c0f92c87090ac87d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901247,
+            "locality_id":1326688503,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1326688503,
+    "wof:lastmodified":1536759084,
+    "wof:name":"Balbout",
+    "wof:parent_id":1091901247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96838,
+    13.74647,
+    15.96838,
+    13.74647
+],
+  "geometry": {"coordinates":[15.96838,13.74647],"type":"Point"}
+}

@@ -1,0 +1,190 @@
+{
+  "id": 85678491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.029071,
+    "geom:area_square_m":351467755.595174,
+    "geom:bbox":"14.8900756836,11.9830932617,15.1600952148,12.2249543143",
+    "geom:latitude":12.114988,
+    "geom:longitude":15.037736,
+    "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "N'Djamena Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "lbl:latitude":12.158888,
+    "lbl:longitude":15.015234,
+    "meso:name_local":"Ville de N'Djamena",
+    "mps:latitude":12.125482,
+    "mps:longitude":15.070293,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.6,
+    "name:ara_x_preferred":[
+        "\u0627\u0646\u062c\u0645\u064a\u0646\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "N'Djamena"
+    ],
+    "name:eng_x_variant":[
+        "N\u2019Djam\u00e9na",
+        "N\u2019Djam\u00e9na Region",
+        "Ville de N'Djamena"
+    ],
+    "name:fra_x_preferred":[
+        "Ville de N'Djamena"
+    ],
+    "name:fra_x_variant":[
+        "R\u00e9gion de la Ville de N\u2019Djam\u00e9na",
+        "Ville de N\u2019Djam\u00e9na"
+    ],
+    "name:unk_x_variant":[
+        "Min\u0163aqah Mad\u012bnat Injam\u012bn\u0101"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TCD",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TCD-4857",
+    "ne:adm1_code":"TCD-4857",
+    "ne:admin":"Chad",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"TD.NJ",
+    "ne:code_local":"",
+    "ne:datarank":"7",
+    "ne:diss_me":"4857",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"CD21",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Chad",
+    "ne:gn_a1_code":"TD.21",
+    "ne:gn_id":"7603254",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Ville de N'Djamena",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"CD21",
+    "ne:gns_id":"10624971",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ville de N'Djamena",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TCD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TD-ND",
+    "ne:iso_a2":"TD",
+    "ne:labelrank":"4",
+    "ne:latitude":"12.14130000000",
+    "ne:longitude":"15.05790000000",
+    "ne:mapcolor13":6,
+    "ne:mapcolor9":8,
+    "ne:name":"Ville de N'Djamena",
+    "ne:name_alt":"",
+    "ne:name_len":18,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"NJ",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"1",
+    "ne:scalerank":"4",
+    "ne:sov_a3":"TCD",
+    "ne:sub_code":"",
+    "ne:type":"Pr\u00e9fecture",
+    "ne:type_en":"Capital",
+    "ne:wikipedia":"",
+    "ne:woe_id":56013485,
+    "ne:woe_label":"Ville de N'Djamena, TD, Chad",
+    "ne:woe_name":"Ville de N'Djamena",
+    "qs:a0":"Chad",
+    "qs:a0_lc":"TD",
+    "qs:a1":"Ville de N'Djamena",
+    "qs:a1_lc":"TCD-4857",
+    "qs:adm0":"Chad",
+    "qs:adm0_a3":"TCD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Capital",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2009-06-20",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2009-06-20",
+    "statoids:capital":"N'Djamena",
+    "statoids:country":"TD",
+    "statoids:gec":"CD21",
+    "statoids:hasc":"TD.NJ",
+    "statoids:iso":"ND",
+    "statoids:name":"Ville de N'Djamena",
+    "statoids:population":"993492",
+    "statoids:timezone":"+1",
+    "statoids:type":"region",
+    "wof:belongsto":[
+        102191573,
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"CD21",
+        "gn:id":7603254,
+        "gp:id":56013485,
+        "hasc:id":"TD.NJ",
+        "iso:id":"TD-ND",
+        "qs:id":1199732
+    },
+    "wof:coterminous":[
+        890440301
+    ],
+    "wof:country":"TD",
+    "wof:geomhash":"6165c2d1d7814acfb37a5ce1599d257c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "region_id":85678491
+        }
+    ],
+    "wof:id":85678491,
+    "wof:lang_x_official":[
+        "fra",
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ara"
+    ],
+    "wof:lastmodified":1553550523,
+    "wof:name":"N'Djamena",
+    "wof:parent_id":85632325,
+    "wof:placetype":"region",
+    "wof:placetype_local":"region",
+    "wof:population":993492,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:shortcode":"NJ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89007568359374,
+    11.98309326171872,
+    15.16009521484378,
+    12.22495431431517
+],
+  "geometry": {"coordinates":[[[14.912109375,12.18511962890625],[14.91966633973264,12.19147136831216],[14.93216633973262,12.19557136831211],[14.95096633973258,12.20117136831218],[14.97316633973257,12.20467136831214],[14.99886633973261,12.21017136831211],[15.03146633973264,12.21847136831212],[15.04892042512546,12.22495431431517],[15.05609130859373,12.19207763671875],[15.09008789062502,12.15209960937498],[15.13110351562503,12.09808349609379],[15.16009521484378,12.06909179687504],[15.1470947265625,12.04388427734376],[15.13787841796878,12.01110839843754],[15.1370849609375,11.98309326171872],[15.09210205078128,11.99688720703127],[15.08288574218747,11.99908447265628],[15.07769775390628,12.00091552734371],[15.07110595703126,12.00231933593752],[15.05889892578126,12.00469970703127],[15.05407714843746,12.00610351562499],[15.05108642578127,12.00610351562499],[15.05151367187498,12.01251220703126],[15.05267333984374,12.02789306640629],[15.05187988281246,12.03912353515626],[15.03887939453127,12.0540771484375],[15.04168701171872,12.06707763671877],[15.0451049804688,12.08410644531249],[15.03869628906253,12.09149169921877],[15.03588867187499,12.09411621093748],[15.00708007812499,12.10711669921876],[14.98950195312504,12.09667968749997],[14.98248291015624,12.09332275390629],[14.97607421874997,12.09051513671875],[14.96728515625005,12.09167480468752],[14.96307373046879,12.09210205078122],[14.95709228515622,12.09747314453125],[14.95251464843747,12.10168457031251],[14.94628906250004,12.10791015625004],[14.93890380859374,12.11352539062503],[14.91827392578121,12.13250732421878],[14.89611816406253,12.15228271484373],[14.89007568359374,12.15808105468746],[14.89172363281252,12.16052246093751],[14.90509033203129,12.17608642578128],[14.90692138671871,12.17852783203124],[14.90991210937499,12.18188476562501],[14.912109375,12.18511962890625]]],"type":"Polygon"}
+}

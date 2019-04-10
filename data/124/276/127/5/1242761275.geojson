@@ -1,0 +1,67 @@
+{
+  "id": 1242761275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92689,9.10852,15.92689,9.10852",
+    "geom:latitude":9.10852,
+    "geom:longitude":15.92689,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bebe Bilbil",
+    "gn:country_code":"TD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435855,
+    "gn:latitude":9.10852,
+    "gn:longitude":15.92689,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"B\u00e9b\u00e9 Bilbil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435855
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ea9da7f6cb40c6a55a8bd5031ee52526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1242761275,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1242761275,
+    "wof:lastmodified":1536799220,
+    "wof:name":"Bebe Bilbil",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92689,
+    9.10852,
+    15.92689,
+    9.10852
+],
+  "geometry": {"coordinates":[15.92689,9.10852],"type":"Point"}
+}

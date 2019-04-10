@@ -1,0 +1,67 @@
+{
+  "id": 1293748037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93333,12.21667,14.93333,12.21667",
+    "geom:latitude":12.21667,
+    "geom:longitude":14.93333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Fatata",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432689,
+    "gn:latitude":12.21667,
+    "gn:longitude":14.93333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Fatata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432689
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7bd54e72cbe0993d3190c33bcb08163b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1293748037,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1293748037,
+    "wof:lastmodified":1536909009,
+    "wof:name":"Fatata",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93333,
+    12.21667,
+    14.93333,
+    12.21667
+],
+  "geometry": {"coordinates":[14.93333,12.21667],"type":"Point"}
+}

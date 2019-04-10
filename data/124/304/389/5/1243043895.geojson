@@ -1,0 +1,67 @@
+{
+  "id": 1243043895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.62059,12.60581,16.62059,12.60581",
+    "geom:latitude":12.60581,
+    "geom:longitude":16.62059,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Soiti",
+    "gn:country_code":"TD",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806535,
+    "gn:latitude":12.60581,
+    "gn:longitude":16.62059,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"So\u00efti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806535
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a8adfd673c747ac17d6771511e2c9fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1243043895,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1243043895,
+    "wof:lastmodified":1536888464,
+    "wof:name":"Soiti",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.62059,
+    12.60581,
+    16.62059,
+    12.60581
+],
+  "geometry": {"coordinates":[16.62059,12.60581],"type":"Point"}
+}

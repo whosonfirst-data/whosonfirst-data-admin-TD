@@ -1,0 +1,67 @@
+{
+  "id": 1293465685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46885,12.45486,16.46885,12.45486",
+    "geom:latitude":12.45486,
+    "geom:longitude":16.46885,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ab Rania",
+    "gn:country_code":"TD",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437529,
+    "gn:latitude":12.45486,
+    "gn:longitude":16.46885,
+    "gn:modification_date":"2008-08-08",
+    "gn:name":"Ab Rania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437529
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cc89d2d911ea5f13008ac740acd59a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1293465685,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1293465685,
+    "wof:lastmodified":1536817763,
+    "wof:name":"Ab Rania",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46885,
+    12.45486,
+    16.46885,
+    12.45486
+],
+  "geometry": {"coordinates":[16.46885,12.45486],"type":"Point"}
+}

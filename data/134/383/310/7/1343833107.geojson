@@ -1,0 +1,67 @@
+{
+  "id": 1343833107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3623,8.672,17.3623,8.672",
+    "geom:latitude":8.672,
+    "geom:longitude":17.3623,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Maindou",
+    "gn:country_code":"TD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859506,
+    "gn:latitude":8.672,
+    "gn:longitude":17.3623,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ma\u00efndou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091899975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859506
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"482788a172cfd03ee9a3685725c20dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899975,
+            "locality_id":1343833107,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1343833107,
+    "wof:lastmodified":1536706406,
+    "wof:name":"Maindou",
+    "wof:parent_id":1091899975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3623,
+    8.672,
+    17.3623,
+    8.672
+],
+  "geometry": {"coordinates":[17.3623,8.672],"type":"Point"}
+}

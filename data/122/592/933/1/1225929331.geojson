@@ -1,0 +1,73 @@
+{
+  "id": 1225929331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.77571,8.79491,15.77571,8.79491",
+    "geom:latitude":8.79491,
+    "geom:longitude":15.77571,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mekon",
+    "gn:country_code":"TD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427979,
+    "gn:latitude":8.79491,
+    "gn:longitude":15.77571,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u00e9kon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9coun",
+        "Mekun",
+        "Mekoun",
+        "M\u00e9kon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427979
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"403e756d78dee9b18b2ed72fadee4506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900057,
+            "locality_id":1225929331,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1225929331,
+    "wof:lastmodified":1537702723,
+    "wof:name":"Mekon",
+    "wof:parent_id":1091900057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77571,
+    8.79491,
+    15.77571,
+    8.79491
+],
+  "geometry": {"coordinates":[15.77571,8.79491],"type":"Point"}
+}

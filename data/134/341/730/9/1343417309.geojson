@@ -1,0 +1,67 @@
+{
+  "id": 1343417309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.16667,21.63333,19.16667,21.63333",
+    "geom:latitude":21.63333,
+    "geom:longitude":19.16667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Oun",
+    "gn:country_code":"TD",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426364,
+    "gn:latitude":21.63333,
+    "gn:longitude":19.16667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Oun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678501,
+        1091901649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426364
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e6d91dab9fba1d7bc8ac757eb28c2ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901649,
+            "locality_id":1343417309,
+            "region_id":85678501
+        }
+    ],
+    "wof:id":1343417309,
+    "wof:lastmodified":1536808340,
+    "wof:name":"Oun",
+    "wof:parent_id":1091901649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16667,
+    21.63333,
+    19.16667,
+    21.63333
+],
+  "geometry": {"coordinates":[19.16667,21.63333],"type":"Point"}
+}

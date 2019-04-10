@@ -1,0 +1,64 @@
+{
+  "id": 1209623845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14692,14.81786,21.14692,14.81786",
+    "geom:latitude":14.81786,
+    "geom:longitude":21.14692,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Laklakou",
+    "gn:country_code":"TD",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11526744,
+    "gn:latitude":14.81786,
+    "gn:longitude":21.14692,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Laklakou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Laklakou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11526744
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2723476326379898b29969aa9d51f801",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209623845
+        }
+    ],
+    "wof:id":1209623845,
+    "wof:lastmodified":1537702826,
+    "wof:name":"Laklakou",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14692,
+    14.81786,
+    21.14692,
+    14.81786
+],
+  "geometry": {"coordinates":[21.14692,14.81786],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344040413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90583,11.20003,15.90583,11.20003",
+    "geom:latitude":11.20003,
+    "geom:longitude":15.90583,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Salasef",
+    "gn:country_code":"TD",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425888,
+    "gn:latitude":11.20003,
+    "gn:longitude":15.90583,
+    "gn:modification_date":"2008-06-03",
+    "gn:name":"Salasef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425888
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9fa9ba922a16a8313621834aea26f59c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1344040413,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1344040413,
+    "wof:lastmodified":1536904771,
+    "wof:name":"Salasef",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90583,
+    11.20003,
+    15.90583,
+    11.20003
+],
+  "geometry": {"coordinates":[15.90583,11.20003],"type":"Point"}
+}

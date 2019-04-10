@@ -1,0 +1,67 @@
+{
+  "id": 1260036789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.55,21.56667,17.55,21.56667",
+    "geom:latitude":21.56667,
+    "geom:longitude":17.55,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Tommi",
+    "gn:country_code":"TD",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424668,
+    "gn:latitude":21.56667,
+    "gn:longitude":17.55,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Tommi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678501,
+        1091901649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424668
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d8cde45c7ff933b47fa1c423e25c2a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901649,
+            "locality_id":1260036789,
+            "region_id":85678501
+        }
+    ],
+    "wof:id":1260036789,
+    "wof:lastmodified":1537053143,
+    "wof:name":"Tommi",
+    "wof:parent_id":1091901649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.55,
+    21.56667,
+    17.55,
+    21.56667
+],
+  "geometry": {"coordinates":[17.55,21.56667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276510187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58303,13.22697,15.58303,13.22697",
+    "geom:latitude":13.22697,
+    "geom:longitude":15.58303,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kindila",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430308,
+    "gn:latitude":13.22697,
+    "gn:longitude":15.58303,
+    "gn:modification_date":"2009-03-04",
+    "gn:name":"Kindila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430308
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3cca4492412ae15bc0b9790213bf3d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1276510187,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1276510187,
+    "wof:lastmodified":1537037618,
+    "wof:name":"Kindila",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58303,
+    13.22697,
+    15.58303,
+    13.22697
+],
+  "geometry": {"coordinates":[15.58303,13.22697],"type":"Point"}
+}

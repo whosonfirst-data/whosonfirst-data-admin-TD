@@ -1,0 +1,67 @@
+{
+  "id": 1225930885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.1306,13.57769,22.1306,13.57769",
+    "geom:latitude":13.57769,
+    "geom:longitude":22.1306,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Andou",
+    "gn:country_code":"TD",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11578683,
+    "gn:latitude":13.57769,
+    "gn:longitude":22.1306,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Andou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11578683
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d287bbfa10a6916f0c34e49ec2062644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1225930885,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1225930885,
+    "wof:lastmodified":1536890539,
+    "wof:name":"Andou",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.1306,
+    13.57769,
+    22.1306,
+    13.57769
+],
+  "geometry": {"coordinates":[22.1306,13.57769],"type":"Point"}
+}

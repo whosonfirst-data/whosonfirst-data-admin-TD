@@ -1,0 +1,70 @@
+{
+  "id": 1243053461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11397,8.85228,16.11397,8.85228",
+    "geom:latitude":8.85228,
+    "geom:longitude":16.11397,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bekigui",
+    "gn:country_code":"TD",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435680,
+    "gn:latitude":8.85228,
+    "gn:longitude":16.11397,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9kigui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9kigui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435680
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1a4fc353f443be37977e288d41e284be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1243053461,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1243053461,
+    "wof:lastmodified":1537702803,
+    "wof:name":"Bekigui",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11397,
+    8.85228,
+    16.11397,
+    8.85228
+],
+  "geometry": {"coordinates":[16.11397,8.85228],"type":"Point"}
+}

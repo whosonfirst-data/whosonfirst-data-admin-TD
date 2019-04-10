@@ -1,0 +1,67 @@
+{
+  "id": 1226224259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82222,10.1138,15.82222,10.1138",
+    "geom:latitude":10.1138,
+    "geom:longitude":15.82222,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Koumsoul",
+    "gn:country_code":"TD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6769391,
+    "gn:latitude":10.1138,
+    "gn:longitude":15.82222,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Koumsoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6769391
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a89acb5ded9e0286dfa7efad22d96371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1226224259,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1226224259,
+    "wof:lastmodified":1536964457,
+    "wof:name":"Koumsoul",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82222,
+    10.1138,
+    15.82222,
+    10.1138
+],
+  "geometry": {"coordinates":[15.82222,10.1138],"type":"Point"}
+}

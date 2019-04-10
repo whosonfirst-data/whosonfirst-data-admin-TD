@@ -1,0 +1,61 @@
+{
+  "id": 1209601507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.02626,11.63967,21.02626,11.63967",
+    "geom:latitude":11.63967,
+    "geom:longitude":21.02626,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hille Talbornou",
+    "gn:country_code":"TD",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243664,
+    "gn:latitude":11.63967,
+    "gn:longitude":21.02626,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Hill\u00e9 Talbornou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243664
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"38b6ae7511761dfe0cda2ce1eef429cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209601507
+        }
+    ],
+    "wof:id":1209601507,
+    "wof:lastmodified":1536282152,
+    "wof:name":"Hille Talbornou",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02626,
+    11.63967,
+    21.02626,
+    11.63967
+],
+  "geometry": {"coordinates":[21.02626,11.63967],"type":"Point"}
+}

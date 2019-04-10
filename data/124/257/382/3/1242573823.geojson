@@ -1,0 +1,67 @@
+{
+  "id": 1242573823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9202,8.6469,16.9202,8.6469",
+    "geom:latitude":8.6469,
+    "geom:longitude":16.9202,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bessama",
+    "gn:country_code":"TD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435424,
+    "gn:latitude":8.6469,
+    "gn:longitude":16.9202,
+    "gn:modification_date":"2008-11-14",
+    "gn:name":"B\u00e9ssama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435424
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"da56e0310a301b9ff35d22877fd6ad63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900157,
+            "locality_id":1242573823,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1242573823,
+    "wof:lastmodified":1537066209,
+    "wof:name":"Bessama",
+    "wof:parent_id":1091900157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9202,
+    8.6469,
+    16.9202,
+    8.6469
+],
+  "geometry": {"coordinates":[16.9202,8.6469],"type":"Point"}
+}

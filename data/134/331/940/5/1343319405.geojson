@@ -1,0 +1,75 @@
+{
+  "id": 1343319405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5702,11.9537,21.5702,11.9537",
+    "geom:latitude":11.9537,
+    "geom:longitude":21.5702,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Angalgatou Goz",
+    "gn:country_code":"TD",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245297,
+    "gn:latitude":11.9537,
+    "gn:longitude":21.5702,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Angalgatou Goz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dourti Goz",
+        "Dourourt",
+        "Dourort",
+        "Dourourti",
+        "Dureurt",
+        "Angalgatou Goz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245297
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5a2aa7371b42c9f329421e5d147d910d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1343319405,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1343319405,
+    "wof:lastmodified":1537702681,
+    "wof:name":"Angalgatou Goz",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5702,
+    11.9537,
+    21.5702,
+    11.9537
+],
+  "geometry": {"coordinates":[21.5702,11.9537],"type":"Point"}
+}

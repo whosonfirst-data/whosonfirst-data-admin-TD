@@ -1,0 +1,72 @@
+{
+  "id": 1360159177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2655,9.7198,14.2655,9.7198",
+    "geom:latitude":9.7198,
+    "geom:longitude":14.2655,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Berliang",
+    "gn:country_code":"TD",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435449,
+    "gn:latitude":9.7198,
+    "gn:longitude":14.2655,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Berliang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balian",
+        "Berlian",
+        "Berliang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435449
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"30e3064bcba1cd7e72865109b1574364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900399,
+            "locality_id":1360159177,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1360159177,
+    "wof:lastmodified":1537702799,
+    "wof:name":"Berliang",
+    "wof:parent_id":1091900399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2655,
+    9.7198,
+    14.2655,
+    9.7198
+],
+  "geometry": {"coordinates":[14.2655,9.7198],"type":"Point"}
+}

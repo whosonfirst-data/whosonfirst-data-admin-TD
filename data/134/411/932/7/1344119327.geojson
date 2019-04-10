@@ -1,0 +1,67 @@
+{
+  "id": 1344119327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10857,8.35203,18.10857,8.35203",
+    "geom:latitude":8.35203,
+    "geom:longitude":18.10857,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Niabodo",
+    "gn:country_code":"TD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426874,
+    "gn:latitude":8.35203,
+    "gn:longitude":18.10857,
+    "gn:modification_date":"2008-10-10",
+    "gn:name":"Niabodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426874
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"df7ddc03553b4a11935541de93941618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1344119327,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1344119327,
+    "wof:lastmodified":1536791168,
+    "wof:name":"Niabodo",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10857,
+    8.35203,
+    18.10857,
+    8.35203
+],
+  "geometry": {"coordinates":[18.10857,8.35203],"type":"Point"}
+}

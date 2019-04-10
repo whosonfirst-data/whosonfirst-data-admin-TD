@@ -1,0 +1,71 @@
+{
+  "id": 1276551523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5532,13.151,19.5532,13.151",
+    "geom:latitude":13.151,
+    "geom:longitude":19.5532,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dangoma",
+    "gn:country_code":"TD",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434216,
+    "gn:latitude":13.151,
+    "gn:longitude":19.5532,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dangoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dangouma",
+        "Dangoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434216
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ad6acf006e8069754cac6f1f1bc9f80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1276551523,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1276551523,
+    "wof:lastmodified":1537702785,
+    "wof:name":"Dangoma",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5532,
+    13.151,
+    19.5532,
+    13.151
+],
+  "geometry": {"coordinates":[19.5532,13.151],"type":"Point"}
+}

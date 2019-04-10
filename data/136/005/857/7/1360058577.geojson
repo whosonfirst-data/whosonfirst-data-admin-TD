@@ -1,0 +1,67 @@
+{
+  "id": 1360058577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73519,10.94368,15.73519,10.94368",
+    "geom:latitude":10.94368,
+    "geom:longitude":15.73519,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tsamaires",
+    "gn:country_code":"TD",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424442,
+    "gn:latitude":10.94368,
+    "gn:longitude":15.73519,
+    "gn:modification_date":"2008-05-19",
+    "gn:name":"Tsamair\u00e8s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424442
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"851c752d1ada2c90a956f81ef5bb6716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1360058577,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1360058577,
+    "wof:lastmodified":1536983282,
+    "wof:name":"Tsamaires",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73519,
+    10.94368,
+    15.73519,
+    10.94368
+],
+  "geometry": {"coordinates":[15.73519,10.94368],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292997577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5818,13.73261,15.5818,13.73261",
+    "geom:latitude":13.73261,
+    "geom:longitude":15.5818,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gambaraou",
+    "gn:country_code":"TD",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432359,
+    "gn:latitude":13.73261,
+    "gn:longitude":15.5818,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Gambaraou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432359
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"64847463308b507e9b508f9793ff06f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1292997577,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1292997577,
+    "wof:lastmodified":1536995558,
+    "wof:name":"Gambaraou",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5818,
+    13.73261,
+    15.5818,
+    13.73261
+],
+  "geometry": {"coordinates":[15.5818,13.73261],"type":"Point"}
+}

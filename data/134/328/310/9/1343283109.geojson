@@ -1,0 +1,67 @@
+{
+  "id": 1343283109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33333,13.86667,14.33333,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":14.33333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ndofo",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427117,
+    "gn:latitude":13.86667,
+    "gn:longitude":14.33333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ndofo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427117
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"916e628173dfb78c441ba0024b9d55e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1343283109,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1343283109,
+    "wof:lastmodified":1537001527,
+    "wof:name":"Ndofo",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33333,
+    13.86667,
+    14.33333,
+    13.86667
+],
+  "geometry": {"coordinates":[14.33333,13.86667],"type":"Point"}
+}

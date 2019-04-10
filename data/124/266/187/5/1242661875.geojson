@@ -1,0 +1,67 @@
+{
+  "id": 1242661875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1326,8.2059,17.1326,8.2059",
+    "geom:latitude":8.2059,
+    "geom:longitude":17.1326,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bimbaitada",
+    "gn:country_code":"TD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859388,
+    "gn:latitude":8.2059,
+    "gn:longitude":17.1326,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Bimbaitada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859388
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c738bf93c0859e59696a0ba1c0e4aa43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899891,
+            "locality_id":1242661875,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1242661875,
+    "wof:lastmodified":1536943010,
+    "wof:name":"Bimbaitada",
+    "wof:parent_id":1091899891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1326,
+    8.2059,
+    17.1326,
+    8.2059
+],
+  "geometry": {"coordinates":[17.1326,8.2059],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209609489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65,13.31667,14.65,13.31667",
+    "geom:latitude":13.31667,
+    "geom:longitude":14.65,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bitchilom",
+    "gn:country_code":"TD",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435134,
+    "gn:latitude":13.31667,
+    "gn:longitude":14.65,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Bitchilom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435134
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"72776f8d0bfd7e5e14dc402015d0e3ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209609489
+        }
+    ],
+    "wof:id":1209609489,
+    "wof:lastmodified":1536281895,
+    "wof:name":"Bitchilom",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65,
+    13.316670000000002,
+    14.65,
+    13.316670000000002
+],
+  "geometry": {"coordinates":[14.65,13.31667],"type":"Point"}
+}

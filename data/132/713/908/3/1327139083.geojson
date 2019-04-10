@@ -1,0 +1,67 @@
+{
+  "id": 1327139083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8718,10.9591,17.8718,10.9591",
+    "geom:latitude":10.9591,
+    "geom:longitude":17.8718,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lidjei",
+    "gn:country_code":"TD",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429123,
+    "gn:latitude":10.9591,
+    "gn:longitude":17.8718,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Lidjei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429123
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c39ca80df76bfb174a6ef3c076c95a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1327139083,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1327139083,
+    "wof:lastmodified":1536603341,
+    "wof:name":"Lidjei",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8718,
+    10.9591,
+    17.8718,
+    10.9591
+],
+  "geometry": {"coordinates":[17.8718,10.9591],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226821511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4717,9.6553,15.4717,9.6553",
+    "geom:latitude":9.6553,
+    "geom:longitude":15.4717,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gounou Kodegue",
+    "gn:country_code":"TD",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431721,
+    "gn:latitude":9.6553,
+    "gn:longitude":15.4717,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gounou Kod\u00e9gu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gounou Kod\u00e9g\u00e9",
+        "Gounou Kod\u00e9gu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431721
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"41127cfd34023389ab1e6692e2634512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900311,
+            "locality_id":1226821511,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1226821511,
+    "wof:lastmodified":1537702759,
+    "wof:name":"Gounou Kodegue",
+    "wof:parent_id":1091900311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4717,
+    9.6553,
+    15.4717,
+    9.6553
+],
+  "geometry": {"coordinates":[15.4717,9.6553],"type":"Point"}
+}

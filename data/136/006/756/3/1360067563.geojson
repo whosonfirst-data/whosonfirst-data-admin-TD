@@ -1,0 +1,67 @@
+{
+  "id": 1360067563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56398,9.62999,15.56398,9.62999",
+    "geom:latitude":9.62999,
+    "geom:longitude":15.56398,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Djarao Baydou I",
+    "gn:country_code":"TD",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433702,
+    "gn:latitude":9.62999,
+    "gn:longitude":15.56398,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Djarao Baydou I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433702
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"eccde7df264cdce05335d85b3e984aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900311,
+            "locality_id":1360067563,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1360067563,
+    "wof:lastmodified":1536970626,
+    "wof:name":"Djarao Baydou I",
+    "wof:parent_id":1091900311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56398,
+    9.62999,
+    15.56398,
+    9.62999
+],
+  "geometry": {"coordinates":[15.56398,9.62999],"type":"Point"}
+}

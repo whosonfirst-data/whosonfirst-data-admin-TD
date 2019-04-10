@@ -1,0 +1,67 @@
+{
+  "id": 1260153913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.858,12.11407,15.858,12.11407",
+    "geom:latitude":12.11407,
+    "geom:longitude":15.858,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Siebe",
+    "gn:country_code":"TD",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425664,
+    "gn:latitude":12.11407,
+    "gn:longitude":15.858,
+    "gn:modification_date":"2008-03-10",
+    "gn:name":"Si\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425664
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1ee67eec747b446e1e7c71bb1744bec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1260153913,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1260153913,
+    "wof:lastmodified":1536888150,
+    "wof:name":"Siebe",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.858,
+    12.11407,
+    15.858,
+    12.11407
+],
+  "geometry": {"coordinates":[15.858,12.11407],"type":"Point"}
+}

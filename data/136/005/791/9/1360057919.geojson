@@ -1,0 +1,70 @@
+{
+  "id": 1360057919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60916,9.43127,15.60916,9.43127",
+    "geom:latitude":9.43127,
+    "geom:longitude":15.60916,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Fegue II",
+    "gn:country_code":"TD",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432669,
+    "gn:latitude":9.43127,
+    "gn:longitude":15.60916,
+    "gn:modification_date":"2009-01-02",
+    "gn:name":"F\u00e9gu\u00e9 II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u00e9g\u00e9 II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432669
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5d95b093cb5e2eee0cb60ed4e208a443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1360057919,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1360057919,
+    "wof:lastmodified":1537702770,
+    "wof:name":"Fegue II",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60916,
+    9.43127,
+    15.60916,
+    9.43127
+],
+  "geometry": {"coordinates":[15.60916,9.43127],"type":"Point"}
+}

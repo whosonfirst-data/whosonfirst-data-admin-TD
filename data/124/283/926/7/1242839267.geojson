@@ -1,0 +1,67 @@
+{
+  "id": 1242839267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2953,8.45,15.2953,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":15.2953,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bokodje",
+    "gn:country_code":"TD",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859933,
+    "gn:latitude":8.45,
+    "gn:longitude":15.2953,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Bokodj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859933
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f108325de23a180ea6ee3ef8961cf762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1242839267,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1242839267,
+    "wof:lastmodified":1536686892,
+    "wof:name":"Bokodje",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2953,
+    8.45,
+    15.2953,
+    8.45
+],
+  "geometry": {"coordinates":[15.2953,8.45],"type":"Point"}
+}

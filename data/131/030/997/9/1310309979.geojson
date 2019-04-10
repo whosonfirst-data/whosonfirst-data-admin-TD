@@ -1,0 +1,71 @@
+{
+  "id": 1310309979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22859,11.88281,18.22859,11.88281",
+    "geom:latitude":11.88281,
+    "geom:longitude":18.22859,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Moki",
+    "gn:country_code":"TD",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427689,
+    "gn:latitude":11.88281,
+    "gn:longitude":18.22859,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moc\u00e9",
+        "Moki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427689
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a566601681aabad625a6942ba3f1bbf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900785,
+            "locality_id":1310309979,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1310309979,
+    "wof:lastmodified":1537702720,
+    "wof:name":"Moki",
+    "wof:parent_id":1091900785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22859,
+    11.88281,
+    18.22859,
+    11.88281
+],
+  "geometry": {"coordinates":[18.22859,11.88281],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259404885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80501,14.47806,14.80501,14.47806",
+    "geom:latitude":14.47806,
+    "geom:longitude":14.80501,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ougoulom",
+    "gn:country_code":"TD",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6741441,
+    "gn:latitude":14.47806,
+    "gn:longitude":14.80501,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Ougoulom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6741441
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0d37e1ad4630794166fdbfe703b78d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901571,
+            "locality_id":1259404885,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1259404885,
+    "wof:lastmodified":1536971310,
+    "wof:name":"Ougoulom",
+    "wof:parent_id":1091901571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80501,
+    14.47806,
+    14.80501,
+    14.47806
+],
+  "geometry": {"coordinates":[14.80501,14.47806],"type":"Point"}
+}

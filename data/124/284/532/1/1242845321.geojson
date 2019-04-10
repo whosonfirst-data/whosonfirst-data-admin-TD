@@ -1,0 +1,71 @@
+{
+  "id": 1242845321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66845,9.36367,15.66845,9.36367",
+    "geom:latitude":9.36367,
+    "geom:longitude":15.66845,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Monogoy Djiou",
+    "gn:country_code":"TD",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427631,
+    "gn:latitude":9.36367,
+    "gn:longitude":15.66845,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Monogoy Djiou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monogoye Djiou",
+        "Monogoy Djiou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427631
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"576b57b47d0634d47fa75d840cca836f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1242845321,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1242845321,
+    "wof:lastmodified":1537702719,
+    "wof:name":"Monogoy Djiou",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66845,
+    9.36367,
+    15.66845,
+    9.36367
+],
+  "geometry": {"coordinates":[15.66845,9.36367],"type":"Point"}
+}

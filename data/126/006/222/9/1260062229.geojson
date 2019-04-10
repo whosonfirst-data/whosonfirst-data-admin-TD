@@ -1,0 +1,72 @@
+{
+  "id": 1260062229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44016,10.27164,15.44016,10.27164",
+    "geom:latitude":10.27164,
+    "geom:longitude":15.44016,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Miogoye",
+    "gn:country_code":"TD",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427801,
+    "gn:latitude":10.27164,
+    "gn:longitude":15.44016,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Miogoye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mioga\u00ef",
+        "Miogaye",
+        "Miogoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427801
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7ad75e7a9e35786a99ce4a0045792b04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1260062229,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1260062229,
+    "wof:lastmodified":1537702721,
+    "wof:name":"Miogoye",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44016,
+    10.27164,
+    15.44016,
+    10.27164
+],
+  "geometry": {"coordinates":[15.44016,10.27164],"type":"Point"}
+}

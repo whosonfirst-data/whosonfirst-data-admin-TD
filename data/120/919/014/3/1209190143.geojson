@@ -1,0 +1,61 @@
+{
+  "id": 1209190143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.193,11.9339,17.193,11.9339",
+    "geom:latitude":11.9339,
+    "geom:longitude":17.193,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mouray",
+    "gn:country_code":"TD",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427424,
+    "gn:latitude":11.9339,
+    "gn:longitude":17.193,
+    "gn:modification_date":"2008-10-16",
+    "gn:name":"Mouray",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427424
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"38363cbb00bb3a3a7a1a1e5c524077ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209190143
+        }
+    ],
+    "wof:id":1209190143,
+    "wof:lastmodified":1536294961,
+    "wof:name":"Mouray",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.192999999999998,
+    11.9339,
+    17.192999999999998,
+    11.9339
+],
+  "geometry": {"coordinates":[17.193,11.9339],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243430723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22257,9.48844,18.22257,9.48844",
+    "geom:latitude":9.48844,
+    "geom:longitude":18.22257,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kissinga",
+    "gn:country_code":"TD",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430242,
+    "gn:latitude":9.48844,
+    "gn:longitude":18.22257,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kissinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisinga",
+        "Kissinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430242
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8f6dabe98b188a52e8a7e242fcf8976b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1243430723,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1243430723,
+    "wof:lastmodified":1537702745,
+    "wof:name":"Kissinga",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22257,
+    9.48844,
+    18.22257,
+    9.48844
+],
+  "geometry": {"coordinates":[18.22257,9.48844],"type":"Point"}
+}

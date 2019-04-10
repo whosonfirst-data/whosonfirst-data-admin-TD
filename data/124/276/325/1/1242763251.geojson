@@ -1,0 +1,74 @@
+{
+  "id": 1242763251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55699,8.90343,16.55699,8.90343",
+    "geom:latitude":8.90343,
+    "geom:longitude":16.55699,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bekiri",
+    "gn:country_code":"TD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435457,
+    "gn:latitude":8.90343,
+    "gn:longitude":16.55699,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9kiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Beri"
+    ],
+    "name:und_x_variant":[
+        "B\u00e9kiri",
+        "Beri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435457
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5dc081519611f0f2a5defcbe9d04a27a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1242763251,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1242763251,
+    "wof:lastmodified":1537702799,
+    "wof:name":"Bekiri",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55699,
+    8.90343,
+    16.55699,
+    8.90343
+],
+  "geometry": {"coordinates":[16.55699,8.90343],"type":"Point"}
+}

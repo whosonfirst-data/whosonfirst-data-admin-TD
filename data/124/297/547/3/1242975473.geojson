@@ -1,0 +1,67 @@
+{
+  "id": 1242975473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4836,10.6809,17.4836,10.6809",
+    "geom:latitude":10.6809,
+    "geom:longitude":17.4836,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Teri",
+    "gn:country_code":"TD",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424908,
+    "gn:latitude":10.6809,
+    "gn:longitude":17.4836,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"T\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424908
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b7a0a83c990cfef3c25360800f885e40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1242975473,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1242975473,
+    "wof:lastmodified":1536986705,
+    "wof:name":"Teri",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4836,
+    10.6809,
+    17.4836,
+    10.6809
+],
+  "geometry": {"coordinates":[17.4836,10.6809],"type":"Point"}
+}

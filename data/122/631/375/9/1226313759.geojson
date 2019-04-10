@@ -1,0 +1,67 @@
+{
+  "id": 1226313759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.66831,9.31045,16.66831,9.31045",
+    "geom:latitude":9.31045,
+    "geom:longitude":16.66831,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Guering",
+    "gn:country_code":"TD",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431546,
+    "gn:latitude":9.31045,
+    "gn:longitude":16.66831,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Gu\u00e9ring",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431546
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"57077ac4e10e76160e1236e5e03535f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1226313759,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1226313759,
+    "wof:lastmodified":1536834684,
+    "wof:name":"Guering",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.66831,
+    9.31045,
+    16.66831,
+    9.31045
+],
+  "geometry": {"coordinates":[16.66831,9.31045],"type":"Point"}
+}

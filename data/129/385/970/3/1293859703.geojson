@@ -1,0 +1,67 @@
+{
+  "id": 1293859703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.758,11.9381,16.758,11.9381",
+    "geom:latitude":11.9381,
+    "geom:longitude":16.758,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kindji",
+    "gn:country_code":"TD",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430302,
+    "gn:latitude":11.9381,
+    "gn:longitude":16.758,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Kindji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430302
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"486e967ceac2cf037f6b9c6bec2f7464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1293859703,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1293859703,
+    "wof:lastmodified":1536747448,
+    "wof:name":"Kindji",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.758,
+    11.9381,
+    16.758,
+    11.9381
+],
+  "geometry": {"coordinates":[16.758,11.9381],"type":"Point"}
+}

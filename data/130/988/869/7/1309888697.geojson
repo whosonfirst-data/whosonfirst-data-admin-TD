@@ -1,0 +1,72 @@
+{
+  "id": 1309888697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7,11.08333,16.7,11.08333",
+    "geom:latitude":11.08333,
+    "geom:longitude":16.7,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ylla",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424240,
+    "gn:latitude":11.08333,
+    "gn:longitude":16.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ylla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yllal",
+        "Ylla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424240
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"df145a3798ce83a11dbddac1563d3c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1309888697,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1309888697,
+    "wof:lastmodified":1537702690,
+    "wof:name":"Ylla",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7,
+    11.08333,
+    16.7,
+    11.08333
+],
+  "geometry": {"coordinates":[16.7,11.08333],"type":"Point"}
+}

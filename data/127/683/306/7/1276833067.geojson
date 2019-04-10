@@ -1,0 +1,67 @@
+{
+  "id": 1276833067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.226,8.74841,18.226,8.74841",
+    "geom:latitude":8.74841,
+    "geom:longitude":18.226,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gboima",
+    "gn:country_code":"TD",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857216,
+    "gn:latitude":8.74841,
+    "gn:longitude":18.226,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Gbo\u00efma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857216
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d166c000965572d6db977ed7d2dadf2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1276833067,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1276833067,
+    "wof:lastmodified":1536603309,
+    "wof:name":"Gboima",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.226,
+    8.74841,
+    18.226,
+    8.74841
+],
+  "geometry": {"coordinates":[18.226,8.74841],"type":"Point"}
+}

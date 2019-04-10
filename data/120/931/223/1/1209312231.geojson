@@ -1,0 +1,61 @@
+{
+  "id": 1209312231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46955,14.28972,14.46955,14.28972",
+    "geom:latitude":14.28972,
+    "geom:longitude":14.46955,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Belaberim",
+    "gn:country_code":"TD",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435648,
+    "gn:latitude":14.28972,
+    "gn:longitude":14.46955,
+    "gn:modification_date":"2008-03-27",
+    "gn:name":"B\u00e9lab\u00e9rim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435648
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5c17d71ea6e00f1b23474c11421bcc44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209312231
+        }
+    ],
+    "wof:id":1209312231,
+    "wof:lastmodified":1536290987,
+    "wof:name":"Belaberim",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46955,
+    14.28972,
+    14.46955,
+    14.28972
+],
+  "geometry": {"coordinates":[14.46955,14.28972],"type":"Point"}
+}

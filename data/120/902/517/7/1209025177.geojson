@@ -1,0 +1,65 @@
+{
+  "id": 1209025177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67697,7.70735,15.67697,7.70735",
+    "geom:latitude":7.70735,
+    "geom:longitude":15.67697,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mbou",
+    "gn:country_code":"TD",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428048,
+    "gn:latitude":7.70735,
+    "gn:longitude":15.67697,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mboum",
+        "Mbou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428048
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e23c323669cfe17c5223346e4fe3d27d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209025177
+        }
+    ],
+    "wof:id":1209025177,
+    "wof:lastmodified":1537702724,
+    "wof:name":"Mbou",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67697,
+    7.70735,
+    15.67697,
+    7.70735
+],
+  "geometry": {"coordinates":[15.67697,7.70735],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209008909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9874,11.9474,18.9874,11.9474",
+    "geom:latitude":11.9474,
+    "geom:longitude":18.9874,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ibinda",
+    "gn:country_code":"TD",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431351,
+    "gn:latitude":11.9474,
+    "gn:longitude":18.9874,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Ibinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431351
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e4dc226955d7c559189acd1a37dba659",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209008909
+        }
+    ],
+    "wof:id":1209008909,
+    "wof:lastmodified":1536300512,
+    "wof:name":"Ibinda",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9874,
+    11.9474,
+    18.9874,
+    11.9474
+],
+  "geometry": {"coordinates":[18.9874,11.9474],"type":"Point"}
+}

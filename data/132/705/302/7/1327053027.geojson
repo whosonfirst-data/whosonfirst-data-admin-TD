@@ -1,0 +1,67 @@
+{
+  "id": 1327053027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7203,10.0387,18.7203,10.0387",
+    "geom:latitude":10.0387,
+    "geom:longitude":18.7203,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Madoure",
+    "gn:country_code":"TD",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861534,
+    "gn:latitude":10.0387,
+    "gn:longitude":18.7203,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Madour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861534
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b07e335b0c23b60d97794b6b34d97a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1327053027,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1327053027,
+    "wof:lastmodified":1536730986,
+    "wof:name":"Madoure",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7203,
+    10.0387,
+    18.7203,
+    10.0387
+],
+  "geometry": {"coordinates":[18.7203,10.0387],"type":"Point"}
+}

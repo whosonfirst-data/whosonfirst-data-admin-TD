@@ -1,0 +1,71 @@
+{
+  "id": 1243458519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41884,13.16022,17.41884,13.16022",
+    "geom:latitude":13.16022,
+    "geom:longitude":17.41884,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rahat Salamat",
+    "gn:country_code":"TD",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426117,
+    "gn:latitude":13.16022,
+    "gn:longitude":17.41884,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rahat Salamat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rad es Salamat",
+        "Rahat Salamat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426117
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0581d1ad1a1417f0a1aecb346a4daead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1243458519,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1243458519,
+    "wof:lastmodified":1537702703,
+    "wof:name":"Rahat Salamat",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41884,
+    13.16022,
+    17.41884,
+    13.16022
+],
+  "geometry": {"coordinates":[17.41884,13.16022],"type":"Point"}
+}

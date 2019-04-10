@@ -1,0 +1,67 @@
+{
+  "id": 1292976695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.12942,12.23822,17.12942,12.23822",
+    "geom:latitude":12.23822,
+    "geom:longitude":17.12942,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Al Bangedit",
+    "gn:country_code":"TD",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437253,
+    "gn:latitude":12.23822,
+    "gn:longitude":17.12942,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Al Bang\u00e9dit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437253
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"429e1af2749b61266fc8beeb02419e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1292976695,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1292976695,
+    "wof:lastmodified":1537025327,
+    "wof:name":"Al Bangedit",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.12942,
+    12.23822,
+    17.12942,
+    12.23822
+],
+  "geometry": {"coordinates":[17.12942,12.23822],"type":"Point"}
+}

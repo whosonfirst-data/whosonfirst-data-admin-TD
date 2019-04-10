@@ -1,0 +1,70 @@
+{
+  "id": 1276836473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.84308,16.06589,22.84308,16.06589",
+    "geom:latitude":16.06589,
+    "geom:longitude":22.84308,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Am Djarass",
+    "gn:country_code":"TD",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":9534257,
+    "gn:latitude":16.06589,
+    "gn:longitude":22.84308,
+    "gn:modification_date":"2014-09-08",
+    "gn:name":"Am Djarass",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amdjarass"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        1108808537,
+        1091901837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9534257
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"953d416dd0253e100866cffbccee41a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901837,
+            "locality_id":1276836473,
+            "region_id":1108808537
+        }
+    ],
+    "wof:id":1276836473,
+    "wof:lastmodified":1537702826,
+    "wof:name":"Am Djarass",
+    "wof:parent_id":1091901837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.84308,
+    16.06589,
+    22.84308,
+    16.06589
+],
+  "geometry": {"coordinates":[22.84308,16.06589],"type":"Point"}
+}

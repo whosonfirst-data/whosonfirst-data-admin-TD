@@ -1,0 +1,67 @@
+{
+  "id": 1242748447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9295,10.0958,16.9295,10.0958",
+    "geom:latitude":10.0958,
+    "geom:longitude":16.9295,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Delou",
+    "gn:country_code":"TD",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434044,
+    "gn:latitude":10.0958,
+    "gn:longitude":16.9295,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"D\u00e9lou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434044
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7bd1c695c8a208739ade829affbd37a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900595,
+            "locality_id":1242748447,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1242748447,
+    "wof:lastmodified":1536816902,
+    "wof:name":"Delou",
+    "wof:parent_id":1091900595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9295,
+    10.0958,
+    16.9295,
+    10.0958
+],
+  "geometry": {"coordinates":[16.9295,10.0958],"type":"Point"}
+}

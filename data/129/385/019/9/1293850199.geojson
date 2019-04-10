@@ -1,0 +1,67 @@
+{
+  "id": 1293850199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67321,12.7798,16.67321,12.7798",
+    "geom:latitude":12.7798,
+    "geom:longitude":16.67321,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Serni",
+    "gn:country_code":"TD",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806527,
+    "gn:latitude":12.7798,
+    "gn:longitude":16.67321,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Serni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806527
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2d67efbeb0f1c1746699710b4d931460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1293850199,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1293850199,
+    "wof:lastmodified":1536761657,
+    "wof:name":"Serni",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67321,
+    12.7798,
+    16.67321,
+    12.7798
+],
+  "geometry": {"coordinates":[16.67321,12.7798],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343954697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8684,8.95718,16.8684,8.95718",
+    "geom:latitude":8.95718,
+    "geom:longitude":16.8684,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Koutoutou",
+    "gn:country_code":"TD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429405,
+    "gn:latitude":8.95718,
+    "gn:longitude":16.8684,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koutoutou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Koutoutou"
+    ],
+    "name:fra_x_variant":[
+        "Koutou"
+    ],
+    "name:und_x_variant":[
+        "Koutou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429405
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"01618794f66419ca9f3119785c53e54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900157,
+            "locality_id":1343954697,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1343954697,
+    "wof:lastmodified":1537702737,
+    "wof:name":"Koutoutou",
+    "wof:parent_id":1091900157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8684,
+    8.95718,
+    16.8684,
+    8.95718
+],
+  "geometry": {"coordinates":[16.8684,8.95718],"type":"Point"}
+}

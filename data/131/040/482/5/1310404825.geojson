@@ -1,0 +1,71 @@
+{
+  "id": 1310404825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.3812,10.8055,19.3812,10.8055",
+    "geom:latitude":10.8055,
+    "geom:longitude":19.3812,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Adja",
+    "gn:country_code":"TD",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437420,
+    "gn:latitude":10.8055,
+    "gn:longitude":19.3812,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Adja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hudjer",
+        "Adja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437420
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9cdb2cb4d2290ae7b5ddeec367bdf1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1310404825,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1310404825,
+    "wof:lastmodified":1537702820,
+    "wof:name":"Adja",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.3812,
+    10.8055,
+    19.3812,
+    10.8055
+],
+  "geometry": {"coordinates":[19.3812,10.8055],"type":"Point"}
+}

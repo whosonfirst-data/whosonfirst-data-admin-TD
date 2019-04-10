@@ -1,0 +1,71 @@
+{
+  "id": 1259357455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3821,9.1974,14.3821,9.1974",
+    "geom:latitude":9.1974,
+    "geom:longitude":14.3821,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tagobo-Foulbe",
+    "gn:country_code":"TD",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425355,
+    "gn:latitude":9.1974,
+    "gn:longitude":14.3821,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tagobo-Foulb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabago Foulb\u00e9",
+        "Tagobo-Foulb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425355
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"495d2a5f322bd8123264e60562e98c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1259357455,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1259357455,
+    "wof:lastmodified":1537702697,
+    "wof:name":"Tagobo-Foulbe",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3821,
+    9.1974,
+    14.3821,
+    9.1974
+],
+  "geometry": {"coordinates":[14.3821,9.1974],"type":"Point"}
+}

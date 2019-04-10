@@ -1,0 +1,70 @@
+{
+  "id": 1193255471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70157,13.31561,20.70157,13.31561",
+    "geom:latitude":13.31561,
+    "geom:longitude":20.70157,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bobodjen",
+    "gn:country_code":"TD",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244824,
+    "gn:latitude":13.31561,
+    "gn:longitude":20.70157,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Bobodjen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bobodjen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244824
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9f5a0470885bfb7e35e6891216c8cfc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1193255471,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1193255471,
+    "wof:lastmodified":1537702678,
+    "wof:name":"Bobodjen",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70157,
+    13.31561,
+    20.70157,
+    13.31561
+],
+  "geometry": {"coordinates":[20.70157,13.31561],"type":"Point"}
+}

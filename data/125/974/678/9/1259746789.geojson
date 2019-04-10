@@ -1,0 +1,67 @@
+{
+  "id": 1259746789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33545,8.85721,18.33545,8.85721",
+    "geom:latitude":8.85721,
+    "geom:longitude":18.33545,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bebinga",
+    "gn:country_code":"TD",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435847,
+    "gn:latitude":8.85721,
+    "gn:longitude":18.33545,
+    "gn:modification_date":"2008-10-10",
+    "gn:name":"B\u00e9binga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435847
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4f60f3b99ae5aaa638b6127943142301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1259746789,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1259746789,
+    "wof:lastmodified":1536975574,
+    "wof:name":"Bebinga",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33545,
+    8.85721,
+    18.33545,
+    8.85721
+],
+  "geometry": {"coordinates":[18.33545,8.85721],"type":"Point"}
+}

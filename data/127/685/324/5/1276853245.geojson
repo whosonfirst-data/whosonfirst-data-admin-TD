@@ -1,0 +1,72 @@
+{
+  "id": 1276853245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44586,11.02684,15.44586,11.02684",
+    "geom:latitude":11.02684,
+    "geom:longitude":15.44586,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Medege",
+    "gn:country_code":"TD",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428016,
+    "gn:latitude":11.02684,
+    "gn:longitude":15.44586,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Medege",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9d\u00e9k\u00e9",
+        "Medege",
+        "M\u00e9d\u00e9gu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428016
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dc5c91e783cb4a47f2b4278ad24224f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1276853245,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1276853245,
+    "wof:lastmodified":1537702723,
+    "wof:name":"Medege",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44586,
+    11.02684,
+    15.44586,
+    11.02684
+],
+  "geometry": {"coordinates":[15.44586,11.02684],"type":"Point"}
+}

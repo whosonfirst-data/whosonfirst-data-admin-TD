@@ -1,0 +1,67 @@
+{
+  "id": 1226221631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2143,10.4031,21.2143,10.4031",
+    "geom:latitude":10.4031,
+    "geom:longitude":21.2143,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Am Botoro",
+    "gn:country_code":"TD",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245522,
+    "gn:latitude":10.4031,
+    "gn:longitude":21.2143,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Am Botoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245522
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e2ddc32a4f82fb5fd8049b8ebaa39c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900659,
+            "locality_id":1226221631,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1226221631,
+    "wof:lastmodified":1536968159,
+    "wof:name":"Am Botoro",
+    "wof:parent_id":1091900659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2143,
+    10.4031,
+    21.2143,
+    10.4031
+],
+  "geometry": {"coordinates":[21.2143,10.4031],"type":"Point"}
+}

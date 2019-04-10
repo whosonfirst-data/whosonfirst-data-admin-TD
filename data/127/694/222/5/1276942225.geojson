@@ -1,0 +1,71 @@
+{
+  "id": 1276942225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0218,9.5927,15.0218,9.5927",
+    "geom:latitude":9.5927,
+    "geom:longitude":15.0218,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mbibou",
+    "gn:country_code":"TD",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428067,
+    "gn:latitude":9.5927,
+    "gn:longitude":15.0218,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbibou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbidou",
+        "Mbibou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428067
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"941d246421aff1a89535eae27457e32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1276942225,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1276942225,
+    "wof:lastmodified":1537702724,
+    "wof:name":"Mbibou",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0218,
+    9.5927,
+    15.0218,
+    9.5927
+],
+  "geometry": {"coordinates":[15.0218,9.5927],"type":"Point"}
+}

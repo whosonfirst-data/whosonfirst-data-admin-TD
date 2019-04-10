@@ -1,0 +1,67 @@
+{
+  "id": 1343933665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.80202,13.15474,15.80202,13.15474",
+    "geom:latitude":13.15474,
+    "geom:longitude":15.80202,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kinjerti",
+    "gn:country_code":"TD",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430290,
+    "gn:latitude":13.15474,
+    "gn:longitude":15.80202,
+    "gn:modification_date":"2009-03-04",
+    "gn:name":"Kinjerti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430290
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dca39bde7b1ba7fd66b021ca360fb957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1343933665,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1343933665,
+    "wof:lastmodified":1537056275,
+    "wof:name":"Kinjerti",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.80202,
+    13.15474,
+    15.80202,
+    13.15474
+],
+  "geometry": {"coordinates":[15.80202,13.15474],"type":"Point"}
+}

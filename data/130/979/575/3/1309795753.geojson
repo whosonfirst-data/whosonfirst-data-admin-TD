@@ -1,0 +1,67 @@
+{
+  "id": 1309795753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75655,7.69775,15.75655,7.69775",
+    "geom:latitude":7.69775,
+    "geom:longitude":15.75655,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zingue",
+    "gn:country_code":"TD",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424043,
+    "gn:latitude":7.69775,
+    "gn:longitude":15.75655,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Zingu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424043
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a1158463c2a1661da818d671e1f0cd66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1309795753,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1309795753,
+    "wof:lastmodified":1536945965,
+    "wof:name":"Zingue",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75655,
+    7.69775,
+    15.75655,
+    7.69775
+],
+  "geometry": {"coordinates":[15.75655,7.69775],"type":"Point"}
+}

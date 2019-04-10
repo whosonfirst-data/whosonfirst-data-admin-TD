@@ -1,0 +1,71 @@
+{
+  "id": 1360175375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1256,9.0093,16.1256,9.0093",
+    "geom:latitude":9.0093,
+    "geom:longitude":16.1256,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Biramanda",
+    "gn:country_code":"TD",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435193,
+    "gn:latitude":9.0093,
+    "gn:longitude":16.1256,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Biramanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bira-Manoa",
+        "Biramanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435193
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"88779fd79eee0c528547879878fe59eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900113,
+            "locality_id":1360175375,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1360175375,
+    "wof:lastmodified":1537702795,
+    "wof:name":"Biramanda",
+    "wof:parent_id":1091900113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1256,
+    9.0093,
+    16.1256,
+    9.0093
+],
+  "geometry": {"coordinates":[16.1256,9.0093],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293155687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68333,20.1,16.68333,20.1",
+    "geom:latitude":20.1,
+    "geom:longitude":16.68333,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Sherda",
+    "gn:country_code":"TD",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425688,
+    "gn:latitude":20.1,
+    "gn:longitude":16.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sherda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cherda",
+        "Sherda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678505,
+        1091901659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425688
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b858a1b449bf8b8d0f1fe667e4ba7845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901659,
+            "locality_id":1293155687,
+            "region_id":85678505
+        }
+    ],
+    "wof:id":1293155687,
+    "wof:lastmodified":1537702700,
+    "wof:name":"Sherda",
+    "wof:parent_id":1091901659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68333,
+    20.1,
+    16.68333,
+    20.1
+],
+  "geometry": {"coordinates":[16.68333,20.1],"type":"Point"}
+}

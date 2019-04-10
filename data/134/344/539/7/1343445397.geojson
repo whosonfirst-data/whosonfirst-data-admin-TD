@@ -1,0 +1,67 @@
+{
+  "id": 1343445397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1,8.41667,17.1,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":17.1,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Beboye",
+    "gn:country_code":"TD",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435830,
+    "gn:latitude":8.41667,
+    "gn:longitude":17.1,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"B\u00e9boye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435830
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0c83cc8bbea1ea9435cdffef9da59acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899891,
+            "locality_id":1343445397,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1343445397,
+    "wof:lastmodified":1536768466,
+    "wof:name":"Beboye",
+    "wof:parent_id":1091899891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1,
+    8.41667,
+    17.1,
+    8.41667
+],
+  "geometry": {"coordinates":[17.1,8.41667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293282143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6682,7.7962,15.6682,7.7962",
+    "geom:latitude":7.7962,
+    "geom:longitude":15.6682,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bogomia I",
+    "gn:country_code":"TD",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435014,
+    "gn:latitude":7.7962,
+    "gn:longitude":15.6682,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Bogomia I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435014
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7e44f5c27ec626fafd28b7091b4717b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1293282143,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1293282143,
+    "wof:lastmodified":1537079909,
+    "wof:name":"Bogomia I",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6682,
+    7.7962,
+    15.6682,
+    7.7962
+],
+  "geometry": {"coordinates":[15.6682,7.7962],"type":"Point"}
+}

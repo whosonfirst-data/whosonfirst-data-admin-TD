@@ -1,0 +1,71 @@
+{
+  "id": 1343544791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3671,10.1805,16.3671,10.1805",
+    "geom:latitude":10.1805,
+    "geom:longitude":16.3671,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Matiguil",
+    "gn:country_code":"TD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428164,
+    "gn:latitude":10.1805,
+    "gn:longitude":16.3671,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Matiguil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matigil",
+        "Matiguil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428164
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9d580a12080208dff650218ed733c8cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1343544791,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1343544791,
+    "wof:lastmodified":1537702725,
+    "wof:name":"Matiguil",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3671,
+    10.1805,
+    16.3671,
+    10.1805
+],
+  "geometry": {"coordinates":[16.3671,10.1805],"type":"Point"}
+}

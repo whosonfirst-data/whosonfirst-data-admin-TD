@@ -1,0 +1,67 @@
+{
+  "id": 1225948417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6676,13.3304,18.6676,13.3304",
+    "geom:latitude":13.3304,
+    "geom:longitude":18.6676,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Oum Babich",
+    "gn:country_code":"TD",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823643,
+    "gn:latitude":13.3304,
+    "gn:longitude":18.6676,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Oum Babich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823643
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0f0e959837a5b7aa32b520ed7f3635a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1225948417,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1225948417,
+    "wof:lastmodified":1536864102,
+    "wof:name":"Oum Babich",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6676,
+    13.3304,
+    18.6676,
+    13.3304
+],
+  "geometry": {"coordinates":[18.6676,13.3304],"type":"Point"}
+}

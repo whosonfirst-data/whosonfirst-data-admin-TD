@@ -1,0 +1,67 @@
+{
+  "id": 1193159787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.64511,12.32599,19.64511,12.32599",
+    "geom:latitude":12.32599,
+    "geom:longitude":19.64511,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dram Kichlna",
+    "gn:country_code":"TD",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433016,
+    "gn:latitude":12.32599,
+    "gn:longitude":19.64511,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"Dram Kichlna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433016
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9a0cccdf27560acd2d095e4595d3d580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900939,
+            "locality_id":1193159787,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1193159787,
+    "wof:lastmodified":1536369190,
+    "wof:name":"Dram Kichlna",
+    "wof:parent_id":1091900939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.64511,
+    12.32599,
+    19.64511,
+    12.32599
+],
+  "geometry": {"coordinates":[19.64511,12.32599],"type":"Point"}
+}

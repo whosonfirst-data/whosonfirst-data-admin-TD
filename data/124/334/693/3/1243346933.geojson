@@ -1,0 +1,67 @@
+{
+  "id": 1243346933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4291,9.1985,16.4291,9.1985",
+    "geom:latitude":9.1985,
+    "geom:longitude":16.4291,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Lamel",
+    "gn:country_code":"TD",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429273,
+    "gn:latitude":9.1985,
+    "gn:longitude":16.4291,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Lamel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429273
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"17165fb72db8294eea3ff91a1a4f6405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1243346933,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1243346933,
+    "wof:lastmodified":1536949363,
+    "wof:name":"Lamel",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4291,
+    9.1985,
+    16.4291,
+    9.1985
+],
+  "geometry": {"coordinates":[16.4291,9.1985],"type":"Point"}
+}

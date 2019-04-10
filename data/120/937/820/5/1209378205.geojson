@@ -1,0 +1,65 @@
+{
+  "id": 1209378205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49423,12.47264,15.49423,12.47264",
+    "geom:latitude":12.47264,
+    "geom:longitude":15.49423,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Djekine",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433912,
+    "gn:latitude":12.47264,
+    "gn:longitude":15.49423,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djekine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diekh\u00eene",
+        "Djekine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433912
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"690c57e1c547216ff423bf005f9aac02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209378205
+        }
+    ],
+    "wof:id":1209378205,
+    "wof:lastmodified":1537702783,
+    "wof:name":"Djekine",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49423,
+    12.47264,
+    15.49423,
+    12.47264
+],
+  "geometry": {"coordinates":[15.49423,12.47264],"type":"Point"}
+}

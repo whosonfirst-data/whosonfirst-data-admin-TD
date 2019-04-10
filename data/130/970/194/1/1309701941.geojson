@@ -1,0 +1,71 @@
+{
+  "id": 1309701941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8834,8.3795,15.8834,8.3795",
+    "geom:latitude":8.3795,
+    "geom:longitude":15.8834,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Guero",
+    "gn:country_code":"TD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432126,
+    "gn:latitude":8.3795,
+    "gn:longitude":15.8834,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gu\u00e9ro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00e9ro",
+        "Gu\u00e9ro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432126
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"549f07e52872d3412d9771725611c9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1309701941,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1309701941,
+    "wof:lastmodified":1537702764,
+    "wof:name":"Guero",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8834,
+    8.3795,
+    15.8834,
+    8.3795
+],
+  "geometry": {"coordinates":[15.8834,8.3795],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226067311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5111,13.90151,15.5111,13.90151",
+    "geom:latitude":13.90151,
+    "geom:longitude":15.5111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gaya",
+    "gn:country_code":"TD",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432203,
+    "gn:latitude":13.90151,
+    "gn:longitude":15.5111,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Gaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432203
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"33fa50b1dd3b8a265b0203cdfcb8ccb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1226067311,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1226067311,
+    "wof:lastmodified":1536694354,
+    "wof:name":"Gaya",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5111,
+    13.90151,
+    15.5111,
+    13.90151
+],
+  "geometry": {"coordinates":[15.5111,13.90151],"type":"Point"}
+}

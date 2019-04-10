@@ -1,0 +1,61 @@
+{
+  "id": 1209280007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3694,8.8359,17.3694,8.8359",
+    "geom:latitude":8.8359,
+    "geom:longitude":17.3694,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dogourou",
+    "gn:country_code":"TD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433370,
+    "gn:latitude":8.8359,
+    "gn:longitude":17.3694,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Dogourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433370
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2dcac7252ebf790d4d7365a0634472fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209280007
+        }
+    ],
+    "wof:id":1209280007,
+    "wof:lastmodified":1536292057,
+    "wof:name":"Dogourou",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3694,
+    8.8359,
+    17.3694,
+    8.8359
+],
+  "geometry": {"coordinates":[17.3694,8.8359],"type":"Point"}
+}

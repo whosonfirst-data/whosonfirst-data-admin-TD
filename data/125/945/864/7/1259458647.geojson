@@ -1,0 +1,67 @@
+{
+  "id": 1259458647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.19541,12.54469,16.19541,12.54469",
+    "geom:latitude":12.54469,
+    "geom:longitude":16.19541,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Djidada",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433610,
+    "gn:latitude":12.54469,
+    "gn:longitude":16.19541,
+    "gn:modification_date":"2008-08-08",
+    "gn:name":"Djidada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433610
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0e13b60093573c847cb533bb3d20ded7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1259458647,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1259458647,
+    "wof:lastmodified":1536894273,
+    "wof:name":"Djidada",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.19541,
+    12.54469,
+    16.19541,
+    12.54469
+],
+  "geometry": {"coordinates":[16.19541,12.54469],"type":"Point"}
+}

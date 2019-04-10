@@ -1,0 +1,72 @@
+{
+  "id": 1326699751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2672,9.8636,15.2672,9.8636",
+    "geom:latitude":9.8636,
+    "geom:longitude":15.2672,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Palalao",
+    "gn:country_code":"TD",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426199,
+    "gn:latitude":9.8636,
+    "gn:longitude":15.2672,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Palalao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Patala",
+        "Patalao",
+        "Palalao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426199
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"25386098b8428078e8ae6c9b4fc1cb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900357,
+            "locality_id":1326699751,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1326699751,
+    "wof:lastmodified":1537702705,
+    "wof:name":"Palalao",
+    "wof:parent_id":1091900357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2672,
+    9.8636,
+    15.2672,
+    9.8636
+],
+  "geometry": {"coordinates":[15.2672,9.8636],"type":"Point"}
+}

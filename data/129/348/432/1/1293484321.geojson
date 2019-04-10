@@ -1,0 +1,67 @@
+{
+  "id": 1293484321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47857,13.36746,15.47857,13.36746",
+    "geom:latitude":13.36746,
+    "geom:longitude":15.47857,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Karoua",
+    "gn:country_code":"TD",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430699,
+    "gn:latitude":13.36746,
+    "gn:longitude":15.47857,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Karoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430699
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bd3d68cf6fd8a4b8a858ca2694d61720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1293484321,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1293484321,
+    "wof:lastmodified":1536791995,
+    "wof:name":"Karoua",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47857,
+    13.36746,
+    15.47857,
+    13.36746
+],
+  "geometry": {"coordinates":[15.47857,13.36746],"type":"Point"}
+}

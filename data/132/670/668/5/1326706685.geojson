@@ -1,0 +1,67 @@
+{
+  "id": 1326706685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2296,8.7417,18.2296,8.7417",
+    "geom:latitude":8.7417,
+    "geom:longitude":18.2296,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kemkia",
+    "gn:country_code":"TD",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857218,
+    "gn:latitude":8.7417,
+    "gn:longitude":18.2296,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kemkia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857218
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4e2d81f4d7a0f540ffd7a9963605cac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1326706685,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1326706685,
+    "wof:lastmodified":1536732873,
+    "wof:name":"Kemkia",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2296,
+    8.7417,
+    18.2296,
+    8.7417
+],
+  "geometry": {"coordinates":[18.2296,8.7417],"type":"Point"}
+}

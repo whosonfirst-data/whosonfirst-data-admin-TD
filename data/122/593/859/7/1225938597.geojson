@@ -1,0 +1,67 @@
+{
+  "id": 1225938597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62948,13.38394,15.62948,13.38394",
+    "geom:latitude":13.38394,
+    "geom:longitude":15.62948,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Boutoukoli",
+    "gn:country_code":"TD",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434574,
+    "gn:latitude":13.38394,
+    "gn:longitude":15.62948,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Boutoukoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434574
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"356d275a616613bb9724f2d57aef34c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1225938597,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1225938597,
+    "wof:lastmodified":1536878951,
+    "wof:name":"Boutoukoli",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62948,
+    13.38394,
+    15.62948,
+    13.38394
+],
+  "geometry": {"coordinates":[15.62948,13.38394],"type":"Point"}
+}

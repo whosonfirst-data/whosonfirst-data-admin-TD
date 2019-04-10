@@ -1,0 +1,67 @@
+{
+  "id": 1293056437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63333,12.36667,21.63333,12.36667",
+    "geom:latitude":12.36667,
+    "geom:longitude":21.63333,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Abere Tchertcher",
+    "gn:country_code":"TD",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245779,
+    "gn:latitude":12.36667,
+    "gn:longitude":21.63333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ab\u00e9r\u00e9 Tchertcher",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245779
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"277751a100971a98c7d264b1cb5577bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1293056437,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1293056437,
+    "wof:lastmodified":1536912110,
+    "wof:name":"Abere Tchertcher",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63333,
+    12.36667,
+    21.63333,
+    12.36667
+],
+  "geometry": {"coordinates":[21.63333,12.36667],"type":"Point"}
+}

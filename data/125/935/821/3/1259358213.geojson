@@ -1,0 +1,67 @@
+{
+  "id": 1259358213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.09954,8.33134,18.09954,8.33134",
+    "geom:latitude":8.33134,
+    "geom:longitude":18.09954,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ganourou",
+    "gn:country_code":"TD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432300,
+    "gn:latitude":8.33134,
+    "gn:longitude":18.09954,
+    "gn:modification_date":"2008-10-10",
+    "gn:name":"Ganourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432300
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d40e558b5cf5691a64b7110916056310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1259358213,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1259358213,
+    "wof:lastmodified":1537037105,
+    "wof:name":"Ganourou",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.09954,
+    8.33134,
+    18.09954,
+    8.33134
+],
+  "geometry": {"coordinates":[18.09954,8.33134],"type":"Point"}
+}

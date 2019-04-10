@@ -1,0 +1,67 @@
+{
+  "id": 1242564065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77996,10.25871,19.77996,10.25871",
+    "geom:latitude":10.25871,
+    "geom:longitude":19.77996,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Goz Abou Danap",
+    "gn:country_code":"TD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431632,
+    "gn:latitude":10.25871,
+    "gn:longitude":19.77996,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Goz Abou Danap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431632
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b51ffda2155588517318a7c667f3faa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1242564065,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1242564065,
+    "wof:lastmodified":1537080037,
+    "wof:name":"Goz Abou Danap",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77996,
+    10.25871,
+    19.77996,
+    10.25871
+],
+  "geometry": {"coordinates":[19.77996,10.25871],"type":"Point"}
+}

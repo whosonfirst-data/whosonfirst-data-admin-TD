@@ -1,0 +1,70 @@
+{
+  "id": 1209917141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25219,14.08882,21.25219,14.08882",
+    "geom:latitude":14.08882,
+    "geom:longitude":21.25219,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mongoul",
+    "gn:country_code":"TD",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527091,
+    "gn:latitude":14.08882,
+    "gn:longitude":21.25219,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Mongoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mongoul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527091
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"384ef6a55d40401c5cd4ce4919eae8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901409,
+            "locality_id":1209917141,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1209917141,
+    "wof:lastmodified":1537702829,
+    "wof:name":"Mongoul",
+    "wof:parent_id":1091901409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25219,
+    14.08882,
+    21.25219,
+    14.08882
+],
+  "geometry": {"coordinates":[21.25219,14.08882],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259861757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4984,10.15121,15.4984,10.15121",
+    "geom:latitude":10.15121,
+    "geom:longitude":15.4984,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Grand Tougoude",
+    "gn:country_code":"TD",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431615,
+    "gn:latitude":10.15121,
+    "gn:longitude":15.4984,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Grand Tougoud\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tougoud\u00e9",
+        "Grand Tougoud\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431615
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a7e694e8fc2e79503b7858064b7e3bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1259861757,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1259861757,
+    "wof:lastmodified":1537702758,
+    "wof:name":"Grand Tougoude",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4984,
+    10.15121,
+    15.4984,
+    10.15121
+],
+  "geometry": {"coordinates":[15.4984,10.15121],"type":"Point"}
+}

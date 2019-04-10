@@ -1,0 +1,70 @@
+{
+  "id": 1242755103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75745,13.98016,20.75745,13.98016",
+    "geom:latitude":13.98016,
+    "geom:longitude":20.75745,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Achkitin",
+    "gn:country_code":"TD",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245697,
+    "gn:latitude":13.98016,
+    "gn:longitude":20.75745,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Achkitin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Achkitin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245697
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4180521ab7e3bed44a0b11b5843a66bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1242755103,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1242755103,
+    "wof:lastmodified":1537702687,
+    "wof:name":"Achkitin",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75745,
+    13.98016,
+    20.75745,
+    13.98016
+],
+  "geometry": {"coordinates":[20.75745,13.98016],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326586047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.04825,17.89765,19.04825,17.89765",
+    "geom:latitude":17.89765,
+    "geom:longitude":19.04825,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mordangay",
+    "gn:country_code":"TD",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7009609,
+    "gn:latitude":17.89765,
+    "gn:longitude":19.04825,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Mordangay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mordangay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678501,
+        1091901887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7009609
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e39a8cc1e40aadd53c6863d10f00261a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901887,
+            "locality_id":1326586047,
+            "region_id":85678501
+        }
+    ],
+    "wof:id":1326586047,
+    "wof:lastmodified":1537702825,
+    "wof:name":"Mordangay",
+    "wof:parent_id":1091901887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.04825,
+    17.89765,
+    19.04825,
+    17.89765
+],
+  "geometry": {"coordinates":[19.04825,17.89765],"type":"Point"}
+}

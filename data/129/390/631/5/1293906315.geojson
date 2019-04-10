@@ -1,0 +1,71 @@
+{
+  "id": 1293906315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4906,11.2144,18.4906,11.2144",
+    "geom:latitude":11.2144,
+    "geom:longitude":18.4906,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Diara",
+    "gn:country_code":"TD",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433957,
+    "gn:latitude":11.2144,
+    "gn:longitude":18.4906,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jara",
+        "Diara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433957
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4e1db92f4f37a6d1b9f44896fc02628e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1293906315,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1293906315,
+    "wof:lastmodified":1537702783,
+    "wof:name":"Diara",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4906,
+    11.2144,
+    18.4906,
+    11.2144
+],
+  "geometry": {"coordinates":[18.4906,11.2144],"type":"Point"}
+}

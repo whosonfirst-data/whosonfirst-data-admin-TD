@@ -1,0 +1,71 @@
+{
+  "id": 1209790093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0398,9.6123,15.0398,9.6123",
+    "geom:latitude":9.6123,
+    "geom:longitude":15.0398,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Goueygoudoum",
+    "gn:country_code":"TD",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431813,
+    "gn:latitude":9.6123,
+    "gn:longitude":15.0398,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Goueygoudoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goueyegoudoum",
+        "Goueygoudoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431813
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c24980a4096232885c3efbe62c0e47f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900357,
+            "locality_id":1209790093,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1209790093,
+    "wof:lastmodified":1537702760,
+    "wof:name":"Goueygoudoum",
+    "wof:parent_id":1091900357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0398,
+    9.6123,
+    15.0398,
+    9.6123
+],
+  "geometry": {"coordinates":[15.0398,9.6123],"type":"Point"}
+}

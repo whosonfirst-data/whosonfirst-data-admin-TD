@@ -1,0 +1,67 @@
+{
+  "id": 1276516965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87026,10.77302,15.87026,10.77302",
+    "geom:latitude":10.77302,
+    "geom:longitude":15.87026,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Malgogou",
+    "gn:country_code":"TD",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428571,
+    "gn:latitude":10.77302,
+    "gn:longitude":15.87026,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Malgogou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428571
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"954fa9031860c2b27cb31e11dd223b9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1276516965,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1276516965,
+    "wof:lastmodified":1537028853,
+    "wof:name":"Malgogou",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87026,
+    10.77302,
+    15.87026,
+    10.77302
+],
+  "geometry": {"coordinates":[15.87026,10.77302],"type":"Point"}
+}

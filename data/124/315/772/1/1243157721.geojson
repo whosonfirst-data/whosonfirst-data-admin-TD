@@ -1,0 +1,67 @@
+{
+  "id": 1243157721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2712,9.0942,16.2712,9.0942",
+    "geom:latitude":9.0942,
+    "geom:longitude":16.2712,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sar",
+    "gn:country_code":"TD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425816,
+    "gn:latitude":9.0942,
+    "gn:longitude":16.2712,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Sar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425816
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"74decc9f0ea5f69acf4fda92a3a09eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1243157721,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1243157721,
+    "wof:lastmodified":1536725223,
+    "wof:name":"Sar",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2712,
+    9.0942,
+    16.2712,
+    9.0942
+],
+  "geometry": {"coordinates":[16.2712,9.0942],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226305469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83144,8.47744,17.83144,8.47744",
+    "geom:latitude":8.47744,
+    "geom:longitude":17.83144,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mouskandja",
+    "gn:country_code":"TD",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859464,
+    "gn:latitude":8.47744,
+    "gn:longitude":17.83144,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Mouskandja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859464
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4b0d3836845cd2bd9c81941009e3dda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1226305469,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1226305469,
+    "wof:lastmodified":1536846596,
+    "wof:name":"Mouskandja",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83144,
+    8.47744,
+    17.83144,
+    8.47744
+],
+  "geometry": {"coordinates":[17.83144,8.47744],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209377447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1932,8.628,17.1932,8.628",
+    "geom:latitude":8.628,
+    "geom:longitude":17.1932,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Beboukata",
+    "gn:country_code":"TD",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435833,
+    "gn:latitude":8.628,
+    "gn:longitude":17.1932,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"B\u00e9boukata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435833
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7fa21ad71886c5cc01c5d469b2ae4c31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209377447
+        }
+    ],
+    "wof:id":1209377447,
+    "wof:lastmodified":1536288899,
+    "wof:name":"Beboukata",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1932,
+    8.628,
+    17.1932,
+    8.628
+],
+  "geometry": {"coordinates":[17.1932,8.628],"type":"Point"}
+}

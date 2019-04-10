@@ -1,0 +1,73 @@
+{
+  "id": 1343659667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83092,8.42723,15.83092,8.42723",
+    "geom:latitude":8.42723,
+    "geom:longitude":15.83092,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gore I",
+    "gn:country_code":"TD",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431908,
+    "gn:latitude":8.42723,
+    "gn:longitude":15.83092,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gor\u00e9 I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gor",
+        "Gorr",
+        "Gor\u00e9",
+        "Gor\u00e9 I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431908
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"93d2fec531743ba2e8d7f3aa8f93e17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1343659667,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1343659667,
+    "wof:lastmodified":1537702761,
+    "wof:name":"Gore I",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83092,
+    8.42723,
+    15.83092,
+    8.42723
+],
+  "geometry": {"coordinates":[15.83092,8.42723],"type":"Point"}
+}

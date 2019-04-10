@@ -1,0 +1,71 @@
+{
+  "id": 1193251549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1625,10.2741,16.1625,10.2741",
+    "geom:latitude":10.2741,
+    "geom:longitude":16.1625,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Soto",
+    "gn:country_code":"TD",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425508,
+    "gn:latitude":10.2741,
+    "gn:longitude":16.1625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Soto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ssoto",
+        "Soto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425508
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"37ba5b84cdcf2476ac71ee0b36402b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900595,
+            "locality_id":1193251549,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1193251549,
+    "wof:lastmodified":1537702698,
+    "wof:name":"Soto",
+    "wof:parent_id":1091900595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1625,
+    10.2741,
+    16.1625,
+    10.2741
+],
+  "geometry": {"coordinates":[16.1625,10.2741],"type":"Point"}
+}

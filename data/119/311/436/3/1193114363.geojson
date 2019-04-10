@@ -1,0 +1,67 @@
+{
+  "id": 1193114363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.10586,13.48535,21.10586,13.48535",
+    "geom:latitude":13.48535,
+    "geom:longitude":21.10586,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Koko",
+    "gn:country_code":"TD",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243242,
+    "gn:latitude":13.48535,
+    "gn:longitude":21.10586,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Koko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243242
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d58e41bedf279bd63ddb9b0691d1184f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1193114363,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1193114363,
+    "wof:lastmodified":1536369768,
+    "wof:name":"Koko",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.10586,
+    13.48535,
+    21.10586,
+    13.48535
+],
+  "geometry": {"coordinates":[21.10586,13.48535],"type":"Point"}
+}

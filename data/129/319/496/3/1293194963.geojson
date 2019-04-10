@@ -1,0 +1,72 @@
+{
+  "id": 1293194963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7,13.35,14.7,13.35",
+    "geom:latitude":13.35,
+    "geom:longitude":14.7,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kika",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430343,
+    "gn:latitude":13.35,
+    "gn:longitude":14.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kika III",
+        "Kika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430343
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ef7cb85c49211dcf502bdb892464d711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1293194963,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1293194963,
+    "wof:lastmodified":1537702746,
+    "wof:name":"Kika",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7,
+    13.35,
+    14.7,
+    13.35
+],
+  "geometry": {"coordinates":[14.7,13.35],"type":"Point"}
+}

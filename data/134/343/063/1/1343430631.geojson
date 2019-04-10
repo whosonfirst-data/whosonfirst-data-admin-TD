@@ -1,0 +1,72 @@
+{
+  "id": 1343430631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01908,10.47574,16.01908,10.47574",
+    "geom:latitude":10.47574,
+    "geom:longitude":16.01908,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kawalke",
+    "gn:country_code":"TD",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430807,
+    "gn:latitude":10.47574,
+    "gn:longitude":16.01908,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kawalk\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koualik\u00e9",
+        "Kaoualk\u00e9",
+        "Kawalk\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430807
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d58b6745957a52815ad29707dcc44a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1343430631,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1343430631,
+    "wof:lastmodified":1537702750,
+    "wof:name":"Kawalke",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01908,
+    10.47574,
+    16.01908,
+    10.47574
+],
+  "geometry": {"coordinates":[16.01908,10.47574],"type":"Point"}
+}

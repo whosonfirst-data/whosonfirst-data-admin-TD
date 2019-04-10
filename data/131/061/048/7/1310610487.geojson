@@ -1,0 +1,67 @@
+{
+  "id": 1310610487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4526,13.11078,17.4526,13.11078",
+    "geom:latitude":13.11078,
+    "geom:longitude":17.4526,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Am Djoudoula",
+    "gn:country_code":"TD",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436970,
+    "gn:latitude":13.11078,
+    "gn:longitude":17.4526,
+    "gn:modification_date":"2008-09-15",
+    "gn:name":"Am Djoudoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436970
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0d02ce9ce63ee9a59c68451fa106a759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1310610487,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1310610487,
+    "wof:lastmodified":1536765793,
+    "wof:name":"Am Djoudoula",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4526,
+    13.11078,
+    17.4526,
+    13.11078
+],
+  "geometry": {"coordinates":[17.4526,13.11078],"type":"Point"}
+}

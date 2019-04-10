@@ -1,0 +1,71 @@
+{
+  "id": 1276733519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.80228,9.29573,15.80228,9.29573",
+    "geom:latitude":9.29573,
+    "geom:longitude":15.80228,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Djengrang",
+    "gn:country_code":"TD",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433645,
+    "gn:latitude":9.29573,
+    "gn:longitude":15.80228,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djengrang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djengreng",
+        "Djengrang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433645
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"354b24c29670afd47122a12e93dd91a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1276733519,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1276733519,
+    "wof:lastmodified":1537702780,
+    "wof:name":"Djengrang",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.80228,
+    9.29573,
+    15.80228,
+    9.29573
+],
+  "geometry": {"coordinates":[15.80228,9.29573],"type":"Point"}
+}

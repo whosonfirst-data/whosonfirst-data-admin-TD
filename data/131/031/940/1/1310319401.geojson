@@ -1,0 +1,67 @@
+{
+  "id": 1310319401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.67733,12.76931,18.67733,12.76931",
+    "geom:latitude":12.76931,
+    "geom:longitude":18.67733,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Miritia",
+    "gn:country_code":"TD",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427785,
+    "gn:latitude":12.76931,
+    "gn:longitude":18.67733,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Miritia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427785
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6fe2d4c1fcc54c817b77b03ea3669b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1310319401,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1310319401,
+    "wof:lastmodified":1536687852,
+    "wof:name":"Miritia",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.67733,
+    12.76931,
+    18.67733,
+    12.76931
+],
+  "geometry": {"coordinates":[18.67733,12.76931],"type":"Point"}
+}

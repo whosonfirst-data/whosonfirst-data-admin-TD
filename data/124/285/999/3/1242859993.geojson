@@ -1,0 +1,67 @@
+{
+  "id": 1242859993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2607,9.1158,16.2607,9.1158",
+    "geom:latitude":9.1158,
+    "geom:longitude":16.2607,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Djimadoul",
+    "gn:country_code":"TD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433581,
+    "gn:latitude":9.1158,
+    "gn:longitude":16.2607,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Djimadoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433581
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"36fde1f87a3c0a693f751f5ebca3ea01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1242859993,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1242859993,
+    "wof:lastmodified":1536657041,
+    "wof:name":"Djimadoul",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2607,
+    9.1158,
+    16.2607,
+    9.1158
+],
+  "geometry": {"coordinates":[16.2607,9.1158],"type":"Point"}
+}

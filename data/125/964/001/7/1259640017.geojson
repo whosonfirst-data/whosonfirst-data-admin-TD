@@ -1,0 +1,67 @@
+{
+  "id": 1259640017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93424,13.25979,15.93424,13.25979",
+    "geom:latitude":13.25979,
+    "geom:longitude":15.93424,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Balakoloula",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436145,
+    "gn:latitude":13.25979,
+    "gn:longitude":15.93424,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Balakoloula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436145
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"da449a276c6486afc501322560ceb473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901733,
+            "locality_id":1259640017,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1259640017,
+    "wof:lastmodified":1536631869,
+    "wof:name":"Balakoloula",
+    "wof:parent_id":1091901733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93424,
+    13.25979,
+    15.93424,
+    13.25979
+],
+  "geometry": {"coordinates":[15.93424,13.25979],"type":"Point"}
+}

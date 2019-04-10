@@ -1,0 +1,67 @@
+{
+  "id": 1360166927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10282,9.80701,15.10282,9.80701",
+    "geom:latitude":9.80701,
+    "geom:longitude":15.10282,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gabra",
+    "gn:country_code":"TD",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432462,
+    "gn:latitude":9.80701,
+    "gn:longitude":15.10282,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Gabra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432462
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a8503c778341b5da20aa73a728ac7df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900357,
+            "locality_id":1360166927,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1360166927,
+    "wof:lastmodified":1536826699,
+    "wof:name":"Gabra",
+    "wof:parent_id":1091900357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10282,
+    9.80701,
+    15.10282,
+    9.80701
+],
+  "geometry": {"coordinates":[15.10282,9.80701],"type":"Point"}
+}

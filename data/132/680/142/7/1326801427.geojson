@@ -1,0 +1,67 @@
+{
+  "id": 1326801427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1281,9.2215,16.1281,9.2215",
+    "geom:latitude":9.2215,
+    "geom:longitude":16.1281,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Darandje",
+    "gn:country_code":"TD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434174,
+    "gn:latitude":9.2215,
+    "gn:longitude":16.1281,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Darandj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091901691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434174
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f3cbfb24ce8cce29beb35cdf428e4c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901691,
+            "locality_id":1326801427,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1326801427,
+    "wof:lastmodified":1537090050,
+    "wof:name":"Darandje",
+    "wof:parent_id":1091901691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1281,
+    9.2215,
+    16.1281,
+    9.2215
+],
+  "geometry": {"coordinates":[16.1281,9.2215],"type":"Point"}
+}

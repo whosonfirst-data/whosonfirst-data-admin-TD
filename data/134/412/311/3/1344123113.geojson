@@ -1,0 +1,67 @@
+{
+  "id": 1344123113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6299,12.7895,16.6299,12.7895",
+    "geom:latitude":12.7895,
+    "geom:longitude":16.6299,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Abirdi",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437643,
+    "gn:latitude":12.7895,
+    "gn:longitude":16.6299,
+    "gn:modification_date":"2008-08-08",
+    "gn:name":"Abirdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437643
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"905ef7ab09153edcee1cd55450b48cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1344123113,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1344123113,
+    "wof:lastmodified":1536785783,
+    "wof:name":"Abirdi",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6299,
+    12.7895,
+    16.6299,
+    12.7895
+],
+  "geometry": {"coordinates":[16.6299,12.7895],"type":"Point"}
+}

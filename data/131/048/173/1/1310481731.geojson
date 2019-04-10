@@ -1,0 +1,70 @@
+{
+  "id": 1310481731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81605,13.07292,20.81605,13.07292",
+    "geom:latitude":13.07292,
+    "geom:longitude":20.81605,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Toutoubo",
+    "gn:country_code":"TD",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241528,
+    "gn:latitude":13.07292,
+    "gn:longitude":20.81605,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Toutoubo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Toutoubo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241528
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"12643ba0d19b37c6ac6da5314f96a94d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1310481731,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1310481731,
+    "wof:lastmodified":1537702647,
+    "wof:name":"Toutoubo",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81605,
+    13.07292,
+    20.81605,
+    13.07292
+],
+  "geometry": {"coordinates":[20.81605,13.07292],"type":"Point"}
+}

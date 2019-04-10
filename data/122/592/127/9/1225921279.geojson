@@ -1,0 +1,67 @@
+{
+  "id": 1225921279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93218,13.45023,21.93218,13.45023",
+    "geom:latitude":13.45023,
+    "geom:longitude":21.93218,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Damire Kochola",
+    "gn:country_code":"TD",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244631,
+    "gn:latitude":13.45023,
+    "gn:longitude":21.93218,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Damir\u00e9 Kochola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244631
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"47d79eb97bd56e618c16cf7d360e7b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1225921279,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1225921279,
+    "wof:lastmodified":1536905016,
+    "wof:name":"Damire Kochola",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93218,
+    13.45023,
+    21.93218,
+    13.45023
+],
+  "geometry": {"coordinates":[21.93218,13.45023],"type":"Point"}
+}

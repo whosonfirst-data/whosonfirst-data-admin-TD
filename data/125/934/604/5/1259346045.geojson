@@ -1,0 +1,67 @@
+{
+  "id": 1259346045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38298,12.02168,17.38298,12.02168",
+    "geom:latitude":12.02168,
+    "geom:longitude":17.38298,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Am Djemena",
+    "gn:country_code":"TD",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6842317,
+    "gn:latitude":12.02168,
+    "gn:longitude":17.38298,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Am Dj\u00e9m\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6842317
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0249dc628173e3e90b57a03c4943332a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1259346045,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1259346045,
+    "wof:lastmodified":1537053963,
+    "wof:name":"Am Djemena",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38298,
+    12.02168,
+    17.38298,
+    12.02168
+],
+  "geometry": {"coordinates":[17.38298,12.02168],"type":"Point"}
+}

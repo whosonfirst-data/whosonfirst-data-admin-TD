@@ -1,0 +1,67 @@
+{
+  "id": 1310427033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67262,13.34829,15.67262,13.34829",
+    "geom:latitude":13.34829,
+    "geom:longitude":15.67262,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kangarater",
+    "gn:country_code":"TD",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430852,
+    "gn:latitude":13.34829,
+    "gn:longitude":15.67262,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Kangarater",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430852
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"79905f4b7625b6466b47a9e9dff32b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1310427033,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1310427033,
+    "wof:lastmodified":1537028981,
+    "wof:name":"Kangarater",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67262,
+    13.34829,
+    15.67262,
+    13.34829
+],
+  "geometry": {"coordinates":[15.67262,13.34829],"type":"Point"}
+}

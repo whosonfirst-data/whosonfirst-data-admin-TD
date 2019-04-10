@@ -1,0 +1,67 @@
+{
+  "id": 1276891831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10762,12.74537,18.10762,12.74537",
+    "geom:latitude":12.74537,
+    "geom:longitude":18.10762,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mirsi",
+    "gn:country_code":"TD",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427784,
+    "gn:latitude":12.74537,
+    "gn:longitude":18.10762,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Mirsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427784
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e6c6fdba7ccc4ecdee2fdf7f7bed0e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1276891831,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1276891831,
+    "wof:lastmodified":1537024062,
+    "wof:name":"Mirsi",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10762,
+    12.74537,
+    18.10762,
+    12.74537
+],
+  "geometry": {"coordinates":[18.10762,12.74537],"type":"Point"}
+}

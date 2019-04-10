@@ -1,0 +1,73 @@
+{
+  "id": 1327117351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29995,12.05306,15.29995,12.05306",
+    "geom:latitude":12.05306,
+    "geom:longitude":15.29995,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Linia",
+    "gn:country_code":"TD",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429098,
+    "gn:latitude":12.05306,
+    "gn:longitude":15.29995,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Linia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lima",
+        "Ligna",
+        "Linia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429098,
+        "wk:page":"Linia%2C_Chad"
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5ac78411045200e0a007e05ac759aabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1327117351,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1327117351,
+    "wof:lastmodified":1537702734,
+    "wof:name":"Linia",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29995,
+    12.05306,
+    15.29995,
+    12.05306
+],
+  "geometry": {"coordinates":[15.29995,12.05306],"type":"Point"}
+}

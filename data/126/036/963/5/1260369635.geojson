@@ -1,0 +1,72 @@
+{
+  "id": 1260369635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.8598,11.3538,20.8598,11.3538",
+    "geom:latitude":11.3538,
+    "geom:longitude":20.8598,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mongare",
+    "gn:country_code":"TD",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242564,
+    "gn:latitude":11.3538,
+    "gn:longitude":20.8598,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mongar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mumgare",
+        "Moungar\u00e9",
+        "Mongar\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242564
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0a5e6f947bb1452c05a12b7d3405be05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1260369635,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1260369635,
+    "wof:lastmodified":1537702655,
+    "wof:name":"Mongare",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.8598,
+    11.3538,
+    20.8598,
+    11.3538
+],
+  "geometry": {"coordinates":[20.8598,11.3538],"type":"Point"}
+}

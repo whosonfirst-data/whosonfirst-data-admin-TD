@@ -1,0 +1,70 @@
+{
+  "id": 1360282085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67829,8.01078,16.67829,8.01078",
+    "geom:latitude":8.01078,
+    "geom:longitude":16.67829,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bongmara",
+    "gn:country_code":"TD",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434915,
+    "gn:latitude":8.01078,
+    "gn:longitude":16.67829,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bongmara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bongmara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434915
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"da7be9fe41ffd5c8eebe0d877bec57ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899821,
+            "locality_id":1360282085,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1360282085,
+    "wof:lastmodified":1537702791,
+    "wof:name":"Bongmara",
+    "wof:parent_id":1091899821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67829,
+    8.01078,
+    16.67829,
+    8.01078
+],
+  "geometry": {"coordinates":[16.67829,8.01078],"type":"Point"}
+}

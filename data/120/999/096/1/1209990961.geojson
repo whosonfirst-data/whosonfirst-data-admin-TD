@@ -1,0 +1,67 @@
+{
+  "id": 1209990961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4006,9.9138,14.4006,9.9138",
+    "geom:latitude":9.9138,
+    "geom:longitude":14.4006,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bianke",
+    "gn:country_code":"TD",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435359,
+    "gn:latitude":9.9138,
+    "gn:longitude":14.4006,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Biank\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091901927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435359
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cc3d8bab20325e88a0f29ae60b3a032e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901927,
+            "locality_id":1209990961,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1209990961,
+    "wof:lastmodified":1536386437,
+    "wof:name":"Bianke",
+    "wof:parent_id":1091901927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4006,
+    9.9138,
+    14.4006,
+    9.9138
+],
+  "geometry": {"coordinates":[14.4006,9.9138],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293880387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50959,13.58444,15.50959,13.58444",
+    "geom:latitude":13.58444,
+    "geom:longitude":15.50959,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Iski",
+    "gn:country_code":"TD",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431217,
+    "gn:latitude":13.58444,
+    "gn:longitude":15.50959,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Iski",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431217
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7ca019f8157d8fc5f9c093005474f3de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1293880387,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1293880387,
+    "wof:lastmodified":1536718221,
+    "wof:name":"Iski",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50959,
+    13.58444,
+    15.50959,
+    13.58444
+],
+  "geometry": {"coordinates":[15.50959,13.58444],"type":"Point"}
+}

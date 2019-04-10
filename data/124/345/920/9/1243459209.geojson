@@ -1,0 +1,71 @@
+{
+  "id": 1243459209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3759,11.0752,18.3759,11.0752",
+    "geom:latitude":11.0752,
+    "geom:longitude":18.3759,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Am Karouma",
+    "gn:country_code":"TD",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436886,
+    "gn:latitude":11.0752,
+    "gn:longitude":18.3759,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Am Karouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karouma",
+        "Am Karouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436886
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ea326ddf5f85fe81492e8d82dfc1e28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1243459209,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1243459209,
+    "wof:lastmodified":1537702815,
+    "wof:name":"Am Karouma",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3759,
+    11.0752,
+    18.3759,
+    11.0752
+],
+  "geometry": {"coordinates":[18.3759,11.0752],"type":"Point"}
+}

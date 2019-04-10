@@ -1,0 +1,67 @@
+{
+  "id": 1226408603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45838,13.16677,15.45838,13.16677",
+    "geom:latitude":13.16677,
+    "geom:longitude":15.45838,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kongiklia",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430033,
+    "gn:latitude":13.16677,
+    "gn:longitude":15.45838,
+    "gn:modification_date":"2009-03-05",
+    "gn:name":"Kongiklia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430033
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7c9b85b26811464a7b6ec11d0cbb2263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1226408603,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1226408603,
+    "wof:lastmodified":1536699407,
+    "wof:name":"Kongiklia",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45838,
+    13.16677,
+    15.45838,
+    13.16677
+],
+  "geometry": {"coordinates":[15.45838,13.16677],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193241545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13359,12.41587,15.13359,12.41587",
+    "geom:latitude":12.41587,
+    "geom:longitude":15.13359,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Lehan",
+    "gn:country_code":"TD",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437184,
+    "gn:latitude":12.41587,
+    "gn:longitude":15.13359,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00e9han",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9han",
+        "Al Ih\u00e0n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437184
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a807b1c7328c461044fd3c7c1d2c7472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1193241545,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1193241545,
+    "wof:lastmodified":1537702818,
+    "wof:name":"Lehan",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13359,
+    12.41587,
+    15.13359,
+    12.41587
+],
+  "geometry": {"coordinates":[15.13359,12.41587],"type":"Point"}
+}

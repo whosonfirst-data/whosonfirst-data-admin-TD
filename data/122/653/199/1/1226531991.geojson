@@ -1,0 +1,72 @@
+{
+  "id": 1226531991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7539,8.2226,15.7539,8.2226",
+    "geom:latitude":8.2226,
+    "geom:longitude":15.7539,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Koumabila",
+    "gn:country_code":"TD",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429653,
+    "gn:latitude":8.2226,
+    "gn:longitude":15.7539,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koumabila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koumabita",
+        "Koumabeda",
+        "Koumabila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429653
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2297e024e8e5e4f5c20a21e7bf0526b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1226531991,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1226531991,
+    "wof:lastmodified":1537702740,
+    "wof:name":"Koumabila",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7539,
+    8.2226,
+    15.7539,
+    8.2226
+],
+  "geometry": {"coordinates":[15.7539,8.2226],"type":"Point"}
+}

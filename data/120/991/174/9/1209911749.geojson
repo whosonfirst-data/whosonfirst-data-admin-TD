@@ -1,0 +1,67 @@
+{
+  "id": 1209911749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30607,14.07476,15.30607,14.07476",
+    "geom:latitude":14.07476,
+    "geom:longitude":15.30607,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tchidi I",
+    "gn:country_code":"TD",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425123,
+    "gn:latitude":14.07476,
+    "gn:longitude":15.30607,
+    "gn:modification_date":"2009-02-23",
+    "gn:name":"Tchidi I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425123
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fc3809ed6ad46b568f53ba2fbe93239d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1209911749,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1209911749,
+    "wof:lastmodified":1536378026,
+    "wof:name":"Tchidi I",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30607,
+    14.07476,
+    15.30607,
+    14.07476
+],
+  "geometry": {"coordinates":[15.30607,14.07476],"type":"Point"}
+}

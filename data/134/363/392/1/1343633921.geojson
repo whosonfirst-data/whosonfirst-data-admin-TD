@@ -1,0 +1,67 @@
+{
+  "id": 1343633921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33471,10.5698,15.33471,10.5698",
+    "geom:latitude":10.5698,
+    "geom:longitude":15.33471,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ayedena",
+    "gn:country_code":"TD",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436371,
+    "gn:latitude":10.5698,
+    "gn:longitude":15.33471,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Ay\u00e9d\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436371
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"70d247dff0552ad4f15a8409e512ae94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1343633921,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1343633921,
+    "wof:lastmodified":1536992603,
+    "wof:name":"Ayedena",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33471,
+    10.5698,
+    15.33471,
+    10.5698
+],
+  "geometry": {"coordinates":[15.33471,10.5698],"type":"Point"}
+}

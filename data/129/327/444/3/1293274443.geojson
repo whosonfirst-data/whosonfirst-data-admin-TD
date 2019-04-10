@@ -1,0 +1,67 @@
+{
+  "id": 1293274443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66004,10.89116,15.66004,10.89116",
+    "geom:latitude":10.89116,
+    "geom:longitude":15.66004,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ouoko",
+    "gn:country_code":"TD",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426350,
+    "gn:latitude":10.89116,
+    "gn:longitude":15.66004,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Ouoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426350
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"abc2c9c834b6c1e7b9f11a767e488574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1293274443,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1293274443,
+    "wof:lastmodified":1537090970,
+    "wof:name":"Ouoko",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66004,
+    10.89116,
+    15.66004,
+    10.89116
+],
+  "geometry": {"coordinates":[15.66004,10.89116],"type":"Point"}
+}

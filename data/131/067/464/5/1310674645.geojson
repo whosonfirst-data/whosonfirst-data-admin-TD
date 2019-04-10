@@ -1,0 +1,71 @@
+{
+  "id": 1310674645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6717,9.1204,16.6717,9.1204",
+    "geom:latitude":9.1204,
+    "geom:longitude":16.6717,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Koro Garmaoa",
+    "gn:country_code":"TD",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429948,
+    "gn:latitude":9.1204,
+    "gn:longitude":16.6717,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koro Garmaoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koro",
+        "Koro Garmaoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429948
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"180943b57f797e9f96cfc8f0e6a80a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1310674645,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1310674645,
+    "wof:lastmodified":1537702742,
+    "wof:name":"Koro Garmaoa",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6717,
+    9.1204,
+    16.6717,
+    9.1204
+],
+  "geometry": {"coordinates":[16.6717,9.1204],"type":"Point"}
+}

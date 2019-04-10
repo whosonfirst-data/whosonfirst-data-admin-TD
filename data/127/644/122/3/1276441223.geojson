@@ -1,0 +1,67 @@
+{
+  "id": 1276441223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.64398,12.15289,17.64398,12.15289",
+    "geom:latitude":12.15289,
+    "geom:longitude":17.64398,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Marbo",
+    "gn:country_code":"TD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428338,
+    "gn:latitude":12.15289,
+    "gn:longitude":17.64398,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Marbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428338
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3bc4b50b0d5b01498b85feae8a122e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900785,
+            "locality_id":1276441223,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1276441223,
+    "wof:lastmodified":1536632618,
+    "wof:name":"Marbo",
+    "wof:parent_id":1091900785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.64398,
+    12.15289,
+    17.64398,
+    12.15289
+],
+  "geometry": {"coordinates":[17.64398,12.15289],"type":"Point"}
+}

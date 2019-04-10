@@ -1,0 +1,67 @@
+{
+  "id": 1310427791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57262,13.88908,15.57262,13.88908",
+    "geom:latitude":13.88908,
+    "geom:longitude":15.57262,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Badjia",
+    "gn:country_code":"TD",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436282,
+    "gn:latitude":13.88908,
+    "gn:longitude":15.57262,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Badjia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436282
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"25a64e1ae695d7c50837ac1585016e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1310427791,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1310427791,
+    "wof:lastmodified":1537027928,
+    "wof:name":"Badjia",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57262,
+    13.88908,
+    15.57262,
+    13.88908
+],
+  "geometry": {"coordinates":[15.57262,13.88908],"type":"Point"}
+}

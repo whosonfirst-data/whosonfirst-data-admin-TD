@@ -1,0 +1,70 @@
+{
+  "id": 1225825391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.41051,13.90432,20.41051,13.90432",
+    "geom:latitude":13.90432,
+    "geom:longitude":20.41051,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Masangania",
+    "gn:country_code":"TD",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242742,
+    "gn:latitude":13.90432,
+    "gn:longitude":20.41051,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Masangania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Masangania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242742
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"aa7603de828824f2db3a6a37fffd3d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1225825391,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1225825391,
+    "wof:lastmodified":1537702657,
+    "wof:name":"Masangania",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.41051,
+    13.90432,
+    20.41051,
+    13.90432
+],
+  "geometry": {"coordinates":[20.41051,13.90432],"type":"Point"}
+}

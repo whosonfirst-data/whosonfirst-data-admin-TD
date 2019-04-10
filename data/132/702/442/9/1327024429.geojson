@@ -1,0 +1,71 @@
+{
+  "id": 1327024429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.04541,7.69898,16.04541,7.69898",
+    "geom:latitude":7.69898,
+    "geom:longitude":16.04541,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Pouraon",
+    "gn:country_code":"TD",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426147,
+    "gn:latitude":7.69898,
+    "gn:longitude":16.04541,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pouraon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pourien",
+        "Pouraon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426147
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"506eb25939a822816ba5d04176d89494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1327024429,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1327024429,
+    "wof:lastmodified":1537702703,
+    "wof:name":"Pouraon",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.04541,
+    7.69898,
+    16.04541,
+    7.69898
+],
+  "geometry": {"coordinates":[16.04541,7.69898],"type":"Point"}
+}

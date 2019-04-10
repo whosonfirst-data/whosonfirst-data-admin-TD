@@ -1,0 +1,71 @@
+{
+  "id": 1226034569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7131,7.7611,15.7131,7.7611",
+    "geom:latitude":7.7611,
+    "geom:longitude":15.7131,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dzingue",
+    "gn:country_code":"TD",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424068,
+    "gn:latitude":7.7611,
+    "gn:longitude":15.7131,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dzingu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zengue",
+        "Dzingu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424068
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4fd48368cf979bb98c2fca6026b50a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1226034569,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1226034569,
+    "wof:lastmodified":1537702689,
+    "wof:name":"Dzingue",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7131,
+    7.7611,
+    15.7131,
+    7.7611
+],
+  "geometry": {"coordinates":[15.7131,7.7611],"type":"Point"}
+}

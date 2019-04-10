@@ -1,0 +1,71 @@
+{
+  "id": 1276318843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92976,9.02151,15.92976,9.02151",
+    "geom:latitude":9.02151,
+    "geom:longitude":15.92976,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Guelouel",
+    "gn:country_code":"TD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432152,
+    "gn:latitude":9.02151,
+    "gn:longitude":15.92976,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gu\u00e9louel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00e9louel",
+        "Gu\u00e9louel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432152
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e3179251b815fe0103b70ff3374575fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900113,
+            "locality_id":1276318843,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1276318843,
+    "wof:lastmodified":1537702765,
+    "wof:name":"Guelouel",
+    "wof:parent_id":1091900113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92976,
+    9.02151,
+    15.92976,
+    9.02151
+],
+  "geometry": {"coordinates":[15.92976,9.02151],"type":"Point"}
+}

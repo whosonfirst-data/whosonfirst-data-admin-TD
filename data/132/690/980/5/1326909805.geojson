@@ -1,0 +1,71 @@
+{
+  "id": 1326909805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5746,10.8561,20.5746,10.8561",
+    "geom:latitude":10.8561,
+    "geom:longitude":20.5746,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Koubo Abou Azrak",
+    "gn:country_code":"TD",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243146,
+    "gn:latitude":10.8561,
+    "gn:longitude":20.5746,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koubo Abou Azrak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koubo Azrak",
+        "Koubo Abou Azrak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243146
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ec0ee0dc5b6052f1a76dae32477f1f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1326909805,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1326909805,
+    "wof:lastmodified":1537702662,
+    "wof:name":"Koubo Abou Azrak",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5746,
+    10.8561,
+    20.5746,
+    10.8561
+],
+  "geometry": {"coordinates":[20.5746,10.8561],"type":"Point"}
+}

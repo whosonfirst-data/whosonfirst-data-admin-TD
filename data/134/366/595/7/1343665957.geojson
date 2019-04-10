@@ -1,0 +1,67 @@
+{
+  "id": 1343665957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3413,13.0277,17.3413,13.0277",
+    "geom:latitude":13.0277,
+    "geom:longitude":17.3413,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Koudou",
+    "gn:country_code":"TD",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429809,
+    "gn:latitude":13.0277,
+    "gn:longitude":17.3413,
+    "gn:modification_date":"2008-09-15",
+    "gn:name":"Koudou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429809
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b5a6f17090a4ff91c921f8bb9353e462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1343665957,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1343665957,
+    "wof:lastmodified":1536947464,
+    "wof:name":"Koudou",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3413,
+    13.0277,
+    17.3413,
+    13.0277
+],
+  "geometry": {"coordinates":[17.3413,13.0277],"type":"Point"}
+}

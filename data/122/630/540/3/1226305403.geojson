@@ -1,0 +1,71 @@
+{
+  "id": 1226305403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1046,8.3479,18.1046,8.3479",
+    "geom:latitude":8.3479,
+    "geom:longitude":18.1046,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Maitera",
+    "gn:country_code":"TD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428668,
+    "gn:latitude":8.3479,
+    "gn:longitude":18.1046,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ma\u00eft\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahitoura",
+        "Ma\u00eft\u00e9ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428668
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"443623ee5891df73df17e445b8382340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1226305403,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1226305403,
+    "wof:lastmodified":1537702730,
+    "wof:name":"Maitera",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1046,
+    8.3479,
+    18.1046,
+    8.3479
+],
+  "geometry": {"coordinates":[18.1046,8.3479],"type":"Point"}
+}

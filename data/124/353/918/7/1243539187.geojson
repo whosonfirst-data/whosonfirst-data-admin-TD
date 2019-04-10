@@ -1,0 +1,70 @@
+{
+  "id": 1243539187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89919,8.78151,16.89919,8.78151",
+    "geom:latitude":8.78151,
+    "geom:longitude":16.89919,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bemoa",
+    "gn:country_code":"TD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435577,
+    "gn:latitude":8.78151,
+    "gn:longitude":16.89919,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9moa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9moa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435577
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"07b10eece8ae2515881c8b603c87e42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900157,
+            "locality_id":1243539187,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1243539187,
+    "wof:lastmodified":1537702801,
+    "wof:name":"Bemoa",
+    "wof:parent_id":1091900157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89919,
+    8.78151,
+    16.89919,
+    8.78151
+],
+  "geometry": {"coordinates":[16.89919,8.78151],"type":"Point"}
+}

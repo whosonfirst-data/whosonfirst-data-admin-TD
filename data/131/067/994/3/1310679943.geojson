@@ -1,0 +1,71 @@
+{
+  "id": 1310679943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5235,9.2169,16.5235,9.2169",
+    "geom:latitude":9.2169,
+    "geom:longitude":16.5235,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Koblade",
+    "gn:country_code":"TD",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431153,
+    "gn:latitude":9.2169,
+    "gn:longitude":16.5235,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koblade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koblade Nangdir",
+        "Koblade"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431153
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5fe5797ce8d295d4c72bd5ae954e5f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1310679943,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1310679943,
+    "wof:lastmodified":1537702753,
+    "wof:name":"Koblade",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5235,
+    9.2169,
+    16.5235,
+    9.2169
+],
+  "geometry": {"coordinates":[16.5235,9.2169],"type":"Point"}
+}

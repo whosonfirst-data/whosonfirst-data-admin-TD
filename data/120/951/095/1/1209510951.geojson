@@ -1,0 +1,65 @@
+{
+  "id": 1209510951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8846,8.0844,15.8846,8.0844",
+    "geom:latitude":8.0844,
+    "geom:longitude":15.8846,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Betabar Logone",
+    "gn:country_code":"TD",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435406,
+    "gn:latitude":8.0844,
+    "gn:longitude":15.8846,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9tabar Logone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9tabar Longone",
+        "B\u00e9tabar Logone"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435406
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b8a8934b5d20a84cdb7e75e797a8ef7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209510951
+        }
+    ],
+    "wof:id":1209510951,
+    "wof:lastmodified":1537702798,
+    "wof:name":"Betabar Logone",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8846,
+    8.0844,
+    15.8846,
+    8.0844
+],
+  "geometry": {"coordinates":[15.8846,8.0844],"type":"Point"}
+}

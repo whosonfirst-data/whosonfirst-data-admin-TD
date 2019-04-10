@@ -1,0 +1,61 @@
+{
+  "id": 1209075761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73333,10.1,15.73333,10.1",
+    "geom:latitude":10.1,
+    "geom:longitude":15.73333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Barka",
+    "gn:country_code":"TD",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435954,
+    "gn:latitude":10.1,
+    "gn:longitude":15.73333,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Barka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435954
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"476c8622f6ba1ed93ea22e8c5f4772e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209075761
+        }
+    ],
+    "wof:id":1209075761,
+    "wof:lastmodified":1536298499,
+    "wof:name":"Barka",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73333,
+    10.1,
+    15.73333,
+    10.1
+],
+  "geometry": {"coordinates":[15.73333,10.1],"type":"Point"}
+}

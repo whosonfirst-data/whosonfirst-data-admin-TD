@@ -1,0 +1,71 @@
+{
+  "id": 1310071103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.59763,7.96701,17.59763,7.96701",
+    "geom:latitude":7.96701,
+    "geom:longitude":17.59763,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Namle",
+    "gn:country_code":"TD",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427248,
+    "gn:latitude":7.96701,
+    "gn:longitude":17.59763,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Naml\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namil\u00e9",
+        "Naml\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427248
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5063629521b21b9df8b3b29971a7f164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1310071103,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1310071103,
+    "wof:lastmodified":1537702715,
+    "wof:name":"Namle",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.59763,
+    7.96701,
+    17.59763,
+    7.96701
+],
+  "geometry": {"coordinates":[17.59763,7.96701],"type":"Point"}
+}

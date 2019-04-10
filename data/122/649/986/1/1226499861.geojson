@@ -1,0 +1,67 @@
+{
+  "id": 1226499861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.71667,12.53333,21.71667,12.53333",
+    "geom:latitude":12.53333,
+    "geom:longitude":21.71667,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Baouda",
+    "gn:country_code":"TD",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245008,
+    "gn:latitude":12.53333,
+    "gn:longitude":21.71667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Baouda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245008
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"71bd9638c10b22ce3b1b6c5526b9be96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1226499861,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1226499861,
+    "wof:lastmodified":1537061573,
+    "wof:name":"Baouda",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.71667,
+    12.53333,
+    21.71667,
+    12.53333
+],
+  "geometry": {"coordinates":[21.71667,12.53333],"type":"Point"}
+}

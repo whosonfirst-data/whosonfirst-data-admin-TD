@@ -1,0 +1,67 @@
+{
+  "id": 1243286143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.54548,8.81138,16.54548,8.81138",
+    "geom:latitude":8.81138,
+    "geom:longitude":16.54548,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Poutoukouni",
+    "gn:country_code":"TD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426144,
+    "gn:latitude":8.81138,
+    "gn:longitude":16.54548,
+    "gn:modification_date":"2008-11-14",
+    "gn:name":"Poutoukouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426144
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"92e2cca3567392076105e7f136a7fb1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900177,
+            "locality_id":1243286143,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1243286143,
+    "wof:lastmodified":1537035137,
+    "wof:name":"Poutoukouni",
+    "wof:parent_id":1091900177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.54548,
+    8.81138,
+    16.54548,
+    8.81138
+],
+  "geometry": {"coordinates":[16.54548,8.81138],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327105371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67862,9.29674,15.67862,9.29674",
+    "geom:latitude":9.29674,
+    "geom:longitude":15.67862,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zabogo Agoudoum",
+    "gn:country_code":"TD",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424135,
+    "gn:latitude":9.29674,
+    "gn:longitude":15.67862,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Zabogo Agoudoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424135
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"234fdad145927fb69594f3a514890f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1327105371,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1327105371,
+    "wof:lastmodified":1536655300,
+    "wof:name":"Zabogo Agoudoum",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67862,
+    9.29674,
+    15.67862,
+    9.29674
+],
+  "geometry": {"coordinates":[15.67862,9.29674],"type":"Point"}
+}

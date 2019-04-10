@@ -1,0 +1,71 @@
+{
+  "id": 1292976059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38752,8.20209,17.38752,8.20209",
+    "geom:latitude":8.20209,
+    "geom:longitude":17.38752,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gonhongon",
+    "gn:country_code":"TD",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432009,
+    "gn:latitude":8.20209,
+    "gn:longitude":17.38752,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gonhongon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gohongon",
+        "Gonhongon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432009
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"22f5fa9788f0700fe1b3b1a99fc42821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1292976059,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1292976059,
+    "wof:lastmodified":1537702763,
+    "wof:name":"Gonhongon",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38752,
+    8.20209,
+    17.38752,
+    8.20209
+],
+  "geometry": {"coordinates":[17.38752,8.20209],"type":"Point"}
+}

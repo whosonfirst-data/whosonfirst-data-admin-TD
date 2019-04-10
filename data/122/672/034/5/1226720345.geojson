@@ -1,0 +1,67 @@
+{
+  "id": 1226720345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20873,11.86106,15.20873,11.86106",
+    "geom:latitude":11.86106,
+    "geom:longitude":15.20873,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gangi",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432313,
+    "gn:latitude":11.86106,
+    "gn:longitude":15.20873,
+    "gn:modification_date":"2008-05-28",
+    "gn:name":"Gangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432313
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b8a4d526d793f1935d67a777d142777c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1226720345,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1226720345,
+    "wof:lastmodified":1536752178,
+    "wof:name":"Gangi",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20873,
+    11.86106,
+    15.20873,
+    11.86106
+],
+  "geometry": {"coordinates":[15.20873,11.86106],"type":"Point"}
+}

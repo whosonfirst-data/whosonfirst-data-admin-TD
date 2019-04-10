@@ -1,0 +1,71 @@
+{
+  "id": 1259701411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3617,13.2264,18.3617,13.2264",
+    "geom:latitude":13.2264,
+    "geom:longitude":18.3617,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Abou Mbarid",
+    "gn:country_code":"TD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437570,
+    "gn:latitude":13.2264,
+    "gn:longitude":18.3617,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abou Mbarid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abou Mbard",
+        "Abou Mbarid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437570
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dd0557ad5fcd461e3b74b4f8222437d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1259701411,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1259701411,
+    "wof:lastmodified":1537702821,
+    "wof:name":"Abou Mbarid",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3617,
+    13.2264,
+    18.3617,
+    13.2264
+],
+  "geometry": {"coordinates":[18.3617,13.2264],"type":"Point"}
+}

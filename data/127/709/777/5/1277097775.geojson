@@ -1,0 +1,67 @@
+{
+  "id": 1277097775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9363,14.04064,13.9363,14.04064",
+    "geom:latitude":14.04064,
+    "geom:longitude":13.9363,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Karamgoboua",
+    "gn:country_code":"TD",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430776,
+    "gn:latitude":14.04064,
+    "gn:longitude":13.9363,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Karamgoboua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430776
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"189d2a8a9691c42d2071fd578054b977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1277097775,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1277097775,
+    "wof:lastmodified":1536745719,
+    "wof:name":"Karamgoboua",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9363,
+    14.04064,
+    13.9363,
+    14.04064
+],
+  "geometry": {"coordinates":[13.9363,14.04064],"type":"Point"}
+}

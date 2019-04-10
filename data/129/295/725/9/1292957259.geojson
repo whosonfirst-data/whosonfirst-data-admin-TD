@@ -1,0 +1,67 @@
+{
+  "id": 1292957259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71594,13.78495,15.71594,13.78495",
+    "geom:latitude":13.78495,
+    "geom:longitude":15.71594,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Galianga",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432388,
+    "gn:latitude":13.78495,
+    "gn:longitude":15.71594,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Galianga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432388
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3a6780a65fe297750482f9148b49cfb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901247,
+            "locality_id":1292957259,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1292957259,
+    "wof:lastmodified":1537052290,
+    "wof:name":"Galianga",
+    "wof:parent_id":1091901247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71594,
+    13.78495,
+    15.71594,
+    13.78495
+],
+  "geometry": {"coordinates":[15.71594,13.78495],"type":"Point"}
+}

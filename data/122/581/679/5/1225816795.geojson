@@ -1,0 +1,73 @@
+{
+  "id": 1225816795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.86811,9.52132,20.86811,9.52132",
+    "geom:latitude":9.52132,
+    "geom:longitude":20.86811,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Masembagn",
+    "gn:country_code":"TD",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242740,
+    "gn:latitude":9.52132,
+    "gn:longitude":20.86811,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Masembagn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mass\u00e8mbagne"
+    ],
+    "name:fra_x_variant":[
+        "Masembagn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242740
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7134a14e1fe58766d6041937884d94bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900659,
+            "locality_id":1225816795,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1225816795,
+    "wof:lastmodified":1537702657,
+    "wof:name":"Masembagn",
+    "wof:parent_id":1091900659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.86811,
+    9.52132,
+    20.86811,
+    9.52132
+],
+  "geometry": {"coordinates":[20.86811,9.52132],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209896367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.08823,13.43596,22.08823,13.43596",
+    "geom:latitude":13.43596,
+    "geom:longitude":22.08823,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Linye",
+    "gn:country_code":"TD",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242922,
+    "gn:latitude":13.43596,
+    "gn:longitude":22.08823,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Liny\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242922
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b9d72330466a2c0b7d965fb37b40f19d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1209896367,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1209896367,
+    "wof:lastmodified":1536388431,
+    "wof:name":"Linye",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.08823,
+    13.43596,
+    22.08823,
+    13.43596
+],
+  "geometry": {"coordinates":[22.08823,13.43596],"type":"Point"}
+}

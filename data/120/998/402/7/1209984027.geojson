@@ -1,0 +1,67 @@
+{
+  "id": 1209984027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23829,11.98859,22.23829,11.98859",
+    "geom:latitude":11.98859,
+    "geom:longitude":22.23829,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Djimez Arourou",
+    "gn:country_code":"TD",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244411,
+    "gn:latitude":11.98859,
+    "gn:longitude":22.23829,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Djim\u00e8z Arourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244411
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"857a4a1c9f52cfc0bdc789bd983a5764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1209984027,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1209984027,
+    "wof:lastmodified":1536389431,
+    "wof:name":"Djimez Arourou",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23829,
+    11.98859,
+    22.23829,
+    11.98859
+],
+  "geometry": {"coordinates":[22.23829,11.98859],"type":"Point"}
+}

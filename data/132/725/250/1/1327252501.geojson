@@ -1,0 +1,74 @@
+{
+  "id": 1327252501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47933,8.07397,16.47933,8.07397",
+    "geom:latitude":8.07397,
+    "geom:longitude":16.47933,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Beyer",
+    "gn:country_code":"TD",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435370,
+    "gn:latitude":8.07397,
+    "gn:longitude":16.47933,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Beyer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Beyer"
+    ],
+    "name:und_x_variant":[
+        "B\u00e9y\u00e9r\u00e9",
+        "Beyer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435370
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7af94780f8a77c7cb7389eba4f824ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899861,
+            "locality_id":1327252501,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1327252501,
+    "wof:lastmodified":1537702797,
+    "wof:name":"Beyer",
+    "wof:parent_id":1091899861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47932999999999,
+    8.07397,
+    16.47932999999999,
+    8.07397
+],
+  "geometry": {"coordinates":[16.47932999999999,8.07397],"type":"Point"}
+}

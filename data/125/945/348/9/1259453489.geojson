@@ -1,0 +1,67 @@
+{
+  "id": 1259453489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93658,12.08317,15.93658,12.08317",
+    "geom:latitude":12.08317,
+    "geom:longitude":15.93658,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ouelmehemet",
+    "gn:country_code":"TD",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426439,
+    "gn:latitude":12.08317,
+    "gn:longitude":15.93658,
+    "gn:modification_date":"2008-03-12",
+    "gn:name":"Ouelmehemet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426439
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"89429d658eb667a1d1e5b68222cb2925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1259453489,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1259453489,
+    "wof:lastmodified":1536902078,
+    "wof:name":"Ouelmehemet",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93658,
+    12.08317,
+    15.93658,
+    12.08317
+],
+  "geometry": {"coordinates":[15.93658,12.08317],"type":"Point"}
+}

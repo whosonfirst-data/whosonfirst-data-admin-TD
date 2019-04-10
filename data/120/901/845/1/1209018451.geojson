@@ -1,0 +1,65 @@
+{
+  "id": 1209018451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.55892,12.90312,17.55892,12.90312",
+    "geom:latitude":12.90312,
+    "geom:longitude":17.55892,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Moudoumou",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427524,
+    "gn:latitude":12.90312,
+    "gn:longitude":17.55892,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moudoumou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moudouma",
+        "Moudoumou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427524
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a240e163f95682e406a3194ecedf52f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209018451
+        }
+    ],
+    "wof:id":1209018451,
+    "wof:lastmodified":1537702718,
+    "wof:name":"Moudoumou",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.55892,
+    12.90312,
+    17.55892,
+    12.90312
+],
+  "geometry": {"coordinates":[17.55892,12.90312],"type":"Point"}
+}

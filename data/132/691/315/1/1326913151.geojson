@@ -1,0 +1,71 @@
+{
+  "id": 1326913151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33782,12.15725,15.33782,12.15725",
+    "geom:latitude":12.15725,
+    "geom:longitude":15.33782,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Abou Didi Kabir",
+    "gn:country_code":"TD",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437598,
+    "gn:latitude":12.15725,
+    "gn:longitude":15.33782,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abou Didi Kab\u00eer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abou Didi Kb\u00eer",
+        "Abou Didi Kab\u00eer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437598
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"52a6ceb4107b5f0aeef552a5bcb35b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1326913151,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1326913151,
+    "wof:lastmodified":1537702822,
+    "wof:name":"Abou Didi Kabir",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33782,
+    12.15725,
+    15.33782,
+    12.15725
+],
+  "geometry": {"coordinates":[15.33782,12.15725],"type":"Point"}
+}

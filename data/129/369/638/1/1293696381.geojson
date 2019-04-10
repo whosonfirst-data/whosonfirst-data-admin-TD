@@ -1,0 +1,70 @@
+{
+  "id": 1293696381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07711,13.53077,20.07711,13.53077",
+    "geom:latitude":13.53077,
+    "geom:longitude":20.07711,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Am Kouchou",
+    "gn:country_code":"TD",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245403,
+    "gn:latitude":13.53077,
+    "gn:longitude":20.07711,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Am Kouchou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Am Kouchou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245403
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"227588a88a5184edd72fc8a723fb083a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1293696381,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1293696381,
+    "wof:lastmodified":1537702682,
+    "wof:name":"Am Kouchou",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07711,
+    13.53077,
+    20.07711,
+    13.53077
+],
+  "geometry": {"coordinates":[20.07711,13.53077],"type":"Point"}
+}

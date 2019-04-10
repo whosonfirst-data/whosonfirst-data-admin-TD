@@ -1,0 +1,67 @@
+{
+  "id": 1293445257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6481,11.9964,21.6481,11.9964",
+    "geom:latitude":11.9964,
+    "geom:longitude":21.6481,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Koukou Bornou",
+    "gn:country_code":"TD",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243106,
+    "gn:latitude":11.9964,
+    "gn:longitude":21.6481,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Koukou Bornou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243106
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"69057f84c34d2a9fa47fac1e7ee233f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1293445257,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1293445257,
+    "wof:lastmodified":1536846976,
+    "wof:name":"Koukou Bornou",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6481,
+    11.9964,
+    21.6481,
+    11.9964
+],
+  "geometry": {"coordinates":[21.6481,11.9964],"type":"Point"}
+}

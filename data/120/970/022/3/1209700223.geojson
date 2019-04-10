@@ -1,0 +1,70 @@
+{
+  "id": 1209700223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0968,8.32,16.0968,8.32",
+    "geom:latitude":8.32,
+    "geom:longitude":16.0968,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mebita",
+    "gn:country_code":"TD",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428032,
+    "gn:latitude":8.32,
+    "gn:longitude":16.0968,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u00e9bita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "M\u00e9bita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428032
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"74082bb04e02010ebce5c8024cfc97f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1209700223,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1209700223,
+    "wof:lastmodified":1537702723,
+    "wof:name":"Mebita",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0968,
+    8.32,
+    16.0968,
+    8.32
+],
+  "geometry": {"coordinates":[16.0968,8.32],"type":"Point"}
+}

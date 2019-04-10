@@ -1,0 +1,67 @@
+{
+  "id": 1226157259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5627,13.151,18.5627,13.151",
+    "geom:latitude":13.151,
+    "geom:longitude":18.5627,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Baoda",
+    "gn:country_code":"TD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436020,
+    "gn:latitude":13.151,
+    "gn:longitude":18.5627,
+    "gn:modification_date":"2008-09-04",
+    "gn:name":"Baoda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436020
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a02174e39a809c9473c394b0ea5422b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1226157259,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1226157259,
+    "wof:lastmodified":1537058481,
+    "wof:name":"Baoda",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5627,
+    13.151,
+    18.5627,
+    13.151
+],
+  "geometry": {"coordinates":[18.5627,13.151],"type":"Point"}
+}

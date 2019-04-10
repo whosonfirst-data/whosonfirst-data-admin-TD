@@ -1,0 +1,67 @@
+{
+  "id": 1293854831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6862,9.3957,16.6862,9.3957",
+    "geom:latitude":9.3957,
+    "geom:longitude":16.6862,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Darbe",
+    "gn:country_code":"TD",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434165,
+    "gn:latitude":9.3957,
+    "gn:longitude":16.6862,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Darb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434165
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"eca2dd1c4c571a67c48be0faf225865e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1293854831,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1293854831,
+    "wof:lastmodified":1536754751,
+    "wof:name":"Darbe",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6862,
+    9.3957,
+    16.6862,
+    9.3957
+],
+  "geometry": {"coordinates":[16.6862,9.3957],"type":"Point"}
+}

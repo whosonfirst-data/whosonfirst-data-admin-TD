@@ -1,0 +1,70 @@
+{
+  "id": 1242564747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.64248,13.01477,21.64248,13.01477",
+    "geom:latitude":13.01477,
+    "geom:longitude":21.64248,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Guerdout",
+    "gn:country_code":"TD",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243948,
+    "gn:latitude":13.01477,
+    "gn:longitude":21.64248,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Guerdout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gerdout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243948
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8aba4dca5df363cd88c18d3e894172f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1242564747,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1242564747,
+    "wof:lastmodified":1537702670,
+    "wof:name":"Guerdout",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.64248,
+    13.01477,
+    21.64248,
+    13.01477
+],
+  "geometry": {"coordinates":[21.64248,13.01477],"type":"Point"}
+}

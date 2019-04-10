@@ -1,0 +1,81 @@
+{
+  "id": 1125988241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36597,9.36267,17.36597,9.36267",
+    "geom:latitude":9.36267,
+    "geom:longitude":17.36597,
+    "gn:gn_country":"TD",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10052,
+    "gn:population":10052,
+    "iso:country":"TD",
+    "lbl:latitude":9.36267,
+    "lbl:longitude":17.36597,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Gundi"
+    ],
+    "qs_pg:aaroncc":"TD",
+    "qs_pg:gn_country":"TD",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2431736,
+    "qs_pg:gn_pop":10052,
+    "qs_pg:name":"Goundi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":278648,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431736,
+        "qs_pg:id":278648
+    },
+    "wof:country":"TD",
+    "wof:created":1497298915,
+    "wof:geomhash":"b3839f7a9f9fdb535a45126e0ad94a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900193,
+            "locality_id":1125988241,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1125988241,
+    "wof:lastmodified":1509405214,
+    "wof:name":"Goundi",
+    "wof:parent_id":1091900193,
+    "wof:placetype":"locality",
+    "wof:population":10052,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36597,
+    9.36267,
+    17.36597,
+    9.36267
+],
+  "geometry": {"coordinates":[17.36597,9.36267],"type":"Point"}
+}

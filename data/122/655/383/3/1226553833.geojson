@@ -1,0 +1,71 @@
+{
+  "id": 1226553833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.618,13.7505,19.618,13.7505",
+    "geom:latitude":13.7505,
+    "geom:longitude":19.618,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kerezo",
+    "gn:country_code":"TD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430446,
+    "gn:latitude":13.7505,
+    "gn:longitude":19.618,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00e9r\u00e9zo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keresso",
+        "K\u00e9r\u00e9zo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430446
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"40d3808c8112f0dfa6e6778f57dbed05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1226553833,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1226553833,
+    "wof:lastmodified":1537702746,
+    "wof:name":"Kerezo",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.618,
+    13.7505,
+    19.618,
+    13.7505
+],
+  "geometry": {"coordinates":[19.618,13.7505],"type":"Point"}
+}

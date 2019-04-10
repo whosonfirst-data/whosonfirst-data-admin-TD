@@ -1,0 +1,71 @@
+{
+  "id": 1310173157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45,12.46667,20.45,12.46667",
+    "geom:latitude":12.46667,
+    "geom:longitude":20.45,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Idel Asat Saba",
+    "gn:country_code":"TD",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243638,
+    "gn:latitude":12.46667,
+    "gn:longitude":20.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Idel Asat Saba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Id el Asset",
+        "Idel Asat Saba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243638
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"49cc916337d4014308d0b3b89407bff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900983,
+            "locality_id":1310173157,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1310173157,
+    "wof:lastmodified":1537702666,
+    "wof:name":"Idel Asat Saba",
+    "wof:parent_id":1091900983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45,
+    12.46667,
+    20.45,
+    12.46667
+],
+  "geometry": {"coordinates":[20.45,12.46667],"type":"Point"}
+}

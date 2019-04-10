@@ -1,0 +1,71 @@
+{
+  "id": 1259675429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88688,13.56575,14.88688,13.56575",
+    "geom:latitude":13.56575,
+    "geom:longitude":14.88688,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Brea",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434548,
+    "gn:latitude":13.56575,
+    "gn:longitude":14.88688,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Br\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Br\u00e9a I",
+        "Br\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434548
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3547f73142ef54f610b54460f83cd492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1259675429,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1259675429,
+    "wof:lastmodified":1537702788,
+    "wof:name":"Brea",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88688,
+    13.56575,
+    14.88688,
+    13.56575
+],
+  "geometry": {"coordinates":[14.88688,13.56575],"type":"Point"}
+}

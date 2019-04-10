@@ -1,0 +1,67 @@
+{
+  "id": 1326591727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3064,9.7791,14.3064,9.7791",
+    "geom:latitude":9.7791,
+    "geom:longitude":14.3064,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Elbore Lanne",
+    "gn:country_code":"TD",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6869392,
+    "gn:latitude":9.7791,
+    "gn:longitude":14.3064,
+    "gn:modification_date":"2016-07-25",
+    "gn:name":"Elbore Lanne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6869392
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6a95f9f73834435c991731480824d13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900399,
+            "locality_id":1326591727,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1326591727,
+    "wof:lastmodified":1536898319,
+    "wof:name":"Elbore Lanne",
+    "wof:parent_id":1091900399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3064,
+    9.7791,
+    14.3064,
+    9.7791
+],
+  "geometry": {"coordinates":[14.3064,9.7791],"type":"Point"}
+}

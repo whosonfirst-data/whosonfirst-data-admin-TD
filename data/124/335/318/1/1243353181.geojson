@@ -1,0 +1,67 @@
+{
+  "id": 1243353181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.81049,7.98606,16.81049,7.98606",
+    "geom:latitude":7.98606,
+    "geom:longitude":16.81049,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gbembaya",
+    "gn:country_code":"TD",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432191,
+    "gn:latitude":7.98606,
+    "gn:longitude":16.81049,
+    "gn:modification_date":"2008-10-14",
+    "gn:name":"Gbembaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432191
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9e34ea653c41b3e5130090d600ba32ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899821,
+            "locality_id":1243353181,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1243353181,
+    "wof:lastmodified":1536940688,
+    "wof:name":"Gbembaya",
+    "wof:parent_id":1091899821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.81049,
+    7.98606,
+    16.81049,
+    7.98606
+],
+  "geometry": {"coordinates":[16.81049,7.98606],"type":"Point"}
+}

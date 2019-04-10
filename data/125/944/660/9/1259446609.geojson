@@ -1,0 +1,67 @@
+{
+  "id": 1259446609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.89329,9.65111,18.89329,9.65111",
+    "geom:latitude":9.65111,
+    "geom:longitude":18.89329,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Guimassa",
+    "gn:country_code":"TD",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431513,
+    "gn:latitude":9.65111,
+    "gn:longitude":18.89329,
+    "gn:modification_date":"2008-10-29",
+    "gn:name":"Guimassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431513
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cb02d75550f6104b4bde3e79f73e4890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1259446609,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1259446609,
+    "wof:lastmodified":1536912320,
+    "wof:name":"Guimassa",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.89329,
+    9.65111,
+    18.89329,
+    9.65111
+],
+  "geometry": {"coordinates":[18.89329,9.65111],"type":"Point"}
+}

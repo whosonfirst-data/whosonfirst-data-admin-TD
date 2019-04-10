@@ -1,0 +1,67 @@
+{
+  "id": 1310090959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28132,8.89077,16.28132,8.89077",
+    "geom:latitude":8.89077,
+    "geom:longitude":16.28132,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tagla I",
+    "gn:country_code":"TD",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6909355,
+    "gn:latitude":8.89077,
+    "gn:longitude":16.28132,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Tagla I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909355
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c78a6134f68fc3c40bcef4b33f0dd201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1310090959,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1310090959,
+    "wof:lastmodified":1537016810,
+    "wof:name":"Tagla I",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28132,
+    8.89077,
+    16.28132,
+    8.89077
+],
+  "geometry": {"coordinates":[16.28132,8.89077],"type":"Point"}
+}

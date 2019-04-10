@@ -1,0 +1,67 @@
+{
+  "id": 1260094427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.208,13.142,18.208,13.142",
+    "geom:latitude":13.142,
+    "geom:longitude":18.208,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hidjelidj",
+    "gn:country_code":"TD",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823631,
+    "gn:latitude":13.142,
+    "gn:longitude":18.208,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Hidj\u00e9lidj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823631
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e0fd7b04cd8cb0cdba8ff91e2b11cfb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1260094427,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1260094427,
+    "wof:lastmodified":1536971825,
+    "wof:name":"Hidjelidj",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.208,
+    13.142,
+    18.208,
+    13.142
+],
+  "geometry": {"coordinates":[18.208,13.142],"type":"Point"}
+}

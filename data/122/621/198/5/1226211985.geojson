@@ -1,0 +1,67 @@
+{
+  "id": 1226211985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7777,9.986,15.7777,9.986",
+    "geom:latitude":9.986,
+    "geom:longitude":15.7777,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Madoum",
+    "gn:country_code":"TD",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861042,
+    "gn:latitude":9.986,
+    "gn:longitude":15.7777,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Madoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861042
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"70532554c383d8e43e1f15cf90915c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1226211985,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1226211985,
+    "wof:lastmodified":1536981728,
+    "wof:name":"Madoum",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7777,
+    9.986,
+    15.7777,
+    9.986
+],
+  "geometry": {"coordinates":[15.7777,9.986],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293268067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88514,12.50556,15.88514,12.50556",
+    "geom:latitude":12.50556,
+    "geom:longitude":15.88514,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Al Alouis",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437277,
+    "gn:latitude":12.50556,
+    "gn:longitude":15.88514,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Alouis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Alaouis",
+        "Al Alouis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437277
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"982dd7a4b0b4e779791cbea5be345402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1293268067,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1293268067,
+    "wof:lastmodified":1537702819,
+    "wof:name":"Al Alouis",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88514,
+    12.50556,
+    15.88514,
+    12.50556
+],
+  "geometry": {"coordinates":[15.88514,12.50556],"type":"Point"}
+}

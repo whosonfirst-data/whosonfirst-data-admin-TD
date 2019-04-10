@@ -1,0 +1,67 @@
+{
+  "id": 1259959189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.6422,10.4208,19.6422,10.4208",
+    "geom:latitude":10.4208,
+    "geom:longitude":19.6422,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tiole Kabir",
+    "gn:country_code":"TD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424763,
+    "gn:latitude":10.4208,
+    "gn:longitude":19.6422,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Tiol\u00e9 Kabir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424763
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c4e57d2b92d7ba1f112604af8dcaa2a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1259959189,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1259959189,
+    "wof:lastmodified":1536670136,
+    "wof:name":"Tiole Kabir",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.6422,
+    10.4208,
+    19.6422,
+    10.4208
+],
+  "geometry": {"coordinates":[19.6422,10.4208],"type":"Point"}
+}

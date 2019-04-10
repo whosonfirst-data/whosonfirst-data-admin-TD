@@ -1,0 +1,67 @@
+{
+  "id": 1309888633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5604,11.1969,16.5604,11.1969",
+    "geom:latitude":11.1969,
+    "geom:longitude":16.5604,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Marie",
+    "gn:country_code":"TD",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428304,
+    "gn:latitude":11.1969,
+    "gn:longitude":16.5604,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Mari\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428304
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"745a471fb9c5558212f27db088af58b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1309888633,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1309888633,
+    "wof:lastmodified":1536811249,
+    "wof:name":"Marie",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5604,
+    11.1969,
+    16.5604,
+    11.1969
+],
+  "geometry": {"coordinates":[16.5604,11.1969],"type":"Point"}
+}

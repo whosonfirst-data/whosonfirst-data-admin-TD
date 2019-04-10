@@ -1,0 +1,71 @@
+{
+  "id": 1343624673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59856,12.62434,15.59856,12.62434",
+    "geom:latitude":12.62434,
+    "geom:longitude":15.59856,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Gansouza",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432296,
+    "gn:latitude":12.62434,
+    "gn:longitude":15.59856,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gansouza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gansouz",
+        "Gansouza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432296
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dd2cc5b77408c1d90a4d66807ae53659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1343624673,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1343624673,
+    "wof:lastmodified":1537702766,
+    "wof:name":"Gansouza",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59856,
+    12.62434,
+    15.59856,
+    12.62434
+],
+  "geometry": {"coordinates":[15.59856,12.62434],"type":"Point"}
+}

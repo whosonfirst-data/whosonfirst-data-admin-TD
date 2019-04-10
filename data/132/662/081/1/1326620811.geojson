@@ -1,0 +1,67 @@
+{
+  "id": 1326620811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6659,8.86069,15.6659,8.86069",
+    "geom:latitude":8.86069,
+    "geom:longitude":15.6659,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ndoukoura",
+    "gn:country_code":"TD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427098,
+    "gn:latitude":8.86069,
+    "gn:longitude":15.6659,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Ndoukoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427098
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e6f6ac9966ed3cc7bc27c2d0c322b6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900057,
+            "locality_id":1326620811,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1326620811,
+    "wof:lastmodified":1536855127,
+    "wof:name":"Ndoukoura",
+    "wof:parent_id":1091900057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6659,
+    8.86069,
+    15.6659,
+    8.86069
+],
+  "geometry": {"coordinates":[15.6659,8.86069],"type":"Point"}
+}

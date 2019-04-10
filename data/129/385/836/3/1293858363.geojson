@@ -1,0 +1,72 @@
+{
+  "id": 1293858363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8596,8.8646,14.8596,8.8646",
+    "geom:latitude":8.8646,
+    "geom:longitude":14.8596,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Oindaga",
+    "gn:country_code":"TD",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426682,
+    "gn:latitude":8.8646,
+    "gn:longitude":14.8596,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oindaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wa\u00eflega",
+        "Wil\u00e9ka",
+        "Oindaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426682
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"be578be9b8b2219ce7a59163310c797b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1293858363,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1293858363,
+    "wof:lastmodified":1537702708,
+    "wof:name":"Oindaga",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8596,
+    8.8646,
+    14.8596,
+    8.8646
+],
+  "geometry": {"coordinates":[14.8596,8.8646],"type":"Point"}
+}

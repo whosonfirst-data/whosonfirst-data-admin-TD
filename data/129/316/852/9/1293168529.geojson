@@ -1,0 +1,67 @@
+{
+  "id": 1293168529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16667,12.91667,20.16667,12.91667",
+    "geom:latitude":12.91667,
+    "geom:longitude":20.16667,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Khibeche",
+    "gn:country_code":"TD",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243320,
+    "gn:latitude":12.91667,
+    "gn:longitude":20.16667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Khibeche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243320
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fc088b3be1e88c06984eac641d3135f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900983,
+            "locality_id":1293168529,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1293168529,
+    "wof:lastmodified":1536749945,
+    "wof:name":"Khibeche",
+    "wof:parent_id":1091900983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16667,
+    12.91667,
+    20.16667,
+    12.91667
+],
+  "geometry": {"coordinates":[20.16667,12.91667],"type":"Point"}
+}

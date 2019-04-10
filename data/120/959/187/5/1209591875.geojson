@@ -1,0 +1,61 @@
+{
+  "id": 1209591875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.73798,8.8139,18.73798,8.8139",
+    "geom:latitude":8.8139,
+    "geom:longitude":18.73798,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mbata",
+    "gn:country_code":"TD",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857183,
+    "gn:latitude":8.8139,
+    "gn:longitude":18.73798,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Mbata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857183
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"40573e17fb3a3535194075934c33ebb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209591875
+        }
+    ],
+    "wof:id":1209591875,
+    "wof:lastmodified":1536282452,
+    "wof:name":"Mbata",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.73798,
+    8.8139,
+    18.73798,
+    8.8139
+],
+  "geometry": {"coordinates":[18.73798,8.8139],"type":"Point"}
+}

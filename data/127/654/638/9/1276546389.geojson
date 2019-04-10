@@ -1,0 +1,67 @@
+{
+  "id": 1276546389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.6328,12.6894,19.6328,12.6894",
+    "geom:latitude":12.6894,
+    "geom:longitude":19.6328,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Labado",
+    "gn:country_code":"TD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6853322,
+    "gn:latitude":12.6894,
+    "gn:longitude":19.6328,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Labado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6853322
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d35e72636dc2f9b2e57120708224ee69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900939,
+            "locality_id":1276546389,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1276546389,
+    "wof:lastmodified":1536989691,
+    "wof:name":"Labado",
+    "wof:parent_id":1091900939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.6328,
+    12.6894,
+    19.6328,
+    12.6894
+],
+  "geometry": {"coordinates":[19.6328,12.6894],"type":"Point"}
+}

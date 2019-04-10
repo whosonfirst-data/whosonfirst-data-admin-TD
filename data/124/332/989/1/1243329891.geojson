@@ -1,0 +1,71 @@
+{
+  "id": 1243329891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82295,12.38289,15.82295,12.38289",
+    "geom:latitude":12.38289,
+    "geom:longitude":15.82295,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Anouara",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436685,
+    "gn:latitude":12.38289,
+    "gn:longitude":15.82295,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anouar",
+        "Anouara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436685
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2a002a824f8c2a72a2422e5e20da86e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1243329891,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1243329891,
+    "wof:lastmodified":1537702814,
+    "wof:name":"Anouara",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82295,
+    12.38289,
+    15.82295,
+    12.38289
+],
+  "geometry": {"coordinates":[15.82295,12.38289],"type":"Point"}
+}

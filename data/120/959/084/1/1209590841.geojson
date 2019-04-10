@@ -1,0 +1,66 @@
+{
+  "id": 1209590841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08434,8.23147,18.08434,8.23147",
+    "geom:latitude":8.23147,
+    "geom:longitude":18.08434,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bekain",
+    "gn:country_code":"TD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435704,
+    "gn:latitude":8.23147,
+    "gn:longitude":18.08434,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9kain",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beka\u00efa",
+        "Bekoli",
+        "B\u00e9kain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435704
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"409d5162d487a360dcde3c725ad07b84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209590841
+        }
+    ],
+    "wof:id":1209590841,
+    "wof:lastmodified":1537702803,
+    "wof:name":"Bekain",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08434,
+    8.23147,
+    18.08434,
+    8.23147
+],
+  "geometry": {"coordinates":[18.08434,8.23147],"type":"Point"}
+}

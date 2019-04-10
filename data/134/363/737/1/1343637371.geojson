@@ -1,0 +1,71 @@
+{
+  "id": 1343637371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49018,12.50323,15.49018,12.50323",
+    "geom:latitude":12.50323,
+    "geom:longitude":15.49018,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Madjaldi",
+    "gn:country_code":"TD",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428895,
+    "gn:latitude":12.50323,
+    "gn:longitude":15.49018,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Madjaldi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madjiabi",
+        "Madjaldi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428895
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0e292df7154cecb06f3340aeea8abdc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1343637371,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1343637371,
+    "wof:lastmodified":1537702733,
+    "wof:name":"Madjaldi",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49018,
+    12.50323,
+    15.49018,
+    12.50323
+],
+  "geometry": {"coordinates":[15.49018,12.50323],"type":"Point"}
+}

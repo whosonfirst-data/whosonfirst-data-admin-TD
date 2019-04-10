@@ -1,0 +1,70 @@
+{
+  "id": 1309792929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91534,13.69867,20.91534,13.69867",
+    "geom:latitude":13.69867,
+    "geom:longitude":20.91534,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Douban",
+    "gn:country_code":"TD",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244313,
+    "gn:latitude":13.69867,
+    "gn:longitude":20.91534,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Douban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Douban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244313
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c36c4314c98da0b14e467bbb9632bf82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1309792929,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1309792929,
+    "wof:lastmodified":1537702673,
+    "wof:name":"Douban",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91534,
+    13.69867,
+    20.91534,
+    13.69867
+],
+  "geometry": {"coordinates":[20.91534,13.69867],"type":"Point"}
+}

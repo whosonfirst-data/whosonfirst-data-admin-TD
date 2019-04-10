@@ -1,0 +1,67 @@
+{
+  "id": 1344079553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0491,12.0514,19.0491,12.0514",
+    "geom:latitude":12.0514,
+    "geom:longitude":19.0491,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Garnisa",
+    "gn:country_code":"TD",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432230,
+    "gn:latitude":12.0514,
+    "gn:longitude":19.0491,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"Garnisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432230
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5ee252c65238c37b5592f9ef58b0015a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900821,
+            "locality_id":1344079553,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1344079553,
+    "wof:lastmodified":1536847006,
+    "wof:name":"Garnisa",
+    "wof:parent_id":1091900821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.0491,
+    12.0514,
+    19.0491,
+    12.0514
+],
+  "geometry": {"coordinates":[19.0491,12.0514],"type":"Point"}
+}

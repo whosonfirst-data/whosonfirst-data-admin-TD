@@ -1,0 +1,67 @@
+{
+  "id": 1259553057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15974,10.63615,15.15974,10.63615",
+    "geom:latitude":10.63615,
+    "geom:longitude":15.15974,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mogodi",
+    "gn:country_code":"TD",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427720,
+    "gn:latitude":10.63615,
+    "gn:longitude":15.15974,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Mogodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427720
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8ef8e3985ddac1130f9e9056744a646c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1259553057,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1259553057,
+    "wof:lastmodified":1536758969,
+    "wof:name":"Mogodi",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15974,
+    10.63615,
+    15.15974,
+    10.63615
+],
+  "geometry": {"coordinates":[15.15974,10.63615],"type":"Point"}
+}

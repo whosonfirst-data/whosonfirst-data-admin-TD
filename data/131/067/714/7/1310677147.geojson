@@ -1,0 +1,67 @@
+{
+  "id": 1310677147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.20783,8.49219,18.20783,8.49219",
+    "geom:latitude":8.49219,
+    "geom:longitude":18.20783,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Maingara",
+    "gn:country_code":"TD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857256,
+    "gn:latitude":8.49219,
+    "gn:longitude":18.20783,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ma\u00efngara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091899945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857256
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"86bb6a0439cd4025f9ad4f33ddd17ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899945,
+            "locality_id":1310677147,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1310677147,
+    "wof:lastmodified":1536669333,
+    "wof:name":"Maingara",
+    "wof:parent_id":1091899945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.20783,
+    8.49219,
+    18.20783,
+    8.49219
+],
+  "geometry": {"coordinates":[18.20783,8.49219],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310181107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71667,12.86667,14.71667,12.86667",
+    "geom:latitude":12.86667,
+    "geom:longitude":14.71667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Germana",
+    "gn:country_code":"TD",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432130,
+    "gn:latitude":12.86667,
+    "gn:longitude":14.71667,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Germana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Germana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432130
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fade79c49abdcfbcc9f9d97b07652f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1310181107,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1310181107,
+    "wof:lastmodified":1537702764,
+    "wof:name":"Germana",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71667,
+    12.86667,
+    14.71667,
+    12.86667
+],
+  "geometry": {"coordinates":[14.71667,12.86667],"type":"Point"}
+}

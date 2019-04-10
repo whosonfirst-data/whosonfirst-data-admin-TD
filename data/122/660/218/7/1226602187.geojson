@@ -1,0 +1,72 @@
+{
+  "id": 1226602187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7861,11.8507,20.7861,11.8507",
+    "geom:latitude":11.8507,
+    "geom:longitude":20.7861,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Idjelidje",
+    "gn:country_code":"TD",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243630,
+    "gn:latitude":11.8507,
+    "gn:longitude":20.7861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Idj\u00e9lidj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hajelije",
+        "Hadj\u00e9lidj\u00e9",
+        "Idj\u00e9lidj\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243630
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"86503de283f692513fd0c5fa33a78188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900983,
+            "locality_id":1226602187,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1226602187,
+    "wof:lastmodified":1537702666,
+    "wof:name":"Idjelidje",
+    "wof:parent_id":1091900983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7861,
+    11.8507,
+    20.7861,
+    11.8507
+],
+  "geometry": {"coordinates":[20.7861,11.8507],"type":"Point"}
+}

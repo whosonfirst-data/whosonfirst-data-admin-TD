@@ -1,0 +1,67 @@
+{
+  "id": 1209824169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73333,15.76667,22.73333,15.76667",
+    "geom:latitude":15.76667,
+    "geom:longitude":22.73333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kourdi",
+    "gn:country_code":"TD",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243048,
+    "gn:latitude":15.76667,
+    "gn:longitude":22.73333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kourdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        1108808535,
+        1091901809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243048
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8cec147cd6b4f5b4093d56b5ed081793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901809,
+            "locality_id":1209824169,
+            "region_id":1108808535
+        }
+    ],
+    "wof:id":1209824169,
+    "wof:lastmodified":1536375493,
+    "wof:name":"Kourdi",
+    "wof:parent_id":1091901809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73333,
+    15.76667,
+    22.73333,
+    15.76667
+],
+  "geometry": {"coordinates":[22.73333,15.76667],"type":"Point"}
+}

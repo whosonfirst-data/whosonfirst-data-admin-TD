@@ -1,0 +1,67 @@
+{
+  "id": 1226715501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0543,8.363,18.0543,8.363",
+    "geom:latitude":8.363,
+    "geom:longitude":18.0543,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kaba Kibi",
+    "gn:country_code":"TD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431171,
+    "gn:latitude":8.363,
+    "gn:longitude":18.0543,
+    "gn:modification_date":"2008-10-10",
+    "gn:name":"Kaba Kibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431171
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"13579673830766760c84d199c32e6b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1226715501,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1226715501,
+    "wof:lastmodified":1536759466,
+    "wof:name":"Kaba Kibi",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0543,
+    8.363,
+    18.0543,
+    8.363
+],
+  "geometry": {"coordinates":[18.0543,8.363],"type":"Point"}
+}

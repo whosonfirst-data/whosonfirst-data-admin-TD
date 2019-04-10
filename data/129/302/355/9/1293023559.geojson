@@ -1,0 +1,67 @@
+{
+  "id": 1293023559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5469,12.9003,19.5469,12.9003",
+    "geom:latitude":12.9003,
+    "geom:longitude":19.5469,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Belil Doungous",
+    "gn:country_code":"TD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435627,
+    "gn:latitude":12.9003,
+    "gn:longitude":19.5469,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"B\u00e9lil Doungous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435627
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8cdb4a14ccc4cd3e2681b8c2f5aadf48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900939,
+            "locality_id":1293023559,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1293023559,
+    "wof:lastmodified":1536958882,
+    "wof:name":"Belil Doungous",
+    "wof:parent_id":1091900939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5469,
+    12.9003,
+    19.5469,
+    12.9003
+],
+  "geometry": {"coordinates":[19.5469,12.9003],"type":"Point"}
+}

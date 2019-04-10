@@ -1,0 +1,67 @@
+{
+  "id": 1309981907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35483,12.45103,15.35483,12.45103",
+    "geom:latitude":12.45103,
+    "geom:longitude":15.35483,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Abdobo",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437682,
+    "gn:latitude":12.45103,
+    "gn:longitude":15.35483,
+    "gn:modification_date":"2008-02-11",
+    "gn:name":"Abdobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437682
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a42d8335103ed07408d2c1f496429609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1309981907,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1309981907,
+    "wof:lastmodified":1536677368,
+    "wof:name":"Abdobo",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35483,
+    12.45103,
+    15.35483,
+    12.45103
+],
+  "geometry": {"coordinates":[15.35483,12.45103],"type":"Point"}
+}

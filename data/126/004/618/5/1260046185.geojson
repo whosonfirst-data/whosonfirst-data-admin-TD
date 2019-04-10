@@ -1,0 +1,67 @@
+{
+  "id": 1260046185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.14976,12.45667,17.14976,12.45667",
+    "geom:latitude":12.45667,
+    "geom:longitude":17.14976,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Gaser",
+    "gn:country_code":"TD",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6842357,
+    "gn:latitude":12.45667,
+    "gn:longitude":17.14976,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Gaser",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6842357
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ffc71425140ccb4597c3dd492ed980df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1260046185,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1260046185,
+    "wof:lastmodified":1537040192,
+    "wof:name":"Gaser",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.14976,
+    12.45667,
+    17.14976,
+    12.45667
+],
+  "geometry": {"coordinates":[17.14976,12.45667],"type":"Point"}
+}

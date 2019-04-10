@@ -1,0 +1,70 @@
+{
+  "id": 1259395301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31667,14.81667,21.31667,14.81667",
+    "geom:latitude":14.81667,
+    "geom:longitude":21.31667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Silmara",
+    "gn:country_code":"TD",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241946,
+    "gn:latitude":14.81667,
+    "gn:longitude":21.31667,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Silmara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Silmara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241946
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b0e610afca440415696ca7808643b4d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901409,
+            "locality_id":1259395301,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1259395301,
+    "wof:lastmodified":1537702651,
+    "wof:name":"Silmara",
+    "wof:parent_id":1091901409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31667,
+    14.81667,
+    21.31667,
+    14.81667
+],
+  "geometry": {"coordinates":[21.31667,14.81667],"type":"Point"}
+}

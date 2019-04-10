@@ -1,0 +1,67 @@
+{
+  "id": 1343867795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.6547,13.9244,19.6547,13.9244",
+    "geom:latitude":13.9244,
+    "geom:longitude":19.6547,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Djombo",
+    "gn:country_code":"TD",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433512,
+    "gn:latitude":13.9244,
+    "gn:longitude":19.6547,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Djombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433512
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6f5b9b3ebda8024ea52e39a739980bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1343867795,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1343867795,
+    "wof:lastmodified":1536655989,
+    "wof:name":"Djombo",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.6547,
+    13.9244,
+    19.6547,
+    13.9244
+],
+  "geometry": {"coordinates":[19.6547,13.9244],"type":"Point"}
+}

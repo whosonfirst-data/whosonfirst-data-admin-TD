@@ -1,0 +1,67 @@
+{
+  "id": 1226725141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36667,8.63333,17.36667,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":17.36667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gameli",
+    "gn:country_code":"TD",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432354,
+    "gn:latitude":8.63333,
+    "gn:longitude":17.36667,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Gam\u00e9li",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091899975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432354
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"64f5be689d29682d3328321280b896c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899975,
+            "locality_id":1226725141,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1226725141,
+    "wof:lastmodified":1536744960,
+    "wof:name":"Gameli",
+    "wof:parent_id":1091899975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36667000000001,
+    8.63333,
+    17.36667000000001,
+    8.63333
+],
+  "geometry": {"coordinates":[17.36667000000001,8.63333],"type":"Point"}
+}

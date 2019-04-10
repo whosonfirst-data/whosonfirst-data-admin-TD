@@ -1,0 +1,67 @@
+{
+  "id": 1209900641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.799,8.0833,15.799,8.0833",
+    "geom:latitude":8.0833,
+    "geom:longitude":15.799,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Memar",
+    "gn:country_code":"TD",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427931,
+    "gn:latitude":8.0833,
+    "gn:longitude":15.799,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"M\u00e8mar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427931
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c39a1b548f777e842c65fc3bd74a9476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1209900641,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1209900641,
+    "wof:lastmodified":1536386592,
+    "wof:name":"Memar",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.799,
+    8.0833,
+    15.799,
+    8.0833
+],
+  "geometry": {"coordinates":[15.799,8.0833],"type":"Point"}
+}

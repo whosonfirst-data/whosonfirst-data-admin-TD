@@ -1,0 +1,67 @@
+{
+  "id": 1343928107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5226,10.5442,16.5226,10.5442",
+    "geom:latitude":10.5442,
+    "geom:longitude":16.5226,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mafaling Sara",
+    "gn:country_code":"TD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428855,
+    "gn:latitude":10.5442,
+    "gn:longitude":16.5226,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Mafaling Sara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428855
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b0090101a3fd32c78ee6c8536f4c32b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900595,
+            "locality_id":1343928107,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1343928107,
+    "wof:lastmodified":1537063954,
+    "wof:name":"Mafaling Sara",
+    "wof:parent_id":1091900595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5226,
+    10.5442,
+    16.5226,
+    10.5442
+],
+  "geometry": {"coordinates":[16.5226,10.5442],"type":"Point"}
+}

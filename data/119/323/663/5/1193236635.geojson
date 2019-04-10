@@ -1,0 +1,70 @@
+{
+  "id": 1193236635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.02108,17.89088,19.02108,17.89088",
+    "geom:latitude":17.89088,
+    "geom:longitude":19.02108,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kouri",
+    "gn:country_code":"TD",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7009611,
+    "gn:latitude":17.89088,
+    "gn:longitude":19.02108,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Kouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kouri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678501,
+        1091901887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7009611
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0d00eabec4ad19dfc7c552ae1b080cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901887,
+            "locality_id":1193236635,
+            "region_id":85678501
+        }
+    ],
+    "wof:id":1193236635,
+    "wof:lastmodified":1537702826,
+    "wof:name":"Kouri",
+    "wof:parent_id":1091901887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.02108,
+    17.89088,
+    19.02108,
+    17.89088
+],
+  "geometry": {"coordinates":[19.02108,17.89088],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310488705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99847,13.24882,21.99847,13.24882",
+    "geom:latitude":13.24882,
+    "geom:longitude":21.99847,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mandesi",
+    "gn:country_code":"TD",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242808,
+    "gn:latitude":13.24882,
+    "gn:longitude":21.99847,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Mand\u00e9si",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242808
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"16955a95142436fa8ceb2284d0fb9216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1310488705,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1310488705,
+    "wof:lastmodified":1536941752,
+    "wof:name":"Mandesi",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99847,
+    13.24882,
+    21.99847,
+    13.24882
+],
+  "geometry": {"coordinates":[21.99847,13.24882],"type":"Point"}
+}

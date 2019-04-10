@@ -1,0 +1,71 @@
+{
+  "id": 1259844295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2185,8.5204,15.2185,8.5204",
+    "geom:latitude":8.5204,
+    "geom:longitude":15.2185,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Domannbeidaye",
+    "gn:country_code":"TD",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433289,
+    "gn:latitude":8.5204,
+    "gn:longitude":15.2185,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Domannbeiday\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Domanbeiday\u00e9",
+        "Domannbeiday\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433289
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e1357596fa1658fcb87eeae8ea38a1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1259844295,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1259844295,
+    "wof:lastmodified":1537702775,
+    "wof:name":"Domannbeidaye",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2185,
+    8.5204,
+    15.2185,
+    8.5204
+],
+  "geometry": {"coordinates":[15.2185,8.5204],"type":"Point"}
+}

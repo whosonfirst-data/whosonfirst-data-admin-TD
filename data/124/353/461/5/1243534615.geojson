@@ -1,0 +1,67 @@
+{
+  "id": 1243534615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5,12.95,21.5,12.95",
+    "geom:latitude":12.95,
+    "geom:longitude":21.5,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Karoup",
+    "gn:country_code":"TD",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243433,
+    "gn:latitude":12.95,
+    "gn:longitude":21.5,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Karoup",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243433
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1c014f545e1c21473ed90b144a160539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901035,
+            "locality_id":1243534615,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1243534615,
+    "wof:lastmodified":1536678501,
+    "wof:name":"Karoup",
+    "wof:parent_id":1091901035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5,
+    12.95,
+    21.5,
+    12.95
+],
+  "geometry": {"coordinates":[21.5,12.95],"type":"Point"}
+}

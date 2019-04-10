@@ -1,0 +1,65 @@
+{
+  "id": 1209695189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9802,11.47,20.9802,11.47",
+    "geom:latitude":11.47,
+    "geom:longitude":20.9802,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dengui",
+    "gn:country_code":"TD",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244559,
+    "gn:latitude":11.47,
+    "gn:longitude":20.9802,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dengui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dengi",
+        "Dengui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244559
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5cfc8cabb6aafe175d61417d39c626a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209695189
+        }
+    ],
+    "wof:id":1209695189,
+    "wof:lastmodified":1537702675,
+    "wof:name":"Dengui",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9802,
+    11.47,
+    20.9802,
+    11.47
+],
+  "geometry": {"coordinates":[20.9802,11.47],"type":"Point"}
+}

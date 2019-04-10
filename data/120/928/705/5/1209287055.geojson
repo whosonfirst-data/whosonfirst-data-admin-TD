@@ -1,0 +1,61 @@
+{
+  "id": 1209287055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8086,9.9231,14.8086,9.9231",
+    "geom:latitude":9.9231,
+    "geom:longitude":14.8086,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bilou",
+    "gn:country_code":"TD",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435252,
+    "gn:latitude":9.9231,
+    "gn:longitude":14.8086,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Bilou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435252
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"277f02604d356a7a6b14874b818953eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209287055
+        }
+    ],
+    "wof:id":1209287055,
+    "wof:lastmodified":1536291823,
+    "wof:name":"Bilou",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8086,
+    9.9231,
+    14.8086,
+    9.9231
+],
+  "geometry": {"coordinates":[14.8086,9.9231],"type":"Point"}
+}

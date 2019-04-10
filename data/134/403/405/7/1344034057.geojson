@@ -1,0 +1,67 @@
+{
+  "id": 1344034057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.723,12.04899,19.723,12.04899",
+    "geom:latitude":12.04899,
+    "geom:longitude":19.723,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Djiodat",
+    "gn:country_code":"TD",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433559,
+    "gn:latitude":12.04899,
+    "gn:longitude":19.723,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"Djiodat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433559
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8105dd033a55f5e41fd97ca1fa7cc58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900707,
+            "locality_id":1344034057,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1344034057,
+    "wof:lastmodified":1536914265,
+    "wof:name":"Djiodat",
+    "wof:parent_id":1091900707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.723,
+    12.04899,
+    19.723,
+    12.04899
+],
+  "geometry": {"coordinates":[19.723,12.04899],"type":"Point"}
+}

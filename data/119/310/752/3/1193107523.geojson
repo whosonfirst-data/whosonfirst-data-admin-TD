@@ -1,0 +1,71 @@
+{
+  "id": 1193107523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26064,11.55196,15.26064,11.55196",
+    "geom:latitude":11.55196,
+    "geom:longitude":15.26064,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gonari",
+    "gn:country_code":"TD",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431965,
+    "gn:latitude":11.55196,
+    "gn:longitude":15.26064,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gonari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonari",
+        "Gonari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431965
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"84a835d8e9a5e2bf178881afd546d07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1193107523,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1193107523,
+    "wof:lastmodified":1537702762,
+    "wof:name":"Gonari",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26064,
+    11.55196,
+    15.26064,
+    11.55196
+],
+  "geometry": {"coordinates":[15.26064,11.55196],"type":"Point"}
+}

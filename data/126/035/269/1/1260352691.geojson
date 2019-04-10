@@ -1,0 +1,67 @@
+{
+  "id": 1260352691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.70153,9.86383,17.70153,9.86383",
+    "geom:latitude":9.86383,
+    "geom:longitude":17.70153,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gardjim",
+    "gn:country_code":"TD",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432248,
+    "gn:latitude":9.86383,
+    "gn:longitude":17.70153,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Gardjim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432248
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bdc7ce57faaedeb7ff32b96930b3c419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1260352691,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1260352691,
+    "wof:lastmodified":1536617100,
+    "wof:name":"Gardjim",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.70152999999999,
+    9.86383,
+    17.70152999999999,
+    9.86383
+],
+  "geometry": {"coordinates":[17.70152999999999,9.86383],"type":"Point"}
+}

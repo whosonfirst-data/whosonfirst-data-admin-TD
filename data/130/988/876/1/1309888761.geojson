@@ -1,0 +1,67 @@
+{
+  "id": 1309888761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4226,11.60188,15.4226,11.60188",
+    "geom:latitude":11.60188,
+    "geom:longitude":15.4226,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Madogore",
+    "gn:country_code":"TD",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428874,
+    "gn:latitude":11.60188,
+    "gn:longitude":15.4226,
+    "gn:modification_date":"2008-05-29",
+    "gn:name":"Madogor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428874
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"21fdcd705baaedba8846e97475ec1ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1309888761,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1309888761,
+    "wof:lastmodified":1536811069,
+    "wof:name":"Madogore",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4226,
+    11.60188,
+    15.4226,
+    11.60188
+],
+  "geometry": {"coordinates":[15.4226,11.60188],"type":"Point"}
+}

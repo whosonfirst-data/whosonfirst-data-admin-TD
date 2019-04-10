@@ -1,0 +1,71 @@
+{
+  "id": 1343844449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64698,11.3592,20.64698,11.3592",
+    "geom:latitude":11.3592,
+    "geom:longitude":20.64698,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Alguiez",
+    "gn:country_code":"TD",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245584,
+    "gn:latitude":11.3592,
+    "gn:longitude":20.64698,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alguiez",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Algiez",
+        "Alguiez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245584
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0858a5f2f00cb569511effbb4010f5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1343844449,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1343844449,
+    "wof:lastmodified":1537702685,
+    "wof:name":"Alguiez",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64698,
+    11.3592,
+    20.64698,
+    11.3592
+],
+  "geometry": {"coordinates":[20.64698,11.3592],"type":"Point"}
+}

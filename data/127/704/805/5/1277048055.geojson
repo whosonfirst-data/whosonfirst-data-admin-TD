@@ -1,0 +1,67 @@
+{
+  "id": 1277048055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96328,10.2999,15.96328,10.2999",
+    "geom:latitude":10.2999,
+    "geom:longitude":15.96328,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Motomoro Bongoursou",
+    "gn:country_code":"TD",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427539,
+    "gn:latitude":10.2999,
+    "gn:longitude":15.96328,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Motomoro Bongoursou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427539
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4d25bcbe5f4792a16a497ca33b996129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1277048055,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1277048055,
+    "wof:lastmodified":1536814952,
+    "wof:name":"Motomoro Bongoursou",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96328,
+    10.2999,
+    15.96328,
+    10.2999
+],
+  "geometry": {"coordinates":[15.96328,10.2999],"type":"Point"}
+}

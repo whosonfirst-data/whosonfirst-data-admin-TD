@@ -1,0 +1,73 @@
+{
+  "id": 1360167625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15,11.26667,16.15,11.26667",
+    "geom:latitude":11.26667,
+    "geom:longitude":16.15,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Griouali",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431595,
+    "gn:latitude":11.26667,
+    "gn:longitude":16.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Griouali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grou\u00e9li",
+        "Griou\u00e9li",
+        "Griouali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431595
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"27b045f179bdd4beb4f0f4808714f1b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1360167625,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1360167625,
+    "wof:lastmodified":1537702758,
+    "wof:name":"Griouali",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15,
+    11.26667,
+    16.15,
+    11.26667
+],
+  "geometry": {"coordinates":[16.15,11.26667],"type":"Point"}
+}

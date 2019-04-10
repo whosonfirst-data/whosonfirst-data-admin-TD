@@ -1,0 +1,67 @@
+{
+  "id": 1360149593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4921,9.4788,14.4921,9.4788",
+    "geom:latitude":9.4788,
+    "geom:longitude":14.4921,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bikouloum",
+    "gn:country_code":"TD",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435299,
+    "gn:latitude":9.4788,
+    "gn:longitude":14.4921,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Bikouloum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435299
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"873603518afc02ef20f1ec7dcbdbf092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900399,
+            "locality_id":1360149593,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1360149593,
+    "wof:lastmodified":1536851640,
+    "wof:name":"Bikouloum",
+    "wof:parent_id":1091900399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4921,
+    9.4788,
+    14.4921,
+    9.4788
+],
+  "geometry": {"coordinates":[14.4921,9.4788],"type":"Point"}
+}

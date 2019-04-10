@@ -1,0 +1,67 @@
+{
+  "id": 1326717395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2,12.78333,21.2,12.78333",
+    "geom:latitude":12.78333,
+    "geom:longitude":21.2,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Andila Karib",
+    "gn:country_code":"TD",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245315,
+    "gn:latitude":12.78333,
+    "gn:longitude":21.2,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Andila Karib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245315
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9e135c87e3d15139e5f0398c0cf1ab05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901035,
+            "locality_id":1326717395,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1326717395,
+    "wof:lastmodified":1536717511,
+    "wof:name":"Andila Karib",
+    "wof:parent_id":1091901035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2,
+    12.78333,
+    21.2,
+    12.78333
+],
+  "geometry": {"coordinates":[21.2,12.78333],"type":"Point"}
+}

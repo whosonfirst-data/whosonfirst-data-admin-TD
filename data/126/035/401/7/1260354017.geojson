@@ -1,0 +1,67 @@
+{
+  "id": 1260354017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0744,9.5194,15.0744,9.5194",
+    "geom:latitude":9.5194,
+    "geom:longitude":15.0744,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mbrim",
+    "gn:country_code":"TD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428041,
+    "gn:latitude":9.5194,
+    "gn:longitude":15.0744,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Mbrim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428041
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0793e532376c942b81d9f440f2a71f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1260354017,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1260354017,
+    "wof:lastmodified":1536615178,
+    "wof:name":"Mbrim",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0744,
+    9.5194,
+    15.0744,
+    9.5194
+],
+  "geometry": {"coordinates":[15.0744,9.5194],"type":"Point"}
+}

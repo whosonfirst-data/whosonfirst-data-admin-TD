@@ -1,0 +1,71 @@
+{
+  "id": 1310326409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82875,13.42425,14.82875,13.42425",
+    "geom:latitude":13.42425,
+    "geom:longitude":14.82875,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ngueo",
+    "gn:country_code":"TD",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426956,
+    "gn:latitude":13.42425,
+    "gn:longitude":14.82875,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngu\u00e9o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ng\u00e9o",
+        "Ngu\u00e9o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426956
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"115470a5c806bdc53b310465237d90c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1310326409,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1310326409,
+    "wof:lastmodified":1537702711,
+    "wof:name":"Ngueo",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82875,
+    13.42425,
+    14.82875,
+    13.42425
+],
+  "geometry": {"coordinates":[14.82875,13.42425],"type":"Point"}
+}

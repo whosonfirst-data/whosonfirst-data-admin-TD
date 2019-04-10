@@ -1,0 +1,71 @@
+{
+  "id": 1226132229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.548,7.8818,15.548,7.8818",
+    "geom:latitude":7.8818,
+    "geom:longitude":15.548,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Larabaguang",
+    "gn:country_code":"TD",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429217,
+    "gn:latitude":7.8818,
+    "gn:longitude":15.548,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Larabaguang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lara Bagana",
+        "Larabaguang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429217
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fa488e72d798e4a15fff5c3249f0d19c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1226132229,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1226132229,
+    "wof:lastmodified":1537702735,
+    "wof:name":"Larabaguang",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.548,
+    7.8818,
+    15.548,
+    7.8818
+],
+  "geometry": {"coordinates":[15.548,7.8818],"type":"Point"}
+}

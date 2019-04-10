@@ -1,0 +1,67 @@
+{
+  "id": 1209179015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8521,9.3594,14.8521,9.3594",
+    "geom:latitude":9.3594,
+    "geom:longitude":14.8521,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Erde",
+    "gn:country_code":"TD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432847,
+    "gn:latitude":9.3594,
+    "gn:longitude":14.8521,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Erd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "End\u00e9",
+        "Ird\u00e9",
+        "Erd\u00e9 Tch\u00e9o",
+        "Erd\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432847
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ba808820dc39f1bb413104b20cb67b8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209179015
+        }
+    ],
+    "wof:id":1209179015,
+    "wof:lastmodified":1537702771,
+    "wof:name":"Erde",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8521,
+    9.3594,
+    14.8521,
+    9.3594
+],
+  "geometry": {"coordinates":[14.8521,9.3594],"type":"Point"}
+}

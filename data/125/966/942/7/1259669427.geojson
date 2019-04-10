@@ -1,0 +1,67 @@
+{
+  "id": 1259669427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78264,8.643,15.78264,8.643",
+    "geom:latitude":8.643,
+    "geom:longitude":15.78264,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gari",
+    "gn:country_code":"TD",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432238,
+    "gn:latitude":8.643,
+    "gn:longitude":15.78264,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Gari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432238
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b47694a8914879d1e36e3d806464e0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1259669427,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1259669427,
+    "wof:lastmodified":1537084128,
+    "wof:name":"Gari",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78264,
+    8.643,
+    15.78264,
+    8.643
+],
+  "geometry": {"coordinates":[15.78264,8.643],"type":"Point"}
+}

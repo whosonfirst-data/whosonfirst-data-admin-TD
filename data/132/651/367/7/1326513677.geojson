@@ -1,0 +1,67 @@
+{
+  "id": 1326513677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.79943,9.07463,15.79943,9.07463",
+    "geom:latitude":9.07463,
+    "geom:longitude":15.79943,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Serem Ogodo",
+    "gn:country_code":"TD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425707,
+    "gn:latitude":9.07463,
+    "gn:longitude":15.79943,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Serem Ogodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425707
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f80598b49cd51508764f917ff843dbae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1326513677,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1326513677,
+    "wof:lastmodified":1537010135,
+    "wof:name":"Serem Ogodo",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.79943,
+    9.07463,
+    15.79943,
+    9.07463
+],
+  "geometry": {"coordinates":[15.79943,9.07463],"type":"Point"}
+}

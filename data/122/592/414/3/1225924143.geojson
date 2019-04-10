@@ -1,0 +1,70 @@
+{
+  "id": 1225924143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.409,13.98803,20.409,13.98803",
+    "geom:latitude":13.98803,
+    "geom:longitude":20.409,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Am Djimeze",
+    "gn:country_code":"TD",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245469,
+    "gn:latitude":13.98803,
+    "gn:longitude":20.409,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Am Djim\u00e9z\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Am Djim\u00e9z\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245469
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f141885a698e9504fcb27b021b61e468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1225924143,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1225924143,
+    "wof:lastmodified":1537702683,
+    "wof:name":"Am Djimeze",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.409,
+    13.98803,
+    20.409,
+    13.98803
+],
+  "geometry": {"coordinates":[20.409,13.98803],"type":"Point"}
+}

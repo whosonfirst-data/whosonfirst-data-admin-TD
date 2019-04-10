@@ -1,0 +1,67 @@
+{
+  "id": 1293268057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.88221,12.93825,16.88221,12.93825",
+    "geom:latitude":12.93825,
+    "geom:longitude":16.88221,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Iseni",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806517,
+    "gn:latitude":12.93825,
+    "gn:longitude":16.88221,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Iseni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806517
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"627be9cdee38acb059c000c10ecac03b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1293268057,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1293268057,
+    "wof:lastmodified":1536603345,
+    "wof:name":"Iseni",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.88221,
+    12.93825,
+    16.88221,
+    12.93825
+],
+  "geometry": {"coordinates":[16.88221,12.93825],"type":"Point"}
+}

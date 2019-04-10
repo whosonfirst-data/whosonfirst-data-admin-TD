@@ -1,0 +1,71 @@
+{
+  "id": 1243524829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18505,11.48839,15.18505,11.48839",
+    "geom:latitude":11.48839,
+    "geom:longitude":15.18505,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Youa Youa",
+    "gn:country_code":"TD",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424192,
+    "gn:latitude":11.48839,
+    "gn:longitude":15.18505,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Youa Youa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iwa-Iwa",
+        "Youa Youa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424192
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"549fdc4b43b7cf09c87ef029b0a0d2e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1243524829,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1243524829,
+    "wof:lastmodified":1537702690,
+    "wof:name":"Youa Youa",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18505,
+    11.48839,
+    15.18505,
+    11.48839
+],
+  "geometry": {"coordinates":[15.18505,11.48839],"type":"Point"}
+}

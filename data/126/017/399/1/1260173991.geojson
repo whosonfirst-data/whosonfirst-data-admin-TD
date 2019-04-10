@@ -1,0 +1,67 @@
+{
+  "id": 1260173991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1838,14.0254,14.1838,14.0254",
+    "geom:latitude":14.0254,
+    "geom:longitude":14.1838,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Moge",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427729,
+    "gn:latitude":14.0254,
+    "gn:longitude":14.1838,
+    "gn:modification_date":"2008-03-27",
+    "gn:name":"Mog\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427729
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e31a647ef58abaea2a2b1aa28436f69e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1260173991,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1260173991,
+    "wof:lastmodified":1536859629,
+    "wof:name":"Moge",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1838,
+    14.0254,
+    14.1838,
+    14.0254
+],
+  "geometry": {"coordinates":[14.1838,14.0254],"type":"Point"}
+}

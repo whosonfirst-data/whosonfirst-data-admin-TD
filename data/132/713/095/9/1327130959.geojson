@@ -1,0 +1,67 @@
+{
+  "id": 1327130959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01667,13.13333,15.01667,13.13333",
+    "geom:latitude":13.13333,
+    "geom:longitude":15.01667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kandea",
+    "gn:country_code":"TD",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430888,
+    "gn:latitude":13.13333,
+    "gn:longitude":15.01667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kand\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430888
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8efafaaf74d131092e602fef36d4d72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1327130959,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1327130959,
+    "wof:lastmodified":1536615917,
+    "wof:name":"Kandea",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01667,
+    13.13333,
+    15.01667,
+    13.13333
+],
+  "geometry": {"coordinates":[15.01667,13.13333],"type":"Point"}
+}

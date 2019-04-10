@@ -1,0 +1,67 @@
+{
+  "id": 1225827415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60525,10.2175,15.60525,10.2175",
+    "geom:latitude":10.2175,
+    "geom:longitude":15.60525,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Matchaka",
+    "gn:country_code":"TD",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428173,
+    "gn:latitude":10.2175,
+    "gn:longitude":15.60525,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Matchaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428173
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1a40258714e7aef04da18a60b1622ecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1225827415,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1225827415,
+    "wof:lastmodified":1537038470,
+    "wof:name":"Matchaka",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60525,
+    10.2175,
+    15.60525,
+    10.2175
+],
+  "geometry": {"coordinates":[15.60525,10.2175],"type":"Point"}
+}

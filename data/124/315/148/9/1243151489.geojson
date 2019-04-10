@@ -1,0 +1,71 @@
+{
+  "id": 1243151489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.6957,10.1802,19.6957,10.1802",
+    "geom:latitude":10.1802,
+    "geom:longitude":19.6957,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Al Ghachghacha",
+    "gn:country_code":"TD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437102,
+    "gn:latitude":10.1802,
+    "gn:longitude":19.6957,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Ghachghacha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Rhachrhacha",
+        "Al Ghachghacha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437102
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1ca8ee89cab179dbfed2d5e6c9991012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1243151489,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1243151489,
+    "wof:lastmodified":1537702817,
+    "wof:name":"Al Ghachghacha",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.6957,
+    10.1802,
+    19.6957,
+    10.1802
+],
+  "geometry": {"coordinates":[19.6957,10.1802],"type":"Point"}
+}

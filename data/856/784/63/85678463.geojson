@@ -1,0 +1,317 @@
+{
+  "id": 85678463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.490852,
+    "geom:area_square_m":29943064387.237339,
+    "geom:bbox":"20.0559663397,12.6349713683,22.2939663397,14.4139713683",
+    "geom:latitude":13.540252,
+    "geom:longitude":21.159607,
+    "gn:population":738647,
+    "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Ouadda\u00ef Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "lbl:latitude":13.419086,
+    "lbl:longitude":21.250053,
+    "meso:name_local":"Ouadda\u00ef",
+    "mps:latitude":13.469459,
+    "mps:longitude":21.14002,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.6,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0648\u062f\u0627\u064a"
+    ],
+    "name:baq_x_preferred":[
+        "Ouadda\u00ef"
+    ],
+    "name:ben_x_preferred":[
+        "\u0989\u09af\u09bc\u09be\u09a1\u09be\u09af\u09bc \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0430\u0434\u0430\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Regi\u00f3 d'Ouadda\u00ef"
+    ],
+    "name:chi_x_preferred":[
+        "\u74e6\u9054\u4f0a\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Ouadda\u00ef"
+    ],
+    "name:deu_x_preferred":[
+        "Region Wadai"
+    ],
+    "name:dut_x_preferred":[
+        "Ouadda\u00ef"
+    ],
+    "name:eng_x_preferred":[
+        "Ouada\u00ef Region"
+    ],
+    "name:eng_x_variant":[
+        "Ouada\u00ef",
+        "Ouadda\u00ef",
+        "Ouadda\u00ef Region"
+    ],
+    "name:est_x_preferred":[
+        "Ouadda\u00ef piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Ouadda\u00ef"
+    ],
+    "name:fin_x_preferred":[
+        "Ouadda\u00ef"
+    ],
+    "name:fra_x_preferred":[
+        "Ouadda\u00ef"
+    ],
+    "name:fra_x_unknown":[
+        "OD"
+    ],
+    "name:fra_x_variant":[
+        "Ouaddai",
+        "R\u00e9gion du Ouadda\u00ef"
+    ],
+    "name:fre_x_preferred":[
+        "Ouadda\u00ef"
+    ],
+    "name:ger_x_preferred":[
+        "Region Wadai"
+    ],
+    "name:gre_x_preferred":[
+        "\u039f\u03c5\u03b1\u03bd\u03c4\u03ac\u03b9"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a94\u0aa1\u0abe\u0a87 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0921\u093e\u0908 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Region Ouadda\u00ef"
+    ],
+    "name:ita_x_preferred":[
+        "regione di Ouadda\u00ef"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30c0\u30a4\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c92\u0cb5\u0cbe\u0ca1\u0ccd\u0ca1\u0cc8 \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc640\ub2e4\uc774 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Vadaji re\u0123ions"
+    ],
+    "name:lit_x_preferred":[
+        "Vadajaus regionas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0909\u0921\u0921\u093e\u0908 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Ouaddai Region"
+    ],
+    "name:nob_x_preferred":[
+        "Ouadda\u00ef"
+    ],
+    "name:pol_x_preferred":[
+        "Region Wadaj"
+    ],
+    "name:por_x_preferred":[
+        "Ouadda\u00ef"
+    ],
+    "name:rum_x_preferred":[
+        "Regiunea Ouadda\u00ef"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0434\u0434\u0430\u0439"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d94\u0d8b\u0daf\u0daf\u0dcf\u0dba\u0dd2 \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Regi\u00f3n de Ouadda\u00ef"
+    ],
+    "name:swe_x_preferred":[
+        "Ouadda\u00ef"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b93\u0baf\u0b9f\u0bc8 \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c13\u0c35\u0c21\u0c3e\u0c2f\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e31\u0e27\u0e44\u0e14"
+    ],
+    "name:tur_x_preferred":[
+        "Ouadda\u00ef B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0434\u0434\u0430\u0439"
+    ],
+    "name:unk_x_variant":[
+        "R\u00e9gion du Ouaddat"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0627\u062f\u0627\u06cc \u0639\u0644\u0627\u0642\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Khu v\u1ef1c Ouaddai"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TCD",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TCD-1475",
+    "ne:adm1_code":"TCD-1475",
+    "ne:admin":"Chad",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"TD.OA",
+    "ne:code_local":"",
+    "ne:datarank":"7",
+    "ne:diss_me":"1475",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"CD12",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Chad",
+    "ne:gn_a1_code":"TD.12",
+    "ne:gn_id":"242246",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Ouaddai Region",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"CD12",
+    "ne:gns_id":"-1102511",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ouaddai, Region du",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TCD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TD-",
+    "ne:iso_a2":"TD",
+    "ne:labelrank":"4",
+    "ne:latitude":"13.47140000000",
+    "ne:longitude":"21.10680000000",
+    "ne:mapcolor13":6,
+    "ne:mapcolor9":8,
+    "ne:name":"Ouadda\u00ef",
+    "ne:name_alt":"Ouaddai|Ouada\u00ef",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"OA",
+    "ne:provnum_ne":"7",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"4",
+    "ne:sov_a3":"TCD",
+    "ne:sub_code":"",
+    "ne:type":"Pr\u00e9fecture",
+    "ne:type_en":"Prefecture",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Ouadda%C3%AF_Region",
+    "ne:woe_id":2344956,
+    "ne:woe_label":"Ouaddai, TD, Chad",
+    "ne:woe_name":"Ouadda\u00ef",
+    "qs:a0":"Chad",
+    "qs:a0_lc":"TD",
+    "qs:a1":"Ouadda\u00ef",
+    "qs:a1_lc":"TCD-1475",
+    "qs:adm0":"Chad",
+    "qs:adm0_a3":"TCD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Prefecture",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2009-06-20",
+    "statoids:area_km":"76,240",
+    "statoids:area_mi":"29,440",
+    "statoids:as_of_date":"2009-06-20",
+    "statoids:capital":"Ab\u00e9ch\u00e9",
+    "statoids:country":"TD",
+    "statoids:gec":"CD12",
+    "statoids:hasc":"TD.OA",
+    "statoids:iso":"OD",
+    "statoids:name":"Ouadda\u00ef",
+    "statoids:population":"731679",
+    "statoids:timezone":"+1",
+    "statoids:type":"region",
+    "wof:belongsto":[
+        102191573,
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"CD12",
+        "gn:id":242246,
+        "gp:id":2344956,
+        "hasc:id":"TD.OA",
+        "iso:id":"TD-OD",
+        "qs:id":219523,
+        "wd:id":"Q841338",
+        "wk:page":"Ouadda\u00ef Region"
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d0bede083dbadb4c8794c3fc983a7956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":85678463,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lang_x_official":[
+        "fra",
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ara"
+    ],
+    "wof:lastmodified":1553814827,
+    "wof:name":"Ouadda\u00ef",
+    "wof:parent_id":85632325,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"region",
+    "wof:population":731679,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:shortcode":"OA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05596633973258,
+    12.63497136831216,
+    22.29396633973259,
+    14.41397136831213
+],
+  "geometry": {"coordinates":[[[22.19396633973265,13.91797136831217],[22.08396633973263,13.7789713683121],[22.1389663397326,13.72797136831217],[22.13396633973261,13.66997136831214],[22.15396633973265,13.63397136831217],[22.22496633973262,13.57197136831212],[22.22896633973265,13.50897136831211],[22.23196633973263,13.4739713683121],[22.24596633973263,13.44297136831212],[22.28496633973258,13.39297136831215],[22.29396633973259,13.38297136831217],[22.29396633973259,13.3589713683121],[22.26896633973265,13.32097136831212],[22.19196633973263,13.24297136831214],[22.1599663397326,13.18997136831211],[22.10396633973259,13.17097136831212],[22.07596633973258,13.15097136831216],[22.02496633973265,13.13997136831214],[21.94296633973264,13.05397136831211],[21.93896633973262,13.02397136831217],[21.90996633973265,12.98997136831213],[21.88396633973266,12.93697136831218],[21.84196633973265,12.81497136831218],[21.83096633973262,12.80397136831215],[21.82596633973263,12.80597136831217],[21.77596633973257,12.81597136831214],[21.74296633973258,12.82597136831212],[21.68096633973261,12.86097136831213],[21.64496633973265,12.84497136831211],[21.59796633973265,12.82697136831217],[21.53896633973257,12.80797136831218],[21.48396633973261,12.77797136831216],[21.43996633973259,12.73397136831214],[21.41996633973264,12.7209713683121],[21.38696633973264,12.67797136831213],[21.35796633973258,12.64697136831215],[21.3129663397326,12.66497136831218],[21.26896633973258,12.67197136831218],[21.2239663397326,12.66997136831217],[21.13896633973262,12.64897136831216],[21.11096633973261,12.64897136831216],[21.08696633973263,12.63497136831216],[21.02196633973261,12.65797136831218],[20.93196633973264,12.69397136831214],[20.92896633973258,12.75197136831217],[20.94096633973265,12.79997136831213],[20.91496633973257,12.85297136831216],[20.88696633973265,12.85797136831215],[20.84496633973264,12.86597136831212],[20.79096633973265,12.88597136831216],[20.7639663397326,12.88797136831217],[20.77296633973262,12.93197136831211],[20.76296633973264,12.97797136831214],[20.76296633973264,13.01697136831217],[20.66196633973264,13.00897136831212],[20.61296633973264,13.00897136831212],[20.53996633973264,13.0119713683121],[20.44696633973261,13.02897136831216],[20.35796633973261,13.05897136831218],[20.36896633973264,13.3309713683121],[20.36396633973265,13.42097136831216],[20.31396633973259,13.52897136831215],[20.27596633973261,13.58597136831213],[20.26696633973259,13.61297136831217],[20.27596633973261,13.67097136831211],[20.2949663397326,13.75497136831212],[20.26796633973264,13.82897136831216],[20.05596633973258,13.95597136831215],[20.06196633973262,14.08197136831218],[20.13626633973261,14.15807136831216],[20.18736633973266,14.22907136831213],[20.2104663397326,14.26007136831211],[20.24146633973258,14.29917136831216],[20.2886663397326,14.32517136831216],[20.35776633973258,14.38617136831216],[20.48666633973266,14.37627136831211],[20.53296633973265,14.39797136831212],[20.60596633973263,14.41397136831213],[20.66196633973264,14.39497136831214],[20.71796633973257,14.37897136831213],[20.76696633973258,14.36697136831214],[20.84596633973261,14.31997136831214],[20.92296633973262,14.24997136831212],[20.96196633973257,14.19697136831218],[21.00496633973263,14.15297136831215],[21.03196633973258,14.14197136831213],[21.08396633973257,14.13897136831215],[21.10796633973263,14.12897136831218],[21.14196633973259,14.09597136831218],[21.17396633973262,14.04397136831211],[21.25296633973265,14.03897136831212],[21.31396633973265,14.06797136831218],[21.38196633973266,14.11097136831215],[21.43696633973261,14.12597136831211],[21.50396633973266,14.11497136831217],[21.55496633973259,14.10097136831217],[21.58496633973261,14.09897136831216],[21.67096633973264,14.09197136831216],[21.77796633973259,14.05997136831212],[21.98296633973264,14.0019713683121],[22.01796633973265,13.98897136831215],[22.08896633973262,13.96797136831214],[22.12996633973258,13.94697136831214],[22.17196633973259,13.91797136831217],[22.19396633973265,13.91797136831217]]],"type":"Polygon"}
+}

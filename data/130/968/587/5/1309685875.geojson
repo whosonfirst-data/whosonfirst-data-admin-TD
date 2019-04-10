@@ -1,0 +1,67 @@
+{
+  "id": 1309685875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1828,9.2491,16.1828,9.2491",
+    "geom:latitude":9.2491,
+    "geom:longitude":16.1828,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dabgue Mbassa",
+    "gn:country_code":"TD",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434360,
+    "gn:latitude":9.2491,
+    "gn:longitude":16.1828,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Dabgu\u00e9 Mbassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091901691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434360
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"11a77eb9d79786d8259b9d6e4a33dc3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901691,
+            "locality_id":1309685875,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1309685875,
+    "wof:lastmodified":1536604054,
+    "wof:name":"Dabgue Mbassa",
+    "wof:parent_id":1091901691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1828,
+    9.2491,
+    16.1828,
+    9.2491
+],
+  "geometry": {"coordinates":[16.1828,9.2491],"type":"Point"}
+}

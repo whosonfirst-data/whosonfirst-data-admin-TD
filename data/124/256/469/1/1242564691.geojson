@@ -1,0 +1,70 @@
+{
+  "id": 1242564691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.29978,13.64195,20.29978,13.64195",
+    "geom:latitude":13.64195,
+    "geom:longitude":20.29978,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Djeli",
+    "gn:country_code":"TD",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244443,
+    "gn:latitude":13.64195,
+    "gn:longitude":20.29978,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Dj\u00e9li",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dj\u00e9li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244443
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fdfc6d9bc4f7954629716395815ea006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1242564691,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1242564691,
+    "wof:lastmodified":1537702674,
+    "wof:name":"Djeli",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.29978,
+    13.64195,
+    20.29978,
+    13.64195
+],
+  "geometry": {"coordinates":[20.29978,13.64195],"type":"Point"}
+}

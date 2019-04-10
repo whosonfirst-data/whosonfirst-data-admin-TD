@@ -1,0 +1,71 @@
+{
+  "id": 1360163613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8843,9.5028,15.8843,9.5028",
+    "geom:latitude":9.5028,
+    "geom:longitude":15.8843,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tchire Mandjojo",
+    "gn:country_code":"TD",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425090,
+    "gn:latitude":9.5028,
+    "gn:longitude":15.8843,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tchire Mandjojo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchir\u00e9 Mandodjo",
+        "Tchire Mandjojo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425090
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9315d67b87327e466f6c32700ef462aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1360163613,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1360163613,
+    "wof:lastmodified":1537702695,
+    "wof:name":"Tchire Mandjojo",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8843,
+    9.5028,
+    15.8843,
+    9.5028
+],
+  "geometry": {"coordinates":[15.8843,9.5028],"type":"Point"}
+}

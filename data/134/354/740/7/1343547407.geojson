@@ -1,0 +1,70 @@
+{
+  "id": 1343547407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16549,9.88455,21.16549,9.88455",
+    "geom:latitude":9.88455,
+    "geom:longitude":21.16549,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Aibe",
+    "gn:country_code":"TD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245621,
+    "gn:latitude":9.88455,
+    "gn:longitude":21.16549,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00efb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "A\u00efb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245621
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6b7f21a7e225272bd428c741abada1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900659,
+            "locality_id":1343547407,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1343547407,
+    "wof:lastmodified":1537702686,
+    "wof:name":"Aibe",
+    "wof:parent_id":1091900659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16549,
+    9.88455,
+    21.16549,
+    9.88455
+],
+  "geometry": {"coordinates":[21.16549,9.88455],"type":"Point"}
+}

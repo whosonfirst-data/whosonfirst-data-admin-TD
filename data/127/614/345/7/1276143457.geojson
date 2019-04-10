@@ -1,0 +1,67 @@
+{
+  "id": 1276143457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6,13.81667,14.6,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":14.6,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mbar",
+    "gn:country_code":"TD",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428091,
+    "gn:latitude":13.81667,
+    "gn:longitude":14.6,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Mbar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428091
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"16057317b8463d4beb50a4ed7c838db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1276143457,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1276143457,
+    "wof:lastmodified":1537031788,
+    "wof:name":"Mbar",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6,
+    13.81667,
+    14.6,
+    13.81667
+],
+  "geometry": {"coordinates":[14.6,13.81667],"type":"Point"}
+}

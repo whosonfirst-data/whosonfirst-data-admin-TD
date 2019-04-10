@@ -1,0 +1,67 @@
+{
+  "id": 1310400121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71667,13.41667,14.71667,13.41667",
+    "geom:latitude":13.41667,
+    "geom:longitude":14.71667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koremirom",
+    "gn:country_code":"TD",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429976,
+    "gn:latitude":13.41667,
+    "gn:longitude":14.71667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kor\u00e9mirom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429976
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"58cb9c508bd689933190d6169381cc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1310400121,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1310400121,
+    "wof:lastmodified":1537066136,
+    "wof:name":"Koremirom",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71667,
+    13.41667,
+    14.71667,
+    13.41667
+],
+  "geometry": {"coordinates":[14.71667,13.41667],"type":"Point"}
+}

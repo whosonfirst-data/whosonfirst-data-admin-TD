@@ -1,0 +1,72 @@
+{
+  "id": 1242791951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3,13.48333,18.3,13.48333",
+    "geom:latitude":13.48333,
+    "geom:longitude":18.3,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Grea",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431611,
+    "gn:latitude":13.48333,
+    "gn:longitude":18.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gr\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gr\u00e9e",
+        "Gr\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431611
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"74471ed20c2c3acad871a05eaf75270f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1242791951,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1242791951,
+    "wof:lastmodified":1537702758,
+    "wof:name":"Grea",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3,
+    13.48333,
+    18.3,
+    13.48333
+],
+  "geometry": {"coordinates":[18.3,13.48333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327311061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35,12.75,21.35,12.75",
+    "geom:latitude":12.75,
+    "geom:longitude":21.35,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Absidere Djado",
+    "gn:country_code":"TD",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245707,
+    "gn:latitude":12.75,
+    "gn:longitude":21.35,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Absid\u00e9r\u00e9 Djado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245707
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6e2dd18be454f0f1dd22b74c4c8644bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901035,
+            "locality_id":1327311061,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1327311061,
+    "wof:lastmodified":1536854940,
+    "wof:name":"Absidere Djado",
+    "wof:parent_id":1091901035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35,
+    12.75,
+    21.35,
+    12.75
+],
+  "geometry": {"coordinates":[21.35,12.75],"type":"Point"}
+}

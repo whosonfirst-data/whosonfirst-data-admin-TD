@@ -1,0 +1,70 @@
+{
+  "id": 1276875539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97946,14.52544,21.97946,14.52544",
+    "geom:latitude":14.52544,
+    "geom:longitude":21.97946,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nakassa",
+    "gn:country_code":"TD",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11526942,
+    "gn:latitude":14.52544,
+    "gn:longitude":21.97946,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Nakassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nakassa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11526942
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"16f6726c12c4386a61cab5a53b86a991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":1276875539,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1276875539,
+    "wof:lastmodified":1537702827,
+    "wof:name":"Nakassa",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97946,
+    14.52544,
+    21.97946,
+    14.52544
+],
+  "geometry": {"coordinates":[21.97946,14.52544],"type":"Point"}
+}

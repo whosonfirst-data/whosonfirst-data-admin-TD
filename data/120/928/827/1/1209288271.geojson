@@ -1,0 +1,61 @@
+{
+  "id": 1209288271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0153,9.6401,16.0153,9.6401",
+    "geom:latitude":9.6401,
+    "geom:longitude":16.0153,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sereune",
+    "gn:country_code":"TD",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870677,
+    "gn:latitude":9.6401,
+    "gn:longitude":16.0153,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Ser\u00e9une",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870677
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f1d0099c570682c2faa2fd4064ca9709",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209288271
+        }
+    ],
+    "wof:id":1209288271,
+    "wof:lastmodified":1536291784,
+    "wof:name":"Sereune",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0153,
+    9.6401,
+    16.0153,
+    9.6401
+],
+  "geometry": {"coordinates":[16.0153,9.6401],"type":"Point"}
+}

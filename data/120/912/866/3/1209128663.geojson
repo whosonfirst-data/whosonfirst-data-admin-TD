@@ -1,0 +1,61 @@
+{
+  "id": 1209128663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2242,11.9534,18.2242,11.9534",
+    "geom:latitude":11.9534,
+    "geom:longitude":18.2242,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Banala",
+    "gn:country_code":"TD",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436077,
+    "gn:latitude":11.9534,
+    "gn:longitude":18.2242,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Banala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436077
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"66c34645ddcce9c4eb56af1d5199ae73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209128663
+        }
+    ],
+    "wof:id":1209128663,
+    "wof:lastmodified":1536296875,
+    "wof:name":"Banala",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2242,
+    11.9534,
+    18.2242,
+    11.9534
+],
+  "geometry": {"coordinates":[18.2242,11.9534],"type":"Point"}
+}

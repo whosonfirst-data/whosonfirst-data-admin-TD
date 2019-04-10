@@ -1,0 +1,67 @@
+{
+  "id": 1243036871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0025,13.1957,16.0025,13.1957",
+    "geom:latitude":13.1957,
+    "geom:longitude":16.0025,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Al Koukowa",
+    "gn:country_code":"TD",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6843770,
+    "gn:latitude":13.1957,
+    "gn:longitude":16.0025,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Al Koukowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6843770
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"eb9364733f34bd08a3c3f2aa562f165e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901733,
+            "locality_id":1243036871,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1243036871,
+    "wof:lastmodified":1536899041,
+    "wof:name":"Al Koukowa",
+    "wof:parent_id":1091901733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0025,
+    13.1957,
+    16.0025,
+    13.1957
+],
+  "geometry": {"coordinates":[16.0025,13.1957],"type":"Point"}
+}

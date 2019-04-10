@@ -1,0 +1,67 @@
+{
+  "id": 1309686591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.772,9.4555,14.772,9.4555",
+    "geom:latitude":9.4555,
+    "geom:longitude":14.772,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Oumri",
+    "gn:country_code":"TD",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426366,
+    "gn:latitude":9.4555,
+    "gn:longitude":14.772,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Oumri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426366
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"42024186fa6af7cc1936101fe159cf95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900237,
+            "locality_id":1309686591,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1309686591,
+    "wof:lastmodified":1536602980,
+    "wof:name":"Oumri",
+    "wof:parent_id":1091900237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.772,
+    9.4555,
+    14.772,
+    9.4555
+],
+  "geometry": {"coordinates":[14.772,9.4555],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327012825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8224,11.6185,16.8224,11.6185",
+    "geom:latitude":11.6185,
+    "geom:longitude":16.8224,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Malbana",
+    "gn:country_code":"TD",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428594,
+    "gn:latitude":11.6185,
+    "gn:longitude":16.8224,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Malbana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428594
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d5adf4bf2f3740c957f419247658d451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1327012825,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1327012825,
+    "wof:lastmodified":1536789201,
+    "wof:name":"Malbana",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8224,
+    11.6185,
+    16.8224,
+    11.6185
+],
+  "geometry": {"coordinates":[16.8224,11.6185],"type":"Point"}
+}

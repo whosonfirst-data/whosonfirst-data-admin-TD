@@ -1,0 +1,67 @@
+{
+  "id": 1226531965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5586,9.1051,16.5586,9.1051",
+    "geom:latitude":9.1051,
+    "geom:longitude":16.5586,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kame Dati",
+    "gn:country_code":"TD",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430918,
+    "gn:latitude":9.1051,
+    "gn:longitude":16.5586,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Kame Dati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430918
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4b960263f8513a2ec53bdb69c54330be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900157,
+            "locality_id":1226531965,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1226531965,
+    "wof:lastmodified":1537017207,
+    "wof:name":"Kame Dati",
+    "wof:parent_id":1091900157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5586,
+    9.1051,
+    16.5586,
+    9.1051
+],
+  "geometry": {"coordinates":[16.5586,9.1051],"type":"Point"}
+}

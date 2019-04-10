@@ -1,0 +1,67 @@
+{
+  "id": 1209903193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6,12.88333,21.6,12.88333",
+    "geom:latitude":12.88333,
+    "geom:longitude":21.6,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Abilele Sarer",
+    "gn:country_code":"TD",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245766,
+    "gn:latitude":12.88333,
+    "gn:longitude":21.6,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Abil\u00e9l\u00e9 Sarer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245766
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dfa89a7072a497d0f2f12819162eaf50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901035,
+            "locality_id":1209903193,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1209903193,
+    "wof:lastmodified":1536385497,
+    "wof:name":"Abilele Sarer",
+    "wof:parent_id":1091901035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6,
+    12.88333,
+    21.6,
+    12.88333
+],
+  "geometry": {"coordinates":[21.6,12.88333],"type":"Point"}
+}

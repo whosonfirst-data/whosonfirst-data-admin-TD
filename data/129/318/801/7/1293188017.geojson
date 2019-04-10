@@ -1,0 +1,67 @@
+{
+  "id": 1293188017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.13333,13.91667,22.13333,13.91667",
+    "geom:latitude":13.91667,
+    "geom:longitude":22.13333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Rogorin",
+    "gn:country_code":"TD",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242097,
+    "gn:latitude":13.91667,
+    "gn:longitude":22.13333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Rogorin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242097
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e4170c20e2b7dbac6bc1bd26d0f9861e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1293188017,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1293188017,
+    "wof:lastmodified":1536722197,
+    "wof:name":"Rogorin",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.13333,
+    13.91667,
+    22.13333,
+    13.91667
+],
+  "geometry": {"coordinates":[22.13333,13.91667],"type":"Point"}
+}

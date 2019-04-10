@@ -1,0 +1,67 @@
+{
+  "id": 1327197617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.47746,10.05983,19.47746,10.05983",
+    "geom:latitude":10.05983,
+    "geom:longitude":19.47746,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bouni",
+    "gn:country_code":"TD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434667,
+    "gn:latitude":10.05983,
+    "gn:longitude":19.47746,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Bouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434667
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ec246071db67d7e4a0d84c710b3a82e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1327197617,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1327197617,
+    "wof:lastmodified":1537019105,
+    "wof:name":"Bouni",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.47746,
+    10.05983,
+    19.47746,
+    10.05983
+],
+  "geometry": {"coordinates":[19.47746,10.05983],"type":"Point"}
+}

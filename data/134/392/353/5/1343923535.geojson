@@ -1,0 +1,67 @@
+{
+  "id": 1343923535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2285,8.8373,17.2285,8.8373",
+    "geom:latitude":8.8373,
+    "geom:longitude":17.2285,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bedaya",
+    "gn:country_code":"TD",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859550,
+    "gn:latitude":8.8373,
+    "gn:longitude":17.2285,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Bedaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091899975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859550
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4573f1b504234b8b7d543dad81937506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899975,
+            "locality_id":1343923535,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1343923535,
+    "wof:lastmodified":1537070323,
+    "wof:name":"Bedaya",
+    "wof:parent_id":1091899975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2285,
+    8.8373,
+    17.2285,
+    8.8373
+],
+  "geometry": {"coordinates":[17.2285,8.8373],"type":"Point"}
+}

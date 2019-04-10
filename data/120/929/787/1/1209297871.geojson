@@ -1,0 +1,65 @@
+{
+  "id": 1209297871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2698,9.7602,16.2698,9.7602",
+    "geom:latitude":9.7602,
+    "geom:longitude":16.2698,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Deressia",
+    "gn:country_code":"TD",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434011,
+    "gn:latitude":9.7602,
+    "gn:longitude":16.2698,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u00e9ressia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9r\u00e9sia",
+        "D\u00e9ressia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434011
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2674cc3688294540c4bc2eef96629e53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209297871
+        }
+    ],
+    "wof:id":1209297871,
+    "wof:lastmodified":1537702784,
+    "wof:name":"Deressia",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2698,
+    9.7602,
+    16.2698,
+    9.7602
+],
+  "geometry": {"coordinates":[16.2698,9.7602],"type":"Point"}
+}

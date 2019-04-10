@@ -1,0 +1,70 @@
+{
+  "id": 1226736899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43233,14.02727,21.43233,14.02727",
+    "geom:latitude":14.02727,
+    "geom:longitude":21.43233,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Louda",
+    "gn:country_code":"TD",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527031,
+    "gn:latitude":14.02727,
+    "gn:longitude":21.43233,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Louda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Louda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527031
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ba469d741e37f6816123f246b6dffbcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1226736899,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1226736899,
+    "wof:lastmodified":1537702828,
+    "wof:name":"Louda",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43233,
+    14.02727,
+    21.43233,
+    14.02727
+],
+  "geometry": {"coordinates":[21.43233,14.02727],"type":"Point"}
+}

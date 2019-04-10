@@ -1,0 +1,71 @@
+{
+  "id": 1243235207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.28691,9.17717,18.28691,9.17717",
+    "geom:latitude":9.17717,
+    "geom:longitude":18.28691,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kira",
+    "gn:country_code":"TD",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430459,
+    "gn:latitude":9.17717,
+    "gn:longitude":18.28691,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9ra",
+        "Kira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430459
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b6708d1384bda9e14e1affe124a25e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1243235207,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1243235207,
+    "wof:lastmodified":1537702747,
+    "wof:name":"Kira",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.28691,
+    9.17717,
+    18.28691,
+    9.17717
+],
+  "geometry": {"coordinates":[18.28691,9.17717],"type":"Point"}
+}

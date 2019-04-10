@@ -1,0 +1,72 @@
+{
+  "id": 1226650971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16667,12.81667,20.16667,12.81667",
+    "geom:latitude":12.81667,
+    "geom:longitude":20.16667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Saounya",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242019,
+    "gn:latitude":12.81667,
+    "gn:longitude":20.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Saounya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saougna",
+        "Saounya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242019
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ee6c02110a0a3c598f3209b0c516cf60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900939,
+            "locality_id":1226650971,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1226650971,
+    "wof:lastmodified":1537702651,
+    "wof:name":"Saounya",
+    "wof:parent_id":1091900939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16667,
+    12.81667,
+    20.16667,
+    12.81667
+],
+  "geometry": {"coordinates":[20.16667,12.81667],"type":"Point"}
+}

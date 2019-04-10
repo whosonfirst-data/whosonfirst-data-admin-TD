@@ -1,0 +1,67 @@
+{
+  "id": 1226408613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.09674,12.49411,17.09674,12.49411",
+    "geom:latitude":12.49411,
+    "geom:longitude":17.09674,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sakin",
+    "gn:country_code":"TD",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6842361,
+    "gn:latitude":12.49411,
+    "gn:longitude":17.09674,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Sakin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6842361
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"75b4c78641f4d777a057d105434ba9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1226408613,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1226408613,
+    "wof:lastmodified":1536699393,
+    "wof:name":"Sakin",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.09674,
+    12.49411,
+    17.09674,
+    12.49411
+],
+  "geometry": {"coordinates":[17.09674,12.49411],"type":"Point"}
+}

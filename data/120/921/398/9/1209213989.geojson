@@ -1,0 +1,65 @@
+{
+  "id": 1209213989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7079,12.6806,19.7079,12.6806",
+    "geom:latitude":12.6806,
+    "geom:longitude":19.7079,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Koret Koret",
+    "gn:country_code":"TD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429975,
+    "gn:latitude":12.6806,
+    "gn:longitude":19.7079,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koret Koret",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koro Kori",
+        "Koret Koret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429975
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6cfb6750ff49a950816a23442c515191",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209213989
+        }
+    ],
+    "wof:id":1209213989,
+    "wof:lastmodified":1537702742,
+    "wof:name":"Koret Koret",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7079,
+    12.6806,
+    19.7079,
+    12.6806
+],
+  "geometry": {"coordinates":[19.7079,12.6806],"type":"Point"}
+}

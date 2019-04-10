@@ -1,0 +1,70 @@
+{
+  "id": 1276660621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9314,14.43905,21.9314,14.43905",
+    "geom:latitude":14.43905,
+    "geom:longitude":21.9314,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Madine",
+    "gn:country_code":"TD",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11526952,
+    "gn:latitude":14.43905,
+    "gn:longitude":21.9314,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Madin\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Madin\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11526952
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a1958c70a8c8276e89506273d464b0de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":1276660621,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1276660621,
+    "wof:lastmodified":1537702827,
+    "wof:name":"Madine",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9314,
+    14.43905,
+    21.9314,
+    14.43905
+],
+  "geometry": {"coordinates":[21.9314,14.43905],"type":"Point"}
+}

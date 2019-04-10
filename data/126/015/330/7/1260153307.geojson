@@ -1,0 +1,71 @@
+{
+  "id": 1260153307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56272,10.26832,15.56272,10.26832",
+    "geom:latitude":10.26832,
+    "geom:longitude":15.56272,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kayena",
+    "gn:country_code":"TD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430610,
+    "gn:latitude":10.26832,
+    "gn:longitude":15.56272,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kayena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u00efna",
+        "Kayena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430610
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fb063fd0798c7e2ed94a633f88f770ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1260153307,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1260153307,
+    "wof:lastmodified":1537702748,
+    "wof:name":"Kayena",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56272,
+    10.26832,
+    15.56272,
+    10.26832
+],
+  "geometry": {"coordinates":[15.56272,10.26832],"type":"Point"}
+}

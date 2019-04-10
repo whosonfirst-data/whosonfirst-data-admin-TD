@@ -1,0 +1,73 @@
+{
+  "id": 1343570759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.43337,13.95293,19.43337,13.95293",
+    "geom:latitude":13.95293,
+    "geom:longitude":19.43337,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Haraz",
+    "gn:country_code":"TD",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431448,
+    "gn:latitude":13.95293,
+    "gn:longitude":19.43337,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haraz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Havaze",
+        "Haraz\u00e9",
+        "Haraz-Djombo",
+        "Haraz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431448
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8399ce3f577f63fcb13630456aec7b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1343570759,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1343570759,
+    "wof:lastmodified":1537702755,
+    "wof:name":"Haraz",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43337,
+    13.95293,
+    19.43337,
+    13.95293
+],
+  "geometry": {"coordinates":[19.43337,13.95293],"type":"Point"}
+}

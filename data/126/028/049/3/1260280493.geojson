@@ -1,0 +1,67 @@
+{
+  "id": 1260280493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55908,13.40343,15.55908,13.40343",
+    "geom:latitude":13.40343,
+    "geom:longitude":15.55908,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Karandom",
+    "gn:country_code":"TD",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430774,
+    "gn:latitude":13.40343,
+    "gn:longitude":15.55908,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Karandom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430774
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"982e32cb9359b81a5eb4f9440d270daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901165,
+            "locality_id":1260280493,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1260280493,
+    "wof:lastmodified":1536716308,
+    "wof:name":"Karandom",
+    "wof:parent_id":1091901165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55908,
+    13.40343,
+    15.55908,
+    13.40343
+],
+  "geometry": {"coordinates":[15.55908,13.40343],"type":"Point"}
+}

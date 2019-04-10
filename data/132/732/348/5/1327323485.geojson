@@ -1,0 +1,72 @@
+{
+  "id": 1327323485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68999,7.74231,15.68999,7.74231",
+    "geom:latitude":7.74231,
+    "geom:longitude":15.68999,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Baibokoum",
+    "gn:country_code":"TD",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436212,
+    "gn:latitude":7.74231,
+    "gn:longitude":15.68999,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ba\u00efbokoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u00efbokoun",
+        "Baibokun",
+        "Ba\u00efbokoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436212
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"56e05978927eab47484b3723deca521c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1327323485,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1327323485,
+    "wof:lastmodified":1537702810,
+    "wof:name":"Baibokoum",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68999,
+    7.74231,
+    15.68999,
+    7.74231
+],
+  "geometry": {"coordinates":[15.68999,7.74231],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276197415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7147,10.2524,17.7147,10.2524",
+    "geom:latitude":10.2524,
+    "geom:longitude":17.7147,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gamkoul",
+    "gn:country_code":"TD",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432350,
+    "gn:latitude":10.2524,
+    "gn:longitude":17.7147,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gamkoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gamboul",
+        "Gamkoul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432350
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b3bded93c5538fecf5890a1e477dec50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1276197415,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1276197415,
+    "wof:lastmodified":1537702767,
+    "wof:name":"Gamkoul",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7147,
+    10.2524,
+    17.7147,
+    10.2524
+],
+  "geometry": {"coordinates":[17.7147,10.2524],"type":"Point"}
+}

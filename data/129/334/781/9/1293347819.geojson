@@ -1,0 +1,67 @@
+{
+  "id": 1293347819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75,12.33333,21.75,12.33333",
+    "geom:latitude":12.33333,
+    "geom:longitude":21.75,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Atichane",
+    "gn:country_code":"TD",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245113,
+    "gn:latitude":12.33333,
+    "gn:longitude":21.75,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Atichan\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245113
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4b61f56f60b34bc893cf12614a47e3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1293347819,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1293347819,
+    "wof:lastmodified":1536987697,
+    "wof:name":"Atichane",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75,
+    12.33333,
+    21.75,
+    12.33333
+],
+  "geometry": {"coordinates":[21.75,12.33333],"type":"Point"}
+}

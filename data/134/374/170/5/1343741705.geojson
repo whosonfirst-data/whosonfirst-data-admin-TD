@@ -1,0 +1,71 @@
+{
+  "id": 1343741705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.30158,10.68224,21.30158,10.68224",
+    "geom:latitude":10.68224,
+    "geom:longitude":21.30158,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mounyaz",
+    "gn:country_code":"TD",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242518,
+    "gn:latitude":10.68224,
+    "gn:longitude":21.30158,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mounyaz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mougnaz",
+        "Mounyaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242518
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"84bb314b61790aae3b0d4591a23b05e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900659,
+            "locality_id":1343741705,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1343741705,
+    "wof:lastmodified":1537702655,
+    "wof:name":"Mounyaz",
+    "wof:parent_id":1091900659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30158,
+    10.68224,
+    21.30158,
+    10.68224
+],
+  "geometry": {"coordinates":[21.30158,10.68224],"type":"Point"}
+}

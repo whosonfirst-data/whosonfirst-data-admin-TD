@@ -1,0 +1,67 @@
+{
+  "id": 1343536493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3361,8.6381,17.3361,8.6381",
+    "geom:latitude":8.6381,
+    "geom:longitude":17.3361,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kagala",
+    "gn:country_code":"TD",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859499,
+    "gn:latitude":8.6381,
+    "gn:longitude":17.3361,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kagala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091899975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859499
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cd9191dbc53a54224fb61fe3b7b4d228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899975,
+            "locality_id":1343536493,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1343536493,
+    "wof:lastmodified":1536635314,
+    "wof:name":"Kagala",
+    "wof:parent_id":1091899975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3361,
+    8.6381,
+    17.3361,
+    8.6381
+],
+  "geometry": {"coordinates":[17.3361,8.6381],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326493745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22383,8.40753,18.22383,8.40753",
+    "geom:latitude":8.40753,
+    "geom:longitude":18.22383,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Maimbaya",
+    "gn:country_code":"TD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857255,
+    "gn:latitude":8.40753,
+    "gn:longitude":18.22383,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ma\u00efmbaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091899945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857255
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3c55a51ec590ca1cab4f3b88c3df643b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899945,
+            "locality_id":1326493745,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1326493745,
+    "wof:lastmodified":1537037944,
+    "wof:name":"Maimbaya",
+    "wof:parent_id":1091899945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22383,
+    8.40753,
+    18.22383,
+    8.40753
+],
+  "geometry": {"coordinates":[18.22383,8.40753],"type":"Point"}
+}

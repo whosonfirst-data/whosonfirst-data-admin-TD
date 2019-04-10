@@ -1,0 +1,70 @@
+{
+  "id": 1293187327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7865,9.79878,20.7865,9.79878",
+    "geom:latitude":9.79878,
+    "geom:longitude":20.7865,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Samata II",
+    "gn:country_code":"TD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242037,
+    "gn:latitude":9.79878,
+    "gn:longitude":20.7865,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samata II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Samata II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242037
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bc0c55c1a3a4f9635afca9cd507f235a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900659,
+            "locality_id":1293187327,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1293187327,
+    "wof:lastmodified":1537702651,
+    "wof:name":"Samata II",
+    "wof:parent_id":1091900659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7865,
+    9.79878,
+    20.7865,
+    9.79878
+],
+  "geometry": {"coordinates":[20.7865,9.79878],"type":"Point"}
+}

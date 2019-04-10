@@ -1,0 +1,67 @@
+{
+  "id": 1243329963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57201,12.96065,15.57201,12.96065",
+    "geom:latitude":12.96065,
+    "geom:longitude":15.57201,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Lordo",
+    "gn:country_code":"TD",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6721709,
+    "gn:latitude":12.96065,
+    "gn:longitude":15.57201,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Lordo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6721709
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5c9375e04e1fe6789ca2b6629e0abece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1243329963,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1243329963,
+    "wof:lastmodified":1536973175,
+    "wof:name":"Lordo",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57201,
+    12.96065,
+    15.57201,
+    12.96065
+],
+  "geometry": {"coordinates":[15.57201,12.96065],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343438067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40404,14.10159,21.40404,14.10159",
+    "geom:latitude":14.10159,
+    "geom:longitude":21.40404,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taouile",
+    "gn:country_code":"TD",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241754,
+    "gn:latitude":14.10159,
+    "gn:longitude":21.40404,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Taouil\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Taouil\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Rigil Tawi\u00e9",
+        "Tawil\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241754
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"00ce37e906833321f780db720d6fed5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1343438067,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1343438067,
+    "wof:lastmodified":1537702649,
+    "wof:name":"Taouile",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40404,
+    14.10159,
+    21.40404,
+    14.10159
+],
+  "geometry": {"coordinates":[21.40404,14.10159],"type":"Point"}
+}

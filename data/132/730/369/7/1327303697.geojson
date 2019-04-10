@@ -1,0 +1,67 @@
+{
+  "id": 1327303697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0439,10.0066,16.0439,10.0066",
+    "geom:latitude":10.0066,
+    "geom:longitude":16.0439,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gaouay Delo",
+    "gn:country_code":"TD",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432281,
+    "gn:latitude":10.0066,
+    "gn:longitude":16.0439,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Gaouay D\u00e9lo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432281
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"408805c24def7fabb57efc063092d52e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1327303697,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1327303697,
+    "wof:lastmodified":1536865447,
+    "wof:name":"Gaouay Delo",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0439,
+    10.0066,
+    16.0439,
+    10.0066
+],
+  "geometry": {"coordinates":[16.0439,10.0066],"type":"Point"}
+}

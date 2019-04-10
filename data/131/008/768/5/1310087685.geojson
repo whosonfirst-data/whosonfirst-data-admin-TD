@@ -1,0 +1,72 @@
+{
+  "id": 1310087685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63181,9.46183,15.63181,9.46183",
+    "geom:latitude":9.46183,
+    "geom:longitude":15.63181,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Domo Goera",
+    "gn:country_code":"TD",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433258,
+    "gn:latitude":9.46183,
+    "gn:longitude":15.63181,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Domo Go\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Domo Goua\u00efra",
+        "Domo Go\u00efra",
+        "Domo Go\u00e9ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433258
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"add74e5c8f46724d3580144f4452c605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1310087685,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1310087685,
+    "wof:lastmodified":1537702775,
+    "wof:name":"Domo Goera",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63181,
+    9.46183,
+    15.63181,
+    9.46183
+],
+  "geometry": {"coordinates":[15.63181,9.46183],"type":"Point"}
+}

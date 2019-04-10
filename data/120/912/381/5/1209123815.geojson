@@ -1,0 +1,61 @@
+{
+  "id": 1209123815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53792,12.88501,17.53792,12.88501",
+    "geom:latitude":12.88501,
+    "geom:longitude":17.53792,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Golo",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431990,
+    "gn:latitude":12.88501,
+    "gn:longitude":17.53792,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Golo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431990
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"baf5c1511650cefd8ed9ed139b5cfabc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209123815
+        }
+    ],
+    "wof:id":1209123815,
+    "wof:lastmodified":1536297017,
+    "wof:name":"Golo",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53792,
+    12.88501,
+    17.53792,
+    12.88501
+],
+  "geometry": {"coordinates":[17.53792,12.88501],"type":"Point"}
+}

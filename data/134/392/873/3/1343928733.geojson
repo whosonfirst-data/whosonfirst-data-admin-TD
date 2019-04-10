@@ -1,0 +1,67 @@
+{
+  "id": 1343928733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94216,9.27843,15.94216,9.27843",
+    "geom:latitude":9.27843,
+    "geom:longitude":15.94216,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mangse",
+    "gn:country_code":"TD",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428434,
+    "gn:latitude":9.27843,
+    "gn:longitude":15.94216,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Mangs\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428434
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2913ac3043ea129d477c80312a7e1a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1343928733,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1343928733,
+    "wof:lastmodified":1537063068,
+    "wof:name":"Mangse",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94216,
+    9.27843,
+    15.94216,
+    9.27843
+],
+  "geometry": {"coordinates":[15.94216,9.27843],"type":"Point"}
+}

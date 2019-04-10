@@ -1,0 +1,72 @@
+{
+  "id": 1310572651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55,11.16667,20.55,11.16667",
+    "geom:latitude":11.16667,
+    "geom:longitude":20.55,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bedena",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244948,
+    "gn:latitude":11.16667,
+    "gn:longitude":20.55,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9d\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bedd\u00e9na",
+        "B\u00e9d\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244948
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d10b6247391daa31088a273e96d1bf1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1310572651,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1310572651,
+    "wof:lastmodified":1537702679,
+    "wof:name":"Bedena",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55,
+    11.16667,
+    20.55,
+    11.16667
+],
+  "geometry": {"coordinates":[20.55,11.16667],"type":"Point"}
+}

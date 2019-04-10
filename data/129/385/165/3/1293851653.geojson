@@ -1,0 +1,67 @@
+{
+  "id": 1293851653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48106,11.62349,22.48106,11.62349",
+    "geom:latitude":11.62349,
+    "geom:longitude":22.48106,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Todou",
+    "gn:country_code":"TD",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241633,
+    "gn:latitude":11.62349,
+    "gn:longitude":22.48106,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Todou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241633
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8b992bd286c69b9ca973ff410c418e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1293851653,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1293851653,
+    "wof:lastmodified":1536759489,
+    "wof:name":"Todou",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48106,
+    11.62349,
+    22.48106,
+    11.62349
+],
+  "geometry": {"coordinates":[22.48106,11.62349],"type":"Point"}
+}

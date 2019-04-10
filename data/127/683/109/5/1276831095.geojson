@@ -1,0 +1,67 @@
+{
+  "id": 1276831095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05338,9.84054,16.05338,9.84054",
+    "geom:latitude":9.84054,
+    "geom:longitude":16.05338,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Amdja",
+    "gn:country_code":"TD",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436994,
+    "gn:latitude":9.84054,
+    "gn:longitude":16.05338,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Amdja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436994
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b181ed3a64d1cd6b9543dfd5d329b430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1276831095,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1276831095,
+    "wof:lastmodified":1536606138,
+    "wof:name":"Amdja",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05337999999999,
+    9.84054,
+    16.05337999999999,
+    9.84054
+],
+  "geometry": {"coordinates":[16.05337999999999,9.84054],"type":"Point"}
+}

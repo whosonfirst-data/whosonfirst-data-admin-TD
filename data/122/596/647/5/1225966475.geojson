@@ -1,0 +1,67 @@
+{
+  "id": 1225966475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28333,14.11758,15.28333,14.11758",
+    "geom:latitude":14.11758,
+    "geom:longitude":15.28333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mara",
+    "gn:country_code":"TD",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428367,
+    "gn:latitude":14.11758,
+    "gn:longitude":15.28333,
+    "gn:modification_date":"2009-02-23",
+    "gn:name":"Mara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428367
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8864af086020a54aefb9d6ca45f306c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1225966475,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1225966475,
+    "wof:lastmodified":1536838413,
+    "wof:name":"Mara",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28333,
+    14.11758,
+    15.28333,
+    14.11758
+],
+  "geometry": {"coordinates":[15.28333,14.11758],"type":"Point"}
+}

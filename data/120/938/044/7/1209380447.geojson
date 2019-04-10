@@ -1,0 +1,66 @@
+{
+  "id": 1209380447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.16356,8.74597,17.16356,8.74597",
+    "geom:latitude":8.74597,
+    "geom:longitude":17.16356,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Derguigui",
+    "gn:country_code":"TD",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434006,
+    "gn:latitude":8.74597,
+    "gn:longitude":17.16356,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Derguigui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dergigi",
+        "Djerguigui",
+        "Derguigui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434006
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"76f4a9e52998f13ecd2bcc2d3157a225",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209380447
+        }
+    ],
+    "wof:id":1209380447,
+    "wof:lastmodified":1537702784,
+    "wof:name":"Derguigui",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16356,
+    8.74597,
+    17.16356,
+    8.74597
+],
+  "geometry": {"coordinates":[17.16356,8.74597],"type":"Point"}
+}

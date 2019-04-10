@@ -1,0 +1,72 @@
+{
+  "id": 1293176099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25314,9.03422,17.25314,9.03422",
+    "geom:latitude":9.03422,
+    "geom:longitude":17.25314,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mouroungoulaye",
+    "gn:country_code":"TD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427397,
+    "gn:latitude":9.03422,
+    "gn:longitude":17.25314,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mouroungoulaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monrogoulaye",
+        "Mouroungoulay",
+        "Mouroungoulaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427397
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c5d2a9b27f36f7aa69e3d995240cddea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900193,
+            "locality_id":1293176099,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1293176099,
+    "wof:lastmodified":1537702716,
+    "wof:name":"Mouroungoulaye",
+    "wof:parent_id":1091900193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25314,
+    9.03422,
+    17.25314,
+    9.03422
+],
+  "geometry": {"coordinates":[17.25314,9.03422],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276718061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4207,13.2674,16.4207,13.2674",
+    "geom:latitude":13.2674,
+    "geom:longitude":16.4207,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Molokh Kebir",
+    "gn:country_code":"TD",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427659,
+    "gn:latitude":13.2674,
+    "gn:longitude":16.4207,
+    "gn:modification_date":"2008-09-16",
+    "gn:name":"Molokh Kebir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427659
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fe9d16817deaddedda8bd013ee304c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901733,
+            "locality_id":1276718061,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1276718061,
+    "wof:lastmodified":1536760647,
+    "wof:name":"Molokh Kebir",
+    "wof:parent_id":1091901733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4207,
+    13.2674,
+    16.4207,
+    13.2674
+],
+  "geometry": {"coordinates":[16.4207,13.2674],"type":"Point"}
+}

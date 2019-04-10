@@ -1,0 +1,67 @@
+{
+  "id": 1293770209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.67656,9.99008,19.67656,9.99008",
+    "geom:latitude":9.99008,
+    "geom:longitude":19.67656,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dipkir",
+    "gn:country_code":"TD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433796,
+    "gn:latitude":9.99008,
+    "gn:longitude":19.67656,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Dipkir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433796
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ed655c57c347b131db760d106115a7a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1293770209,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1293770209,
+    "wof:lastmodified":1536875678,
+    "wof:name":"Dipkir",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67656,
+    9.99008,
+    19.67656,
+    9.99008
+],
+  "geometry": {"coordinates":[19.67656,9.99008],"type":"Point"}
+}

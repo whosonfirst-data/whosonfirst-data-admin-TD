@@ -1,0 +1,70 @@
+{
+  "id": 1326616523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1011,9.81959,21.1011,9.81959",
+    "geom:latitude":9.81959,
+    "geom:longitude":21.1011,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Royo",
+    "gn:country_code":"TD",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242081,
+    "gn:latitude":9.81959,
+    "gn:longitude":21.1011,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Royo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Royo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242081
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"479227bf05576c25e27eeeeb72f063c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900659,
+            "locality_id":1326616523,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1326616523,
+    "wof:lastmodified":1537702651,
+    "wof:name":"Royo",
+    "wof:parent_id":1091900659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1011,
+    9.81959,
+    21.1011,
+    9.81959
+],
+  "geometry": {"coordinates":[21.1011,9.81959],"type":"Point"}
+}

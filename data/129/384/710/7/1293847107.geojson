@@ -1,0 +1,71 @@
+{
+  "id": 1293847107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5968,12.77483,16.5968,12.77483",
+    "geom:latitude":12.77483,
+    "geom:longitude":16.5968,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Saghara",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806528,
+    "gn:latitude":12.77483,
+    "gn:longitude":16.5968,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Saghara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarhara",
+        "Saghara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806528
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"54a1f8508efc9aee6e9867743a0cd300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1293847107,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1293847107,
+    "wof:lastmodified":1537702824,
+    "wof:name":"Saghara",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5968,
+    12.77483,
+    16.5968,
+    12.77483
+],
+  "geometry": {"coordinates":[16.5968,12.77483],"type":"Point"}
+}

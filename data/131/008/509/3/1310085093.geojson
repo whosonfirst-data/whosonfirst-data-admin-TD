@@ -1,0 +1,67 @@
+{
+  "id": 1310085093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0763,11.5304,19.0763,11.5304",
+    "geom:latitude":11.5304,
+    "geom:longitude":19.0763,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Abalagne",
+    "gn:country_code":"TD",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437718,
+    "gn:latitude":11.5304,
+    "gn:longitude":19.0763,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Abalagn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437718
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c6b1d6215205f807f5fde0cb480ab408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900707,
+            "locality_id":1310085093,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1310085093,
+    "wof:lastmodified":1537024879,
+    "wof:name":"Abalagne",
+    "wof:parent_id":1091900707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.0763,
+    11.5304,
+    19.0763,
+    11.5304
+],
+  "geometry": {"coordinates":[19.0763,11.5304],"type":"Point"}
+}

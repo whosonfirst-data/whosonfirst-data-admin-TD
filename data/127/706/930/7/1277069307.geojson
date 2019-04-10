@@ -1,0 +1,67 @@
+{
+  "id": 1277069307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.24675,14.3255,14.24675,14.3255",
+    "geom:latitude":14.3255,
+    "geom:longitude":14.24675,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kouloulouchi",
+    "gn:country_code":"TD",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429670,
+    "gn:latitude":14.3255,
+    "gn:longitude":14.24675,
+    "gn:modification_date":"2008-03-27",
+    "gn:name":"Kouloulouchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429670
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b7d0a89bd0da0607c4901f29925f5f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901571,
+            "locality_id":1277069307,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1277069307,
+    "wof:lastmodified":1536787460,
+    "wof:name":"Kouloulouchi",
+    "wof:parent_id":1091901571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.24675,
+    14.3255,
+    14.24675,
+    14.3255
+],
+  "geometry": {"coordinates":[14.24675,14.3255],"type":"Point"}
+}

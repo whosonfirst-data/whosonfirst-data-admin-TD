@@ -1,0 +1,67 @@
+{
+  "id": 1343625231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4363,9.0699,18.4363,9.0699",
+    "geom:latitude":9.0699,
+    "geom:longitude":18.4363,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kemdere",
+    "gn:country_code":"TD",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430490,
+    "gn:latitude":9.0699,
+    "gn:longitude":18.4363,
+    "gn:modification_date":"2008-10-29",
+    "gn:name":"Kemd\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430490
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a0e90eec08fe3415d6a92c3c4f208124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1343625231,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1343625231,
+    "wof:lastmodified":1537005242,
+    "wof:name":"Kemdere",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4363,
+    9.0699,
+    18.4363,
+    9.0699
+],
+  "geometry": {"coordinates":[18.4363,9.0699],"type":"Point"}
+}

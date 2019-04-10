@@ -1,0 +1,67 @@
+{
+  "id": 1326624593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68298,14.27744,13.68298,14.27744",
+    "geom:latitude":14.27744,
+    "geom:longitude":13.68298,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tataverom",
+    "gn:country_code":"TD",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6787132,
+    "gn:latitude":14.27744,
+    "gn:longitude":13.68298,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Tatav\u00e9rom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6787132
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3cce0f1ae4dc8440bd439a1f1ee6ad01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1326624593,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1326624593,
+    "wof:lastmodified":1536849780,
+    "wof:name":"Tataverom",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68298,
+    14.27744,
+    13.68298,
+    14.27744
+],
+  "geometry": {"coordinates":[13.68298,14.27744],"type":"Point"}
+}

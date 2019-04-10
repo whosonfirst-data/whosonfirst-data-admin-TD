@@ -1,0 +1,70 @@
+{
+  "id": 1242854531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57955,13.68226,20.57955,13.68226",
+    "geom:latitude":13.68226,
+    "geom:longitude":20.57955,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Am Dichi",
+    "gn:country_code":"TD",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245490,
+    "gn:latitude":13.68226,
+    "gn:longitude":20.57955,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Am Dichi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Am Dichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245490
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bfdbd769ff3082711de716ac7e62a58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1242854531,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1242854531,
+    "wof:lastmodified":1537702684,
+    "wof:name":"Am Dichi",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57955,
+    13.68226,
+    20.57955,
+    13.68226
+],
+  "geometry": {"coordinates":[20.57955,13.68226],"type":"Point"}
+}

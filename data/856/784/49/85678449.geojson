@@ -1,0 +1,314 @@
+{
+  "id": 85678449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":7.564239,
+    "geom:area_square_m":90754124585.800888,
+    "geom:bbox":"16.9579663397,12.1249713683,20.3689663397,16.1083713683",
+    "geom:latitude":13.974656,
+    "geom:longitude":18.801931,
+    "gn:population":391742,
+    "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Batha Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "lbl:latitude":13.94655,
+    "lbl:longitude":18.827619,
+    "meso:name_local":"Batha",
+    "mps:latitude":14.027217,
+    "mps:longitude":18.773246,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.6,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0628\u0637\u062d\u0629"
+    ],
+    "name:baq_x_preferred":[
+        "Batha"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09a5\u09be \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0442\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u5854\u533a"
+    ],
+    "name:cze_x_preferred":[
+        "Batha"
+    ],
+    "name:dan_x_preferred":[
+        "Batha"
+    ],
+    "name:dut_x_preferred":[
+        "Batha"
+    ],
+    "name:eng_x_preferred":[
+        "Batha Region"
+    ],
+    "name:eng_x_variant":[
+        "Batha"
+    ],
+    "name:est_x_preferred":[
+        "Batha"
+    ],
+    "name:fin_x_preferred":[
+        "Batha"
+    ],
+    "name:fra_x_preferred":[
+        "Batha"
+    ],
+    "name:fra_x_unknown":[
+        "BA"
+    ],
+    "name:fra_x_variant":[
+        "R\u00e9gion du Batha"
+    ],
+    "name:fre_x_preferred":[
+        "Batha"
+    ],
+    "name:ger_x_preferred":[
+        "Region Batha"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03ac\u03b8\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0abe\u0aa5\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0925\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Region Batha"
+    ],
+    "name:ita_x_preferred":[
+        "regione di Batha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30bf\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cbe\u0ca4 \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ud0c0 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Batas re\u0123ions"
+    ],
+    "name:lit_x_preferred":[
+        "Batos regionas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u093e\u0920\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Batha Region"
+    ],
+    "name:nob_x_preferred":[
+        "Batha"
+    ],
+    "name:pol_x_preferred":[
+        "Region Batha"
+    ],
+    "name:por_x_preferred":[
+        "Batha"
+    ],
+    "name:rum_x_preferred":[
+        "Regiunea Batha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0442\u0445\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Batha"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dcf\u0dad\u0dcf \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Regi\u00f3n de Batha"
+    ],
+    "name:swe_x_preferred":[
+        "Batha"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0ba4\u0bcd\u0ba4\u0bbe  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c3e\u0c24\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e18\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Batha B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0442\u0445\u0430"
+    ],
+    "name:unk_x_variant":[
+        "R\u00e9gion du Batha"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u062b\u0627 \u0639\u0644\u0627\u0642\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Khu v\u1ef1c Batha"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TCD",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TCD-1472",
+    "ne:adm1_code":"TCD-1472",
+    "ne:admin":"Chad",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"12",
+    "ne:code_hasc":"TD.BA",
+    "ne:code_local":"",
+    "ne:datarank":"7",
+    "ne:diss_me":"1472",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"CD01",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Chad",
+    "ne:gn_a1_code":"TD.01",
+    "ne:gn_id":"2435899",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Batha Region",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"CD01",
+    "ne:gns_id":"-1090450",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Batha",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TCD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TD-",
+    "ne:iso_a2":"TD",
+    "ne:labelrank":"4",
+    "ne:latitude":"14.08230000000",
+    "ne:longitude":"18.62220000000",
+    "ne:mapcolor13":6,
+    "ne:mapcolor9":8,
+    "ne:name":"Batha",
+    "ne:name_alt":"",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"BA",
+    "ne:provnum_ne":"8",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"4",
+    "ne:sov_a3":"TCD",
+    "ne:sub_code":"",
+    "ne:type":"Pr\u00e9fecture",
+    "ne:type_en":"Prefecture",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344945,
+    "ne:woe_label":"",
+    "ne:woe_name":"Batha",
+    "qs:a0":"Chad",
+    "qs:a0_lc":"TD",
+    "qs:a1":"Batha",
+    "qs:a1_lc":"TCD-1472",
+    "qs:adm0":"Chad",
+    "qs:adm0_a3":"TCD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Prefecture",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2009-06-20",
+    "statoids:area_km":"88,800",
+    "statoids:area_mi":"34,290",
+    "statoids:as_of_date":"2009-06-20",
+    "statoids:capital":"Ati",
+    "statoids:country":"TD",
+    "statoids:gec":"CD01",
+    "statoids:hasc":"TD.BA",
+    "statoids:iso":"BA",
+    "statoids:name":"Batha",
+    "statoids:population":"527031",
+    "statoids:timezone":"+1",
+    "statoids:type":"region",
+    "unlc:subdivision":"TD-BA",
+    "wof:belongsto":[
+        102191573,
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"CD01",
+        "gn:id":2435899,
+        "gp:id":2344945,
+        "hasc:id":"TD.BA",
+        "iso:id":"TD-BA",
+        "qs:id":257792,
+        "unlc:id":"TD-BA",
+        "wd:id":"Q180414",
+        "wk:page":"Batha Region"
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"efcd65f901ba70ea580addd50bc17e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":85678449,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lang_x_official":[
+        "fra",
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ara"
+    ],
+    "wof:lastmodified":1553814827,
+    "wof:name":"Batha",
+    "wof:parent_id":85632325,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"region",
+    "wof:population":527031,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:shortcode":"BA",
+    "wof:subdivision":"TD-BA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.95796633973263,
+    12.1249713683121,
+    20.36896633973264,
+    16.10837136831218
+],
+  "geometry": {"coordinates":[[[17.16096633973258,13.09897136831218],[17.24096633973257,13.20997136831215],[17.23396633973257,13.42697136831211],[17.23446633973264,13.42967136831213],[17.27096633973259,13.66197136831218],[17.37596633973261,13.69467136831213],[17.48096633973263,13.72737136831217],[17.58596633973266,13.75997136831211],[17.65216633973258,14.00507136831218],[17.7183663397326,14.25027136831217],[17.78476633973264,14.49537136831214],[17.8511663397326,14.74057136831213],[17.91766633973257,14.98567136831211],[17.98426633973264,15.23087136831219],[18.05096633973264,15.47597136831216],[18.0964663397326,15.43357136831219],[18.23796633973257,15.36297136831218],[18.42066633973262,15.31697136831214],[18.65096633973257,15.31397136831217],[18.66376633973258,15.31697136831214],[18.82586633973259,15.35587136831216],[18.98826633973265,15.45607136831214],[19.06136633973265,15.52007136831211],[19.13046633973263,15.59357136831217],[19.21176633973262,15.72057136831216],[19.25276633973258,15.82857136831216],[19.27616633973265,15.97477136831216],[19.27596633973263,16.09587136831212],[19.34046633973258,16.10837136831218],[19.39466633973261,16.07577136831216],[19.49446633973261,15.90007136831211],[19.56596633973257,15.83347136831213],[19.69946633973258,15.82167136831217],[19.86376633973263,15.77647136831216],[19.91996633973258,15.76407136831211],[20.0414663397326,15.74457136831214],[20.04396633973259,15.66137136831214],[20.04666633973262,15.43597136831217],[20.04926633973263,15.21007136831212],[20.05186633973263,14.98437136831211],[20.05436633973262,14.75907136831214],[20.05696633973263,14.53337136831213],[20.05946633973263,14.30767136831211],[20.06196633973262,14.08197136831218],[20.05596633973258,13.95597136831215],[20.26796633973264,13.82897136831216],[20.2949663397326,13.75497136831212],[20.27596633973261,13.67097136831211],[20.26696633973259,13.61297136831217],[20.27596633973261,13.58597136831213],[20.31396633973259,13.52897136831215],[20.36396633973265,13.42097136831216],[20.36896633973264,13.3309713683121],[20.35796633973261,13.05897136831218],[20.35696633973264,13.01997136831215],[20.33096633973265,13.00097136831216],[20.04496633973265,12.93497136831217],[19.99296633973257,12.95697136831214],[19.90996633973261,12.9859713683121],[19.77696633973257,13.03097136831218],[19.68296633973258,12.98197136831217],[19.60096633973258,12.93897136831211],[19.35996633973264,12.79797136831212],[19.21496633973263,12.71297136831214],[19.19996633973257,12.71097136831212],[19.18396633973264,12.68697136831214],[19.1029663397326,12.69397136831214],[18.98996633973262,12.68897136831216],[18.82696633973257,12.6904713683121],[18.66396633973261,12.6917713683121],[18.50096633973266,12.69297136831218],[18.47496633973257,12.69197136831213],[18.32996633973264,12.61797136831218],[18.09496633973257,12.48597136831211],[18.06496633973264,12.45197136831216],[18.01796633973265,12.45197136831216],[17.88196633973264,12.44597136831212],[17.67096633973264,12.27897136831213],[17.66496633973259,12.25597136831212],[17.60796633973262,12.23897136831214],[17.56696633973257,12.19897136831214],[17.59796633973264,12.1249713683121],[17.55196633973261,12.13297136831216],[17.50396633973265,12.1579713683121],[17.44596633973263,12.15497136831212],[17.41096633973262,12.18397136831218],[17.40796633973265,12.22897136831216],[17.3879663397326,12.26997136831212],[17.33996633973264,12.29997136831214],[17.30996633973263,12.34597136831217],[17.29496633973257,12.40597136831212],[17.29296633973264,12.48697136831217],[17.25396633973261,12.50097136831217],[17.20096633973257,12.55697136831218],[17.14996633973264,12.60897136831217],[17.14096633973263,12.63997136831215],[17.11296633973262,12.7349713683121],[17.09196633973261,12.78297136831215],[17.05396633973263,12.81597136831214],[17.01596633973265,12.83197136831216],[16.97396633973264,12.8569713683121],[16.95796633973263,12.87997136831212],[16.99696633973257,12.93697136831218],[17.07696633973265,13.00697136831211],[17.1299663397326,13.04597136831214],[17.16096633973258,13.09897136831218]]],"type":"Polygon"}
+}

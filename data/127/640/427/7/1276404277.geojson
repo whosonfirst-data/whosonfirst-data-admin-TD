@@ -1,0 +1,71 @@
+{
+  "id": 1276404277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4418,9.722,14.4418,9.722",
+    "geom:latitude":9.722,
+    "geom:longitude":14.4418,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Fouli Yakobo",
+    "gn:country_code":"TD",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432518,
+    "gn:latitude":9.722,
+    "gn:longitude":14.4418,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fouli Yakobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fouli Yakabo",
+        "Fouli Yakobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432518
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ffd3ba974406d0332498c7580a586cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900399,
+            "locality_id":1276404277,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1276404277,
+    "wof:lastmodified":1537702769,
+    "wof:name":"Fouli Yakobo",
+    "wof:parent_id":1091900399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4418,
+    9.722,
+    14.4418,
+    9.722
+],
+  "geometry": {"coordinates":[14.4418,9.722],"type":"Point"}
+}

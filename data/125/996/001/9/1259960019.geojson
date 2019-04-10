@@ -1,0 +1,71 @@
+{
+  "id": 1259960019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.82718,13.71972,20.82718,13.71972",
+    "geom:latitude":13.71972,
+    "geom:longitude":20.82718,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dilebat",
+    "gn:country_code":"TD",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244517,
+    "gn:latitude":13.71972,
+    "gn:longitude":20.82718,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Dil\u00e9bat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diledat",
+        "Dil\u00e9bat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244517
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"85146dae2f7c4d15f01ade55e136dc0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1259960019,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1259960019,
+    "wof:lastmodified":1537702674,
+    "wof:name":"Dilebat",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.82718,
+    13.71972,
+    20.82718,
+    13.71972
+],
+  "geometry": {"coordinates":[20.82718,13.71972],"type":"Point"}
+}

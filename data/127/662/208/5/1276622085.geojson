@@ -1,0 +1,71 @@
+{
+  "id": 1276622085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.2,12.53333,22.2,12.53333",
+    "geom:latitude":12.53333,
+    "geom:longitude":22.2,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Mormondigi",
+    "gn:country_code":"TD",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242551,
+    "gn:latitude":12.53333,
+    "gn:longitude":22.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mormondigi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marmadingui",
+        "Mormondigi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242551
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1b179e351c2b44778662f2698cd13f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1276622085,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1276622085,
+    "wof:lastmodified":1537702655,
+    "wof:name":"Mormondigi",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2,
+    12.53333,
+    22.2,
+    12.53333
+],
+  "geometry": {"coordinates":[22.2,12.53333],"type":"Point"}
+}

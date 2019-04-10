@@ -1,0 +1,67 @@
+{
+  "id": 1293759469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2153,11.9348,17.2153,11.9348",
+    "geom:latitude":11.9348,
+    "geom:longitude":17.2153,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Matabga",
+    "gn:country_code":"TD",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428201,
+    "gn:latitude":11.9348,
+    "gn:longitude":17.2153,
+    "gn:modification_date":"2008-10-16",
+    "gn:name":"Matabga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428201
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dcbf006605ff43c3d9be37e70d99141e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1293759469,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1293759469,
+    "wof:lastmodified":1536891777,
+    "wof:name":"Matabga",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2153,
+    11.9348,
+    17.2153,
+    11.9348
+],
+  "geometry": {"coordinates":[17.2153,11.9348],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243459223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7301,11.4982,18.7301,11.4982",
+    "geom:latitude":11.4982,
+    "geom:longitude":18.7301,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dabara",
+    "gn:country_code":"TD",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434372,
+    "gn:latitude":11.4982,
+    "gn:longitude":18.7301,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Dabara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434372
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"08402975e38c4538f0813fcb17e8e703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900821,
+            "locality_id":1243459223,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1243459223,
+    "wof:lastmodified":1536787512,
+    "wof:name":"Dabara",
+    "wof:parent_id":1091900821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7301,
+    11.4982,
+    18.7301,
+    11.4982
+],
+  "geometry": {"coordinates":[18.7301,11.4982],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327347921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16667,13.25,20.16667,13.25",
+    "geom:latitude":13.25,
+    "geom:longitude":20.16667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Am Kourbal",
+    "gn:country_code":"TD",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245400,
+    "gn:latitude":13.25,
+    "gn:longitude":20.16667,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Am Kourbal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Am Kourbal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245400
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2c2df0c712c28334a8e6c9533a5f9294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1327347921,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1327347921,
+    "wof:lastmodified":1537702682,
+    "wof:name":"Am Kourbal",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16667,
+    13.25,
+    20.16667,
+    13.25
+],
+  "geometry": {"coordinates":[20.16667,13.25],"type":"Point"}
+}

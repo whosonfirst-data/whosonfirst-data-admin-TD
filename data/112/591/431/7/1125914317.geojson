@@ -1,0 +1,120 @@
+{
+  "id": 1125914317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.6966,13.2954,19.6966,13.2954",
+    "geom:latitude":13.2954,
+    "geom:longitude":19.6966,
+    "gn:gn_country":"TD",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":19271,
+    "gn:population":19271,
+    "iso:country":"TD",
+    "lbl:latitude":13.2954,
+    "lbl:longitude":19.6966,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0647\u0627\u062c\u0631"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u043c \u0425\u0430\u0434\u0436\u0435\u0440"
+    ],
+    "name:chi_x_preferred":[
+        "\u70cf\u59c6\u54c8\u6770\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Oum Hadjer"
+    ],
+    "name:eng_x_preferred":[
+        "Oum Hadjer"
+    ],
+    "name:fre_x_preferred":[
+        "Oum Hadjer"
+    ],
+    "name:ind_x_preferred":[
+        "Oum Hadjer"
+    ],
+    "name:ita_x_preferred":[
+        "Oum Hadjer"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30e0\u30cf\u30b8\u30a7\u30eb"
+    ],
+    "name:pol_x_preferred":[
+        "Oum Hadjer"
+    ],
+    "name:rum_x_preferred":[
+        "Oum Hadjer"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043c-\u0425\u0430\u0434\u0436\u0435\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645 \u062d\u062c\u0631"
+    ],
+    "qs_pg:aaroncc":"TD",
+    "qs_pg:gn_country":"TD",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2426370,
+    "qs_pg:gn_pop":19271,
+    "qs_pg:name":"Oum Hadjer",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1035612,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426370,
+        "qs_pg:id":1035612,
+        "wd:id":"Q2656174"
+    },
+    "wof:country":"TD",
+    "wof:created":1497296262,
+    "wof:geomhash":"c6431015dffa487dfee027c76d171d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1125914317,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1125914317,
+    "wof:lastmodified":1534379463,
+    "wof:name":"Oum Hadjer",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:population":19271,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141907619
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.6966,
+    13.2954,
+    19.6966,
+    13.2954
+],
+  "geometry": {"coordinates":[19.6966,13.2954],"type":"Point"}
+}

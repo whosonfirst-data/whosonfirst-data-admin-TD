@@ -1,0 +1,71 @@
+{
+  "id": 1327316739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25,12.02747,15.25,12.02747",
+    "geom:latitude":12.02747,
+    "geom:longitude":15.25,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mavrio",
+    "gn:country_code":"TD",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428936,
+    "gn:latitude":12.02747,
+    "gn:longitude":15.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mavrio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mabrio",
+        "Mavrio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428936
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"cd361783a69b4a5953c5e1c8b1f6e551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900725,
+            "locality_id":1327316739,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1327316739,
+    "wof:lastmodified":1537702733,
+    "wof:name":"Mavrio",
+    "wof:parent_id":1091900725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25,
+    12.02747,
+    15.25,
+    12.02747
+],
+  "geometry": {"coordinates":[15.25,12.02747],"type":"Point"}
+}

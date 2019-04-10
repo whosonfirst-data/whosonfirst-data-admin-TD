@@ -1,0 +1,71 @@
+{
+  "id": 1293799175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43975,14.36318,22.43975,14.36318",
+    "geom:latitude":14.36318,
+    "geom:longitude":22.43975,
+    "gn:asciiname":"Kulbus",
+    "gn:country_code":"TD",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371972,
+    "gn:latitude":14.36318,
+    "gn:longitude":22.43975,
+    "gn:modification_date":"2012-02-03",
+    "gn:name":"Kulbus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolbus",
+        "Koulbous",
+        "Kulbus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371972
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"df3c702d414b553a31917813260bdadc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":1293799175,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1293799175,
+    "wof:lastmodified":1537702688,
+    "wof:name":"Kulbus",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43975,
+    14.36318,
+    22.43975,
+    14.36318
+],
+  "geometry": {"coordinates":[22.43975,14.36318],"type":"Point"}
+}

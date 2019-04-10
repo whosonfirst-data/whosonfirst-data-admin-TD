@@ -1,0 +1,67 @@
+{
+  "id": 1326712487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4858,10.80294,15.4858,10.80294",
+    "geom:latitude":10.80294,
+    "geom:longitude":15.4858,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bidimene",
+    "gn:country_code":"TD",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435342,
+    "gn:latitude":10.80294,
+    "gn:longitude":15.4858,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Bidim\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435342
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5805180e6543028370980302127f869e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900627,
+            "locality_id":1326712487,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1326712487,
+    "wof:lastmodified":1536724597,
+    "wof:name":"Bidimene",
+    "wof:parent_id":1091900627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4858,
+    10.80294,
+    15.4858,
+    10.80294
+],
+  "geometry": {"coordinates":[15.4858,10.80294],"type":"Point"}
+}

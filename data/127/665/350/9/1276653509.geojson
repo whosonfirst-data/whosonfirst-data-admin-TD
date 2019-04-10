@@ -1,0 +1,67 @@
+{
+  "id": 1276653509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66667,13.48333,14.66667,13.48333",
+    "geom:latitude":13.48333,
+    "geom:longitude":14.66667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Somi",
+    "gn:country_code":"TD",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425544,
+    "gn:latitude":13.48333,
+    "gn:longitude":14.66667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Somi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425544
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"725bff705ff5c6cd80dc59be7e1f7071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1276653509,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1276653509,
+    "wof:lastmodified":1536845713,
+    "wof:name":"Somi",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66667,
+    13.48333,
+    14.66667,
+    13.48333
+],
+  "geometry": {"coordinates":[14.66667,13.48333],"type":"Point"}
+}

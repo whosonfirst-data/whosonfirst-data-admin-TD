@@ -1,0 +1,290 @@
+{
+  "id": 890451555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2827,11.0297,20.2827,11.0297",
+    "geom:latitude":11.0297,
+    "geom:longitude":20.2827,
+    "gn:country":"TD",
+    "gn:fcode":"PPLA",
+    "gn:pop":28885,
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u062a\u064a\u0645\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09ae \u09a4\u09bf\u09ae\u09be\u09a8"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043c \u0422\u0438\u043c\u0430\u043d"
+    ],
+    "name:chi_x_preferred":[
+        "\u5b89\u63d0\u66fc"
+    ],
+    "name:dan_x_preferred":[
+        "Am Timan"
+    ],
+    "name:dut_x_preferred":[
+        "Am Timan"
+    ],
+    "name:eng_x_preferred":[
+        "Am Timan"
+    ],
+    "name:fin_x_preferred":[
+        "Am Timan"
+    ],
+    "name:fra_x_preferred":[
+        "Am Timan"
+    ],
+    "name:fre_x_preferred":[
+        "Am Timan"
+    ],
+    "name:ger_x_preferred":[
+        "Am Timan"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bc \u03a4\u03b9\u03bc\u03ac\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aae \u0a9f\u0abf\u0aae\u0abe\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u092e \u091f\u093f\u092e\u094b\u0902"
+    ],
+    "name:hrv_x_preferred":[
+        "Am Timan"
+    ],
+    "name:ind_x_preferred":[
+        "Am Timan"
+    ],
+    "name:ita_x_preferred":[
+        "Am Timan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e0\u30fb\u30c6\u30a3\u30de\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0cae\u0ccd \u0c9f\u0cbf\u0cae\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc554 \ud2f0\ub9cc"
+    ],
+    "name:lav_x_preferred":[
+        "Amtimana"
+    ],
+    "name:lit_x_preferred":[
+        "Am Timanas"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u092e \u0924\u093f\u092e\u093e\u0928"
+    ],
+    "name:may_x_preferred":[
+        "Am Timan"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0410\u043c-\u0422\u0438\u043c\u0430\u043d"
+    ],
+    "name:nob_x_preferred":[
+        "Am Timan"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0645 \u062a\u06cc\u0645\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Am Timan"
+    ],
+    "name:por_x_preferred":[
+        "Am Timan"
+    ],
+    "name:rum_x_preferred":[
+        "Am Timan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c-\u0422\u0438\u043c\u0430\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d87\u0db8\u0dca \u0da7\u0dd2\u0db8\u0dcf\u0db1\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Am Timan"
+    ],
+    "name:swe_x_preferred":[
+        "Am Timan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0bae\u0bcd \u0b9f\u0bbf\u0bae\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c2e\u0c4d \u0c24\u0c3f\u0c2e\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e2d\u0e21 \u0e17\u0e34\u0e41\u0e21\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Am Timan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043c-\u0422\u0456\u043c\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Umm Timman"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0645 \u062a\u06cc\u0645\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Am Timan"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Chad",
+    "ne:ADM0_A3":"TCD",
+    "ne:ADM1NAME":"Salamat",
+    "ne:ADMIN1_COD":13,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":245338,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Am Timan",
+    "ne:GN_POP":28885,
+    "ne:GTOPO30":416.0,
+    "ne:ISO_A2":"TD",
+    "ne:LABELRANK":7,
+    "ne:LATITUDE":11.033292,
+    "ne:LONGITUDE":20.283299,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Am Timan",
+    "ne:MAX_AREAKM":10.0,
+    "ne:MAX_AREAMI":4.0,
+    "ne:MAX_BBXMAX":20.3,
+    "ne:MAX_BBXMIN":20.275,
+    "ne:MAX_BBYMAX":11.05,
+    "ne:MAX_BBYMIN":11.008333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":15.0,
+    "ne:MAX_PERMI":9.0,
+    "ne:MAX_POP10":8418,
+    "ne:MAX_POP20":8418,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":20.288194,
+    "ne:MEAN_BBYC":11.029861,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":10.0,
+    "ne:MIN_AREAMI":4.0,
+    "ne:MIN_BBXMAX":20.3,
+    "ne:MIN_BBXMIN":20.275,
+    "ne:MIN_BBYMAX":11.05,
+    "ne:MIN_BBYMIN":11.008333,
+    "ne:MIN_PERKM":15.0,
+    "ne:MIN_PERMI":9.0,
+    "ne:NAME":"Am Timan",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Am Timan",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":30443,
+    "ne:POP_MIN":28885,
+    "ne:POP_OTHER":8418,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Chad",
+    "ne:SOV_A3":"TCD",
+    "ne:TIMEZONE":"Africa/Ndjamena",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Am Timan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:latitude":"11.033333333",
+    "wd:longitude":"20.283333333",
+    "wd:wordcount":209,
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245338,
+        "gp:id":1271396,
+        "qs:id":123681,
+        "wd:id":"Q451529",
+        "wk:page":"Am Timan"
+    },
+    "wof:country":"TD",
+    "wof:created":1469052785,
+    "wof:geomhash":"141214ff1fc58713d8f26dbddcbdf99c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":890451555,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":890451555,
+    "wof:lastmodified":1527792938,
+    "wof:name":"Am Timan",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:population":28885,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2827,
+    11.0297,
+    20.2827,
+    11.0297
+],
+  "geometry": {"coordinates":[20.2827,11.0297],"type":"Point"}
+}

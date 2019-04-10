@@ -1,0 +1,61 @@
+{
+  "id": 1209373349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72424,13.87859,15.72424,13.87859",
+    "geom:latitude":13.87859,
+    "geom:longitude":15.72424,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Boulkoa",
+    "gn:country_code":"TD",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434714,
+    "gn:latitude":13.87859,
+    "gn:longitude":15.72424,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Boulkoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434714
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2ef9b7284993edfd38daaa5007cc3473",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209373349
+        }
+    ],
+    "wof:id":1209373349,
+    "wof:lastmodified":1536289033,
+    "wof:name":"Boulkoa",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72424,
+    13.87859,
+    15.72424,
+    13.87859
+],
+  "geometry": {"coordinates":[15.72424,13.87859],"type":"Point"}
+}

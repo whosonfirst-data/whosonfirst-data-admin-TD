@@ -1,0 +1,67 @@
+{
+  "id": 1226309255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71321,12.28322,16.71321,12.28322",
+    "geom:latitude":12.28322,
+    "geom:longitude":16.71321,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kourka Galali",
+    "gn:country_code":"TD",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429510,
+    "gn:latitude":12.28322,
+    "gn:longitude":16.71321,
+    "gn:modification_date":"2008-08-08",
+    "gn:name":"Kourka Galali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429510
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7422f6f543846e2f0af50dcfdce74c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1226309255,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1226309255,
+    "wof:lastmodified":1536841185,
+    "wof:name":"Kourka Galali",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71321,
+    12.28322,
+    16.71321,
+    12.28322
+],
+  "geometry": {"coordinates":[16.71321,12.28322],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360057937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1399,9.9146,15.1399,9.9146",
+    "geom:latitude":9.9146,
+    "geom:longitude":15.1399,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Fianga",
+    "gn:country_code":"TD",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432639,
+    "gn:latitude":9.9146,
+    "gn:longitude":15.1399,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Fianga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432639,
+        "wk:page":"Fianga"
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"08f29b83e19e14ffe4aa1e45e157feff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900357,
+            "locality_id":1360057937,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1360057937,
+    "wof:lastmodified":1537573879,
+    "wof:name":"Fianga",
+    "wof:parent_id":1091900357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1399,
+    9.9146,
+    15.1399,
+    9.9146
+],
+  "geometry": {"coordinates":[15.1399,9.9146],"type":"Point"}
+}

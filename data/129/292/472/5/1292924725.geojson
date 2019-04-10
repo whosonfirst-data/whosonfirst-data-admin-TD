@@ -1,0 +1,73 @@
+{
+  "id": 1292924725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.30775,8.08808,16.30775,8.08808",
+    "geom:latitude":8.08808,
+    "geom:longitude":16.30775,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sibangra",
+    "gn:country_code":"TD",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425634,
+    "gn:latitude":8.08808,
+    "gn:longitude":16.30775,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sibangra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Si-Nbangra"
+    ],
+    "name:und_x_variant":[
+        "Si-Nbangra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425634
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b77a04a94e8f83ae0823b26dc1d05768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899861,
+            "locality_id":1292924725,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1292924725,
+    "wof:lastmodified":1537702699,
+    "wof:name":"Sibangra",
+    "wof:parent_id":1091899861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.30775,
+    8.08808,
+    16.30775,
+    8.08808
+],
+  "geometry": {"coordinates":[16.30775,8.08808],"type":"Point"}
+}

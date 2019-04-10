@@ -1,0 +1,76 @@
+{
+  "id": 1310079291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31917,10.04222,16.31917,10.04222",
+    "geom:latitude":10.04222,
+    "geom:longitude":16.31917,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tchaguin Golo",
+    "gn:country_code":"TD",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425194,
+    "gn:latitude":10.04222,
+    "gn:longitude":16.31917,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tchaguin Golo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chagen",
+        "Tchagin Golo",
+        "Tchagen",
+        "Tchaguen",
+        "Tchaguine Ngolo",
+        "Tchaguin Golo",
+        "Tchaguine Golo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425194
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"28a00d120b8137490d0e9813388ea010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1310079291,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1310079291,
+    "wof:lastmodified":1537702696,
+    "wof:name":"Tchaguin Golo",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31917,
+    10.04222,
+    16.31917,
+    10.04222
+],
+  "geometry": {"coordinates":[16.31917,10.04222],"type":"Point"}
+}

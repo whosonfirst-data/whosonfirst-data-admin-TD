@@ -1,0 +1,67 @@
+{
+  "id": 1327337635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1345,12.7421,19.1345,12.7421",
+    "geom:latitude":12.7421,
+    "geom:longitude":19.1345,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Koulga",
+    "gn:country_code":"TD",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429729,
+    "gn:latitude":12.7421,
+    "gn:longitude":19.1345,
+    "gn:modification_date":"2008-09-29",
+    "gn:name":"Koulga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429729
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"932ee3fcfdaba2107a432ed59a8ecde1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1327337635,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1327337635,
+    "wof:lastmodified":1536816809,
+    "wof:name":"Koulga",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1345,
+    12.7421,
+    19.1345,
+    12.7421
+],
+  "geometry": {"coordinates":[19.1345,12.7421],"type":"Point"}
+}

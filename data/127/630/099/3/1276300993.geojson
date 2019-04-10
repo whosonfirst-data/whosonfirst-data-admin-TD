@@ -1,0 +1,67 @@
+{
+  "id": 1276300993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7741,13.1717,16.7741,13.1717",
+    "geom:latitude":13.1717,
+    "geom:longitude":16.7741,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Zargama",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424087,
+    "gn:latitude":13.1717,
+    "gn:longitude":16.7741,
+    "gn:modification_date":"2008-09-16",
+    "gn:name":"Zargama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424087
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"22501cc04c8f6c64e8d4f3045ac3c85a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901247,
+            "locality_id":1276300993,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1276300993,
+    "wof:lastmodified":1536821343,
+    "wof:name":"Zargama",
+    "wof:parent_id":1091901247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7741,
+    13.1717,
+    16.7741,
+    13.1717
+],
+  "geometry": {"coordinates":[16.7741,13.1717],"type":"Point"}
+}

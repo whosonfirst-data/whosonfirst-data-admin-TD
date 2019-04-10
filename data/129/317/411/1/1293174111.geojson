@@ -1,0 +1,67 @@
+{
+  "id": 1293174111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87014,12.21469,15.87014,12.21469",
+    "geom:latitude":12.21469,
+    "geom:longitude":15.87014,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Katche",
+    "gn:country_code":"TD",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430651,
+    "gn:latitude":12.21469,
+    "gn:longitude":15.87014,
+    "gn:modification_date":"2008-03-10",
+    "gn:name":"Katch\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430651
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"181799336b1f2a9b7d9bc0a7e35258e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1293174111,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1293174111,
+    "wof:lastmodified":1536741777,
+    "wof:name":"Katche",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87014,
+    12.21469,
+    15.87014,
+    12.21469
+],
+  "geometry": {"coordinates":[15.87014,12.21469],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276799221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6455,10.0254,18.6455,10.0254",
+    "geom:latitude":10.0254,
+    "geom:longitude":18.6455,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ataway",
+    "gn:country_code":"TD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436412,
+    "gn:latitude":10.0254,
+    "gn:longitude":18.6455,
+    "gn:modification_date":"2008-10-22",
+    "gn:name":"Ataway",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436412
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d69d8ebf3f25df8338ce3703863a3e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1276799221,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1276799221,
+    "wof:lastmodified":1536651537,
+    "wof:name":"Ataway",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6455,
+    10.0254,
+    18.6455,
+    10.0254
+],
+  "geometry": {"coordinates":[18.6455,10.0254],"type":"Point"}
+}

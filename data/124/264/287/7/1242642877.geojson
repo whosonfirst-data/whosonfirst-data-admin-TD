@@ -1,0 +1,67 @@
+{
+  "id": 1242642877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.31667,8.6,17.31667,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":17.31667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Niomi",
+    "gn:country_code":"TD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426824,
+    "gn:latitude":8.6,
+    "gn:longitude":17.31667,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Niomi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091899975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426824
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"707f76bc2eb08c708f0ccb4fbbe57145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899975,
+            "locality_id":1242642877,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1242642877,
+    "wof:lastmodified":1536969627,
+    "wof:name":"Niomi",
+    "wof:parent_id":1091899975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.31667,
+    8.6,
+    17.31667,
+    8.6
+],
+  "geometry": {"coordinates":[17.31667,8.6],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293806687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.17779,12.2716,19.17779,12.2716",
+    "geom:latitude":12.2716,
+    "geom:longitude":19.17779,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tchekine",
+    "gn:country_code":"TD",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425158,
+    "gn:latitude":12.2716,
+    "gn:longitude":19.17779,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tch\u00e9kin\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tch\u00e9k\u00e9n\u00e9 Araka",
+        "Tch\u00e9kin\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425158
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"10bdf2ed84c816a4fa875e1eec16eb93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900939,
+            "locality_id":1293806687,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1293806687,
+    "wof:lastmodified":1537702696,
+    "wof:name":"Tchekine",
+    "wof:parent_id":1091900939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17779,
+    12.2716,
+    19.17779,
+    12.2716
+],
+  "geometry": {"coordinates":[19.17779,12.2716],"type":"Point"}
+}

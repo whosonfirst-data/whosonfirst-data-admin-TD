@@ -1,0 +1,74 @@
+{
+  "id": 1276208597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31667,10.35,15.31667,10.35",
+    "geom:latitude":10.35,
+    "geom:longitude":15.31667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bagareye",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436256,
+    "gn:latitude":10.35,
+    "gn:longitude":15.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bagareye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagerai",
+        "Baghere\u00ef",
+        "Bagara\u00ef",
+        "Bagareye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436256
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"705e72e7e3fb84d2815a00c0096c3db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1276208597,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1276208597,
+    "wof:lastmodified":1537702811,
+    "wof:name":"Bagareye",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31667,
+    10.35,
+    15.31667,
+    10.35
+],
+  "geometry": {"coordinates":[15.31667,10.35],"type":"Point"}
+}

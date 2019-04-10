@@ -1,0 +1,67 @@
+{
+  "id": 1276211119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.90688,8.53968,16.90688,8.53968",
+    "geom:latitude":8.53968,
+    "geom:longitude":16.90688,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kokolo",
+    "gn:country_code":"TD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6909261,
+    "gn:latitude":8.53968,
+    "gn:longitude":16.90688,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Kokolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909261
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3eb4f00cda70bee81febf816ba1ae408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899891,
+            "locality_id":1276211119,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1276211119,
+    "wof:lastmodified":1536943432,
+    "wof:name":"Kokolo",
+    "wof:parent_id":1091899891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.90687999999999,
+    8.53968,
+    16.90687999999999,
+    8.53968
+],
+  "geometry": {"coordinates":[16.90687999999999,8.53968],"type":"Point"}
+}

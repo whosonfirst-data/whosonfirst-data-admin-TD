@@ -1,0 +1,72 @@
+{
+  "id": 1293509731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91682,8.8511,15.91682,8.8511",
+    "geom:latitude":8.8511,
+    "geom:longitude":15.91682,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kaheroy",
+    "gn:country_code":"TD",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431028,
+    "gn:latitude":8.8511,
+    "gn:longitude":15.91682,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kah\u00e9roy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kageroy",
+        "Kakeroye",
+        "Kah\u00e9roy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431028
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"61e14ba415fe4271c652e9742955a90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900113,
+            "locality_id":1293509731,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1293509731,
+    "wof:lastmodified":1537702751,
+    "wof:name":"Kaheroy",
+    "wof:parent_id":1091900113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91682,
+    8.8511,
+    15.91682,
+    8.8511
+],
+  "geometry": {"coordinates":[15.91682,8.8511],"type":"Point"}
+}

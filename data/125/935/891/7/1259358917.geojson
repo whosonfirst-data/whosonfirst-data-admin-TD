@@ -1,0 +1,67 @@
+{
+  "id": 1259358917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59026,12.39785,15.59026,12.39785",
+    "geom:latitude":12.39785,
+    "geom:longitude":15.59026,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sarafa",
+    "gn:country_code":"TD",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425806,
+    "gn:latitude":12.39785,
+    "gn:longitude":15.59026,
+    "gn:modification_date":"2008-02-26",
+    "gn:name":"Sarafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425806
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d224acae89ca450c4cafd100d2de6028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1259358917,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1259358917,
+    "wof:lastmodified":1537036121,
+    "wof:name":"Sarafa",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59026,
+    12.39785,
+    15.59026,
+    12.39785
+],
+  "geometry": {"coordinates":[15.59026,12.39785],"type":"Point"}
+}

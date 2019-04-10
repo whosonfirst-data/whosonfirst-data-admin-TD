@@ -1,0 +1,67 @@
+{
+  "id": 1310167397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4204,9.9887,14.4204,9.9887",
+    "geom:latitude":9.9887,
+    "geom:longitude":14.4204,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Dougoye",
+    "gn:country_code":"TD",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6869379,
+    "gn:latitude":9.9887,
+    "gn:longitude":14.4204,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Dougoye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091901927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6869379
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a169f0b97aea14c365713049de82ddce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901927,
+            "locality_id":1310167397,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1310167397,
+    "wof:lastmodified":1536907696,
+    "wof:name":"Dougoye",
+    "wof:parent_id":1091901927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4204,
+    9.9887,
+    14.4204,
+    9.9887
+],
+  "geometry": {"coordinates":[14.4204,9.9887],"type":"Point"}
+}

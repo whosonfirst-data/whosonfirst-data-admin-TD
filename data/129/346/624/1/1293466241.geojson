@@ -1,0 +1,74 @@
+{
+  "id": 1293466241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1574,11.5911,19.1574,11.5911",
+    "geom:latitude":11.5911,
+    "geom:longitude":19.1574,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bereguit",
+    "gn:country_code":"TD",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435472,
+    "gn:latitude":11.5911,
+    "gn:longitude":19.1574,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9r\u00e9guit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9r\u00e9guit\u00e9",
+        "B\u00e9r\u00e9git",
+        "Beregnit",
+        "Beregil",
+        "B\u00e9r\u00e9guit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435472
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9394aa170c9fccbd8a004da895b5e707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900707,
+            "locality_id":1293466241,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1293466241,
+    "wof:lastmodified":1537702799,
+    "wof:name":"Bereguit",
+    "wof:parent_id":1091900707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1574,
+    11.5911,
+    19.1574,
+    11.5911
+],
+  "geometry": {"coordinates":[19.1574,11.5911],"type":"Point"}
+}

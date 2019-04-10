@@ -1,0 +1,74 @@
+{
+  "id": 1226438459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8669,8.7103,16.8669,8.7103",
+    "geom:latitude":8.7103,
+    "geom:longitude":16.8669,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bekamna I",
+    "gn:country_code":"TD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435697,
+    "gn:latitude":8.7103,
+    "gn:longitude":16.8669,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9kamna I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bekamna"
+    ],
+    "name:und_x_variant":[
+        "B\u00e9kamna I",
+        "Bekamna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435697
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"72883b1c4b46a62dad75d7455a888e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900157,
+            "locality_id":1226438459,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1226438459,
+    "wof:lastmodified":1537702803,
+    "wof:name":"Bekamna I",
+    "wof:parent_id":1091900157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8669,
+    8.7103,
+    16.8669,
+    8.7103
+],
+  "geometry": {"coordinates":[16.8669,8.7103],"type":"Point"}
+}

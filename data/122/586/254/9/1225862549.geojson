@@ -1,0 +1,67 @@
+{
+  "id": 1225862549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.4898,13.0725,19.4898,13.0725",
+    "geom:latitude":13.0725,
+    "geom:longitude":19.4898,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ramo",
+    "gn:country_code":"TD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426103,
+    "gn:latitude":13.0725,
+    "gn:longitude":19.4898,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Ramo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426103
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3dfb77ce29eb4d70d6e2fb46cb5be6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1225862549,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1225862549,
+    "wof:lastmodified":1536988627,
+    "wof:name":"Ramo",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.4898,
+    13.0725,
+    19.4898,
+    13.0725
+],
+  "geometry": {"coordinates":[19.4898,13.0725],"type":"Point"}
+}

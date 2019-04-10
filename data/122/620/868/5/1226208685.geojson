@@ -1,0 +1,67 @@
+{
+  "id": 1226208685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5948,12.46003,16.5948,12.46003",
+    "geom:latitude":12.46003,
+    "geom:longitude":16.5948,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kaoko",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6806534,
+    "gn:latitude":12.46003,
+    "gn:longitude":16.5948,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kaoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806534
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c250fdce786fb8d2b440ef0acaf745b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1226208685,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1226208685,
+    "wof:lastmodified":1536986356,
+    "wof:name":"Kaoko",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5948,
+    12.46003,
+    16.5948,
+    12.46003
+],
+  "geometry": {"coordinates":[16.5948,12.46003],"type":"Point"}
+}

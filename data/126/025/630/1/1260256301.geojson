@@ -1,0 +1,71 @@
+{
+  "id": 1260256301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5612,9.1674,16.5612,9.1674",
+    "geom:latitude":9.1674,
+    "geom:longitude":16.5612,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dogobara",
+    "gn:country_code":"TD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433380,
+    "gn:latitude":9.1674,
+    "gn:longitude":16.5612,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dogobara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dogolma",
+        "Dogobara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433380
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a81d897fe1666f4318625a6c9a0ee439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1260256301,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1260256301,
+    "wof:lastmodified":1537702777,
+    "wof:name":"Dogobara",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5612,
+    9.1674,
+    16.5612,
+    9.1674
+],
+  "geometry": {"coordinates":[16.5612,9.1674],"type":"Point"}
+}

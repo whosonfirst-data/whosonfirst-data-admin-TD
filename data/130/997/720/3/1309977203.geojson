@@ -1,0 +1,67 @@
+{
+  "id": 1309977203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4005,9.6728,16.4005,9.6728",
+    "geom:latitude":9.6728,
+    "geom:longitude":16.4005,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nierem",
+    "gn:country_code":"TD",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426836,
+    "gn:latitude":9.6728,
+    "gn:longitude":16.4005,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Nierem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426836
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3a2174abba6fdb51e90d2364a1ddcbeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1309977203,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1309977203,
+    "wof:lastmodified":1536684105,
+    "wof:name":"Nierem",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4005,
+    9.6728,
+    16.4005,
+    9.6728
+],
+  "geometry": {"coordinates":[16.4005,9.6728],"type":"Point"}
+}

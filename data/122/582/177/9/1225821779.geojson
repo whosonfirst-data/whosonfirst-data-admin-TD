@@ -1,0 +1,67 @@
+{
+  "id": 1225821779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.382,11.0958,19.382,11.0958",
+    "geom:latitude":11.0958,
+    "geom:longitude":19.382,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tamaram",
+    "gn:country_code":"TD",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425315,
+    "gn:latitude":11.0958,
+    "gn:longitude":19.382,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Tamaram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425315
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"baa28ea2f6f977d82549379591d69137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1225821779,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1225821779,
+    "wof:lastmodified":1537046366,
+    "wof:name":"Tamaram",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.382,
+    11.0958,
+    19.382,
+    11.0958
+],
+  "geometry": {"coordinates":[19.382,11.0958],"type":"Point"}
+}

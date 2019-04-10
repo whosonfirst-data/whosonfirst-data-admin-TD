@@ -1,0 +1,66 @@
+{
+  "id": 1209436171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26667,13.8,14.26667,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":14.26667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kola",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430145,
+    "gn:latitude":13.8,
+    "gn:longitude":14.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kola I",
+        "Kola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430145
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"df254dd1f4da6c3b7fd39fea54eb4317",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209436171
+        }
+    ],
+    "wof:id":1209436171,
+    "wof:lastmodified":1537702744,
+    "wof:name":"Kola",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26667,
+    13.8,
+    14.26667,
+    13.8
+],
+  "geometry": {"coordinates":[14.26667,13.8],"type":"Point"}
+}

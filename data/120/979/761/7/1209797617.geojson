@@ -1,0 +1,71 @@
+{
+  "id": 1209797617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16386,9.4861,15.16386,9.4861",
+    "geom:latitude":9.4861,
+    "geom:longitude":15.16386,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Djodo Gasa",
+    "gn:country_code":"TD",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433544,
+    "gn:latitude":9.4861,
+    "gn:longitude":15.16386,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djodo Gasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djodo Gassa",
+        "Djodo Gasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433544
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ba814aa0a2eeae7829c166cb0abe771c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900311,
+            "locality_id":1209797617,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1209797617,
+    "wof:lastmodified":1537702779,
+    "wof:name":"Djodo Gasa",
+    "wof:parent_id":1091900311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16386,
+    9.4861,
+    15.16386,
+    9.4861
+],
+  "geometry": {"coordinates":[15.16386,9.4861],"type":"Point"}
+}

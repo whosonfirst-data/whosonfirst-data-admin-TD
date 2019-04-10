@@ -1,0 +1,67 @@
+{
+  "id": 1260094197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36237,12.43056,17.36237,12.43056",
+    "geom:latitude":12.43056,
+    "geom:longitude":17.36237,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Damranga",
+    "gn:country_code":"TD",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434248,
+    "gn:latitude":12.43056,
+    "gn:longitude":17.36237,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Damranga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434248
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"aa0cd7e353a60dde39fa6422963a214a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1260094197,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1260094197,
+    "wof:lastmodified":1536972151,
+    "wof:name":"Damranga",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36237,
+    12.43056,
+    17.36237,
+    12.43056
+],
+  "geometry": {"coordinates":[17.36237,12.43056],"type":"Point"}
+}

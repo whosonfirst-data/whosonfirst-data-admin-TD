@@ -1,0 +1,67 @@
+{
+  "id": 1293268661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.0681,10.4526,20.0681,10.4526",
+    "geom:latitude":10.4526,
+    "geom:longitude":20.0681,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Djouna",
+    "gn:country_code":"TD",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244372,
+    "gn:latitude":10.4526,
+    "gn:longitude":20.0681,
+    "gn:modification_date":"2008-10-08",
+    "gn:name":"Djouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244372
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9bc9d308e0cc1d2dc854d45acde5bfe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1293268661,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1293268661,
+    "wof:lastmodified":1536602431,
+    "wof:name":"Djouna",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.0681,
+    10.4526,
+    20.0681,
+    10.4526
+],
+  "geometry": {"coordinates":[20.0681,10.4526],"type":"Point"}
+}

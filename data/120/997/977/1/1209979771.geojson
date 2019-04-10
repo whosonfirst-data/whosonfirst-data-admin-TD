@@ -1,0 +1,70 @@
+{
+  "id": 1209979771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13551,12.5313,15.13551,12.5313",
+    "geom:latitude":12.5313,
+    "geom:longitude":15.13551,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Hamoud el Hassi",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431459,
+    "gn:latitude":12.5313,
+    "gn:longitude":15.13551,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hamoud el Hassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hamoud el Hasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431459
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1c5a974a3b468f53a0e7f329f606fe9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1209979771,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1209979771,
+    "wof:lastmodified":1537702756,
+    "wof:name":"Hamoud el Hassi",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13551,
+    12.5313,
+    15.13551,
+    12.5313
+],
+  "geometry": {"coordinates":[15.13551,12.5313],"type":"Point"}
+}

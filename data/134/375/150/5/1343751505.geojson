@@ -1,0 +1,70 @@
+{
+  "id": 1343751505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85685,8.68491,16.85685,8.68491",
+    "geom:latitude":8.68491,
+    "geom:longitude":16.85685,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bedokassa",
+    "gn:country_code":"TD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435762,
+    "gn:latitude":8.68491,
+    "gn:longitude":16.85685,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9dokassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9dokassa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435762
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9a0818fc58d7300032424703c4300b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900157,
+            "locality_id":1343751505,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1343751505,
+    "wof:lastmodified":1537702804,
+    "wof:name":"Bedokassa",
+    "wof:parent_id":1091900157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85685,
+    8.68491,
+    16.85685,
+    8.68491
+],
+  "geometry": {"coordinates":[16.85685,8.68491],"type":"Point"}
+}

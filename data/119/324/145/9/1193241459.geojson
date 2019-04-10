@@ -1,0 +1,67 @@
+{
+  "id": 1193241459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27657,13.04667,15.27657,13.04667",
+    "geom:latitude":13.04667,
+    "geom:longitude":15.27657,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Serere",
+    "gn:country_code":"TD",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425704,
+    "gn:latitude":13.04667,
+    "gn:longitude":15.27657,
+    "gn:modification_date":"2009-03-05",
+    "gn:name":"S\u00e9r\u00e9re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425704
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9ddc9fc6b995974d918de1950cfb11c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1193241459,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1193241459,
+    "wof:lastmodified":1536377966,
+    "wof:name":"Serere",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27657,
+    13.04667,
+    15.27657,
+    13.04667
+],
+  "geometry": {"coordinates":[15.27657,13.04667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343327239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29996,8.75116,17.29996,8.75116",
+    "geom:latitude":8.75116,
+    "geom:longitude":17.29996,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dounambo",
+    "gn:country_code":"TD",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433068,
+    "gn:latitude":8.75116,
+    "gn:longitude":17.29996,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Dounambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091899975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433068
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1591287ff104b6ce9b025712b8050faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899975,
+            "locality_id":1343327239,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1343327239,
+    "wof:lastmodified":1536939388,
+    "wof:name":"Dounambo",
+    "wof:parent_id":1091899975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29996,
+    8.75116,
+    17.29996,
+    8.75116
+],
+  "geometry": {"coordinates":[17.29996,8.75116],"type":"Point"}
+}

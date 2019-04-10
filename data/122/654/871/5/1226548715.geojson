@@ -1,0 +1,71 @@
+{
+  "id": 1226548715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.49613,14.64158,21.49613,14.64158",
+    "geom:latitude":14.64158,
+    "geom:longitude":21.49613,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Moura",
+    "gn:country_code":"TD",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242514,
+    "gn:latitude":14.64158,
+    "gn:longitude":21.49613,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Moura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mourra",
+        "Moura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242514
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5eeba4f4954001b93b3fb37b524a110d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901409,
+            "locality_id":1226548715,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1226548715,
+    "wof:lastmodified":1537702654,
+    "wof:name":"Moura",
+    "wof:parent_id":1091901409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.49613,
+    14.64158,
+    21.49613,
+    14.64158
+],
+  "geometry": {"coordinates":[21.49613,14.64158],"type":"Point"}
+}

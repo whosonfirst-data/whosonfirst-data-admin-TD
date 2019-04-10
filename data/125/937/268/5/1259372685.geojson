@@ -1,0 +1,67 @@
+{
+  "id": 1259372685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5286,9.0404,16.5286,9.0404",
+    "geom:latitude":9.0404,
+    "geom:longitude":16.5286,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ro Man",
+    "gn:country_code":"TD",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426015,
+    "gn:latitude":9.0404,
+    "gn:longitude":16.5286,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"R\u00f4 Man",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426015
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"27e0ac84d00a1ca9784e6c0a7da8916f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900073,
+            "locality_id":1259372685,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1259372685,
+    "wof:lastmodified":1537017108,
+    "wof:name":"Ro Man",
+    "wof:parent_id":1091900073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5286,
+    9.0404,
+    16.5286,
+    9.0404
+],
+  "geometry": {"coordinates":[16.5286,9.0404],"type":"Point"}
+}

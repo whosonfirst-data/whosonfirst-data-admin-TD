@@ -1,0 +1,74 @@
+{
+  "id": 1242586491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.83477,14.11947,21.83477,14.11947",
+    "geom:latitude":14.11947,
+    "geom:longitude":21.83477,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dourningue",
+    "gn:country_code":"TD",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244276,
+    "gn:latitude":14.11947,
+    "gn:longitude":21.83477,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Dourningu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dourningu\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Dournog\u00e9",
+        "Dourning\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244276
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7bc41d3f1a7a7f7aaab5aa94436af93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":1242586491,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1242586491,
+    "wof:lastmodified":1537702672,
+    "wof:name":"Dourningue",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.83477,
+    14.11947,
+    21.83477,
+    14.11947
+],
+  "geometry": {"coordinates":[21.83477,14.11947],"type":"Point"}
+}

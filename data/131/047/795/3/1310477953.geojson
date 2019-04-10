@@ -1,0 +1,73 @@
+{
+  "id": 1310477953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.65142,9.97443,17.65142,9.97443",
+    "geom:latitude":9.97443,
+    "geom:longitude":17.65142,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gori",
+    "gn:country_code":"TD",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431901,
+    "gn:latitude":9.97443,
+    "gn:longitude":17.65142,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goury",
+        "Gouri",
+        "Gori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431901,
+        "wk:page":"Gori%2C_Chad"
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8d8b5542981a9e05c410575bd2e85f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1310477953,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1310477953,
+    "wof:lastmodified":1537702761,
+    "wof:name":"Gori",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.65142,
+    9.97443,
+    17.65142,
+    9.97443
+],
+  "geometry": {"coordinates":[17.65142,9.97443],"type":"Point"}
+}

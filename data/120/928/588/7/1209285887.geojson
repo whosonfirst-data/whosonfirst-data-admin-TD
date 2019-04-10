@@ -1,0 +1,64 @@
+{
+  "id": 1209285887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12056,9.96193,21.12056,9.96193",
+    "geom:latitude":9.96193,
+    "geom:longitude":21.12056,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kouga",
+    "gn:country_code":"TD",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243114,
+    "gn:latitude":9.96193,
+    "gn:longitude":21.12056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kouga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243114
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2a34772ab6a16d9bf3ac9d43b175ebba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209285887
+        }
+    ],
+    "wof:id":1209285887,
+    "wof:lastmodified":1537702661,
+    "wof:name":"Kouga",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12056,
+    9.96193,
+    21.12056,
+    9.96193
+],
+  "geometry": {"coordinates":[21.12056,9.96193],"type":"Point"}
+}

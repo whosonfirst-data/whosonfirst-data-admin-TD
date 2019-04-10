@@ -1,0 +1,72 @@
+{
+  "id": 1226731849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49264,9.77325,15.49264,9.77325",
+    "geom:latitude":9.77325,
+    "geom:longitude":15.49264,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Djarao Boro I",
+    "gn:country_code":"TD",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433699,
+    "gn:latitude":9.77325,
+    "gn:longitude":15.49264,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djarao Boro I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djarao Boro Molo",
+        "Djarao Boro",
+        "Djarao Boro I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433699
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8aa2b3e6300ee9e27c878edf4cfdc12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900311,
+            "locality_id":1226731849,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1226731849,
+    "wof:lastmodified":1537702781,
+    "wof:name":"Djarao Boro I",
+    "wof:parent_id":1091900311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49264,
+    9.77325,
+    15.49264,
+    9.77325
+],
+  "geometry": {"coordinates":[15.49264,9.77325],"type":"Point"}
+}

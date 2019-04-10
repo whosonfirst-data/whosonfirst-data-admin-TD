@@ -1,0 +1,61 @@
+{
+  "id": 1209176693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4644,8.8943,17.4644,8.8943",
+    "geom:latitude":8.8943,
+    "geom:longitude":17.4644,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ngomana",
+    "gn:country_code":"TD",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859560,
+    "gn:latitude":8.8943,
+    "gn:longitude":17.4644,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ngomana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859560
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7b1c6341486d98fc0b31088fe75d4edc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209176693
+        }
+    ],
+    "wof:id":1209176693,
+    "wof:lastmodified":1536295399,
+    "wof:name":"Ngomana",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4644,
+    8.8943,
+    17.4644,
+    8.8943
+],
+  "geometry": {"coordinates":[17.4644,8.8943],"type":"Point"}
+}

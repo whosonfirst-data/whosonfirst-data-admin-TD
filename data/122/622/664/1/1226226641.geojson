@@ -1,0 +1,67 @@
+{
+  "id": 1226226641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3405,7.984,16.3405,7.984",
+    "geom:latitude":7.984,
+    "geom:longitude":16.3405,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bengamia",
+    "gn:country_code":"TD",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435532,
+    "gn:latitude":7.984,
+    "gn:longitude":16.3405,
+    "gn:modification_date":"2008-10-14",
+    "gn:name":"Bengamia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435532
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ae24b2c94e0e9ad29ca16def234bd257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899861,
+            "locality_id":1226226641,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1226226641,
+    "wof:lastmodified":1536961111,
+    "wof:name":"Bengamia",
+    "wof:parent_id":1091899861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3405,
+    7.984,
+    16.3405,
+    7.984
+],
+  "geometry": {"coordinates":[16.3405,7.984],"type":"Point"}
+}

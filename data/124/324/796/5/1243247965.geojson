@@ -1,0 +1,67 @@
+{
+  "id": 1243247965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47851,7.91337,16.47851,7.91337",
+    "geom:latitude":7.91337,
+    "geom:longitude":16.47851,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Djeu",
+    "gn:country_code":"TD",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433626,
+    "gn:latitude":7.91337,
+    "gn:longitude":16.47851,
+    "gn:modification_date":"2008-10-14",
+    "gn:name":"Djeu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433626
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"30ab83e1eadbe9526443c3a43f88f6ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899861,
+            "locality_id":1243247965,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1243247965,
+    "wof:lastmodified":1537088449,
+    "wof:name":"Djeu",
+    "wof:parent_id":1091899861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47851,
+    7.91337,
+    16.47851,
+    7.91337
+],
+  "geometry": {"coordinates":[16.47851,7.91337],"type":"Point"}
+}

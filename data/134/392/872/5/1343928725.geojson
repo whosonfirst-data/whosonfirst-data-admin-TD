@@ -1,0 +1,67 @@
+{
+  "id": 1343928725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08614,9.33523,17.08614,9.33523",
+    "geom:latitude":9.33523,
+    "geom:longitude":17.08614,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dar Katouli",
+    "gn:country_code":"TD",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434139,
+    "gn:latitude":9.33523,
+    "gn:longitude":17.08614,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Dar Katouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434139
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"50bc7247c0c669cabaf1682123af8cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1343928725,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1343928725,
+    "wof:lastmodified":1537063080,
+    "wof:name":"Dar Katouli",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08614,
+    9.33523,
+    17.08614,
+    9.33523
+],
+  "geometry": {"coordinates":[17.08614,9.33523],"type":"Point"}
+}

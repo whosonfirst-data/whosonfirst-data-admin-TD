@@ -1,0 +1,72 @@
+{
+  "id": 1310192167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.05633,13.55892,21.05633,13.55892",
+    "geom:latitude":13.55892,
+    "geom:longitude":21.05633,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Koudiomera",
+    "gn:country_code":"TD",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243132,
+    "gn:latitude":13.55892,
+    "gn:longitude":21.05633,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Koudiom\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kadjimira",
+        "Kadjmira",
+        "Koudiom\u00e9ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243132
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"076ca477b4ac1d28bd1f1a263303276b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1310192167,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1310192167,
+    "wof:lastmodified":1537702662,
+    "wof:name":"Koudiomera",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.05633,
+    13.55892,
+    21.05633,
+    13.55892
+],
+  "geometry": {"coordinates":[21.05633,13.55892],"type":"Point"}
+}

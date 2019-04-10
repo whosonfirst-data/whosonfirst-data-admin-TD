@@ -1,0 +1,67 @@
+{
+  "id": 1242795431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.3415,13.7229,19.3415,13.7229",
+    "geom:latitude":13.7229,
+    "geom:longitude":19.3415,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Karno",
+    "gn:country_code":"TD",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430714,
+    "gn:latitude":13.7229,
+    "gn:longitude":19.3415,
+    "gn:modification_date":"2008-10-07",
+    "gn:name":"Karno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430714
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7ad4a7afa7bca09e32c82a1fe286f738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1242795431,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1242795431,
+    "wof:lastmodified":1536749765,
+    "wof:name":"Karno",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.3415,
+    13.7229,
+    19.3415,
+    13.7229
+],
+  "geometry": {"coordinates":[19.3415,13.7229],"type":"Point"}
+}

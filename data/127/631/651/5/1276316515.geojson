@@ -1,0 +1,67 @@
+{
+  "id": 1276316515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.75192,9.66135,16.75192,9.66135",
+    "geom:latitude":9.66135,
+    "geom:longitude":16.75192,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Neringui",
+    "gn:country_code":"TD",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870774,
+    "gn:latitude":9.66135,
+    "gn:longitude":16.75192,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Neringui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870774
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f8c91f0959d172d5c55dcba5efa3ad76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1276316515,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1276316515,
+    "wof:lastmodified":1536801307,
+    "wof:name":"Neringui",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.75192,
+    9.66135,
+    16.75192,
+    9.66135
+],
+  "geometry": {"coordinates":[16.75192,9.66135],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225828763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83401,9.10777,15.83401,9.10777",
+    "geom:latitude":9.10777,
+    "geom:longitude":15.83401,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ouseng Teina",
+    "gn:country_code":"TD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426289,
+    "gn:latitude":9.10777,
+    "gn:longitude":15.83401,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouseng Te\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oussen Teina",
+        "Ouseng Te\u00efna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426289
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"748aeb0ec9583f78122259c338f73c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1225828763,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1225828763,
+    "wof:lastmodified":1537702705,
+    "wof:name":"Ouseng Teina",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83401,
+    9.10777,
+    15.83401,
+    9.10777
+],
+  "geometry": {"coordinates":[15.83401,9.10777],"type":"Point"}
+}

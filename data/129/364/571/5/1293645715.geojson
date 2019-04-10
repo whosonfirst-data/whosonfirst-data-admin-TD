@@ -1,0 +1,67 @@
+{
+  "id": 1293645715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.04814,13.20137,17.04814,13.20137",
+    "geom:latitude":13.20137,
+    "geom:longitude":17.04814,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Bir Fas",
+    "gn:country_code":"TD",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435176,
+    "gn:latitude":13.20137,
+    "gn:longitude":17.04814,
+    "gn:modification_date":"2008-09-15",
+    "gn:name":"Bir Fas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435176
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3578fddc0bfca042cc6968ad27861afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901247,
+            "locality_id":1293645715,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1293645715,
+    "wof:lastmodified":1537053984,
+    "wof:name":"Bir Fas",
+    "wof:parent_id":1091901247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.04814,
+    13.20137,
+    17.04814,
+    13.20137
+],
+  "geometry": {"coordinates":[17.04814,13.20137],"type":"Point"}
+}

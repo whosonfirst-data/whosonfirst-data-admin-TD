@@ -1,0 +1,67 @@
+{
+  "id": 1327315951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76667,9.98333,15.76667,9.98333",
+    "geom:latitude":9.98333,
+    "geom:longitude":15.76667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Diep",
+    "gn:country_code":"TD",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433911,
+    "gn:latitude":9.98333,
+    "gn:longitude":15.76667,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Diep",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433911
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"382da32813aaaa06e513d8f4dfb2fef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1327315951,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1327315951,
+    "wof:lastmodified":1536847931,
+    "wof:name":"Diep",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76667,
+    9.98333,
+    15.76667,
+    9.98333
+],
+  "geometry": {"coordinates":[15.76667,9.98333],"type":"Point"}
+}

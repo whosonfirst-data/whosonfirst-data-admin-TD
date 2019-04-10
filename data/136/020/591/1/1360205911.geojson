@@ -1,0 +1,67 @@
+{
+  "id": 1360205911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43255,13.43878,15.43255,13.43878",
+    "geom:latitude":13.43878,
+    "geom:longitude":15.43255,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Djorom",
+    "gn:country_code":"TD",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6986368,
+    "gn:latitude":13.43878,
+    "gn:longitude":15.43255,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Djorom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986368
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b63cf467956e0d45ad95f4ce05e4907d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1360205911,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1360205911,
+    "wof:lastmodified":1536772023,
+    "wof:name":"Djorom",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43255,
+    13.43878,
+    15.43255,
+    13.43878
+],
+  "geometry": {"coordinates":[15.43255,13.43878],"type":"Point"}
+}

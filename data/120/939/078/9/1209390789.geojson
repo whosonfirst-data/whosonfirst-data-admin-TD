@@ -1,0 +1,61 @@
+{
+  "id": 1209390789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56948,12.98932,15.56948,12.98932",
+    "geom:latitude":12.98932,
+    "geom:longitude":15.56948,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mossokorari",
+    "gn:country_code":"TD",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6721887,
+    "gn:latitude":12.98932,
+    "gn:longitude":15.56948,
+    "gn:modification_date":"2009-03-05",
+    "gn:name":"Mossokorari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6721887
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d1220e2ba5f669f5bb5d785c2e456694",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209390789
+        }
+    ],
+    "wof:id":1209390789,
+    "wof:lastmodified":1536288467,
+    "wof:name":"Mossokorari",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56948,
+    12.98932,
+    15.56948,
+    12.98932
+],
+  "geometry": {"coordinates":[15.56948,12.98932],"type":"Point"}
+}

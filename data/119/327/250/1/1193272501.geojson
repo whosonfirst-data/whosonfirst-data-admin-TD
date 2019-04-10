@@ -1,0 +1,67 @@
+{
+  "id": 1193272501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78333,13.46667,14.78333,13.46667",
+    "geom:latitude":13.46667,
+    "geom:longitude":14.78333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Diboul Boul",
+    "gn:country_code":"TD",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433921,
+    "gn:latitude":13.46667,
+    "gn:longitude":14.78333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Diboul Boul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433921
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d36ef97268e7c6eb1f22483c74a79559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1193272501,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1193272501,
+    "wof:lastmodified":1536369045,
+    "wof:name":"Diboul Boul",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78333,
+    13.46667,
+    14.78333,
+    13.46667
+],
+  "geometry": {"coordinates":[14.78333,13.46667],"type":"Point"}
+}

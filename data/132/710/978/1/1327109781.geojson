@@ -1,0 +1,67 @@
+{
+  "id": 1327109781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.369,8.9214,17.369,8.9214",
+    "geom:latitude":8.9214,
+    "geom:longitude":17.369,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gandou",
+    "gn:country_code":"TD",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432320,
+    "gn:latitude":8.9214,
+    "gn:longitude":17.369,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Gandou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432320
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"64e29166e5705c8bdc14256051dfc728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900193,
+            "locality_id":1327109781,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1327109781,
+    "wof:lastmodified":1536648532,
+    "wof:name":"Gandou",
+    "wof:parent_id":1091900193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.369,
+    8.9214,
+    17.369,
+    8.9214
+],
+  "geometry": {"coordinates":[17.369,8.9214],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193249945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2458,8.7054,18.2458,8.7054",
+    "geom:latitude":8.7054,
+    "geom:longitude":18.2458,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Taolo",
+    "gn:country_code":"TD",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425266,
+    "gn:latitude":8.7054,
+    "gn:longitude":18.2458,
+    "gn:modification_date":"2008-10-10",
+    "gn:name":"Taolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425266
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"dde385f28b573076dae56702e6d82359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1193249945,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1193249945,
+    "wof:lastmodified":1536369119,
+    "wof:name":"Taolo",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2458,
+    8.7054,
+    18.2458,
+    8.7054
+],
+  "geometry": {"coordinates":[18.2458,8.7054],"type":"Point"}
+}

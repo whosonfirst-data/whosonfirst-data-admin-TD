@@ -1,0 +1,67 @@
+{
+  "id": 1293087495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19679,11.16242,20.19679,11.16242",
+    "geom:latitude":11.16242,
+    "geom:longitude":20.19679,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Saada",
+    "gn:country_code":"TD",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242079,
+    "gn:latitude":11.16242,
+    "gn:longitude":20.19679,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Saada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242079
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a6b2a3b5edd646a94d715aadd4942de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1293087495,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1293087495,
+    "wof:lastmodified":1536865453,
+    "wof:name":"Saada",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19679,
+    11.16242,
+    20.19679,
+    11.16242
+],
+  "geometry": {"coordinates":[20.19679,11.16242],"type":"Point"}
+}

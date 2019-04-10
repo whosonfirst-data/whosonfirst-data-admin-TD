@@ -1,0 +1,67 @@
+{
+  "id": 1293501521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2337,13.5275,19.2337,13.5275",
+    "geom:latitude":13.5275,
+    "geom:longitude":19.2337,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ab Chibean",
+    "gn:country_code":"TD",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855648,
+    "gn:latitude":13.5275,
+    "gn:longitude":19.2337,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ab Chib\u00e9an",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855648
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a8a6bd76311edb26031827fdc0a9abee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1293501521,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1293501521,
+    "wof:lastmodified":1536767174,
+    "wof:name":"Ab Chibean",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2337,
+    13.5275,
+    19.2337,
+    13.5275
+],
+  "geometry": {"coordinates":[19.2337,13.5275],"type":"Point"}
+}

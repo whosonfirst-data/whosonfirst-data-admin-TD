@@ -1,0 +1,67 @@
+{
+  "id": 1276850265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.247,11.24504,20.247,11.24504",
+    "geom:latitude":11.24504,
+    "geom:longitude":20.247,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Amanasis",
+    "gn:country_code":"TD",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245550,
+    "gn:latitude":11.24504,
+    "gn:longitude":20.247,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Amanasis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678487,
+        1091900689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245550
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"53577a7b308d029202f303efdd35e68e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900689,
+            "locality_id":1276850265,
+            "region_id":85678487
+        }
+    ],
+    "wof:id":1276850265,
+    "wof:lastmodified":1537077708,
+    "wof:name":"Amanasis",
+    "wof:parent_id":1091900689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.247,
+    11.24504,
+    20.247,
+    11.24504
+],
+  "geometry": {"coordinates":[20.247,11.24504],"type":"Point"}
+}

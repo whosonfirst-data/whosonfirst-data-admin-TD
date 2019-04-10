@@ -1,0 +1,67 @@
+{
+  "id": 1327006229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.41585,9.75619,19.41585,9.75619",
+    "geom:latitude":9.75619,
+    "geom:longitude":19.41585,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bale",
+    "gn:country_code":"TD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436120,
+    "gn:latitude":9.75619,
+    "gn:longitude":19.41585,
+    "gn:modification_date":"2008-10-30",
+    "gn:name":"Bal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436120
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0ef4c12e5aee9b6a58bf8a09839fd277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1327006229,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1327006229,
+    "wof:lastmodified":1536798410,
+    "wof:name":"Bale",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.41585,
+    9.75619,
+    19.41585,
+    9.75619
+],
+  "geometry": {"coordinates":[19.41585,9.75619],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277059187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5369,11.5106,16.5369,11.5106",
+    "geom:latitude":11.5106,
+    "geom:longitude":16.5369,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Koudroua",
+    "gn:country_code":"TD",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429790,
+    "gn:latitude":11.5106,
+    "gn:longitude":16.5369,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Koudroua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429790
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8b82363e4194e791acfca82675c9e4e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1277059187,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1277059187,
+    "wof:lastmodified":1536800648,
+    "wof:name":"Koudroua",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5369,
+    11.5106,
+    16.5369,
+    11.5106
+],
+  "geometry": {"coordinates":[16.5369,11.5106],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226107831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3867,8.3579,17.3867,8.3579",
+    "geom:latitude":8.3579,
+    "geom:longitude":17.3867,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kaga",
+    "gn:country_code":"TD",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859431,
+    "gn:latitude":8.3579,
+    "gn:longitude":17.3867,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859431
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"652cada4a09341e5bf8ea338995c3d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1226107831,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1226107831,
+    "wof:lastmodified":1536634291,
+    "wof:name":"Kaga",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3867,
+    8.3579,
+    17.3867,
+    8.3579
+],
+  "geometry": {"coordinates":[17.3867,8.3579],"type":"Point"}
+}

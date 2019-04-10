@@ -1,0 +1,67 @@
+{
+  "id": 1310287159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0038,9.9272,15.0038,9.9272",
+    "geom:latitude":9.9272,
+    "geom:longitude":15.0038,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Daoua",
+    "gn:country_code":"TD",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434191,
+    "gn:latitude":9.9272,
+    "gn:longitude":15.0038,
+    "gn:modification_date":"2008-10-21",
+    "gn:name":"Daoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434191
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"023b30c3aed5dc51e5f7ef9024c5615d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900357,
+            "locality_id":1310287159,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1310287159,
+    "wof:lastmodified":1536734568,
+    "wof:name":"Daoua",
+    "wof:parent_id":1091900357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0038,
+    9.9272,
+    15.0038,
+    9.9272
+],
+  "geometry": {"coordinates":[15.0038,9.9272],"type":"Point"}
+}

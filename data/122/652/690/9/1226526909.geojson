@@ -1,0 +1,67 @@
+{
+  "id": 1226526909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16667,7.9,16.16667,7.9",
+    "geom:latitude":7.9,
+    "geom:longitude":16.16667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Laokouetougou",
+    "gn:country_code":"TD",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429237,
+    "gn:latitude":7.9,
+    "gn:longitude":16.16667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Laokou\u00e9tougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429237
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ff29e605bdc64e7fa508c2a8e48f0866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1226526909,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1226526909,
+    "wof:lastmodified":1537024151,
+    "wof:name":"Laokouetougou",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16667,
+    7.9,
+    16.16667,
+    7.9
+],
+  "geometry": {"coordinates":[16.16667,7.9],"type":"Point"}
+}

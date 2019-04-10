@@ -1,0 +1,67 @@
+{
+  "id": 1242970035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.11667,12.8,20.11667,12.8",
+    "geom:latitude":12.8,
+    "geom:longitude":20.11667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Biren Garday",
+    "gn:country_code":"TD",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244859,
+    "gn:latitude":12.8,
+    "gn:longitude":20.11667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Biren Garday",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244859
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9c62cf95bba09978c1e2adef8f96140e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900939,
+            "locality_id":1242970035,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1242970035,
+    "wof:lastmodified":1536994622,
+    "wof:name":"Biren Garday",
+    "wof:parent_id":1091900939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.11667000000001,
+    12.8,
+    20.11667000000001,
+    12.8
+],
+  "geometry": {"coordinates":[20.11667000000001,12.8],"type":"Point"}
+}

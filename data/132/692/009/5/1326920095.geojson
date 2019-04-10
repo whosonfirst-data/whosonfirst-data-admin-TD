@@ -1,0 +1,72 @@
+{
+  "id": 1326920095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.18333,8.2,16.18333,8.2",
+    "geom:latitude":8.2,
+    "geom:longitude":16.18333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bengaida",
+    "gn:cc2":"TD",
+    "gn:country_code":"TD",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435537,
+    "gn:latitude":8.2,
+    "gn:longitude":16.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Benga\u00efda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Benga\u00efdi",
+        "Benga\u00efda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435537
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2f8caded4c777b319a6d6a7812875b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1326920095,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1326920095,
+    "wof:lastmodified":1537702800,
+    "wof:name":"Bengaida",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18333,
+    8.2,
+    16.18333,
+    8.2
+],
+  "geometry": {"coordinates":[16.18333,8.2],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292900497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19485,13.69566,15.19485,13.69566",
+    "geom:latitude":13.69566,
+    "geom:longitude":15.19485,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gala Medey",
+    "gn:country_code":"TD",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432402,
+    "gn:latitude":13.69566,
+    "gn:longitude":15.19485,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Gala M\u00e9dey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432402
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"853ab69617ae25844020949a39fd9979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1292900497,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1292900497,
+    "wof:lastmodified":1536638133,
+    "wof:name":"Gala Medey",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19485,
+    13.69566,
+    15.19485,
+    13.69566
+],
+  "geometry": {"coordinates":[15.19485,13.69566],"type":"Point"}
+}

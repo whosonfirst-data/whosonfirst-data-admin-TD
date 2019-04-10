@@ -1,0 +1,73 @@
+{
+  "id": 1226635681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.49838,8.63707,16.49838,8.63707",
+    "geom:latitude":8.63707,
+    "geom:longitude":16.49838,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mourdouni",
+    "gn:country_code":"TD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427614,
+    "gn:latitude":8.63707,
+    "gn:longitude":16.49838,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mourdouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mordounoum"
+    ],
+    "name:und_x_variant":[
+        "Mordounoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427614
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9a8f70716600e016e57b54ae2537d11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900073,
+            "locality_id":1226635681,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1226635681,
+    "wof:lastmodified":1537702719,
+    "wof:name":"Mourdouni",
+    "wof:parent_id":1091900073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.49837999999999,
+    8.63707,
+    16.49837999999999,
+    8.63707
+],
+  "geometry": {"coordinates":[16.49837999999999,8.63707],"type":"Point"}
+}

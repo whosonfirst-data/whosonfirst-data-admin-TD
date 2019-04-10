@@ -1,0 +1,67 @@
+{
+  "id": 1326720207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6824,7.9688,15.6824,7.9688",
+    "geom:latitude":7.9688,
+    "geom:longitude":15.6824,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tapol",
+    "gn:country_code":"TD",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425257,
+    "gn:latitude":7.9688,
+    "gn:longitude":15.6824,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Tapol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425257
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"badf46e0e0ebab02860f894bcca1470a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1326720207,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1326720207,
+    "wof:lastmodified":1536713437,
+    "wof:name":"Tapol",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6824,
+    7.9688,
+    15.6824,
+    7.9688
+],
+  "geometry": {"coordinates":[15.6824,7.9688],"type":"Point"}
+}

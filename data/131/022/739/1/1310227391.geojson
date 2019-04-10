@@ -1,0 +1,67 @@
+{
+  "id": 1310227391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26667,8.65,16.26667,8.65",
+    "geom:latitude":8.65,
+    "geom:longitude":16.26667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Beria",
+    "gn:country_code":"TD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435455,
+    "gn:latitude":8.65,
+    "gn:longitude":16.26667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Beria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435455
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a484c0d4c664bb115db68b82c17ce42f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900031,
+            "locality_id":1310227391,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1310227391,
+    "wof:lastmodified":1536819853,
+    "wof:name":"Beria",
+    "wof:parent_id":1091900031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26667,
+    8.65,
+    16.26667,
+    8.65
+],
+  "geometry": {"coordinates":[16.26667,8.65],"type":"Point"}
+}

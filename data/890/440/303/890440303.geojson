@@ -1,0 +1,95 @@
+{
+  "id": 890440303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5132,9.6294,15.5132,9.6294",
+    "geom:latitude":9.6294,
+    "geom:longitude":15.5132,
+    "gn:country":"TD",
+    "gn:fcode":"PPL",
+    "gn:pop":9521,
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u063a\u0648\u0646\u0648 \u063a\u0627\u064a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Gounou Gaya"
+    ],
+    "name:eng_x_preferred":[
+        "Gounou Gaya"
+    ],
+    "name:fre_x_preferred":[
+        "Gounou Gaya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30a5\u30ce\u30a6\u30fb\u30ac\u30e4"
+    ],
+    "name:pol_x_preferred":[
+        "Gounou Gaya"
+    ],
+    "name:rum_x_preferred":[
+        "Gounou Gaya"
+    ],
+    "name:unk_x_variant":[
+        "Gounou"
+    ],
+    "qs:name":"Gounou Gaya",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:latitude":"9.63056",
+    "wd:longitude":"15.5111",
+    "wd:wordcount":94,
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431724,
+        "gp:id":1274645,
+        "qs:id":278646,
+        "wd:id":"Q3111678",
+        "wk:page":"Gounou Gaya"
+    },
+    "wof:country":"TD",
+    "wof:created":1469052270,
+    "wof:geomhash":"2f1fd38709ce4f47645fe7ce9df49db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900311,
+            "locality_id":890440303,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":890440303,
+    "wof:lastmodified":1527727106,
+    "wof:name":"Gounou Gaya",
+    "wof:parent_id":1091900311,
+    "wof:placetype":"locality",
+    "wof:population":9521,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5132,
+    9.6294,
+    15.5132,
+    9.6294
+],
+  "geometry": {"coordinates":[15.5132,9.6294],"type":"Point"}
+}

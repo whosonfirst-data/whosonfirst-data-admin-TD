@@ -1,0 +1,67 @@
+{
+  "id": 1209812377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93333,13.65,14.93333,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":14.93333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yali Yolem",
+    "gn:country_code":"TD",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424348,
+    "gn:latitude":13.65,
+    "gn:longitude":14.93333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Yali Yolem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424348
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"323d8f1c259324c7c5331ed1d3c60c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901129,
+            "locality_id":1209812377,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1209812377,
+    "wof:lastmodified":1536385854,
+    "wof:name":"Yali Yolem",
+    "wof:parent_id":1091901129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93333,
+    13.65,
+    14.93333,
+    13.65
+],
+  "geometry": {"coordinates":[14.93333,13.65],"type":"Point"}
+}

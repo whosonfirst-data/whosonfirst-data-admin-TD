@@ -1,0 +1,64 @@
+{
+  "id": 1209304139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.21172,8.41742,16.21172,8.41742",
+    "geom:latitude":8.41742,
+    "geom:longitude":16.21172,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Boro",
+    "gn:country_code":"TD",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434865,
+    "gn:latitude":8.41742,
+    "gn:longitude":16.21172,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434865
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c9bbdd4e091b537fdf38d47b00db380b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209304139
+        }
+    ],
+    "wof:id":1209304139,
+    "wof:lastmodified":1537702791,
+    "wof:name":"Boro",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21172,
+    8.41742,
+    16.21172,
+    8.41742
+],
+  "geometry": {"coordinates":[16.21172,8.41742],"type":"Point"}
+}

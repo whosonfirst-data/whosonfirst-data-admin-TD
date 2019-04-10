@@ -1,0 +1,67 @@
+{
+  "id": 1226765455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8079,13.0134,18.8079,13.0134",
+    "geom:latitude":13.0134,
+    "geom:longitude":18.8079,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Djib Djoumalek",
+    "gn:country_code":"TD",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433617,
+    "gn:latitude":13.0134,
+    "gn:longitude":18.8079,
+    "gn:modification_date":"2008-09-04",
+    "gn:name":"Djib Djoumalek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433617
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9c91962919ed29d14c19da7d86f14cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901485,
+            "locality_id":1226765455,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1226765455,
+    "wof:lastmodified":1536687205,
+    "wof:name":"Djib Djoumalek",
+    "wof:parent_id":1091901485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8079,
+    13.0134,
+    18.8079,
+    13.0134
+],
+  "geometry": {"coordinates":[18.8079,13.0134],"type":"Point"}
+}

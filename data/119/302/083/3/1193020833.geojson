@@ -1,0 +1,73 @@
+{
+  "id": 1193020833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0178,11.9747,19.0178,11.9747",
+    "geom:latitude":11.9747,
+    "geom:longitude":19.0178,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Amrir Guifer",
+    "gn:country_code":"TD",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436814,
+    "gn:latitude":11.9747,
+    "gn:longitude":19.0178,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Amrir Guifer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9fa",
+        "Am Ri\u00e9",
+        "Amrir Gifer",
+        "Amrir Guifer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436814
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fa6eed904e0ed085efc21463fbaac3bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900821,
+            "locality_id":1193020833,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1193020833,
+    "wof:lastmodified":1537702815,
+    "wof:name":"Amrir Guifer",
+    "wof:parent_id":1091900821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.0178,
+    11.9747,
+    19.0178,
+    11.9747
+],
+  "geometry": {"coordinates":[19.0178,11.9747],"type":"Point"}
+}

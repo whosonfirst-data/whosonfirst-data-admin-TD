@@ -1,0 +1,71 @@
+{
+  "id": 1259878839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.801,11.1657,17.801,11.1657",
+    "geom:latitude":11.1657,
+    "geom:longitude":17.801,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Galigali",
+    "gn:country_code":"TD",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432216,
+    "gn:latitude":11.1657,
+    "gn:longitude":17.801,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Galigali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gatigali",
+        "Galigali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432216
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e46a3fc4443f90715959a8c7944aed10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1259878839,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1259878839,
+    "wof:lastmodified":1537702766,
+    "wof:name":"Galigali",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.801,
+    11.1657,
+    17.801,
+    11.1657
+],
+  "geometry": {"coordinates":[17.801,11.1657],"type":"Point"}
+}

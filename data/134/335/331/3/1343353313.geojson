@@ -1,0 +1,67 @@
+{
+  "id": 1343353313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5,13.85,14.5,13.85",
+    "geom:latitude":13.85,
+    "geom:longitude":14.5,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulidinga",
+    "gn:country_code":"TD",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426393,
+    "gn:latitude":13.85,
+    "gn:longitude":14.5,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Oulidinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678445,
+        1091901265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426393
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"9018f2db9d5964faf7cb693c340d7978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901265,
+            "locality_id":1343353313,
+            "region_id":85678445
+        }
+    ],
+    "wof:id":1343353313,
+    "wof:lastmodified":1536900958,
+    "wof:name":"Oulidinga",
+    "wof:parent_id":1091901265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5,
+    13.85,
+    14.5,
+    13.85
+],
+  "geometry": {"coordinates":[14.5,13.85],"type":"Point"}
+}

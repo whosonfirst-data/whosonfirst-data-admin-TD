@@ -1,0 +1,71 @@
+{
+  "id": 1226831321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0038,10.0375,16.0038,10.0375",
+    "geom:latitude":10.0375,
+    "geom:longitude":16.0038,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Titriwin",
+    "gn:country_code":"TD",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424718,
+    "gn:latitude":10.0375,
+    "gn:longitude":16.0038,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Titriwin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bosgoy",
+        "Titriwin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678473,
+        1091900561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424718
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"ce3a70f64b2e3605c1792c6e56400968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900561,
+            "locality_id":1226831321,
+            "region_id":85678473
+        }
+    ],
+    "wof:id":1226831321,
+    "wof:lastmodified":1537702693,
+    "wof:name":"Titriwin",
+    "wof:parent_id":1091900561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0038,
+    10.0375,
+    16.0038,
+    10.0375
+],
+  "geometry": {"coordinates":[16.0038,10.0375],"type":"Point"}
+}

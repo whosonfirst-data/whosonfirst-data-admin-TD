@@ -1,0 +1,67 @@
+{
+  "id": 1193248889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5207,11.2459,16.5207,11.2459",
+    "geom:latitude":11.2459,
+    "geom:longitude":16.5207,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Maleign",
+    "gn:country_code":"TD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428584,
+    "gn:latitude":11.2459,
+    "gn:longitude":16.5207,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Maleign",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428584
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3698351cff08d1e957bf675cf7ccb26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1193248889,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1193248889,
+    "wof:lastmodified":1536370303,
+    "wof:name":"Maleign",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5207,
+    11.2459,
+    16.5207,
+    11.2459
+],
+  "geometry": {"coordinates":[16.5207,11.2459],"type":"Point"}
+}

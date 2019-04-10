@@ -1,0 +1,67 @@
+{
+  "id": 1327320787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63806,13.16674,21.63806,13.16674",
+    "geom:latitude":13.16674,
+    "geom:longitude":21.63806,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bourtail",
+    "gn:country_code":"TD",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244738,
+    "gn:latitude":13.16674,
+    "gn:longitude":21.63806,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Bourta\u00efl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244738
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3815fa95817a4b5633aa3338a5b09f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1327320787,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1327320787,
+    "wof:lastmodified":1536841016,
+    "wof:name":"Bourtail",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63806,
+    13.16674,
+    21.63806,
+    13.16674
+],
+  "geometry": {"coordinates":[21.63806,13.16674],"type":"Point"}
+}

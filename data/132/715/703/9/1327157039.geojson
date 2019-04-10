@@ -1,0 +1,67 @@
+{
+  "id": 1327157039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7284,10.1338,18.7284,10.1338",
+    "geom:latitude":10.1338,
+    "geom:longitude":18.7284,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tile",
+    "gn:country_code":"TD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861535,
+    "gn:latitude":10.1338,
+    "gn:longitude":18.7284,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Til\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861535
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"39722461c7f8f3644954e79a4ec3305d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1327157039,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1327157039,
+    "wof:lastmodified":1537075345,
+    "wof:name":"Tile",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7284,
+    10.1338,
+    18.7284,
+    10.1338
+],
+  "geometry": {"coordinates":[18.7284,10.1338],"type":"Point"}
+}

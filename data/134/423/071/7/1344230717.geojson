@@ -1,0 +1,74 @@
+{
+  "id": 1344230717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4922,9.446,16.4922,9.446",
+    "geom:latitude":9.446,
+    "geom:longitude":16.4922,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mebigue",
+    "gn:country_code":"TD",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428033,
+    "gn:latitude":9.446,
+    "gn:longitude":16.4922,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u00e9bigu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9big\u00e9",
+        "Meb\u00e9gn\u00e9",
+        "Mebege",
+        "M\u00e9b\u00e9gu\u00e9",
+        "M\u00e9bigu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428033
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5e752f7554e9f5078bc38891041a15a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1344230717,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1344230717,
+    "wof:lastmodified":1537702723,
+    "wof:name":"Mebigue",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4922,
+    9.446,
+    16.4922,
+    9.446
+],
+  "geometry": {"coordinates":[16.4922,9.446],"type":"Point"}
+}

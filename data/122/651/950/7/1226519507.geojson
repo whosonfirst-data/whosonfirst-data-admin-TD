@@ -1,0 +1,70 @@
+{
+  "id": 1226519507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38353,13.36776,20.38353,13.36776",
+    "geom:latitude":13.36776,
+    "geom:longitude":20.38353,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Am Baram Dadjo",
+    "gn:country_code":"TD",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245531,
+    "gn:latitude":13.36776,
+    "gn:longitude":20.38353,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Am Baram Dadjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Am Baram Dadjo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245531
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fe623abd101c16ef26c0c370d171b29d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1226519507,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1226519507,
+    "wof:lastmodified":1537702684,
+    "wof:name":"Am Baram Dadjo",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38353,
+    13.36776,
+    20.38353,
+    13.36776
+],
+  "geometry": {"coordinates":[20.38353,13.36776],"type":"Point"}
+}

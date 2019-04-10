@@ -1,0 +1,71 @@
+{
+  "id": 1344220621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.41452,9.40615,18.41452,9.40615",
+    "geom:latitude":9.40615,
+    "geom:longitude":18.41452,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gotokembe II",
+    "gn:country_code":"TD",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431868,
+    "gn:latitude":9.40615,
+    "gn:longitude":18.41452,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gotok\u00e8mb\u00e9 II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gotokemb\u00e9",
+        "Gotok\u00e8mb\u00e9 II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431868
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"24b459614b80d99f991cf789f62e1b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1344220621,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1344220621,
+    "wof:lastmodified":1537702760,
+    "wof:name":"Gotokembe II",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41452,
+    9.40615,
+    18.41452,
+    9.40615
+],
+  "geometry": {"coordinates":[18.41452,9.40615],"type":"Point"}
+}

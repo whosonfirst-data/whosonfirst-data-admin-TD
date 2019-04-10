@@ -1,0 +1,71 @@
+{
+  "id": 1243437191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1258,10.8571,16.1258,10.8571",
+    "geom:latitude":10.8571,
+    "geom:longitude":16.1258,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lougoi",
+    "gn:country_code":"TD",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2429001,
+    "gn:latitude":10.8571,
+    "gn:longitude":16.1258,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lougoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Louggoi",
+        "Lougoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2429001
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"a144f655dfb44823128f64a611e3cb4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900595,
+            "locality_id":1243437191,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1243437191,
+    "wof:lastmodified":1537702733,
+    "wof:name":"Lougoi",
+    "wof:parent_id":1091900595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1258,
+    10.8571,
+    16.1258,
+    10.8571
+],
+  "geometry": {"coordinates":[16.1258,10.8571],"type":"Point"}
+}

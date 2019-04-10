@@ -1,0 +1,67 @@
+{
+  "id": 1259568715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35,8.65,15.35,8.65",
+    "geom:latitude":8.65,
+    "geom:longitude":15.35,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gandaye II",
+    "gn:country_code":"TD",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432326,
+    "gn:latitude":8.65,
+    "gn:longitude":15.35,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Gandaye II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678467,
+        1091900057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432326
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"eb320cca0e1ded3fb855cd05b3082d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900057,
+            "locality_id":1259568715,
+            "region_id":85678467
+        }
+    ],
+    "wof:id":1259568715,
+    "wof:lastmodified":1536736229,
+    "wof:name":"Gandaye II",
+    "wof:parent_id":1091900057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35,
+    8.65,
+    15.35,
+    8.65
+],
+  "geometry": {"coordinates":[15.35,8.65],"type":"Point"}
+}

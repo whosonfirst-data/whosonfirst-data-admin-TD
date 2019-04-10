@@ -1,0 +1,67 @@
+{
+  "id": 1226341307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.155,11.8175,18.155,11.8175",
+    "geom:latitude":11.8175,
+    "geom:longitude":18.155,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Biere",
+    "gn:country_code":"TD",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435327,
+    "gn:latitude":11.8175,
+    "gn:longitude":18.155,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Bi\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435327
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3de9fd6f3755e5f299454afa136521ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900785,
+            "locality_id":1226341307,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1226341307,
+    "wof:lastmodified":1536796116,
+    "wof:name":"Biere",
+    "wof:parent_id":1091900785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.155,
+    11.8175,
+    18.155,
+    11.8175
+],
+  "geometry": {"coordinates":[18.155,11.8175],"type":"Point"}
+}

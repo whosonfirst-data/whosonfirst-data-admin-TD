@@ -1,0 +1,67 @@
+{
+  "id": 1243520717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54608,12.97354,15.54608,12.97354",
+    "geom:latitude":12.97354,
+    "geom:longitude":15.54608,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kameron",
+    "gn:country_code":"TD",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6721764,
+    "gn:latitude":12.97354,
+    "gn:longitude":15.54608,
+    "gn:modification_date":"2009-03-05",
+    "gn:name":"Kameron",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6721764
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"21bd1a3eb9623ead759e24c8e0bccd10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901071,
+            "locality_id":1243520717,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1243520717,
+    "wof:lastmodified":1536698822,
+    "wof:name":"Kameron",
+    "wof:parent_id":1091901071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54608,
+    12.97354,
+    15.54608,
+    12.97354
+],
+  "geometry": {"coordinates":[15.54608,12.97354],"type":"Point"}
+}

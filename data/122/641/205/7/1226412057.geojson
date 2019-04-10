@@ -1,0 +1,71 @@
+{
+  "id": 1226412057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68467,9.56195,15.68467,9.56195",
+    "geom:latitude":9.56195,
+    "geom:longitude":15.68467,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Disou",
+    "gn:country_code":"TD",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433777,
+    "gn:latitude":9.56195,
+    "gn:longitude":15.68467,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Disou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dissou",
+        "Disou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433777
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2024cee0cb0237cab99eb14d2b244f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1226412057,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1226412057,
+    "wof:lastmodified":1537702782,
+    "wof:name":"Disou",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68467,
+    9.56195,
+    15.68467,
+    9.56195
+],
+  "geometry": {"coordinates":[15.68467,9.56195],"type":"Point"}
+}

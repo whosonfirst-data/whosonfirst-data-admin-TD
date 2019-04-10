@@ -1,0 +1,61 @@
+{
+  "id": 1209533307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08929,12.802,17.08929,12.802",
+    "geom:latitude":12.802,
+    "geom:longitude":17.08929,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Abgalouetch",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6842285,
+    "gn:latitude":12.802,
+    "gn:longitude":17.08929,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Abgalouetch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6842285
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f4d0b8a6476c224516375f99a0cb951e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209533307
+        }
+    ],
+    "wof:id":1209533307,
+    "wof:lastmodified":1536284216,
+    "wof:name":"Abgalouetch",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08929,
+    12.802,
+    17.08929,
+    12.802
+],
+  "geometry": {"coordinates":[17.08929,12.802],"type":"Point"}
+}

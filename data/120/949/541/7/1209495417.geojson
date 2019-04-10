@@ -1,0 +1,61 @@
+{
+  "id": 1209495417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35,12.8,21.35,12.8",
+    "geom:latitude":12.8,
+    "geom:longitude":21.35,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Domboli Djado",
+    "gn:country_code":"TD",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244349,
+    "gn:latitude":12.8,
+    "gn:longitude":21.35,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Domboli Djado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244349
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"70e466ae5f5395708c730e9e77c820d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209495417
+        }
+    ],
+    "wof:id":1209495417,
+    "wof:lastmodified":1536285351,
+    "wof:name":"Domboli Djado",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35,
+    12.8,
+    21.35,
+    12.8
+],
+  "geometry": {"coordinates":[21.35,12.8],"type":"Point"}
+}

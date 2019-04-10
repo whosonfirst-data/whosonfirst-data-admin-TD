@@ -1,0 +1,67 @@
+{
+  "id": 1293171203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6052,11.4764,16.6052,11.4764",
+    "geom:latitude":11.4764,
+    "geom:longitude":16.6052,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kitchan",
+    "gn:country_code":"TD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2430239,
+    "gn:latitude":11.4764,
+    "gn:longitude":16.6052,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Kitchan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2430239
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"45ab4ef5b1caab249749189fc2e0bb81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1293171203,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1293171203,
+    "wof:lastmodified":1536745920,
+    "wof:name":"Kitchan",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6052,
+    11.4764,
+    16.6052,
+    11.4764
+],
+  "geometry": {"coordinates":[16.6052,11.4764],"type":"Point"}
+}

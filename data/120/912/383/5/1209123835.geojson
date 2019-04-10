@@ -1,0 +1,61 @@
+{
+  "id": 1209123835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.69091,12.88019,17.69091,12.88019",
+    "geom:latitude":12.88019,
+    "geom:longitude":17.69091,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wagala",
+    "gn:country_code":"TD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424410,
+    "gn:latitude":12.88019,
+    "gn:longitude":17.69091,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Wagala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424410
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e1cca63967b6242bd57187aa62060ced",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209123835
+        }
+    ],
+    "wof:id":1209123835,
+    "wof:lastmodified":1536297016,
+    "wof:name":"Wagala",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.690910000000006,
+    12.88019,
+    17.690910000000006,
+    12.88019
+],
+  "geometry": {"coordinates":[17.69091000000001,12.88019],"type":"Point"}
+}

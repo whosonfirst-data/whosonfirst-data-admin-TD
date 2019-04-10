@@ -1,0 +1,71 @@
+{
+  "id": 1343725327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9053,12.51421,15.9053,12.51421",
+    "geom:latitude":12.51421,
+    "geom:longitude":15.9053,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Leletif",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431298,
+    "gn:latitude":12.51421,
+    "gn:longitude":15.9053,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00e9l\u00e9tif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iletif",
+        "L\u00e9l\u00e9tif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431298
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e5f8a33cfe3965e732556931a0346fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1343725327,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1343725327,
+    "wof:lastmodified":1537702754,
+    "wof:name":"Leletif",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9053,
+    12.51421,
+    15.9053,
+    12.51421
+],
+  "geometry": {"coordinates":[15.9053,12.51421],"type":"Point"}
+}

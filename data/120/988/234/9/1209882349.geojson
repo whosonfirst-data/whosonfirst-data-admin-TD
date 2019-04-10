@@ -1,0 +1,71 @@
+{
+  "id": 1209882349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04967,12.3623,15.04967,12.3623",
+    "geom:latitude":12.3623,
+    "geom:longitude":15.04967,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Dougui Tibite",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433136,
+    "gn:latitude":12.3623,
+    "gn:longitude":15.04967,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dougui Tibit\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dougui Tibit\u00e9",
+        "Dougi Tibne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433136
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3d8ed5f486dbb3f6b694eca83f5c2899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1209882349,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1209882349,
+    "wof:lastmodified":1537702773,
+    "wof:name":"Dougui Tibite",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04967,
+    12.3623,
+    15.04967,
+    12.3623
+],
+  "geometry": {"coordinates":[15.04967,12.3623],"type":"Point"}
+}

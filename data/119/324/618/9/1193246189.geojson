@@ -1,0 +1,67 @@
+{
+  "id": 1193246189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5483,11.823,21.5483,11.823",
+    "geom:latitude":11.823,
+    "geom:longitude":21.5483,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Kereta",
+    "gn:country_code":"TD",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243355,
+    "gn:latitude":11.823,
+    "gn:longitude":21.5483,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"K\u00e9r\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243355
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"98a6f2ad8c209e191daae286877645cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1193246189,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1193246189,
+    "wof:lastmodified":1536373108,
+    "wof:name":"Kereta",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5483,
+    11.823,
+    21.5483,
+    11.823
+],
+  "geometry": {"coordinates":[21.5483,11.823],"type":"Point"}
+}

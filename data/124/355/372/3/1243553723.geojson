@@ -1,0 +1,71 @@
+{
+  "id": 1243553723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0668,11.9799,18.0668,11.9799",
+    "geom:latitude":11.9799,
+    "geom:longitude":18.0668,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ab Touyour",
+    "gn:country_code":"TD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437508,
+    "gn:latitude":11.9799,
+    "gn:longitude":18.0668,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ab Touyour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aboutyour",
+        "Ab Touyour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437508
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"648f9ace4ae1f07c21d7b2cb9fd02b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900785,
+            "locality_id":1243553723,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1243553723,
+    "wof:lastmodified":1537702821,
+    "wof:name":"Ab Touyour",
+    "wof:parent_id":1091900785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0668,
+    11.9799,
+    18.0668,
+    11.9799
+],
+  "geometry": {"coordinates":[18.0668,11.9799],"type":"Point"}
+}

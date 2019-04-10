@@ -1,0 +1,61 @@
+{
+  "id": 1209406583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84403,13.18878,15.84403,13.18878",
+    "geom:latitude":13.18878,
+    "geom:longitude":15.84403,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bodiri",
+    "gn:country_code":"TD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435068,
+    "gn:latitude":13.18878,
+    "gn:longitude":15.84403,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Bodiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435068
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"253541637a9b95a3aeba714fccd547d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209406583
+        }
+    ],
+    "wof:id":1209406583,
+    "wof:lastmodified":1536287977,
+    "wof:name":"Bodiri",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.844029999999998,
+    13.18878,
+    15.844029999999998,
+    13.18878
+],
+  "geometry": {"coordinates":[15.84403,13.18878],"type":"Point"}
+}

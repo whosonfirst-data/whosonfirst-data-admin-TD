@@ -1,0 +1,61 @@
+{
+  "id": 1209407291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22425,14.38697,15.22425,14.38697",
+    "geom:latitude":14.38697,
+    "geom:longitude":15.22425,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Alotogrom",
+    "gn:country_code":"TD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2437120,
+    "gn:latitude":14.38697,
+    "gn:longitude":15.22425,
+    "gn:modification_date":"2009-02-24",
+    "gn:name":"Alotogrom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2437120
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"14d8fde720318880d30200c7630e9253",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209407291
+        }
+    ],
+    "wof:id":1209407291,
+    "wof:lastmodified":1536287953,
+    "wof:name":"Alotogrom",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22425,
+    14.386970000000002,
+    15.22425,
+    14.386970000000002
+],
+  "geometry": {"coordinates":[15.22425,14.38697],"type":"Point"}
+}

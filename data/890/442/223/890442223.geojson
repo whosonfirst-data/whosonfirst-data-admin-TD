@@ -1,0 +1,110 @@
+{
+  "id": 890442223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41667,12.21667,21.41667,12.21667",
+    "geom:latitude":12.21667,
+    "geom:longitude":21.41667,
+    "gn:country":"TD",
+    "gn:fcode":"PPL",
+    "gn:pop":1000,
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u0632 \u0628\u064a\u062f\u0627"
+    ],
+    "name:chi_x_preferred":[
+        "\u6208\u8332\u8c9d\u9054"
+    ],
+    "name:dut_x_preferred":[
+        "Goz Be\u00efda"
+    ],
+    "name:eng_x_preferred":[
+        "Goz Beida"
+    ],
+    "name:fre_x_preferred":[
+        "Goz Be\u00efda"
+    ],
+    "name:ger_x_preferred":[
+        "Goz Be\u00efda"
+    ],
+    "name:ita_x_preferred":[
+        "Goz Be\u00efda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30be\u30fb\u30d9\u30a4\u30c0"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0413\u043e\u0437-\u0411\u0435\u0439\u0434\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Goz Be\u00efda"
+    ],
+    "name:rum_x_preferred":[
+        "Goz Be\u00efda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0437-\u0411\u0435\u0439\u0434\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0648\u0632 \u0628\u06cc\u0636\u0627"
+    ],
+    "qs:name":"Goz Be\u00efda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:latitude":"12.223611111",
+    "wd:longitude":"21.414444444",
+    "wd:wordcount":292,
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243787,
+        "gp:id":1274702,
+        "qs:id":274665,
+        "wd:id":"Q3112862",
+        "wk:page":"Goz Be\u00efda"
+    },
+    "wof:country":"TD",
+    "wof:created":1469052354,
+    "wof:geomhash":"c0794df3732d3ef282de1ce1a62867a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":890442223,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":890442223,
+    "wof:lastmodified":1527792857,
+    "wof:name":"Goz Be\u00efda",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41667,
+    12.21667,
+    21.41667,
+    12.21667
+],
+  "geometry": {"coordinates":[21.41667,12.21667],"type":"Point"}
+}

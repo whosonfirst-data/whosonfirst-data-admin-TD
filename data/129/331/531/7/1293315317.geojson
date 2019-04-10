@@ -1,0 +1,67 @@
+{
+  "id": 1293315317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8823,11.7586,17.8823,11.7586",
+    "geom:latitude":11.7586,
+    "geom:longitude":17.8823,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Somo",
+    "gn:country_code":"TD",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2425543,
+    "gn:latitude":11.7586,
+    "gn:longitude":17.8823,
+    "gn:modification_date":"2008-10-16",
+    "gn:name":"Somo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2425543
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6e4b923baf8e4f0bd0de7eb3142f6203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900785,
+            "locality_id":1293315317,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1293315317,
+    "wof:lastmodified":1537033838,
+    "wof:name":"Somo",
+    "wof:parent_id":1091900785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8823,
+    11.7586,
+    17.8823,
+    11.7586
+],
+  "geometry": {"coordinates":[17.8823,11.7586],"type":"Point"}
+}

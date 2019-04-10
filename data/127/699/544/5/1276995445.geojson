@@ -1,0 +1,67 @@
+{
+  "id": 1276995445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.62643,12.28144,17.62643,12.28144",
+    "geom:latitude":12.28144,
+    "geom:longitude":17.62643,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Geria",
+    "gn:country_code":"TD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432133,
+    "gn:latitude":12.28144,
+    "gn:longitude":17.62643,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"G\u00e9ria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432133
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"168da742373498b5729de43c20480be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901101,
+            "locality_id":1276995445,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1276995445,
+    "wof:lastmodified":1536885586,
+    "wof:name":"Geria",
+    "wof:parent_id":1091901101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.62643,
+    12.28144,
+    17.62643,
+    12.28144
+],
+  "geometry": {"coordinates":[17.62643,12.28144],"type":"Point"}
+}

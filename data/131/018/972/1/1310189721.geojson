@@ -1,0 +1,67 @@
+{
+  "id": 1310189721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71576,7.65385,15.71576,7.65385",
+    "geom:latitude":7.65385,
+    "geom:longitude":15.71576,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bagodogo",
+    "gn:country_code":"TD",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436238,
+    "gn:latitude":7.65385,
+    "gn:longitude":15.71576,
+    "gn:modification_date":"2008-10-28",
+    "gn:name":"Bagodogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436238
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b010edea2caeddf28f2fdbc11585bef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1310189721,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1310189721,
+    "wof:lastmodified":1536874096,
+    "wof:name":"Bagodogo",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71576,
+    7.65385,
+    15.71576,
+    7.65385
+],
+  "geometry": {"coordinates":[15.71576,7.65385],"type":"Point"}
+}

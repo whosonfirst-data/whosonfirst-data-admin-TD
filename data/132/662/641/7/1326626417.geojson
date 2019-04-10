@@ -1,0 +1,67 @@
+{
+  "id": 1326626417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9192,8.3582,15.9192,8.3582",
+    "geom:latitude":8.3582,
+    "geom:longitude":15.9192,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mabo",
+    "gn:country_code":"TD",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428945,
+    "gn:latitude":8.3582,
+    "gn:longitude":15.9192,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Mabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428945
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"234d54e96921cf08fa4396a72c9f93cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1326626417,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1326626417,
+    "wof:lastmodified":1536847140,
+    "wof:name":"Mabo",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9192,
+    8.3582,
+    15.9192,
+    8.3582
+],
+  "geometry": {"coordinates":[15.9192,8.3582],"type":"Point"}
+}

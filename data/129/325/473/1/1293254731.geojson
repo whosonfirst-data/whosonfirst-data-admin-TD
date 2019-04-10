@@ -1,0 +1,67 @@
+{
+  "id": 1293254731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9748,8.5977,17.9748,8.5977",
+    "geom:latitude":8.5977,
+    "geom:longitude":17.9748,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kabakoutou",
+    "gn:country_code":"TD",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431170,
+    "gn:latitude":8.5977,
+    "gn:longitude":17.9748,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Kabakoutou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431170
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"b344c1b713eb8d31e48acbd160f6337e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1293254731,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1293254731,
+    "wof:lastmodified":1536623663,
+    "wof:name":"Kabakoutou",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9748,
+    8.5977,
+    17.9748,
+    8.5977
+],
+  "geometry": {"coordinates":[17.9748,8.5977],"type":"Point"}
+}

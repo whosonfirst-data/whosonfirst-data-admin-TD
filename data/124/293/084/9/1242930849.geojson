@@ -1,0 +1,67 @@
+{
+  "id": 1242930849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.52507,11.25646,22.52507,11.25646",
+    "geom:latitude":11.25646,
+    "geom:longitude":22.52507,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Basar",
+    "gn:country_code":"TD",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244979,
+    "gn:latitude":11.25646,
+    "gn:longitude":22.52507,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Basar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244979
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"8e1d6da3f22d0f2e0f6016b0dd8a2b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1242930849,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1242930849,
+    "wof:lastmodified":1537049965,
+    "wof:name":"Basar",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.52507,
+    11.25646,
+    22.52507,
+    11.25646
+],
+  "geometry": {"coordinates":[22.52507,11.25646],"type":"Point"}
+}

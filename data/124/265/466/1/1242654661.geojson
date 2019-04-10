@@ -1,0 +1,67 @@
+{
+  "id": 1242654661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0642,13.87422,22.0642,13.87422",
+    "geom:latitude":13.87422,
+    "geom:longitude":22.0642,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mourou",
+    "gn:country_code":"TD",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242490,
+    "gn:latitude":13.87422,
+    "gn:longitude":22.0642,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Mourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242490
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"566cd39b78aa608477c164e2bd51e504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1242654661,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1242654661,
+    "wof:lastmodified":1536952994,
+    "wof:name":"Mourou",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0642,
+    13.87422,
+    22.0642,
+    13.87422
+],
+  "geometry": {"coordinates":[22.0642,13.87422],"type":"Point"}
+}

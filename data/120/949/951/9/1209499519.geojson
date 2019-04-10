@@ -1,0 +1,61 @@
+{
+  "id": 1209499519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7502,8.1823,15.7502,8.1823",
+    "geom:latitude":8.1823,
+    "geom:longitude":15.7502,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bembaida",
+    "gn:country_code":"TD",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435607,
+    "gn:latitude":8.1823,
+    "gn:longitude":15.7502,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"B\u00e8mba\u00efda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435607
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"7e956a78bcd026b7b280169e0b5f4079",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209499519
+        }
+    ],
+    "wof:id":1209499519,
+    "wof:lastmodified":1536285228,
+    "wof:name":"Bembaida",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7502,
+    8.1823,
+    15.7502,
+    8.1823
+],
+  "geometry": {"coordinates":[15.7502,8.1823],"type":"Point"}
+}

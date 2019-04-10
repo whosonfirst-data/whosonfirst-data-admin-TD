@@ -1,0 +1,71 @@
+{
+  "id": 1192989837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5458,10.3299,19.5458,10.3299",
+    "geom:latitude":10.3299,
+    "geom:longitude":19.5458,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tieou",
+    "gn:country_code":"TD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2424834,
+    "gn:latitude":10.3299,
+    "gn:longitude":19.5458,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ti\u00e9ou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thi\u00e9ou",
+        "Ti\u00e9ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2424834
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2d33f4010d57fb5903593e7401bbddad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900523,
+            "locality_id":1192989837,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1192989837,
+    "wof:lastmodified":1537702694,
+    "wof:name":"Tieou",
+    "wof:parent_id":1091900523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5458,
+    10.3299,
+    19.5458,
+    10.3299
+],
+  "geometry": {"coordinates":[19.5458,10.3299],"type":"Point"}
+}

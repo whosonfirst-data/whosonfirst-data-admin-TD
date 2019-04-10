@@ -1,0 +1,67 @@
+{
+  "id": 1243072531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.78658,11.12661,17.78658,11.12661",
+    "geom:latitude":11.12661,
+    "geom:longitude":17.78658,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gourourou",
+    "gn:country_code":"TD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431653,
+    "gn:latitude":11.12661,
+    "gn:longitude":17.78658,
+    "gn:modification_date":"2008-10-16",
+    "gn:name":"Gourourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678457,
+        1091900641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431653
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"436f5fd3d7a14e38047b5706dca3e0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900641,
+            "locality_id":1243072531,
+            "region_id":85678457
+        }
+    ],
+    "wof:id":1243072531,
+    "wof:lastmodified":1536846410,
+    "wof:name":"Gourourou",
+    "wof:parent_id":1091900641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78657999999999,
+    11.12661,
+    17.78657999999999,
+    11.12661
+],
+  "geometry": {"coordinates":[17.78657999999999,11.12661],"type":"Point"}
+}

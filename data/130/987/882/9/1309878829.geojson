@@ -1,0 +1,67 @@
+{
+  "id": 1309878829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8774,11.5816,16.8774,11.5816",
+    "geom:latitude":11.5816,
+    "geom:longitude":16.8774,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ngatouya",
+    "gn:country_code":"TD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426977,
+    "gn:latitude":11.5816,
+    "gn:longitude":16.8774,
+    "gn:modification_date":"2008-10-09",
+    "gn:name":"Ngatouya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426977
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6707036bde56ca14eac67b2e2170573e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1309878829,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1309878829,
+    "wof:lastmodified":1536825031,
+    "wof:name":"Ngatouya",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8774,
+    11.5816,
+    16.8774,
+    11.5816
+],
+  "geometry": {"coordinates":[16.8774,11.5816],"type":"Point"}
+}

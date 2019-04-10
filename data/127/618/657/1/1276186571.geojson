@@ -1,0 +1,67 @@
+{
+  "id": 1276186571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5598,9.3843,14.5598,9.3843",
+    "geom:latitude":9.3843,
+    "geom:longitude":14.5598,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Biban",
+    "gn:country_code":"TD",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435357,
+    "gn:latitude":9.3843,
+    "gn:longitude":14.5598,
+    "gn:modification_date":"2008-10-27",
+    "gn:name":"Biban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678495,
+        1091900399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435357
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"1e26e3e688be5a3ea4bed0fa04fd69ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900399,
+            "locality_id":1276186571,
+            "region_id":85678495
+        }
+    ],
+    "wof:id":1276186571,
+    "wof:lastmodified":1536975182,
+    "wof:name":"Biban",
+    "wof:parent_id":1091900399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5598,
+    9.3843,
+    14.5598,
+    9.3843
+],
+  "geometry": {"coordinates":[14.5598,9.3843],"type":"Point"}
+}

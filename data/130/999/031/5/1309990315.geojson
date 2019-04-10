@@ -1,0 +1,67 @@
+{
+  "id": 1309990315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10382,7.6072,16.10382,7.6072",
+    "geom:latitude":7.6072,
+    "geom:longitude":16.10382,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Betam",
+    "gn:country_code":"TD",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435403,
+    "gn:latitude":7.6072,
+    "gn:longitude":16.10382,
+    "gn:modification_date":"2008-10-14",
+    "gn:name":"B\u00e9tam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435403
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"3b2f4d176a960640eafd3d9e48acebcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1309990315,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1309990315,
+    "wof:lastmodified":1536665219,
+    "wof:name":"Betam",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10382,
+    7.6072,
+    16.10382,
+    7.6072
+],
+  "geometry": {"coordinates":[16.10382,7.6072],"type":"Point"}
+}

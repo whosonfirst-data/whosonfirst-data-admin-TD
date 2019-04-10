@@ -1,0 +1,67 @@
+{
+  "id": 1343845219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25,12.91667,21.25,12.91667",
+    "geom:latitude":12.91667,
+    "geom:longitude":21.25,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Somoukdour",
+    "gn:country_code":"TD",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241898,
+    "gn:latitude":12.91667,
+    "gn:longitude":21.25,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Somoukdour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241898
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c326d7a87276e465acb0a12c9bdb440e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901035,
+            "locality_id":1343845219,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1343845219,
+    "wof:lastmodified":1536688701,
+    "wof:name":"Somoukdour",
+    "wof:parent_id":1091901035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25,
+    12.91667,
+    21.25,
+    12.91667
+],
+  "geometry": {"coordinates":[21.25,12.91667],"type":"Point"}
+}

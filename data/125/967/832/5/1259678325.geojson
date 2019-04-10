@@ -1,0 +1,71 @@
+{
+  "id": 1259678325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43156,8.2245,15.43156,8.2245",
+    "geom:latitude":8.2245,
+    "geom:longitude":15.43156,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Loumbogo",
+    "gn:country_code":"TD",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428983,
+    "gn:latitude":8.2245,
+    "gn:longitude":15.43156,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Loumbogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lombogo",
+        "Loumbogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091899911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428983
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"57a45eed58f07c71998f01cb3a555dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899911,
+            "locality_id":1259678325,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1259678325,
+    "wof:lastmodified":1537702733,
+    "wof:name":"Loumbogo",
+    "wof:parent_id":1091899911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43156,
+    8.2245,
+    15.43156,
+    8.2245
+],
+  "geometry": {"coordinates":[15.43156,8.2245],"type":"Point"}
+}

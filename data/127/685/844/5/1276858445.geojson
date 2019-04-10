@@ -1,0 +1,67 @@
+{
+  "id": 1276858445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.04773,13.22639,22.04773,13.22639",
+    "geom:latitude":13.22639,
+    "geom:longitude":22.04773,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tondong Kado",
+    "gn:country_code":"TD",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241599,
+    "gn:latitude":13.22639,
+    "gn:longitude":22.04773,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Tondong Kado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241599
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"fbcb1fd321a9bee12bf71491ef5b0cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1276858445,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1276858445,
+    "wof:lastmodified":1537066900,
+    "wof:name":"Tondong Kado",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.04773,
+    13.22639,
+    22.04773,
+    13.22639
+],
+  "geometry": {"coordinates":[22.04773,13.22639],"type":"Point"}
+}

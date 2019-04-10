@@ -1,0 +1,70 @@
+{
+  "id": 1344034875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6013,13.52555,20.6013,13.52555",
+    "geom:latitude":13.52555,
+    "geom:longitude":20.6013,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kaore Oulad Farka",
+    "gn:country_code":"TD",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243481,
+    "gn:latitude":13.52555,
+    "gn:longitude":20.6013,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Kaor\u00e9 Oulad Farka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kaor\u00e9 Oulad Farka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243481
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bd87f37bcf735e597614e7c0bd81c7fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1344034875,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1344034875,
+    "wof:lastmodified":1537702664,
+    "wof:name":"Kaore Oulad Farka",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6013,
+    13.52555,
+    20.6013,
+    13.52555
+],
+  "geometry": {"coordinates":[20.6013,13.52555],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243377517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.71667,13.53333,19.71667,13.53333",
+    "geom:latitude":13.53333,
+    "geom:longitude":19.71667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bandjedid",
+    "gn:country_code":"TD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2436057,
+    "gn:latitude":13.53333,
+    "gn:longitude":19.71667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Bandjedid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678449,
+        1091901371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2436057
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"bc83b85bb1a98a68a6665cd42bf7fb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901371,
+            "locality_id":1243377517,
+            "region_id":85678449
+        }
+    ],
+    "wof:id":1243377517,
+    "wof:lastmodified":1536905106,
+    "wof:name":"Bandjedid",
+    "wof:parent_id":1091901371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.71667,
+    13.53333,
+    19.71667,
+    13.53333
+],
+  "geometry": {"coordinates":[19.71667,13.53333],"type":"Point"}
+}

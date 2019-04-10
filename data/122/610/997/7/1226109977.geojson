@@ -1,0 +1,67 @@
+{
+  "id": 1226109977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.10284,11.98575,22.10284,11.98575",
+    "geom:latitude":11.98575,
+    "geom:longitude":22.10284,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Rachracha",
+    "gn:country_code":"TD",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":242130,
+    "gn:latitude":11.98575,
+    "gn:longitude":22.10284,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Rachracha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":242130
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"267ec64bd7b3e37ff4a7ca093807ed91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1226109977,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1226109977,
+    "wof:lastmodified":1536630951,
+    "wof:name":"Rachracha",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.10284,
+    11.98575,
+    22.10284,
+    11.98575
+],
+  "geometry": {"coordinates":[22.10284,11.98575],"type":"Point"}
+}

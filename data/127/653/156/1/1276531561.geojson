@@ -1,0 +1,67 @@
+{
+  "id": 1276531561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48333,9.11667,16.48333,9.11667",
+    "geom:latitude":9.11667,
+    "geom:longitude":16.48333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Biecou",
+    "gn:country_code":"TD",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435330,
+    "gn:latitude":9.11667,
+    "gn:longitude":16.48333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Biecou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435330
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"aa1d4b5ab092a06f23d92a9320ee38ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900435,
+            "locality_id":1276531561,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1276531561,
+    "wof:lastmodified":1537009694,
+    "wof:name":"Biecou",
+    "wof:parent_id":1091900435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48333,
+    9.11667,
+    16.48333,
+    9.11667
+],
+  "geometry": {"coordinates":[16.48333,9.11667],"type":"Point"}
+}

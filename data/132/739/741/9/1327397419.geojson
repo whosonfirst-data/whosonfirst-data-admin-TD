@@ -1,0 +1,67 @@
+{
+  "id": 1327397419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6314,8.5305,18.6314,8.5305",
+    "geom:latitude":8.5305,
+    "geom:longitude":18.6314,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Maikandjia",
+    "gn:country_code":"TD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857236,
+    "gn:latitude":8.5305,
+    "gn:longitude":18.6314,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ma\u00efkandjia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091899945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857236
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"5b2af708b95bc8804302891fff76cab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091899945,
+            "locality_id":1327397419,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1327397419,
+    "wof:lastmodified":1536731658,
+    "wof:name":"Maikandjia",
+    "wof:parent_id":1091899945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6314,
+    8.5305,
+    18.6314,
+    8.5305
+],
+  "geometry": {"coordinates":[18.6314,8.5305],"type":"Point"}
+}

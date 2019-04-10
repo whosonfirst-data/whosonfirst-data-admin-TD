@@ -1,0 +1,67 @@
+{
+  "id": 1225801661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1487,13.4501,16.1487,13.4501",
+    "geom:latitude":13.4501,
+    "geom:longitude":16.1487,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Merginga",
+    "gn:country_code":"TD",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6843790,
+    "gn:latitude":13.4501,
+    "gn:longitude":16.1487,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Merginga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6843790
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"86fbda82656df6a105a69968fbdea331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901733,
+            "locality_id":1225801661,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1225801661,
+    "wof:lastmodified":1537074356,
+    "wof:name":"Merginga",
+    "wof:parent_id":1091901733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1487,
+    13.4501,
+    16.1487,
+    13.4501
+],
+  "geometry": {"coordinates":[16.1487,13.4501],"type":"Point"}
+}

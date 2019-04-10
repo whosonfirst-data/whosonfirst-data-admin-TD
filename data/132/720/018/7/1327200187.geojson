@@ -1,0 +1,71 @@
+{
+  "id": 1327200187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85289,12.6351,14.85289,12.6351",
+    "geom:latitude":12.6351,
+    "geom:longitude":14.85289,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bohobrie",
+    "gn:country_code":"TD",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434896,
+    "gn:latitude":12.6351,
+    "gn:longitude":14.85289,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Bohobri\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bohobri\u00e9",
+        "Boobri\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434896
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"32c214e3eaa049214b14d6ad8a7e7d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1327200187,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1327200187,
+    "wof:lastmodified":1537702791,
+    "wof:name":"Bohobrie",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85289,
+    12.6351,
+    14.85289,
+    12.6351
+],
+  "geometry": {"coordinates":[14.85289,12.6351],"type":"Point"}
+}

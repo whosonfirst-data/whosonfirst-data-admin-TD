@@ -1,0 +1,71 @@
+{
+  "id": 1226512713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59327,10.95894,15.59327,10.95894",
+    "geom:latitude":10.95894,
+    "geom:longitude":15.59327,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dardalia",
+    "gn:country_code":"TD",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434161,
+    "gn:latitude":10.95894,
+    "gn:longitude":15.59327,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dardalia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deldalia",
+        "Dardalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434161
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"76934c43cc3db4e3b10749f702df438d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1226512713,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1226512713,
+    "wof:lastmodified":1537702785,
+    "wof:name":"Dardalia",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59327,
+    10.95894,
+    15.59327,
+    10.95894
+],
+  "geometry": {"coordinates":[15.59327,10.95894],"type":"Point"}
+}

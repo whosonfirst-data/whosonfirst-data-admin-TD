@@ -1,0 +1,67 @@
+{
+  "id": 1226619959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78333,9.55,15.78333,9.55",
+    "geom:latitude":9.55,
+    "geom:longitude":15.78333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Marba Ganane",
+    "gn:country_code":"TD",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428349,
+    "gn:latitude":9.55,
+    "gn:longitude":15.78333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Marba Ganane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678477,
+        1091900271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428349
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"578020ac7757ff658a0355ac5da8ade4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900271,
+            "locality_id":1226619959,
+            "region_id":85678477
+        }
+    ],
+    "wof:id":1226619959,
+    "wof:lastmodified":1536896535,
+    "wof:name":"Marba Ganane",
+    "wof:parent_id":1091900271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78333,
+    9.55,
+    15.78333,
+    9.55
+],
+  "geometry": {"coordinates":[15.78333,9.55],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209693073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44471,13.73815,21.44471,13.73815",
+    "geom:latitude":13.73815,
+    "geom:longitude":21.44471,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Id el Gara",
+    "gn:country_code":"TD",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243636,
+    "gn:latitude":13.73815,
+    "gn:longitude":21.44471,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Id el Gara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243636
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"714264b20fd87359b431d46740c9bb72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209693073
+        }
+    ],
+    "wof:id":1209693073,
+    "wof:lastmodified":1536279171,
+    "wof:name":"Id el Gara",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44471,
+    13.73815,
+    21.44471,
+    13.73815
+],
+  "geometry": {"coordinates":[21.44471,13.73815],"type":"Point"}
+}

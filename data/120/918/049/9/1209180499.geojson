@@ -1,0 +1,61 @@
+{
+  "id": 1209180499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17329,12.45428,17.17329,12.45428",
+    "geom:latitude":12.45428,
+    "geom:longitude":17.17329,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Rahat el Ril",
+    "gn:country_code":"TD",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6842356,
+    "gn:latitude":12.45428,
+    "gn:longitude":17.17329,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Rahat el Ril",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6842356
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"e2d73fb8e8bc5ee5e194aa73ddebe114",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209180499
+        }
+    ],
+    "wof:id":1209180499,
+    "wof:lastmodified":1536295275,
+    "wof:name":"Rahat el Ril",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.173289999999998,
+    12.45428,
+    17.173289999999998,
+    12.45428
+],
+  "geometry": {"coordinates":[17.17329,12.45428],"type":"Point"}
+}

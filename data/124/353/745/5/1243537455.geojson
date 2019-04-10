@@ -1,0 +1,67 @@
+{
+  "id": 1243537455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82651,11.1883,15.82651,11.1883",
+    "geom:latitude":11.1883,
+    "geom:longitude":15.82651,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Moutardam",
+    "gn:country_code":"TD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2427331,
+    "gn:latitude":11.1883,
+    "gn:longitude":15.82651,
+    "gn:modification_date":"2008-06-03",
+    "gn:name":"Moutardam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        1091900757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2427331
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"959beed2cc665fe82a5a033065baa19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900757,
+            "locality_id":1243537455,
+            "region_id":85678513
+        }
+    ],
+    "wof:id":1243537455,
+    "wof:lastmodified":1536674364,
+    "wof:name":"Moutardam",
+    "wof:parent_id":1091900757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82651,
+    11.1883,
+    15.82651,
+    11.1883
+],
+  "geometry": {"coordinates":[15.82651,11.1883],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293003889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23333,14.5,22.23333,14.5",
+    "geom:latitude":14.5,
+    "geom:longitude":22.23333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kisele",
+    "gn:country_code":"TD",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":243282,
+    "gn:latitude":14.5,
+    "gn:longitude":22.23333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kis\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678453,
+        1091901349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":243282
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"332085c99b69c6a0fde43bb484af1832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901349,
+            "locality_id":1293003889,
+            "region_id":85678453
+        }
+    ],
+    "wof:id":1293003889,
+    "wof:lastmodified":1536986360,
+    "wof:name":"Kisele",
+    "wof:parent_id":1091901349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23333,
+    14.5,
+    22.23333,
+    14.5
+],
+  "geometry": {"coordinates":[22.23333,14.5],"type":"Point"}
+}

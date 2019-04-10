@@ -1,0 +1,67 @@
+{
+  "id": 1343337549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06228,12.18688,17.06228,12.18688",
+    "geom:latitude":12.18688,
+    "geom:longitude":17.06228,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Diokana",
+    "gn:country_code":"TD",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433821,
+    "gn:latitude":12.18688,
+    "gn:longitude":17.06228,
+    "gn:modification_date":"2008-09-12",
+    "gn:name":"Diokana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091901007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433821
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"84fa24ceaa4b756ca23a9695d400b74b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901007,
+            "locality_id":1343337549,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1343337549,
+    "wof:lastmodified":1536924431,
+    "wof:name":"Diokana",
+    "wof:parent_id":1091901007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06228,
+    12.18688,
+    17.06228,
+    12.18688
+],
+  "geometry": {"coordinates":[17.06228,12.18688],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209497291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98333,10.18333,15.98333,10.18333",
+    "geom:latitude":10.18333,
+    "geom:longitude":15.98333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gase",
+    "gn:country_code":"TD",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432222,
+    "gn:latitude":10.18333,
+    "gn:longitude":15.98333,
+    "gn:modification_date":"2010-11-29",
+    "gn:name":"Gas\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432222
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"30fe3dc4d7925342eeed6c81ead54611",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209497291
+        }
+    ],
+    "wof:id":1209497291,
+    "wof:lastmodified":1536285294,
+    "wof:name":"Gase",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98333,
+    10.18333,
+    15.98333,
+    10.18333
+],
+  "geometry": {"coordinates":[15.98333,10.18333],"type":"Point"}
+}

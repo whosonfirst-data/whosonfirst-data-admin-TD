@@ -1,0 +1,67 @@
+{
+  "id": 1242950197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73542,13.16911,20.73542,13.16911",
+    "geom:latitude":13.16911,
+    "geom:longitude":20.73542,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nialfia",
+    "gn:country_code":"TD",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11525837,
+    "gn:latitude":13.16911,
+    "gn:longitude":20.73542,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Nialfia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11525837
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"6e7ee83cbb79285c74b423245eb47213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1242950197,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1242950197,
+    "wof:lastmodified":1537023057,
+    "wof:name":"Nialfia",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73542,
+    13.16911,
+    20.73542,
+    13.16911
+],
+  "geometry": {"coordinates":[20.73542,13.16911],"type":"Point"}
+}

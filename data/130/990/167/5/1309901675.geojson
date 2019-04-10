@@ -1,0 +1,67 @@
+{
+  "id": 1309901675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61667,8.65,16.61667,8.65",
+    "geom:latitude":8.65,
+    "geom:longitude":16.61667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bobemain",
+    "gn:country_code":"TD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2435101,
+    "gn:latitude":8.65,
+    "gn:longitude":16.61667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Bobema\u00efn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678469,
+        1091900073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2435101
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"2179c7d9501db101fca155321001decc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900073,
+            "locality_id":1309901675,
+            "region_id":85678469
+        }
+    ],
+    "wof:id":1309901675,
+    "wof:lastmodified":1536793191,
+    "wof:name":"Bobemain",
+    "wof:parent_id":1091900073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61667000000001,
+    8.65,
+    16.61667000000001,
+    8.65
+],
+  "geometry": {"coordinates":[16.61667000000001,8.65],"type":"Point"}
+}

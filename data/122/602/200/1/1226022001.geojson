@@ -1,0 +1,67 @@
+{
+  "id": 1226022001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96909,13.30835,21.96909,13.30835",
+    "geom:latitude":13.30835,
+    "geom:longitude":21.96909,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Serefia",
+    "gn:country_code":"TD",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11576549,
+    "gn:latitude":13.30835,
+    "gn:longitude":21.96909,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"S\u00e9r\u00e9fia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        1091901205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11576549
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"d5ad8d188309f12a5fd609209287edb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901205,
+            "locality_id":1226022001,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1226022001,
+    "wof:lastmodified":1536759672,
+    "wof:name":"Serefia",
+    "wof:parent_id":1091901205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96909,
+    13.30835,
+    21.96909,
+    13.30835
+],
+  "geometry": {"coordinates":[21.96909,13.30835],"type":"Point"}
+}

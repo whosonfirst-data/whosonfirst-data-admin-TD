@@ -1,0 +1,61 @@
+{
+  "id": 1209528461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81667,15.6,21.81667,15.6",
+    "geom:latitude":15.6,
+    "geom:longitude":21.81667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Deni",
+    "gn:country_code":"TD",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":244558,
+    "gn:latitude":15.6,
+    "gn:longitude":21.81667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"D\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244558
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"4b16d977a5d3d68a8444cb713f6b693e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209528461
+        }
+    ],
+    "wof:id":1209528461,
+    "wof:lastmodified":1536284358,
+    "wof:name":"Deni",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81667,
+    15.6,
+    21.81667,
+    15.6
+],
+  "geometry": {"coordinates":[21.81667,15.6],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276397615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9934,13.2042,16.9934,13.2042",
+    "geom:latitude":13.2042,
+    "geom:longitude":16.9934,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Eberia Broua",
+    "gn:country_code":"TD",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2432992,
+    "gn:latitude":13.2042,
+    "gn:longitude":16.9934,
+    "gn:modification_date":"2008-09-16",
+    "gn:name":"Eb\u00e9ria Broua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678519,
+        1091901247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2432992
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f65ce8ef228a53766d5e6897921df0ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901247,
+            "locality_id":1276397615,
+            "region_id":85678519
+        }
+    ],
+    "wof:id":1276397615,
+    "wof:lastmodified":1536692737,
+    "wof:name":"Eberia Broua",
+    "wof:parent_id":1091901247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9934,
+    13.2042,
+    16.9934,
+    13.2042
+],
+  "geometry": {"coordinates":[16.9934,13.2042],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226012515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81667,12.66667,21.81667,12.66667",
+    "geom:latitude":12.66667,
+    "geom:longitude":21.81667,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Tourmounon",
+    "gn:country_code":"TD",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241536,
+    "gn:latitude":12.66667,
+    "gn:longitude":21.81667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Tourmounon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678523,
+        1091900861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241536
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"eadbfeae9df311950a119b1833235f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900861,
+            "locality_id":1226012515,
+            "region_id":85678523
+        }
+    ],
+    "wof:id":1226012515,
+    "wof:lastmodified":1536773830,
+    "wof:name":"Tourmounon",
+    "wof:parent_id":1091900861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81667,
+    12.66667,
+    21.81667,
+    12.66667
+],
+  "geometry": {"coordinates":[21.81667,12.66667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309969213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3586,12.36104,15.3586,12.36104",
+    "geom:latitude":12.36104,
+    "geom:longitude":15.3586,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Nsafai",
+    "gn:country_code":"TD",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2426769,
+    "gn:latitude":12.36104,
+    "gn:longitude":15.3586,
+    "gn:modification_date":"2008-02-11",
+    "gn:name":"Nsafa\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678435,
+        1091900897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2426769
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"f3dce97c74d5b7c968c9fb365a25d384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900897,
+            "locality_id":1309969213,
+            "region_id":85678435
+        }
+    ],
+    "wof:id":1309969213,
+    "wof:lastmodified":1536695918,
+    "wof:name":"Nsafai",
+    "wof:parent_id":1091900897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3586,
+    12.36104,
+    15.3586,
+    12.36104
+],
+  "geometry": {"coordinates":[15.3586,12.36104],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243229379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.6968,8.2496,17.6968,8.2496",
+    "geom:latitude":8.2496,
+    "geom:longitude":17.6968,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Delingala",
+    "gn:country_code":"TD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2434046,
+    "gn:latitude":8.2496,
+    "gn:longitude":17.6968,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Delingala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dilingala",
+        "Delingala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678483,
+        1091900003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2434046
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"05ccad116dc57a4e7af47a8c56edbf86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900003,
+            "locality_id":1243229379,
+            "region_id":85678483
+        }
+    ],
+    "wof:id":1243229379,
+    "wof:lastmodified":1537702784,
+    "wof:name":"Delingala",
+    "wof:parent_id":1091900003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.6968,
+    8.2496,
+    17.6968,
+    8.2496
+],
+  "geometry": {"coordinates":[17.6968,8.2496],"type":"Point"}
+}

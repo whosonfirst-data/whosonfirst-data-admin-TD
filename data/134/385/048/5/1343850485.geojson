@@ -1,0 +1,67 @@
+{
+  "id": 1343850485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45989,13.86788,15.45989,13.86788",
+    "geom:latitude":13.86788,
+    "geom:longitude":15.45989,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Diatalari",
+    "gn:country_code":"TD",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2433941,
+    "gn:latitude":13.86788,
+    "gn:longitude":15.45989,
+    "gn:modification_date":"2009-03-02",
+    "gn:name":"Diatalari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678439,
+        1091901305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2433941
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"0de7680e2004c77458c79c3872ac289c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091901305,
+            "locality_id":1343850485,
+            "region_id":85678439
+        }
+    ],
+    "wof:id":1343850485,
+    "wof:lastmodified":1536680987,
+    "wof:name":"Diatalari",
+    "wof:parent_id":1091901305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45989,
+    13.86788,
+    15.45989,
+    13.86788
+],
+  "geometry": {"coordinates":[15.45989,13.86788],"type":"Point"}
+}

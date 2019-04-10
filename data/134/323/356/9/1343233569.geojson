@@ -1,0 +1,67 @@
+{
+  "id": 1343233569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.28856,9.11303,18.28856,9.11303",
+    "geom:latitude":9.11303,
+    "geom:longitude":18.28856,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mayele",
+    "gn:country_code":"TD",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2428147,
+    "gn:latitude":9.11303,
+    "gn:longitude":18.28856,
+    "gn:modification_date":"2008-10-29",
+    "gn:name":"May\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678527,
+        1091900487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2428147
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"09aaad6e6159bdfbfacff185736e866d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":1091900487,
+            "locality_id":1343233569,
+            "region_id":85678527
+        }
+    ],
+    "wof:id":1343233569,
+    "wof:lastmodified":1537070820,
+    "wof:name":"Mayele",
+    "wof:parent_id":1091900487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.28856,
+    9.11303,
+    18.28856,
+    9.11303
+],
+  "geometry": {"coordinates":[18.28856,9.11303],"type":"Point"}
+}

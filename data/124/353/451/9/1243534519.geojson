@@ -1,0 +1,70 @@
+{
+  "id": 1243534519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.62464,13.05114,20.62464,13.05114",
+    "geom:latitude":13.05114,
+    "geom:longitude":20.62464,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zanapte",
+    "gn:country_code":"TD",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241473,
+    "gn:latitude":13.05114,
+    "gn:longitude":20.62464,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Zanapt\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zanapt\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678463,
+        421179001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241473
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"774c23be2b9eeb023d49babc72cb96b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421179001,
+            "locality_id":1243534519,
+            "region_id":85678463
+        }
+    ],
+    "wof:id":1243534519,
+    "wof:lastmodified":1537702646,
+    "wof:name":"Zanapte",
+    "wof:parent_id":421179001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.62464,
+    13.05114,
+    20.62464,
+    13.05114
+],
+  "geometry": {"coordinates":[20.62464,13.05114],"type":"Point"}
+}

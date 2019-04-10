@@ -1,0 +1,64 @@
+{
+  "id": 1209079313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1401,12.15659,15.1401,12.15659",
+    "geom:latitude":12.15659,
+    "geom:longitude":15.1401,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ourongadji",
+    "gn:country_code":"TD",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2431440,
+    "gn:latitude":12.15659,
+    "gn:longitude":15.1401,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ourongadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Harrangadji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2431440
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"c4f58df8922b63136da1fcad438f7bca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209079313
+        }
+    ],
+    "wof:id":1209079313,
+    "wof:lastmodified":1537702755,
+    "wof:name":"Ourongadji",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1401,
+    12.15659,
+    15.1401,
+    12.15659
+],
+  "geometry": {"coordinates":[15.1401,12.15659],"type":"Point"}
+}

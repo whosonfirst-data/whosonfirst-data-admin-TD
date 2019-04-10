@@ -1,0 +1,61 @@
+{
+  "id": 1209490531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1442,8.7679,17.1442,8.7679",
+    "geom:latitude":8.7679,
+    "geom:longitude":17.1442,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kodbouga",
+    "gn:country_code":"TD",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859530,
+    "gn:latitude":8.7679,
+    "gn:longitude":17.1442,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kodbouga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ndjamena",
+    "iso:country":"TD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859530
+    },
+    "wof:country":"TD",
+    "wof:geomhash":"849d3db5b858d51afbc58bafc5c62722",
+    "wof:hierarchy":[
+        {
+            "country_id":85632325,
+            "locality_id":1209490531
+        }
+    ],
+    "wof:id":1209490531,
+    "wof:lastmodified":1536285499,
+    "wof:name":"Kodbouga",
+    "wof:parent_id":85632325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-td",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1442,
+    8.7679,
+    17.1442,
+    8.7679
+],
+  "geometry": {"coordinates":[17.1442,8.7679],"type":"Point"}
+}

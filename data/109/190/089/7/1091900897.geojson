@@ -10,6 +10,12 @@
     "geom:latitude":12.540374,
     "geom:longitude":15.251931,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Haraze Al Biar Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":12.442726,
     "lbl:longitude":15.098561,
     "meso:admin_1":"Hadjer Lamis",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900897,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717954,
     "wof:name":"Haraze Al Biar",
     "wof:parent_id":85678435,
     "wof:placetype":"county",

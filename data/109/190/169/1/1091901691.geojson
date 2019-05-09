@@ -10,6 +10,12 @@
     "geom:latitude":9.261578,
     "geom:longitude":16.143623,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Tandjile Centre Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":9.252624,
     "lbl:longitude":16.147216,
     "meso:admin_1":"Tandjile",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1091901691,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717955,
     "wof:name":"Tandjile Centre",
     "wof:parent_id":85678477,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.96677,
     "geom:longitude":15.895121,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Gueni Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":8.926621,
     "lbl:longitude":15.810558,
     "meso:admin_1":"Logone Occidental",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900113,
-    "wof:lastmodified":1536614991,
+    "wof:lastmodified":1553717953,
     "wof:name":"Gueni",
     "wof:parent_id":85678467,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":12.896019,
     "geom:longitude":17.57237,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Fittri Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":12.875487,
     "lbl:longitude":17.528211,
     "meso:admin_1":"Batha",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091901101,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717954,
     "wof:name":"Fittri",
     "wof:parent_id":85678449,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":9.599946,
     "geom:longitude":19.202042,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Lac Iro Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":9.540257,
     "lbl:longitude":19.28522,
     "meso:admin_1":"Moyen-Chari",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900523,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717953,
     "wof:name":"Lac Iro",
     "wof:parent_id":85678527,
     "wof:placetype":"county",

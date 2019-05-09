@@ -10,6 +10,12 @@
     "geom:latitude":9.12461,
     "geom:longitude":14.940495,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Mayo Dallah Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":9.107593,
     "lbl:longitude":14.949852,
     "meso:admin_1":"Mayo Kebbi Ouest",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900237,
-    "wof:lastmodified":1536614991,
+    "wof:lastmodified":1553717953,
     "wof:name":"Mayo Dallah",
     "wof:parent_id":85678495,
     "wof:placetype":"county",

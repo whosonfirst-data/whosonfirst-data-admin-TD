@@ -10,6 +10,12 @@
     "geom:latitude":8.56693,
     "geom:longitude":16.623565,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "La nya Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":8.557775,
     "lbl:longitude":16.619667,
     "meso:admin_1":"Logone Oriental",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900073,
-    "wof:lastmodified":1536614991,
+    "wof:lastmodified":1553717953,
     "wof:name":"La nya",
     "wof:parent_id":85678469,
     "wof:placetype":"county",

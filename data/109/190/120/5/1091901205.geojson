@@ -10,6 +10,12 @@
     "geom:latitude":13.55862,
     "geom:longitude":21.818943,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Assoungha Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":13.519283,
     "lbl:longitude":21.897806,
     "meso:admin_1":"Ouadda",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091901205,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717954,
     "wof:name":"Assoungha",
     "wof:parent_id":85678463,
     "wof:placetype":"county",

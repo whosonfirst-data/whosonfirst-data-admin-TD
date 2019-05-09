@@ -10,6 +10,12 @@
     "geom:latitude":8.121875,
     "geom:longitude":16.887265,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Kouh Ouest Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":8.130703,
     "lbl:longitude":16.865339,
     "meso:admin_1":"Logone Oriental",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091899821,
-    "wof:lastmodified":1536614991,
+    "wof:lastmodified":1553717952,
     "wof:name":"Kouh Ouest",
     "wof:parent_id":85678469,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":13.368811,
     "geom:longitude":16.218163,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Barh-El-Gazel Ouest Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":13.360826,
     "lbl:longitude":16.225222,
     "meso:admin_1":"Barh-El-Gazel",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1091901733,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717955,
     "wof:name":"Barh-El-Gazel Ouest",
     "wof:parent_id":85678519,
     "wof:placetype":"county",

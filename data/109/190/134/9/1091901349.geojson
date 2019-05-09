@@ -10,6 +10,12 @@
     "geom:latitude":14.430563,
     "geom:longitude":21.953406,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Dar Tama Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.43231,
     "lbl:longitude":21.942605,
     "meso:admin_1":"Wadi Fira",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091901349,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717954,
     "wof:name":"Dar Tama",
     "wof:parent_id":85678453,
     "wof:placetype":"county",

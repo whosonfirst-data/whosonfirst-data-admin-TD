@@ -10,6 +10,12 @@
     "geom:latitude":14.13272,
     "geom:longitude":15.259996,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Kanem Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.115782,
     "lbl:longitude":15.205826,
     "meso:admin_1":"Kanem",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091901305,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717954,
     "wof:name":"Kanem",
     "wof:parent_id":85678439,
     "wof:placetype":"county",

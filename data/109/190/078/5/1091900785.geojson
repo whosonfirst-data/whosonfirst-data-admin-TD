@@ -10,6 +10,12 @@
     "geom:latitude":12.021593,
     "geom:longitude":18.109468,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Abtouyour Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":12.039504,
     "lbl:longitude":18.064256,
     "meso:admin_1":"Guera",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900785,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717954,
     "wof:name":"Abtouyour",
     "wof:parent_id":85678457,
     "wof:placetype":"county",

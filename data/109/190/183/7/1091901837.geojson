@@ -10,6 +10,12 @@
     "geom:latitude":18.065931,
     "geom:longitude":23.13164,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Am-Djarass Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":18.05026,
     "lbl:longitude":23.148178,
     "meso:admin_1":"Ennedi-Est",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1091901837,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717955,
     "wof:name":"Am-Djarass",
     "wof:parent_id":1108808537,
     "wof:placetype":"county",

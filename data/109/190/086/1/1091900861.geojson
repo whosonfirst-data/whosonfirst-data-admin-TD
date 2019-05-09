@@ -10,6 +10,12 @@
     "geom:latitude":11.972318,
     "geom:longitude":22.000667,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Kimiti Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":12.161535,
     "lbl:longitude":21.985827,
     "meso:admin_1":"Sila",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900861,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717954,
     "wof:name":"Kimiti",
     "wof:parent_id":85678523,
     "wof:placetype":"county",

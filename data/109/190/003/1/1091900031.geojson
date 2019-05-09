@@ -10,6 +10,12 @@
     "geom:latitude":8.64491,
     "geom:longitude":15.961312,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Lac Wey Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":8.662495,
     "lbl:longitude":15.955088,
     "meso:admin_1":"Logone Occidental",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900031,
-    "wof:lastmodified":1536614991,
+    "wof:lastmodified":1553717953,
     "wof:name":"Lac Wey",
     "wof:parent_id":85678467,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":9.868838,
     "geom:longitude":14.46531,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Mayo-Binder Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":9.867135,
     "lbl:longitude":14.465313,
     "meso:admin_1":"Mayo-Kebbi Ouest",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1091901927,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717955,
     "wof:name":"Mayo-Binder",
     "wof:parent_id":85678495,
     "wof:placetype":"county",

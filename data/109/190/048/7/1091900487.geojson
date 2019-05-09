@@ -10,6 +10,12 @@
     "geom:latitude":9.564267,
     "geom:longitude":18.146632,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Bahr Koh Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":9.907517,
     "lbl:longitude":17.942416,
     "meso:admin_1":"Moyen Chari",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900487,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717953,
     "wof:name":"Bahr Koh",
     "wof:parent_id":85678527,
     "wof:placetype":"county",

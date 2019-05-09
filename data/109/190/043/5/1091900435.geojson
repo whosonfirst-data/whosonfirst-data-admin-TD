@@ -10,6 +10,12 @@
     "geom:latitude":9.622659,
     "geom:longitude":16.723296,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Tandjile Est Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":9.568661,
     "lbl:longitude":16.723183,
     "meso:admin_1":"Tandjile",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900435,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717953,
     "wof:name":"Tandjile Est",
     "wof:parent_id":85678477,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":11.734594,
     "geom:longitude":15.248363,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Chari Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":11.867273,
     "lbl:longitude":15.253253,
     "meso:admin_1":"Chari-Baguirmi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900725,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717954,
     "wof:name":"Chari",
     "wof:parent_id":85678513,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":13.467699,
     "geom:longitude":15.179177,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Wayi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":13.493835,
     "lbl:longitude":15.087234,
     "meso:admin_1":"Lac",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091901129,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717954,
     "wof:name":"Wayi",
     "wof:parent_id":85678445,
     "wof:placetype":"county",

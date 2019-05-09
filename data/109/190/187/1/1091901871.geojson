@@ -10,6 +10,12 @@
     "geom:latitude":16.377061,
     "geom:longitude":21.251328,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Mourtcha Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.38874,
     "lbl:longitude":21.251507,
     "meso:admin_1":"Ennedi Ouest",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1091901871,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717955,
     "wof:name":"Mourtcha",
     "wof:parent_id":1108808537,
     "wof:placetype":"county",

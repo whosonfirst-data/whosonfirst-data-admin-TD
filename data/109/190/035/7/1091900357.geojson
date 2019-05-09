@@ -10,6 +10,12 @@
     "geom:latitude":9.829312,
     "geom:longitude":15.172244,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Mont Illi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":9.855527,
     "lbl:longitude":15.180129,
     "meso:admin_1":"Mayo Kebbi Est",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900357,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717953,
     "wof:name":"Mont Illi",
     "wof:parent_id":85678473,
     "wof:placetype":"county",

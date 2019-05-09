@@ -10,6 +10,12 @@
     "geom:latitude":14.314343,
     "geom:longitude":18.625023,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Batha Ouest Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":14.64217,
     "lbl:longitude":18.508192,
     "meso:admin_1":"Batha",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091901485,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717954,
     "wof:name":"Batha Ouest",
     "wof:parent_id":85678449,
     "wof:placetype":"county",

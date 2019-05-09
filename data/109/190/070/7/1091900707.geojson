@@ -10,6 +10,12 @@
     "geom:latitude":11.527573,
     "geom:longitude":19.579667,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Aboudeia Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":11.479867,
     "lbl:longitude":19.591961,
     "meso:admin_1":"Salamat",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900707,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717954,
     "wof:name":"Aboudeia",
     "wof:parent_id":85678487,
     "wof:placetype":"county",

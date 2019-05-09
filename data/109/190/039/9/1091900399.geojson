@@ -10,6 +10,12 @@
     "geom:latitude":9.606947,
     "geom:longitude":14.372782,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Lac Lere Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":9.596524,
     "lbl:longitude":14.372817,
     "meso:admin_1":"Mayo-Kebbi Ouest",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900399,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717953,
     "wof:name":"Lac Lere",
     "wof:parent_id":85678495,
     "wof:placetype":"county",

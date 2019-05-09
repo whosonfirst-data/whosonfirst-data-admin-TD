@@ -10,6 +10,12 @@
     "geom:latitude":8.021041,
     "geom:longitude":15.89938,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Monts de Lam Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":7.929562,
     "lbl:longitude":15.908556,
     "meso:admin_1":"Logone Oriental",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091899911,
-    "wof:lastmodified":1536614991,
+    "wof:lastmodified":1553717953,
     "wof:name":"Monts de Lam",
     "wof:parent_id":85678469,
     "wof:placetype":"county",

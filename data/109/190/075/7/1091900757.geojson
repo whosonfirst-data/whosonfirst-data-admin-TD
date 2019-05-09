@@ -10,6 +10,12 @@
     "geom:latitude":11.546856,
     "geom:longitude":16.251898,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Baguirmi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":11.610596,
     "lbl:longitude":16.133386,
     "meso:admin_1":"Chari-Baguirmi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900757,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717954,
     "wof:name":"Baguirmi",
     "wof:parent_id":85678513,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":20.65418,
     "geom:longitude":18.49652,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Tibesti Est Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":20.844799,
     "lbl:longitude":18.650824,
     "meso:admin_1":"Tibesti",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091901649,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717955,
     "wof:name":"Tibesti Est",
     "wof:parent_id":85678501,
     "wof:placetype":"county",

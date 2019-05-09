@@ -10,6 +10,12 @@
     "geom:latitude":17.682347,
     "geom:longitude":17.33406,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Borkou Yala Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":17.713812,
     "lbl:longitude":17.152597,
     "meso:admin_1":"Borkou",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091901887,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717955,
     "wof:name":"Borkou Yala",
     "wof:parent_id":85678501,
     "wof:placetype":"county",

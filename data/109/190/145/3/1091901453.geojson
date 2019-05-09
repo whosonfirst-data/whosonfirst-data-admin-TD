@@ -10,6 +10,12 @@
     "geom:latitude":15.300531,
     "geom:longitude":22.428815,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Iriba Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":15.33034,
     "lbl:longitude":22.472114,
     "meso:admin_1":"Wadi Fira",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091901453,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717955,
     "wof:name":"Iriba",
     "wof:parent_id":85678453,
     "wof:placetype":"county",

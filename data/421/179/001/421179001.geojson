@@ -10,6 +10,12 @@
     "geom:latitude":13.667332,
     "geom:longitude":20.833407,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Ouara Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":13.630005,
     "lbl:longitude":20.848884,
     "meso:admin_1":"Ouadda",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421179001,
-    "wof:lastmodified":1536615963,
+    "wof:lastmodified":1553717372,
     "wof:name":"Ouara",
     "wof:parent_id":85678463,
     "wof:placetype":"county",

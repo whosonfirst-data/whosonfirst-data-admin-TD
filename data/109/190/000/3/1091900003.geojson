@@ -10,6 +10,12 @@
     "geom:latitude":8.324329,
     "geom:longitude":17.716859,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Barh Sara Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":8.345054,
     "lbl:longitude":17.762882,
     "meso:admin_1":"Mandoul",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900003,
-    "wof:lastmodified":1536614991,
+    "wof:lastmodified":1553717953,
     "wof:name":"Barh Sara",
     "wof:parent_id":85678483,
     "wof:placetype":"county",

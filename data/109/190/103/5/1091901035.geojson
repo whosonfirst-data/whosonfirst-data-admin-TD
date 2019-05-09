@@ -10,6 +10,12 @@
     "geom:latitude":12.910471,
     "geom:longitude":21.240281,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Abdi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":12.896026,
     "lbl:longitude":21.249023,
     "meso:admin_1":"Ouadda",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091901035,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717954,
     "wof:name":"Abdi",
     "wof:parent_id":85678463,
     "wof:placetype":"county",

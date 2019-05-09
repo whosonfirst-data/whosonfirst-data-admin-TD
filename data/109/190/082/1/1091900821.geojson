@@ -10,6 +10,12 @@
     "geom:latitude":12.134665,
     "geom:longitude":18.776886,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Guera Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":12.148364,
     "lbl:longitude":18.904536,
     "meso:admin_1":"Guera",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900821,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717954,
     "wof:name":"Guera",
     "wof:parent_id":85678457,
     "wof:placetype":"county",

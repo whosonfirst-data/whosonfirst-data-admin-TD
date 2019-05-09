@@ -10,6 +10,12 @@
     "geom:latitude":12.377893,
     "geom:longitude":20.643433,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Djourf Al Ahmar Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":12.356988,
     "lbl:longitude":20.643447,
     "meso:admin_1":"Sila",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900983,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717954,
     "wof:name":"Djourf Al Ahmar",
     "wof:parent_id":85678523,
     "wof:placetype":"county",

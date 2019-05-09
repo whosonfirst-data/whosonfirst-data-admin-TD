@@ -10,6 +10,12 @@
     "geom:latitude":13.704949,
     "geom:longitude":14.207418,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Mamdi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":13.671934,
     "lbl:longitude":14.219324,
     "meso:admin_1":"Lac",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091901265,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717954,
     "wof:name":"Mamdi",
     "wof:parent_id":85678445,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":16.639064,
     "geom:longitude":19.140487,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Borkou Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.969127,
     "lbl:longitude":19.476856,
     "meso:admin_1":"Borkou",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091901607,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717955,
     "wof:name":"Borkou",
     "wof:parent_id":85678501,
     "wof:placetype":"county",

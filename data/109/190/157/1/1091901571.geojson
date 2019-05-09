@@ -10,6 +10,12 @@
     "geom:latitude":15.386319,
     "geom:longitude":15.249227,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Nord Kanem Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":15.421025,
     "lbl:longitude":15.400977,
     "meso:admin_1":"Kanem",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091901571,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717955,
     "wof:name":"Nord Kanem",
     "wof:parent_id":85678439,
     "wof:placetype":"county",

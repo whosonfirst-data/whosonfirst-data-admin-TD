@@ -10,6 +10,12 @@
     "geom:latitude":12.371165,
     "geom:longitude":16.879734,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Dababa Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":12.539604,
     "lbl:longitude":16.813484,
     "meso:admin_1":"Hadjer-Lamis",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091901007,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717954,
     "wof:name":"Dababa",
     "wof:parent_id":85678435,
     "wof:placetype":"county",

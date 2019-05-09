@@ -10,6 +10,12 @@
     "geom:latitude":8.873867,
     "geom:longitude":16.894084,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "La Pende Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":8.852127,
     "lbl:longitude":16.947335,
     "meso:admin_1":"Logone Oriental",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900157,
-    "wof:lastmodified":1536614991,
+    "wof:lastmodified":1553717953,
     "wof:name":"La Pende",
     "wof:parent_id":85678469,
     "wof:placetype":"county",

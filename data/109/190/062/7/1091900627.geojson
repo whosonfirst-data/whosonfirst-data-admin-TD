@@ -10,6 +10,12 @@
     "geom:latitude":10.864904,
     "geom:longitude":15.497589,
     "iso:country":"TD",
+    "label:eng_x_preferred_longname":[
+        "Mayo Lemye Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":11.028272,
     "lbl:longitude":15.265418,
     "meso:admin_1":"Mayo Kebbi Est",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091900627,
-    "wof:lastmodified":1536614992,
+    "wof:lastmodified":1553717953,
     "wof:name":"Mayo Lemye",
     "wof:parent_id":85678473,
     "wof:placetype":"county",

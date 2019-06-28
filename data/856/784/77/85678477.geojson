@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.45704,
-    "geom:area_square_m":17767403966.69582,
+    "geom:area_square_m":17767403966.695732,
     "geom:bbox":"15.4209663397,9.01077136831,17.5879663397,10.2649713683",
     "geom:latitude":9.536077,
     "geom:longitude":16.476823,
@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u062a\u0627\u0646\u062c\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Tandjil\u00e9"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u099e\u09cd\u099c\u09bf\u09b2\u09c7 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -41,17 +38,14 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u043d\u0434\u0436\u0438\u043b\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u5766\u5409\u840a\u5340"
-    ],
     "name:dan_x_preferred":[
         "Tandjil\u00e9"
     ],
     "name:deu_x_preferred":[
         "Region Tandjil\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Tandjil\u00e9"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03bd\u03c4\u03b6\u03b9\u03bb\u03ad"
     ],
     "name:eng_x_preferred":[
         "Tandjil\u00e9 Region"
@@ -78,15 +72,6 @@
     "name:fra_x_variant":[
         "Tandjile",
         "R\u00e9gion du Tandjil\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Tandjil\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Region Tandjil\u00e9"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03bd\u03c4\u03b6\u03b9\u03bb\u03ad"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0a82\u0aa1\u0a9c\u0abf\u0ab2\u0ac7 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -118,8 +103,11 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u0902\u0921\u091c\u0940\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tandjile Region"
+    ],
+    "name:nld_x_preferred":[
+        "Tandjil\u00e9"
     ],
     "name:nob_x_preferred":[
         "Tandjil\u00e9"
@@ -130,7 +118,7 @@
     "name:por_x_preferred":[
         "Tandjil\u00e9"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Tandjil\u00e9"
     ],
     "name:rus_x_preferred":[
@@ -168,6 +156,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Tandjil\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5766\u5409\u840a\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TCD",
@@ -294,7 +285,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1553814827,
+    "wof:lastmodified":1561749690,
     "wof:name":"Tandjil\u00e9",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0643\u0627\u0646\u0645"
     ],
-    "name:baq_x_preferred":[
-        "Kanem"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09a8\u09c7\u09ae \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -41,14 +38,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Kanem"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u5948\u59c6\u5340"
-    ],
     "name:dan_x_preferred":[
         "Kanem"
     ],
-    "name:dut_x_preferred":[
-        "Kanem"
+    "name:deu_x_preferred":[
+        "Region Kanem"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bd\u03ad\u03bc"
     ],
     "name:eng_x_preferred":[
         "Kanem Region"
@@ -57,6 +54,9 @@
         "Kanem"
     ],
     "name:est_x_preferred":[
+        "Kanem"
+    ],
+    "name:eus_x_preferred":[
         "Kanem"
     ],
     "name:fin_x_preferred":[
@@ -70,15 +70,6 @@
     ],
     "name:fra_x_variant":[
         "R\u00e9gion du Kanem"
-    ],
-    "name:fre_x_preferred":[
-        "Kanem"
-    ],
-    "name:ger_x_preferred":[
-        "Region Kanem"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bd\u03ad\u03bc"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0aa8\u0ac7\u0aae \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -110,8 +101,11 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u0928\u0947\u092e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kanem Region"
+    ],
+    "name:nld_x_preferred":[
+        "Kanem"
     ],
     "name:nob_x_preferred":[
         "Kanem"
@@ -122,7 +116,7 @@
     "name:por_x_preferred":[
         "Kanem"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Kanem"
     ],
     "name:rus_x_preferred":[
@@ -160,6 +154,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Kanem"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u5948\u59c6\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TCD",
@@ -284,7 +281,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1553550526,
+    "wof:lastmodified":1561749690,
     "wof:name":"Kanem",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

@@ -19,9 +19,6 @@
     "name:fra_x_preferred":[
         "B\u00e9boto"
     ],
-    "name:fre_x_preferred":[
-        "B\u00e9boto"
-    ],
     "name:pol_x_preferred":[
         "B\u00e9boto"
     ],
@@ -71,7 +68,7 @@
         }
     ],
     "wof:id":421167695,
-    "wof:lastmodified":1514505936,
+    "wof:lastmodified":1561749719,
     "wof:name":"B\u00e9boto",
     "wof:parent_id":1091899821,
     "wof:placetype":"locality",

@@ -21,20 +21,20 @@
     "name:bul_x_preferred":[
         "\u0410\u043e\u0437\u043e\u0443"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Aouzou"
     ],
     "name:eng_x_preferred":[
         "Aouzou"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Aozou"
-    ],
-    "name:ger_x_preferred":[
-        "Aouzou"
     ],
     "name:ita_x_preferred":[
         "Aozou"
+    ],
+    "name:nld_x_preferred":[
+        "Aouzou"
     ],
     "name:pol_x_preferred":[
         "Aouzou"
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":890432309,
-    "wof:lastmodified":1514505933,
+    "wof:lastmodified":1561749721,
     "wof:name":"Aozou",
     "wof:parent_id":1091901649,
     "wof:placetype":"locality",

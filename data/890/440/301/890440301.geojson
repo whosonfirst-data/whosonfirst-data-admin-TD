@@ -22,17 +22,11 @@
     "name:afr_x_preferred":[
         "N'Djamena"
     ],
-    "name:alb_x_preferred":[
-        "Nxhamena"
-    ],
     "name:amh_x_preferred":[
         "\u1295\u1303\u121c\u1293"
     ],
     "name:ara_x_preferred":[
         "\u0623\u0646\u062c\u0645\u064a\u0646\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u0546\u057b\u0561\u0574\u0565\u0576\u0561"
     ],
     "name:ast_x_preferred":[
         "Xamena"
@@ -40,14 +34,14 @@
     "name:aze_x_preferred":[
         "Ncamena"
     ],
-    "name:baq_x_preferred":[
-        "N'Djamena"
-    ],
     "name:bel_x_preferred":[
         "\u041d\u0434\u0436\u0430\u043c\u0435\u043d\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a8'\u099c\u09be\u09ae\u09bf\u09a8\u09be"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f47\u0f0b\u0f58\u0f72\u0f0b\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "N'Djamena"
@@ -64,11 +58,11 @@
     "name:cdo_x_preferred":[
         "N'Djamena"
     ],
+    "name:ces_x_preferred":[
+        "N'Djamena"
+    ],
     "name:che_x_preferred":[
         "\u041d\u0434\u0436\u0430\u043c\u0435\u043d\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u6069\u8cc8\u6885\u7d0d"
     ],
     "name:ckb_x_preferred":[
         "\u0646\u062c\u0627\u0645\u06ce\u0646\u0627"
@@ -76,7 +70,7 @@
     "name:cor_x_preferred":[
         "N'Djamena"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "N'Djamena"
     ],
     "name:dan_x_preferred":[
@@ -88,11 +82,11 @@
     "name:deu_x_preferred":[
         "N\u2019Djamena"
     ],
-    "name:dut_x_preferred":[
-        "Ndjamena"
-    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03b1\u03bc\u03ad\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03c4\u03b6\u03b1\u03bc\u03ad\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "N'Djamena"
@@ -106,13 +100,19 @@
     "name:est_x_variant":[
         "N'Djamena"
     ],
+    "name:eus_x_preferred":[
+        "N'Djamena"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u062c\u0627\u0645\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "N'Djamena"
     ],
     "name:fra_x_preferred":[
         "Ndjamena"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "N'Djamena"
     ],
     "name:frp_x_preferred":[
@@ -124,12 +124,6 @@
     "name:fry_x_preferred":[
         "N'Djamena"
     ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10ef\u10d0\u10db\u10d4\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "N\u2019Djamena"
-    ],
     "name:gla_x_preferred":[
         "N'Djamena"
     ],
@@ -138,9 +132,6 @@
     ],
     "name:glg_x_preferred":[
         "Xamena"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b6\u03b1\u03bc\u03ad\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0acd\u0aa1\u0a9c\u0abe\u0aae\u0ac7\u0aa8\u0abe"
@@ -172,8 +163,8 @@
     "name:hun_x_variant":[
         "N\u2019Djamena"
     ],
-    "name:ice_x_preferred":[
-        "N'Djamena"
+    "name:hye_x_preferred":[
+        "\u0546\u057b\u0561\u0574\u0565\u0576\u0561"
     ],
     "name:ido_x_preferred":[
         "N'Djamena"
@@ -182,6 +173,9 @@
         "N'Djamena"
     ],
     "name:ind_x_preferred":[
+        "N'Djamena"
+    ],
+    "name:isl_x_preferred":[
         "N'Djamena"
     ],
     "name:ita_x_preferred":[
@@ -198,6 +192,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c8e\u200d\u0ca8\u0ccd\u200c\u0c9d\u0cae\u0cc0\u0ca8\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10ef\u10d0\u10db\u10d4\u10dc\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041d\u0434\u0436\u0430\u043c\u0435\u043d\u0430"
@@ -241,17 +238,14 @@
     "name:ltz_x_preferred":[
         "N'Djamena"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u045f\u0430\u043c\u0435\u043d\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d7b\u0d21\u0d4d\u0d1c\u0d3e\u0d2e\u0d46\u0d28"
     ],
     "name:mar_x_preferred":[
         "\u0907\u0902\u091c\u093e\u092e\u093f\u0928\u093e"
     ],
-    "name:may_x_preferred":[
-        "N'Djamena"
+    "name:mkd_x_preferred":[
+        "\u041d\u045f\u0430\u043c\u0435\u043d\u0430"
     ],
     "name:mlg_x_preferred":[
         "N'Djamena"
@@ -261,6 +255,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u041d\u0434\u0436\u0430\u043c\u0435\u043d\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "N'Djamena"
     ],
     "name:nah_x_preferred":[
         "Yamena"
@@ -292,9 +289,6 @@
     "name:pap_x_preferred":[
         "N'Djamena"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0646\u062c\u0627\u0645\u0646\u0627"
-    ],
     "name:pms_x_preferred":[
         "N'Djamena"
     ],
@@ -307,7 +301,7 @@
     "name:por_x_preferred":[
         "N'Djamena"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "N'Djamena"
     ],
     "name:rup_x_preferred":[
@@ -331,9 +325,6 @@
     "name:slk_x_variant":[
         "N'Djamena"
     ],
-    "name:slo_x_preferred":[
-        "N\u2019Djamena"
-    ],
     "name:slv_x_preferred":[
         "N'Djamena"
     ],
@@ -348,6 +339,9 @@
     ],
     "name:spa_x_variant":[
         "Yamena"
+    ],
+    "name:sqi_x_preferred":[
+        "Nxhamena"
     ],
     "name:srp_x_preferred":[
         "\u041d\u045f\u0430\u043c\u0435\u043d\u0430"
@@ -372,9 +366,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e36\u0e19\u0e08\u0e32\u0e40\u0e21\u0e19\u0e32"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f47\u0f0b\u0f58\u0f72\u0f0b\u0f53\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Njamena"
@@ -409,9 +400,6 @@
     "name:war_x_preferred":[
         "N'Djamena"
     ],
-    "name:wel_x_preferred":[
-        "N'Djamena"
-    ],
     "name:wol_x_preferred":[
         "Njamena"
     ],
@@ -425,6 +413,9 @@
         "N'Djamena"
     ],
     "name:yue_x_preferred":[
+        "\u6069\u8cc8\u6885\u7d0d"
+    ],
+    "name:zho_x_preferred":[
         "\u6069\u8cc8\u6885\u7d0d"
     ],
     "ne:ADM0CAP":1.0,
@@ -565,7 +556,7 @@
         }
     ],
     "wof:id":890440301,
-    "wof:lastmodified":1552519485,
+    "wof:lastmodified":1561749720,
     "wof:name":"N'Djamena",
     "wof:parent_id":421193929,
     "wof:placetype":"locality",

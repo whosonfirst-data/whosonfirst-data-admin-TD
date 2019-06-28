@@ -20,10 +20,7 @@
     "name:bul_x_preferred":[
         "\u0417\u0443\u0430\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u8332\u74e6\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zouar"
     ],
     "name:eng_x_preferred":[
@@ -32,10 +29,7 @@
     "name:fin_x_preferred":[
         "Zouar"
     ],
-    "name:fre_x_preferred":[
-        "Zouar"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zouar"
     ],
     "name:ind_x_preferred":[
@@ -47,7 +41,10 @@
     "name:jpn_x_preferred":[
         "\u30ba\u30a2\u30eb"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Zouar"
+    ],
+    "name:ron_x_preferred":[
         "Zouar"
     ],
     "name:rus_x_preferred":[
@@ -58,6 +55,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0632\u0624\u0627\u0631\u060c \u0686\u0627\u0688"
+    ],
+    "name:zho_x_preferred":[
+        "\u8332\u74e6\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Chad",
@@ -178,7 +178,7 @@
         }
     ],
     "wof:id":1141907615,
-    "wof:lastmodified":1514505964,
+    "wof:lastmodified":1561749740,
     "wof:name":"Zouar",
     "wof:parent_id":1091901659,
     "wof:placetype":"locality",

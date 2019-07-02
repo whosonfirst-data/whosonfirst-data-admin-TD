@@ -155,9 +155,6 @@
     "name:cym_x_variant":[
         "Chad"
     ],
-    "name:cze_x_preferred":[
-        "\u010cad"
-    ],
     "name:dan_x_preferred":[
         "Tchad"
     ],
@@ -580,9 +577,6 @@
     "name:rue_x_preferred":[
         "\u0427\u0430\u0434"
     ],
-    "name:rum_x_preferred":[
-        "Ciad"
-    ],
     "name:run_x_preferred":[
         "Cadi"
     ],
@@ -788,8 +782,7 @@
         "\u4e4d\u5f97"
     ],
     "name:zho_x_variant":[
-        "\u67e5\u5fb7",
-        "\u4e4d\u5f97"
+        "\u67e5\u5fb7"
     ],
     "name:zho_yue_x_preferred":[
         "\u4e4d\u5f97"
@@ -949,7 +942,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1544059278,
+    "wof:lastmodified":1561749688,
     "wof:name":"Chad",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

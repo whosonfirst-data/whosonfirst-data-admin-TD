@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.564239,
-    "geom:area_square_m":90754124585.800888,
+    "geom:area_square_m":90754124585.801086,
     "geom:bbox":"16.9579663397,12.1249713683,20.3689663397,16.1083713683",
     "geom:latitude":13.974656,
     "geom:longitude":18.801931,
@@ -29,26 +29,23 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0628\u0637\u062d\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Batha"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a5\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0442\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5854\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Batha"
     ],
     "name:dan_x_preferred":[
         "Batha"
     ],
-    "name:dut_x_preferred":[
-        "Batha"
+    "name:deu_x_preferred":[
+        "Region Batha"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03b8\u03b1"
     ],
     "name:eng_x_preferred":[
         "Batha Region"
@@ -57,6 +54,9 @@
         "Batha"
     ],
     "name:est_x_preferred":[
+        "Batha"
+    ],
+    "name:eus_x_preferred":[
         "Batha"
     ],
     "name:fin_x_preferred":[
@@ -70,15 +70,6 @@
     ],
     "name:fra_x_variant":[
         "R\u00e9gion du Batha"
-    ],
-    "name:fre_x_preferred":[
-        "Batha"
-    ],
-    "name:ger_x_preferred":[
-        "Region Batha"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03b8\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aa5\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -110,8 +101,11 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u0920\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Batha Region"
+    ],
+    "name:nld_x_preferred":[
+        "Batha"
     ],
     "name:nob_x_preferred":[
         "Batha"
@@ -122,7 +116,7 @@
     "name:por_x_preferred":[
         "Batha"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Batha"
     ],
     "name:rus_x_preferred":[
@@ -163,6 +157,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Batha"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5854\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TCD",
@@ -289,7 +286,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1553814827,
+    "wof:lastmodified":1561749690,
     "wof:name":"Batha",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

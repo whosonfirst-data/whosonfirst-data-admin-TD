@@ -19,20 +19,17 @@
     "name:bul_x_preferred":[
         "\u0418\u0440\u0438\u0431\u0430"
     ],
-    "name:dut_x_preferred":[
-        "Iriba"
-    ],
     "name:eng_x_preferred":[
         "Iriba"
     ],
     "name:fra_x_preferred":[
         "Iriba"
     ],
-    "name:fre_x_preferred":[
-        "Iriba"
-    ],
     "name:jpn_x_preferred":[
         "\u30a4\u30ea\u30d0"
+    ],
+    "name:nld_x_preferred":[
+        "Iriba"
     ],
     "name:pol_x_preferred":[
         "Iriba"
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":421176853,
-    "wof:lastmodified":1527726476,
+    "wof:lastmodified":1561749720,
     "wof:name":"Iriba",
     "wof:parent_id":1091901453,
     "wof:placetype":"locality",

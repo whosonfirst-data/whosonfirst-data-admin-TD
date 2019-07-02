@@ -16,20 +16,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0644\u0641\u064a"
     ],
-    "name:dut_x_preferred":[
-        "Melfi"
-    ],
     "name:eng_x_preferred":[
         "Melfi"
     ],
     "name:fra_x_preferred":[
         "Melfi"
     ],
-    "name:fre_x_preferred":[
-        "Melfi"
-    ],
     "name:jpn_x_preferred":[
         "\u30e1\u30eb\u30d5\u30a3"
+    ],
+    "name:nld_x_preferred":[
+        "Melfi"
     ],
     "name:pol_x_preferred":[
         "Melfi"
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":421168165,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561749719,
     "wof:name":"Melfi",
     "wof:parent_id":1091900641,
     "wof:placetype":"locality",

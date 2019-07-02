@@ -22,14 +22,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09b2"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u723e"
-    ],
     "name:dan_x_preferred":[
         "Bol"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bol"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03bb"
     ],
     "name:eng_x_preferred":[
         "Bol"
@@ -37,14 +37,8 @@
     "name:fin_x_preferred":[
         "Bol"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bol"
-    ],
-    "name:ger_x_preferred":[
-        "Bol"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0ab2"
@@ -76,11 +70,14 @@
     "name:mar_x_preferred":[
         "\u092c\u094b\u0932"
     ],
-    "name:may_x_preferred":[
-        "Bol"
-    ],
     "name:mrj_x_preferred":[
         "\u0411\u043e\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Bol"
+    ],
+    "name:nld_x_preferred":[
+        "Bol"
     ],
     "name:nob_x_preferred":[
         "Bol"
@@ -91,7 +88,7 @@
     "name:por_x_preferred":[
         "Bol"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bol"
     ],
     "name:rus_x_preferred":[
@@ -129,6 +126,9 @@
     ],
     "name:vie_x_preferred":[
         "Bol"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Chad",
@@ -255,7 +255,7 @@
         }
     ],
     "wof:id":890444443,
-    "wof:lastmodified":1553816400,
+    "wof:lastmodified":1561749720,
     "wof:name":"Bol",
     "wof:parent_id":1091901265,
     "wof:placetype":"locality",

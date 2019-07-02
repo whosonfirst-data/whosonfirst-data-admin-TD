@@ -18,22 +18,19 @@
     "name:ara_x_preferred":[
         "\u0642\u0645\u0631\u0629"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u59c6\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Koumra"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Koumra"
     ],
     "name:eng_x_preferred":[
         "Koumra"
     ],
-    "name:fre_x_preferred":[
-        "Koumra"
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u0631\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Koumra"
     ],
     "name:hrv_x_preferred":[
@@ -57,16 +54,16 @@
     "name:mrj_x_preferred":[
         "\u041a\u0443\u043c\u0440\u0430"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Koumra"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0645\u0631\u0627"
+    "name:nob_x_preferred":[
+        "Koumra"
     ],
     "name:pol_x_preferred":[
         "Koumra"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Koumra"
     ],
     "name:rus_x_preferred":[
@@ -86,6 +83,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0624\u0645\u0631\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u59c6\u62c9"
     ],
     "qs:name":"Koumra",
     "qs:photos_9r":0,
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":890451661,
-    "wof:lastmodified":1527792937,
+    "wof:lastmodified":1561749720,
     "wof:name":"Koumra",
     "wof:parent_id":1091900193,
     "wof:placetype":"locality",

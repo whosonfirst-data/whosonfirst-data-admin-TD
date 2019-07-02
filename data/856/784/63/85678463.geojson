@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.490852,
-    "geom:area_square_m":29943064387.237339,
+    "geom:area_square_m":29943064387.237457,
     "geom:bbox":"20.0559663397,12.6349713683,22.2939663397,14.4139713683",
     "geom:latitude":13.540252,
     "geom:longitude":21.159607,
@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0648\u062f\u0627\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Ouadda\u00ef"
-    ],
     "name:ben_x_preferred":[
         "\u0989\u09af\u09bc\u09be\u09a1\u09be\u09af\u09bc \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -41,17 +38,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 d'Ouadda\u00ef"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u9054\u4f0a\u5340"
-    ],
     "name:dan_x_preferred":[
         "Ouadda\u00ef"
     ],
     "name:deu_x_preferred":[
         "Region Wadai"
     ],
-    "name:dut_x_preferred":[
-        "Ouadda\u00ef"
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b1\u03bd\u03c4\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Ouada\u00ef Region"
@@ -79,15 +73,6 @@
     "name:fra_x_variant":[
         "Ouaddai",
         "R\u00e9gion du Ouadda\u00ef"
-    ],
-    "name:fre_x_preferred":[
-        "Ouadda\u00ef"
-    ],
-    "name:ger_x_preferred":[
-        "Region Wadai"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03b1\u03bd\u03c4\u03ac\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a94\u0aa1\u0abe\u0a87 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -119,8 +104,11 @@
     "name:mar_x_preferred":[
         "\u0909\u0921\u0921\u093e\u0908 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ouaddai Region"
+    ],
+    "name:nld_x_preferred":[
+        "Ouadda\u00ef"
     ],
     "name:nob_x_preferred":[
         "Ouadda\u00ef"
@@ -131,7 +119,7 @@
     "name:por_x_preferred":[
         "Ouadda\u00ef"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Ouadda\u00ef"
     ],
     "name:rus_x_preferred":[
@@ -169,6 +157,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Ouaddai"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u9054\u4f0a\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TCD",
@@ -293,7 +284,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1553814827,
+    "wof:lastmodified":1561749690,
     "wof:name":"Ouadda\u00ef",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

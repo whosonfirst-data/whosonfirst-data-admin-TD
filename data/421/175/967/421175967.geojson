@@ -26,16 +26,10 @@
     "name:cat_x_preferred":[
         "Faya-Largeau"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u4e9e-\u62c9\u82e5"
-    ],
     "name:dan_x_preferred":[
         "Faya-Largeau"
     ],
     "name:deu_x_preferred":[
-        "Faya-Largeau"
-    ],
-    "name:dut_x_preferred":[
         "Faya-Largeau"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +42,6 @@
         "Faya-Largeau"
     ],
     "name:fra_x_preferred":[
-        "Faya-Largeau"
-    ],
-    "name:fre_x_preferred":[
-        "Faya-Largeau"
-    ],
-    "name:ger_x_preferred":[
         "Faya-Largeau"
     ],
     "name:hrv_x_preferred":[
@@ -90,9 +78,6 @@
         "Faya-Largeau"
     ],
     "name:ron_x_preferred":[
-        "Faya-Largeau"
-    ],
-    "name:rum_x_preferred":[
         "Faya-Largeau"
     ],
     "name:rus_x_preferred":[
@@ -258,7 +243,7 @@
         }
     ],
     "wof:id":421175967,
-    "wof:lastmodified":1527716341,
+    "wof:lastmodified":1561749719,
     "wof:name":"Faya-Largeau",
     "wof:parent_id":1091901887,
     "wof:placetype":"locality",

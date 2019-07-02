@@ -18,19 +18,16 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u0627\u0643\u0648\u0631\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u85a9\u79d1\u91cc"
-    ],
     "name:dan_x_preferred":[
-        "Massakory"
-    ],
-    "name:dut_x_preferred":[
         "Massakory"
     ],
     "name:eng_x_preferred":[
         "Massakory"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0633\u0627\u06a9\u0648\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Massakory"
     ],
     "name:ind_x_preferred":[
@@ -45,16 +42,16 @@
     "name:mrj_x_preferred":[
         "\u041c\u0430\u0441\u0430\u043a\u043e\u0440\u0438"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Massakory"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0633\u0627\u06a9\u0648\u0631\u06cc"
+    "name:nob_x_preferred":[
+        "Massakory"
     ],
     "name:pol_x_preferred":[
         "Massakory"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Massakory"
     ],
     "name:rus_x_preferred":[
@@ -68,6 +65,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0633\u0627\u06a9\u0648\u0631\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u85a9\u79d1\u91cc"
     ],
     "qs:name":"Massakory",
     "qs:photos_9r":0,
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":890437125,
-    "wof:lastmodified":1527729754,
+    "wof:lastmodified":1561749720,
     "wof:name":"Massakory",
     "wof:parent_id":1091901071,
     "wof:placetype":"locality",

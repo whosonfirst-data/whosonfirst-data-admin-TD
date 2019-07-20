@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 d'Ouadda\u00ef"
     ],
+    "name:ceb_x_preferred":[
+        "Ouaddai Region"
+    ],
     "name:dan_x_preferred":[
         "Ouadda\u00ef"
     ],
@@ -58,6 +61,9 @@
     "name:est_x_preferred":[
         "Ouadda\u00ef piirkond"
     ],
+    "name:est_x_variant":[
+        "Ouadda\u00ef"
+    ],
     "name:eus_x_preferred":[
         "Ouadda\u00ef"
     ],
@@ -73,6 +79,9 @@
     "name:fra_x_variant":[
         "Ouaddai",
         "R\u00e9gion du Ouadda\u00ef"
+    ],
+    "name:frr_x_preferred":[
+        "Ouadda\u00ef"
     ],
     "name:guj_x_preferred":[
         "\u0a94\u0aa1\u0abe\u0a87 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -91,6 +100,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c92\u0cb5\u0cbe\u0ca1\u0ccd\u0ca1\u0cc8 \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d0\u10d3\u10d0\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc640\ub2e4\uc774 \uc8fc"
@@ -284,7 +296,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1561749690,
+    "wof:lastmodified":1563579567,
     "wof:name":"Ouadda\u00ef",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

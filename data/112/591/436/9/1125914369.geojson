@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u0441\u043e\u0440\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Moussoro"
+    ],
     "name:eng_x_preferred":[
         "Moussoro"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1125914369,
-    "wof:lastmodified":1561749721,
+    "wof:lastmodified":1563580631,
     "wof:name":"Moussoro",
     "wof:parent_id":1091901247,
     "wof:placetype":"locality",

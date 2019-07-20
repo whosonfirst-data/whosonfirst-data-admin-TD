@@ -18,11 +18,17 @@
     "name:ara_x_preferred":[
         "\u0642\u0648\u0632 \u0628\u064a\u062f\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Goz Be\u00efda"
+    ],
     "name:deu_x_preferred":[
         "Goz Be\u00efda"
     ],
     "name:eng_x_preferred":[
         "Goz Beida"
+    ],
+    "name:eng_x_variant":[
+        "Goz Be\u00efda"
     ],
     "name:fra_x_preferred":[
         "Goz Be\u00efda"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890442223,
-    "wof:lastmodified":1561749720,
+    "wof:lastmodified":1563580628,
     "wof:name":"Goz Be\u00efda",
     "wof:parent_id":1091900861,
     "wof:placetype":"locality",

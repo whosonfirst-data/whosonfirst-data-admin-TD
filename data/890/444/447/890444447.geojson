@@ -26,6 +26,9 @@
         "Bebeidja",
         "B\u00e9b\u00e9djia"
     ],
+    "name:ita_x_preferred":[
+        "B\u00e9b\u00e9djia"
+    ],
     "name:nld_x_preferred":[
         "B\u00e9b\u00e9djia"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890444447,
-    "wof:lastmodified":1561749720,
+    "wof:lastmodified":1563580624,
     "wof:name":"B\u00e9b\u00e9dja",
     "wof:parent_id":1091900073,
     "wof:placetype":"locality",

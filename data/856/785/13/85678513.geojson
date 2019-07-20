@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Chari-Baguirmi"
     ],
+    "name:ceb_x_preferred":[
+        "Chari-Baguirmi Region"
+    ],
     "name:ces_x_preferred":[
         "Chari-Baguirmi"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:eng_x_preferred":[
         "Chari-Baguirmi"
+    ],
+    "name:eng_x_variant":[
+        "Chari-Baguirmi Region"
     ],
     "name:est_x_preferred":[
         "Chari-Baguirmi"
@@ -67,8 +73,14 @@
     "name:fra_x_unknown":[
         "CB"
     ],
+    "name:frr_x_preferred":[
+        "Chari-Baguirmi"
+    ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abe\u0ab0\u0ac0-\u0aac\u0abe\u0a97\u0ac1\u0ab0\u0aae\u0ac0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d0\u05e8\u05d9-\u05d1\u05d2\u05d5\u05d9\u05e8\u05de\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u091a\u093e\u0930\u0940-\u092c\u0917\u0941\u0930\u0928\u0940 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -84,6 +96,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9a\u0cb0\u0cbf-\u0cac\u0c97\u0ccd\u0caf\u0cc1\u0cb0\u0cbf\u0cae\u0cbf \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10e0\u10d8-\u10d1\u10d0\u10d2\u10d8\u10e0\u10db\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc0e4\ub9ac\ubc14\uae30\ub974\ubbf8 \uc8fc"
@@ -212,7 +227,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1561749689,
+    "wof:lastmodified":1563579560,
     "wof:name":"Chari-Baguirmi",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

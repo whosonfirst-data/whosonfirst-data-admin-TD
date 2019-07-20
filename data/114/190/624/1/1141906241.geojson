@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "La\u00ef"
+    ],
     "name:dan_x_preferred":[
         "La\u00ef"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u0438"
+    ],
+    "name:tgl_x_preferred":[
+        "La\u00ef"
     ],
     "name:tur_x_preferred":[
         "La\u00ef"
@@ -190,7 +196,7 @@
         }
     ],
     "wof:id":1141906241,
-    "wof:lastmodified":1561749740,
+    "wof:lastmodified":1563581202,
     "wof:name":"Lai",
     "wof:parent_id":1091900435,
     "wof:placetype":"locality",

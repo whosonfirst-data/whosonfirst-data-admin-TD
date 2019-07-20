@@ -31,17 +31,26 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u0434\u0436\u0435\u0440-\u041b\u0430\u043c\u0438\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Hadjer-Lamis"
+    ],
     "name:dan_x_preferred":[
         "Hadjer-Lamis"
     ],
     "name:deu_x_preferred":[
         "Region Hadjer-Lamis"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03c4\u03b6\u03b5\u03c1-\u039b\u03ac\u03bc\u03b9\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Hadjer-Lamis"
     ],
     "name:est_x_preferred":[
         "Hadjer-Lamisi piirkond"
+    ],
+    "name:est_x_variant":[
+        "Hadjer-Lamis"
     ],
     "name:eus_x_preferred":[
         "Hadjer-Lamis"
@@ -58,8 +67,17 @@
     "name:fra_x_variant":[
         "Chari-Baguirmi"
     ],
+    "name:frr_x_preferred":[
+        "Hadjer-Lamis"
+    ],
     "name:glg_x_preferred":[
         "Hadjer-Lamis"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab9\u0ac5\u0a9c\u0ab0-\u0ab2\u0abe\u0aae\u0abf\u0ab8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0926\u094d\u091c\u0930-\u0932\u093e\u092e\u093f\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
     "name:ind_x_preferred":[
         "Region Hadjer-Lamis"
@@ -70,13 +88,31 @@
     "name:jpn_x_preferred":[
         "\u30cf\u30b8\u30a7\u30eb\uff1d\u30e9\u30df\u5dde"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb9\u0ca1\u0ccd\u0c9c\u0cc6\u0cb0\u0ccd-\u0cb2\u0cbe\u0cae\u0cbf\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10ef\u10d4\u10e0-\u10da\u10d0\u10db\u10d8\u10e1\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud558\uc81c\ub974\ub77c\ubbf8 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Had\u017e\u0113ras-Lami re\u0123ions"
     ],
     "name:lit_x_preferred":[
         "Had\u017eero\u2013Lamiso regionas"
     ],
+    "name:mar_x_preferred":[
+        "\u0939\u0926\u091c\u0930-\u0932\u093e\u092e\u0940\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:msa_x_preferred":[
+        "Hadjer-Lamis Region"
+    ],
     "name:nld_x_preferred":[
+        "Hadjer-Lamis"
+    ],
+    "name:nob_x_preferred":[
         "Hadjer-Lamis"
     ],
     "name:nor_x_preferred":[
@@ -85,17 +121,38 @@
     "name:pol_x_preferred":[
         "Region Hadjer-Lamis"
     ],
+    "name:por_x_preferred":[
+        "Hadjer-Lamis"
+    ],
     "name:ron_x_preferred":[
         "Regiunea Hadjer-Lamis"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u0434\u0436\u0435\u0440-\u041b\u0430\u043c\u0438\u0441"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0da2\u0dd9\u0dbb\u0dca-\u0dbd\u0db8\u0dd2\u0dc3\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+    ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de Hadjer-Lamis"
     ],
+    "name:swe_x_preferred":[
+        "Hadjer-Lamis"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c39\u0c26\u0c4d\u0c1c\u0c30\u0c4d-\u0c32\u0c3e\u0c2e\u0c3f\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e2e\u0e14\u0e40\u0e08\u0e2d \u0e25\u0e32\u0e21\u0e34\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "Hadjer-Lamis"
+    ],
+    "name:tur_x_variant":[
+        "Hadjer-Lamis B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0433\u0456\u043e\u043d \u0413\u0430\u0434\u0436\u0435\u0440-\u041b\u0430\u043c\u0456\u0441"
     ],
     "name:urd_x_preferred":[
         "\u062d\u062c\u0631-\u0644\u0627\u0645\u06cc\u0633 \u0639\u0644\u0627\u0642\u06c1"
@@ -166,7 +223,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1553550526,
+    "wof:lastmodified":1563579561,
     "wof:name":"Hadjer-Lamis",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

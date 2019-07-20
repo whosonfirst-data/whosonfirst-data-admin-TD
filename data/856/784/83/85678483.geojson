@@ -35,6 +35,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0434\u0443\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Mandoul"
+    ],
     "name:dan_x_preferred":[
         "Mandoul"
     ],
@@ -65,6 +68,9 @@
     "name:fra_x_variant":[
         "R\u00e9gion du Mandoul"
     ],
+    "name:frr_x_preferred":[
+        "Mandoul"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a82\u0aa1\u0acb\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -82,6 +88,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd\u0caf\u0cc1\u0cb2\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d3\u10e3\u10da\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub9dd\ub458 \uc8fc"
@@ -274,7 +283,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1561749690,
+    "wof:lastmodified":1563579567,
     "wof:name":"Mandoul",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

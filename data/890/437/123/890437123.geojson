@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0435\u043d\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Massenya"
+    ],
     "name:dan_x_preferred":[
         "Massenya"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890437123,
-    "wof:lastmodified":1561749720,
+    "wof:lastmodified":1563580622,
     "wof:name":"Massenya",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

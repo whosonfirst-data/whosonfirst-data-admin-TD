@@ -26,11 +26,17 @@
     "name:cat_x_preferred":[
         "Faya-Largeau"
     ],
+    "name:ceb_x_preferred":[
+        "Faya-Largeau"
+    ],
     "name:dan_x_preferred":[
         "Faya-Largeau"
     ],
     "name:deu_x_preferred":[
         "Faya-Largeau"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03b3\u03b9\u03ac-\u039b\u03b1\u03c1\u03b6\u03cc"
     ],
     "name:eng_x_preferred":[
         "Faya-Largeau"
@@ -42,6 +48,9 @@
         "Faya-Largeau"
     ],
     "name:fra_x_preferred":[
+        "Faya-Largeau"
+    ],
+    "name:frr_x_preferred":[
         "Faya-Largeau"
     ],
     "name:hrv_x_preferred":[
@@ -83,10 +92,16 @@
     "name:rus_x_preferred":[
         "\u0424\u0430\u0439\u044f-\u041b\u0430\u0440\u0436\u043e"
     ],
+    "name:rus_x_variant":[
+        "\u0424\u0430\u044f-\u041b\u0430\u0440\u0436\u043e"
+    ],
     "name:slv_x_preferred":[
         "Faya-Largeau"
     ],
     "name:spa_x_preferred":[
+        "Faya-Largeau"
+    ],
+    "name:tgl_x_preferred":[
         "Faya-Largeau"
     ],
     "name:ukr_x_preferred":[
@@ -243,7 +258,7 @@
         }
     ],
     "wof:id":421175967,
-    "wof:lastmodified":1561749719,
+    "wof:lastmodified":1563580616,
     "wof:name":"Faya-Largeau",
     "wof:parent_id":1091901887,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062f\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0646\u062f\u0648"
+    ],
     "name:aze_x_preferred":[
         "Mundu"
     ],
@@ -154,6 +157,9 @@
     "name:tel_x_preferred":[
         "\u0c2e\u0c4c\u0c1e\u0c21\u0c4c"
     ],
+    "name:tgl_x_preferred":[
+        "Moundou"
+    ],
     "name:tha_x_preferred":[
         "\u0e21\u0e39\u0e19\u0e14\u0e39"
     ],
@@ -220,7 +226,7 @@
         }
     ],
     "wof:id":1125914339,
-    "wof:lastmodified":1561749721,
+    "wof:lastmodified":1563580633,
     "wof:name":"Moundou",
     "wof:parent_id":1091900031,
     "wof:placetype":"locality",

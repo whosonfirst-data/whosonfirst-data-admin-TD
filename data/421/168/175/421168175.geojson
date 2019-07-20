@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0442\u043a\u0438\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Bitkine"
+    ],
     "name:eng_x_preferred":[
         "Bitkine"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421168175,
-    "wof:lastmodified":1561749719,
+    "wof:lastmodified":1563580612,
     "wof:name":"Bitkine",
     "wof:parent_id":1091900785,
     "wof:placetype":"locality",

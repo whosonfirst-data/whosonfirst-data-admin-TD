@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u043b\u0442\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Biltine"
+    ],
     "name:dan_x_preferred":[
         "Biltine"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0644\u0679\u0627\u0626\u0646\u060c \u0686\u0627\u0688"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0644\u0679\u0627\u0626\u0646"
     ],
     "name:vie_x_preferred":[
         "Biltine"
@@ -219,7 +225,7 @@
         }
     ],
     "wof:id":421179951,
-    "wof:lastmodified":1561749719,
+    "wof:lastmodified":1563580617,
     "wof:name":"Biltine",
     "wof:parent_id":1091901409,
     "wof:placetype":"locality",

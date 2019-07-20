@@ -16,10 +16,16 @@
     "name:ara_x_preferred":[
         "\u0645\u0644\u0641\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Melfi"
+    ],
     "name:eng_x_preferred":[
         "Melfi"
     ],
     "name:fra_x_preferred":[
+        "Melfi"
+    ],
+    "name:ita_x_preferred":[
         "Melfi"
     ],
     "name:jpn_x_preferred":[
@@ -31,8 +37,14 @@
     "name:pol_x_preferred":[
         "Melfi"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u044c\u0444\u0438"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0644\u0641\u06cc\u060c \u0686\u0627\u0688"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u06cc\u0644\u0641\u06cc"
     ],
     "qs:gn_country":"TD",
     "qs:gn_fcode":"PPL",
@@ -82,7 +94,7 @@
         }
     ],
     "wof:id":421168165,
-    "wof:lastmodified":1561749719,
+    "wof:lastmodified":1563580612,
     "wof:name":"Melfi",
     "wof:parent_id":1091900641,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0440\u0445"
     ],
+    "name:ceb_x_preferred":[
+        "Sagh"
+    ],
     "name:dan_x_preferred":[
         "Sarh"
     ],
@@ -135,6 +138,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c30\u0c4d\u0c39\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Sarh"
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e23\u0e2e\u0e4c"
@@ -288,7 +294,7 @@
         }
     ],
     "wof:id":890444431,
-    "wof:lastmodified":1561749720,
+    "wof:lastmodified":1563580626,
     "wof:name":"Sagh",
     "wof:parent_id":1091900487,
     "wof:placetype":"locality",

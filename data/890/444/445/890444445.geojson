@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0648\u0631\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Bokoro"
+    ],
     "name:eng_x_preferred":[
         "Bokoro"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890444445,
-    "wof:lastmodified":1561749720,
+    "wof:lastmodified":1563580626,
     "wof:name":"Bokoro",
     "wof:parent_id":1091901007,
     "wof:placetype":"locality",

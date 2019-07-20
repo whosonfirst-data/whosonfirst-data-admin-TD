@@ -38,6 +38,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0435\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Guera Region"
+    ],
     "name:ces_x_preferred":[
         "Gu\u00e9ra"
     ],
@@ -63,6 +66,9 @@
     "name:est_x_preferred":[
         "Gu\u00e9ra piirkond"
     ],
+    "name:est_x_variant":[
+        "Gu\u00e9ra"
+    ],
     "name:eus_x_preferred":[
         "Gu\u00e9ra"
     ],
@@ -78,6 +84,9 @@
     "name:fra_x_variant":[
         "Guera",
         "R\u00e9gion du Gu\u00e9ra"
+    ],
+    "name:frr_x_preferred":[
+        "Gu\u00e9ra"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac1\u0a8f\u0ab0\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -96,6 +105,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c97\u0cc1\u0cb0\u0cbf\u0caf\u0cbe \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d4\u10e0\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uac8c\ub77c \uc8fc"
@@ -291,7 +303,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1561749689,
+    "wof:lastmodified":1563579561,
     "wof:name":"Gu\u00e9ra",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

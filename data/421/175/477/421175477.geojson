@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Mao"
+    ],
     "name:dan_x_preferred":[
         "Mao"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9c8\uc624"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\uc624(\ucc28\ub4dc)"
     ],
     "name:lav_x_preferred":[
         "Mao"
@@ -113,6 +119,9 @@
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c35\u0c4b"
     ],
+    "name:tgl_x_preferred":[
+        "Mao"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e32"
     ],
@@ -124,6 +133,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0648\u060c \u0686\u0627\u0688"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0648"
     ],
     "name:vie_x_preferred":[
         "Mao"
@@ -273,7 +285,7 @@
         }
     ],
     "wof:id":421175477,
-    "wof:lastmodified":1561749719,
+    "wof:lastmodified":1563580615,
     "wof:name":"Mao",
     "wof:parent_id":1091901305,
     "wof:placetype":"locality",

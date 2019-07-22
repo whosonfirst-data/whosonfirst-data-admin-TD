@@ -35,6 +35,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043c\u0430\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Salamat Region"
+    ],
     "name:ces_x_preferred":[
         "Salamat"
     ],
@@ -71,6 +74,9 @@
     "name:fra_x_variant":[
         "R\u00e9gion du Salamat"
     ],
+    "name:frr_x_preferred":[
+        "Salamat"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ab2\u0aae\u0abe\u0a9f \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -88,6 +94,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cb2\u0cbe\u0cae\u0cbe\u0c9f\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10da\u10d0\u10db\u10d0\u10e2\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc0b4\ub77c\ub9c8\ud2b8 \uc8fc"
@@ -283,7 +292,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1561749690,
+    "wof:lastmodified":1563579563,
     "wof:name":"Salamat",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

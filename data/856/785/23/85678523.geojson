@@ -25,14 +25,47 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.6,
+    "name:afr_x_preferred":[
+        "Sila"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Sila"
+    ],
+    "name:ast_x_preferred":[
+        "Sila"
+    ],
+    "name:bam_x_preferred":[
+        "Sila"
+    ],
+    "name:bar_x_preferred":[
+        "Sila"
+    ],
+    "name:bre_x_preferred":[
+        "Sila"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0438\u043b\u0430"
     ],
     "name:cat_x_preferred":[
         "S\u0131la"
+    ],
+    "name:cat_x_variant":[
+        "Sila"
+    ],
+    "name:ceb_x_preferred":[
+        "Sila"
+    ],
+    "name:ces_x_preferred":[
+        "Sila"
+    ],
+    "name:cos_x_preferred":[
+        "Sila"
+    ],
+    "name:cym_x_preferred":[
+        "Sila"
     ],
     "name:dan_x_preferred":[
         "Sila"
@@ -49,6 +82,18 @@
     "name:eng_x_variant":[
         "Sila Region"
     ],
+    "name:epo_x_preferred":[
+        "Sila"
+    ],
+    "name:est_x_preferred":[
+        "Sila"
+    ],
+    "name:eus_x_preferred":[
+        "Sila"
+    ],
+    "name:fin_x_preferred":[
+        "Sila"
+    ],
     "name:fra_x_preferred":[
         "Sila"
     ],
@@ -60,10 +105,46 @@
         "Ouadda\u00ef",
         "R\u00e9gion du Sila"
     ],
+    "name:frc_x_preferred":[
+        "Sila"
+    ],
+    "name:frp_x_preferred":[
+        "Sila"
+    ],
+    "name:fur_x_preferred":[
+        "Sila"
+    ],
+    "name:gla_x_preferred":[
+        "Sila"
+    ],
+    "name:gle_x_preferred":[
+        "Sila"
+    ],
+    "name:glg_x_preferred":[
+        "Sila"
+    ],
+    "name:gsw_x_preferred":[
+        "Sila"
+    ],
     "name:hbs_x_preferred":[
         "Sila"
     ],
     "name:hrv_x_preferred":[
+        "Sila"
+    ],
+    "name:hun_x_preferred":[
+        "Sila"
+    ],
+    "name:ido_x_preferred":[
+        "Sila"
+    ],
+    "name:ile_x_preferred":[
+        "Sila"
+    ],
+    "name:ina_x_preferred":[
+        "Sila"
+    ],
+    "name:ind_x_preferred":[
         "Sila"
     ],
     "name:ita_x_preferred":[
@@ -72,16 +153,76 @@
     "name:ita_x_variant":[
         "Regione del Sila"
     ],
+    "name:jam_x_preferred":[
+        "Sila"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e9\u5dde"
+    ],
+    "name:kab_x_preferred":[
+        "Sila"
+    ],
+    "name:kon_x_preferred":[
+        "Sila"
     ],
     "name:kor_x_preferred":[
         "\uc2e4\ub77c \uc8fc"
     ],
+    "name:lav_x_preferred":[
+        "Sila"
+    ],
+    "name:lij_x_preferred":[
+        "Sila"
+    ],
+    "name:lim_x_preferred":[
+        "Sila"
+    ],
     "name:lit_x_preferred":[
         "Silos regionas"
     ],
+    "name:lit_x_variant":[
+        "Sila"
+    ],
+    "name:ltz_x_preferred":[
+        "Sila"
+    ],
+    "name:min_x_preferred":[
+        "Sila"
+    ],
+    "name:mlg_x_preferred":[
+        "Sila"
+    ],
+    "name:msa_x_preferred":[
+        "Sila"
+    ],
+    "name:nap_x_preferred":[
+        "Sila"
+    ],
+    "name:nds_x_preferred":[
+        "Sila"
+    ],
     "name:nld_x_preferred":[
+        "Sila"
+    ],
+    "name:nno_x_preferred":[
+        "Sila"
+    ],
+    "name:nob_x_preferred":[
+        "Sila"
+    ],
+    "name:nrm_x_preferred":[
+        "Sila"
+    ],
+    "name:oci_x_preferred":[
+        "Sila"
+    ],
+    "name:pap_x_preferred":[
+        "Sila"
+    ],
+    "name:pcd_x_preferred":[
+        "Sila"
+    ],
+    "name:pms_x_preferred":[
         "Sila"
     ],
     "name:pol_x_preferred":[
@@ -93,11 +234,29 @@
     "name:por_x_preferred":[
         "Sila"
     ],
+    "name:prg_x_preferred":[
+        "Sila"
+    ],
+    "name:rgn_x_preferred":[
+        "Sila"
+    ],
+    "name:roh_x_preferred":[
+        "Sila"
+    ],
     "name:ron_x_preferred":[
         "Regiunea Sila"
     ],
+    "name:ron_x_variant":[
+        "Sila"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043b\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Sila"
+    ],
+    "name:sco_x_preferred":[
+        "Sila"
     ],
     "name:slk_x_preferred":[
         "Sila"
@@ -111,7 +270,13 @@
     "name:spa_x_variant":[
         "Regi\u00f3n de Sila"
     ],
+    "name:srd_x_preferred":[
+        "Sila"
+    ],
     "name:srp_x_preferred":[
+        "Sila"
+    ],
+    "name:swa_x_preferred":[
         "Sila"
     ],
     "name:swe_x_preferred":[
@@ -119,6 +284,9 @@
     ],
     "name:tur_x_preferred":[
         "S\u0131la"
+    ],
+    "name:tur_x_variant":[
+        "Sila"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043b\u0430"
@@ -129,8 +297,32 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0644\u0627 \u0639\u0644\u0627\u0642\u06c1"
     ],
+    "name:vec_x_preferred":[
+        "Sila"
+    ],
+    "name:vie_x_preferred":[
+        "Sila"
+    ],
+    "name:vls_x_preferred":[
+        "Sila"
+    ],
+    "name:vmf_x_preferred":[
+        "Sila"
+    ],
+    "name:vol_x_preferred":[
+        "Sila"
+    ],
+    "name:wln_x_preferred":[
+        "Sila"
+    ],
+    "name:wol_x_preferred":[
+        "Sila"
+    ],
     "name:zho_x_preferred":[
         "\u897f\u62c9\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Sila"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TCD",
@@ -254,7 +446,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1553550541,
+    "wof:lastmodified":1563579559,
     "wof:name":"Sila",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

@@ -17,14 +17,23 @@
     "name:ara_x_preferred":[
         "\u0632\u0648\u0627\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0632\u0648\u0627\u0631"
+    ],
     "name:bul_x_preferred":[
         "\u0417\u0443\u0430\u0440"
     ],
     "name:deu_x_preferred":[
         "Zouar"
     ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03c5\u03ac\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Zouar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0627\u0631"
     ],
     "name:fin_x_preferred":[
         "Zouar"
@@ -55,6 +64,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0632\u0624\u0627\u0631\u060c \u0686\u0627\u0688"
+    ],
+    "name:urd_x_variant":[
+        "\u0632\u0624\u0627\u0631"
     ],
     "name:zho_x_preferred":[
         "\u8332\u74e6\u723e"
@@ -178,7 +190,7 @@
         }
     ],
     "wof:id":1141907615,
-    "wof:lastmodified":1561749740,
+    "wof:lastmodified":1563581201,
     "wof:name":"Zouar",
     "wof:parent_id":1091901659,
     "wof:placetype":"locality",

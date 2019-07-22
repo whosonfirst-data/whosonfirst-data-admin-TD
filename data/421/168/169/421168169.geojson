@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0443\u0441\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Bousso"
+    ],
     "name:dan_x_preferred":[
         "Bousso"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421168169,
-    "wof:lastmodified":1561749719,
+    "wof:lastmodified":1563580611,
     "wof:name":"Bousso",
     "wof:parent_id":1091900595,
     "wof:placetype":"locality",

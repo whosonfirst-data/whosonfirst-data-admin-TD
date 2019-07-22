@@ -21,7 +21,13 @@
     "name:ben_x_preferred":[
         "\u09ae\u0987\u09b8\u09be\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Mo\u00efssala"
+    ],
     "name:dan_x_preferred":[
+        "Mo\u00efssala"
+    ],
+    "name:deu_x_preferred":[
         "Mo\u00efssala"
     ],
     "name:ell_x_preferred":[
@@ -87,6 +93,9 @@
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0dba\u0dd2\u0dc3\u0dca\u0dc3\u0dbd\u0dcf"
     ],
+    "name:spa_x_preferred":[
+        "Mo\u00efssala"
+    ],
     "name:swe_x_preferred":[
         "Mo\u00efssala"
     ],
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":890437119,
-    "wof:lastmodified":1561749720,
+    "wof:lastmodified":1563580622,
     "wof:name":"Mo\u00efssala",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:fra_x_preferred":[
         "Gounou Gaya"
     ],
+    "name:ita_x_preferred":[
+        "Gounou Gaya"
+    ],
     "name:jpn_x_preferred":[
         "\u30b4\u30a5\u30ce\u30a6\u30fb\u30ac\u30e4"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:ron_x_preferred":[
         "Gounou Gaya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u043d\u0443-\u0413\u0430\u044f"
     ],
     "name:unk_x_variant":[
         "Gounou"
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890440303,
-    "wof:lastmodified":1561749720,
+    "wof:lastmodified":1563580620,
     "wof:name":"Gounou Gaya",
     "wof:parent_id":1091900311,
     "wof:placetype":"locality",

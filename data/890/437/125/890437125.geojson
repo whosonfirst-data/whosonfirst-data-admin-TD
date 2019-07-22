@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u0627\u0643\u0648\u0631\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0633\u0627\u06a9\u0648\u0631\u06cc"
+    ],
     "name:dan_x_preferred":[
         "Massakory"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890437125,
-    "wof:lastmodified":1561749720,
+    "wof:lastmodified":1563580623,
     "wof:name":"Massakory",
     "wof:parent_id":1091901071,
     "wof:placetype":"locality",

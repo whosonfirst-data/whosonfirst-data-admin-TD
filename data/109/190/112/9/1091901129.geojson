@@ -28,10 +28,16 @@
     "mps:longitude":15.087234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Wayi"
+    ],
     "name:eng_x_preferred":[
         "Wayi"
     ],
     "name:eng_x_variant":[
+        "Wayi"
+    ],
+    "name:fra_x_preferred":[
         "Wayi"
     ],
     "src:geom":"meso",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1091901129,
-    "wof:lastmodified":1553717954,
+    "wof:lastmodified":1564182604,
     "wof:name":"Wayi",
     "wof:parent_id":85678445,
     "wof:placetype":"county",

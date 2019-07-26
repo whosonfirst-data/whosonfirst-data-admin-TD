@@ -25,6 +25,24 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Krenek"
+    ],
+    "name:ces_x_preferred":[
+        "K\u0159enek"
+    ],
+    "name:deu_x_preferred":[
+        "Krenek"
+    ],
+    "name:fra_x_preferred":[
+        "K\u0159enek"
+    ],
+    "name:ita_x_preferred":[
+        "Krenek"
+    ],
+    "name:pol_x_preferred":[
+        "K\u0159enek"
+    ],
     "name:und_x_variant":[
         "El Krenek",
         "Kr\u00e9nek"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1360299407,
-    "wof:lastmodified":1537702736,
+    "wof:lastmodified":1564182572,
     "wof:name":"Krenek",
     "wof:parent_id":1091901485,
     "wof:placetype":"locality",

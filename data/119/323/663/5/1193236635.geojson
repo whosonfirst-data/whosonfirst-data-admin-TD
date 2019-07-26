@@ -25,7 +25,16 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kouri"
+    ],
+    "name:deu_x_preferred":[
+        "Kouri"
+    ],
     "name:fra_x_preferred":[
+        "Kouri"
+    ],
+    "name:swe_x_preferred":[
         "Kouri"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1193236635,
-    "wof:lastmodified":1537702826,
+    "wof:lastmodified":1564182263,
     "wof:name":"Kouri",
     "wof:parent_id":1091901887,
     "wof:placetype":"locality",

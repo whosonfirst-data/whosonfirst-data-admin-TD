@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Koundoul"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043d\u0434\u0443\u043b\u044c"
+    ],
     "name:und_x_variant":[
         "Koundouli",
         "Kondoul",
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1209585961,
-    "wof:lastmodified":1537702739,
+    "wof:lastmodified":1564182168,
     "wof:name":"Koundoul",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

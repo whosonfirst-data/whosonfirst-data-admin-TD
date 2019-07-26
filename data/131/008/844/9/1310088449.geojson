@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mal_x_preferred":[
+        "\u0d28\u0d28\u0d4d\u0d2e\u0d23\u0d4d\u0d1f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310088449,
-    "wof:lastmodified":1537020256,
+    "wof:lastmodified":1564182434,
     "wof:name":"Nanmanda",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

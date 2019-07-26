@@ -25,7 +25,16 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kour\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Kour\u00e9"
+    ],
     "name:fra_x_preferred":[
+        "Kour\u00e9"
+    ],
+    "name:swe_x_preferred":[
         "Kour\u00e9"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259492017,
-    "wof:lastmodified":1537702827,
+    "wof:lastmodified":1564182960,
     "wof:name":"Koure",
     "wof:parent_id":1091901349,
     "wof:placetype":"locality",

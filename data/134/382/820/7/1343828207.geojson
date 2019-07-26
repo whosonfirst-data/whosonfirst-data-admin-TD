@@ -25,6 +25,27 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Arsi"
+    ],
+    "name:ceb_x_preferred":[
+        "Arsi"
+    ],
+    "name:deu_x_preferred":[
+        "Arsi"
+    ],
+    "name:fra_x_preferred":[
+        "Arsi"
+    ],
+    "name:ita_x_preferred":[
+        "Arsi"
+    ],
+    "name:spa_x_preferred":[
+        "Arsi"
+    ],
+    "name:swe_x_preferred":[
+        "Arsi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1343828207,
-    "wof:lastmodified":1536713568,
+    "wof:lastmodified":1564181501,
     "wof:name":"Arsi",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ouma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226207203,
-    "wof:lastmodified":1536988472,
+    "wof:lastmodified":1564183097,
     "wof:name":"Ouma",
     "wof:parent_id":1091900237,
     "wof:placetype":"locality",

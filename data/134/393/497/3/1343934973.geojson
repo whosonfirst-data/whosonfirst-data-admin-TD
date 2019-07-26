@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mar_x_preferred":[
+        "\u0938\u0915\u093e\u0933"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343934973,
-    "wof:lastmodified":1537054481,
+    "wof:lastmodified":1564181534,
     "wof:name":"Sakal",
     "wof:parent_id":421179001,
     "wof:placetype":"locality",

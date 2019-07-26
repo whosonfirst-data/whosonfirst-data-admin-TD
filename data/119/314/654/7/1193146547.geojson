@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Alay"
+    ],
     "name:und_x_variant":[
         "Go\u00efmo",
         "Alay"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1193146547,
-    "wof:lastmodified":1537702819,
+    "wof:lastmodified":1564182273,
     "wof:name":"Alay",
     "wof:parent_id":1091901485,
     "wof:placetype":"locality",

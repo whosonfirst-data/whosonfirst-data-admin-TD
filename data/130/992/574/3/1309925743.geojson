@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dodi"
+    ],
+    "name:deu_x_preferred":[
+        "Dodi"
+    ],
+    "name:fra_x_preferred":[
+        "Dodi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1309925743,
-    "wof:lastmodified":1536758397,
+    "wof:lastmodified":1564182652,
     "wof:name":"Dodi",
     "wof:parent_id":1091900031,
     "wof:placetype":"locality",

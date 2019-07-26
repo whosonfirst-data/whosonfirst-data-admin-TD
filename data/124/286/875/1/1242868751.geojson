@@ -25,7 +25,19 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Toura"
+    ],
     "name:fra_x_preferred":[
+        "Toura"
+    ],
+    "name:ita_x_preferred":[
+        "Toura"
+    ],
+    "name:msa_x_preferred":[
+        "Toura"
+    ],
+    "name:swe_x_preferred":[
         "Toura"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1242868751,
-    "wof:lastmodified":1537702691,
+    "wof:lastmodified":1564182725,
     "wof:name":"Toura",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",

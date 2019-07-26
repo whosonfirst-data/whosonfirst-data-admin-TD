@@ -28,11 +28,23 @@
     "mps:longitude":18.547192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Grande Sido"
+    ],
+    "name:dan_x_preferred":[
+        "Grande Sido"
+    ],
     "name:eng_x_preferred":[
         "Grande Sido"
     ],
     "name:eng_x_variant":[
         "Grande Sido"
+    ],
+    "name:fra_x_preferred":[
+        "Grande Sido"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0434-\u0421\u0438\u0434\u043e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":1091899945,
-    "wof:lastmodified":1553717953,
+    "wof:lastmodified":1564182594,
     "wof:name":"Grande Sido",
     "wof:parent_id":85678527,
     "wof:placetype":"county",

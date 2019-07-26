@@ -25,6 +25,18 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ndao"
+    ],
+    "name:deu_x_preferred":[
+        "Ndao"
+    ],
+    "name:fra_x_preferred":[
+        "Ndao"
+    ],
+    "name:swe_x_preferred":[
+        "Ndao"
+    ],
     "name:und_x_variant":[
         "Dao",
         "Ndao"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1309826091,
-    "wof:lastmodified":1537702785,
+    "wof:lastmodified":1564182642,
     "wof:name":"Ndao",
     "wof:parent_id":1091900057,
     "wof:placetype":"locality",

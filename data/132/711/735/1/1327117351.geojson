@@ -25,10 +25,31 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0644\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Linia"
+    ],
+    "name:por_x_preferred":[
+        "Linia"
+    ],
+    "name:ron_x_preferred":[
+        "Linia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u0438\u044f"
+    ],
     "name:und_x_variant":[
         "Lima",
         "Ligna",
         "Linia"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0646\u06cc\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1327117351,
-    "wof:lastmodified":1537702734,
+    "wof:lastmodified":1564181399,
     "wof:name":"Linia",
     "wof:parent_id":1091900725,
     "wof:placetype":"locality",

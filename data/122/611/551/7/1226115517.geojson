@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mankin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05e7\u05d9\u05df"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226115517,
-    "wof:lastmodified":1536622477,
+    "wof:lastmodified":1564183099,
     "wof:name":"Mankin",
     "wof:parent_id":1091900725,
     "wof:placetype":"locality",

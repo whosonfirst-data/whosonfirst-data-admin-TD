@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bouna"
+    ],
+    "name:fra_x_preferred":[
+        "Bouna"
+    ],
+    "name:ita_x_preferred":[
+        "Bouna"
+    ],
+    "name:swa_x_preferred":[
+        "Bouna"
+    ],
+    "name:swe_x_preferred":[
+        "Bouna"
+    ],
     "name:und_x_variant":[
         "Bebouna",
         "Bouna"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276953587,
-    "wof:lastmodified":1537702789,
+    "wof:lastmodified":1564181920,
     "wof:name":"Bouna",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

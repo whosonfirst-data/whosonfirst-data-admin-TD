@@ -25,6 +25,18 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u1260\u12f0\u120c \u12a8\u1270\u121b"
+    ],
+    "name:ceb_x_preferred":[
+        "Bedel\u0113"
+    ],
+    "name:fra_x_preferred":[
+        "Bedele"
+    ],
+    "name:swe_x_preferred":[
+        "Bedel\u0113"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293562855,
-    "wof:lastmodified":1536678528,
+    "wof:lastmodified":1564181743,
     "wof:name":"Bedele",
     "wof:parent_id":1091900435,
     "wof:placetype":"locality",

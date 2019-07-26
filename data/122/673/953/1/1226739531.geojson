@@ -25,6 +25,30 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maida"
+    ],
+    "name:dan_x_preferred":[
+        "Maida"
+    ],
+    "name:deu_x_preferred":[
+        "Maida"
+    ],
+    "name:fra_x_preferred":[
+        "Maida"
+    ],
+    "name:ita_x_preferred":[
+        "Maida"
+    ],
+    "name:por_x_preferred":[
+        "Maida"
+    ],
+    "name:srp_x_preferred":[
+        "Maida"
+    ],
+    "name:swe_x_preferred":[
+        "Maida"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1226739531,
-    "wof:lastmodified":1536724836,
+    "wof:lastmodified":1564183091,
     "wof:name":"Maida",
     "wof:parent_id":1091900073,
     "wof:placetype":"locality",

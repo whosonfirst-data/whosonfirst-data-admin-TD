@@ -25,6 +25,18 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mogo"
+    ],
+    "name:ita_x_preferred":[
+        "Mogo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Mogo"
+    ],
     "name:und_x_variant":[
         "Moga",
         "Mogo"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1260150923,
-    "wof:lastmodified":1537702720,
+    "wof:lastmodified":1564182316,
     "wof:name":"Mogo",
     "wof:parent_id":1091900595,
     "wof:placetype":"locality",

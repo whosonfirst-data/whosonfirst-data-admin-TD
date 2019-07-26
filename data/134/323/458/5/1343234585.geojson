@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Tikem"
+    ],
     "name:und_x_variant":[
         "Tickem",
         "Tikem"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343234585,
-    "wof:lastmodified":1537702693,
+    "wof:lastmodified":1564181495,
     "wof:name":"Tikem",
     "wof:parent_id":1091900357,
     "wof:placetype":"locality",

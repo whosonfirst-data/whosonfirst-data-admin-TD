@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Masa"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc0ac"
+    ],
+    "name:msa_x_preferred":[
+        "Masa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0441\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u8428"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343344369,
-    "wof:lastmodified":1536914311,
+    "wof:lastmodified":1564181543,
     "wof:name":"Masa",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

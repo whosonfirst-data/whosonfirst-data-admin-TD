@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ngara"
+    ],
+    "name:nor_x_preferred":[
+        "Ngara"
+    ],
+    "name:ron_x_preferred":[
+        "Ngara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0433\u0430\u0440\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Ngara"
+    ],
     "name:und_x_variant":[
         "Mabel Ngara",
         "Ngara"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1360055731,
-    "wof:lastmodified":1537702733,
+    "wof:lastmodified":1564182590,
     "wof:name":"Ngara",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

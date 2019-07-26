@@ -28,11 +28,17 @@
     "mps:longitude":15.180129,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Mont d'Illi"
+    ],
     "name:eng_x_preferred":[
         "Mont Illi"
     ],
     "name:eng_x_variant":[
         "Mont Illi"
+    ],
+    "name:fra_x_preferred":[
+        "Mont d'Illi"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1091900357,
-    "wof:lastmodified":1553717953,
+    "wof:lastmodified":1564182603,
     "wof:name":"Mont Illi",
     "wof:parent_id":85678473,
     "wof:placetype":"county",

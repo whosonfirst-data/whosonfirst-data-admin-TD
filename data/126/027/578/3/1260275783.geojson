@@ -25,6 +25,108 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0434\u0443\u0433\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Koudougou"
+    ],
+    "name:ces_x_preferred":[
+        "Koudougou"
+    ],
+    "name:dan_x_preferred":[
+        "Koudougou"
+    ],
+    "name:deu_x_preferred":[
+        "Koudougou"
+    ],
+    "name:epo_x_preferred":[
+        "Kuduguo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u062f\u0648\u06af\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Koudougou"
+    ],
+    "name:fra_x_preferred":[
+        "Koudougou"
+    ],
+    "name:frr_x_preferred":[
+        "Koudougou"
+    ],
+    "name:glg_x_preferred":[
+        "Koudougou"
+    ],
+    "name:hrv_x_preferred":[
+        "Koudougou"
+    ],
+    "name:hun_x_preferred":[
+        "Koudougou"
+    ],
+    "name:ind_x_preferred":[
+        "Koudougou"
+    ],
+    "name:ita_x_preferred":[
+        "Koudougou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30c9\u30a5\u30b0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10d3\u10e3\u10d2\u10e3"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\ub450\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Kudugu"
+    ],
+    "name:nld_x_preferred":[
+        "Koudougou"
+    ],
+    "name:nor_x_preferred":[
+        "Koudougou"
+    ],
+    "name:pol_x_preferred":[
+        "Koudougou"
+    ],
+    "name:por_x_preferred":[
+        "Koudougou"
+    ],
+    "name:ron_x_preferred":[
+        "Koudougou"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0434\u0443\u0433\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Koudougou"
+    ],
+    "name:swe_x_preferred":[
+        "Koudougou"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e39\u0e14\u0e39\u0e01\u0e39"
+    ],
+    "name:tur_x_preferred":[
+        "Koudougou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0434\u0443\u0433\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0624\u062f\u0624\u06af\u0624"
+    ],
+    "name:vol_x_preferred":[
+        "Koudougou"
+    ],
+    "name:war_x_preferred":[
+        "Koudougou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e93\u675c\u53e4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +150,7 @@
         }
     ],
     "wof:id":1260275783,
-    "wof:lastmodified":1536722637,
+    "wof:lastmodified":1564182349,
     "wof:name":"Koudougou",
     "wof:parent_id":1091901265,
     "wof:placetype":"locality",

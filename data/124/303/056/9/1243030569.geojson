@@ -25,6 +25,18 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kamata"
+    ],
+    "name:deu_x_preferred":[
+        "Kamata"
+    ],
+    "name:ita_x_preferred":[
+        "Kamata"
+    ],
+    "name:swe_x_preferred":[
+        "Kamata"
+    ],
     "name:und_x_variant":[
         "Kemata",
         "Kamata"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1243030569,
-    "wof:lastmodified":1537702747,
+    "wof:lastmodified":1564182804,
     "wof:name":"Kamata",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

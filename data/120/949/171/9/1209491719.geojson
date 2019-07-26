@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ragana"
+    ],
+    "name:swe_x_preferred":[
+        "Ragana"
+    ],
     "name:und_x_variant":[
         "Ragona",
         "Ragana"
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209491719,
-    "wof:lastmodified":1537702703,
+    "wof:lastmodified":1564182134,
     "wof:name":"Ragana",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

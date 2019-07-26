@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Yolla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326713097,
-    "wof:lastmodified":1536723706,
+    "wof:lastmodified":1564181339,
     "wof:name":"Yolla",
     "wof:parent_id":1091900595,
     "wof:placetype":"locality",

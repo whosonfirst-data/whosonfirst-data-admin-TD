@@ -25,6 +25,33 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bassa"
+    ],
+    "name:ceb_x_preferred":[
+        "Bassa"
+    ],
+    "name:deu_x_preferred":[
+        "Bassa"
+    ],
+    "name:fra_x_preferred":[
+        "Bassa"
+    ],
+    "name:ita_x_preferred":[
+        "Bassa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u0441\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "Bassa"
+    ],
+    "name:swe_x_preferred":[
+        "Bassa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0441\u0441\u0430"
+    ],
     "name:und_x_variant":[
         "Basa",
         "Bassa"
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1226629191,
-    "wof:lastmodified":1537702808,
+    "wof:lastmodified":1564183231,
     "wof:name":"Bassa",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

@@ -19,6 +19,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ita_x_preferred":[
+        "Goundi"
+    ],
+    "name:pol_x_preferred":[
+        "Goundi"
+    ],
+    "name:ron_x_preferred":[
+        "Goundi"
+    ],
     "name:unk_x_variant":[
         "Gundi"
     ],
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1125988241,
-    "wof:lastmodified":1509405214,
+    "wof:lastmodified":1564182688,
     "wof:name":"Goundi",
     "wof:parent_id":1091900193,
     "wof:placetype":"locality",

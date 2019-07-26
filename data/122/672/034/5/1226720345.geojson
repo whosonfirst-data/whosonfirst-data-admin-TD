@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gangi"
+    ],
+    "name:ita_x_preferred":[
+        "Gangi"
+    ],
+    "name:scn_x_preferred":[
+        "Gangi"
+    ],
+    "name:sco_x_preferred":[
+        "Gangi"
+    ],
+    "name:swe_x_preferred":[
+        "Gangi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1226720345,
-    "wof:lastmodified":1536752178,
+    "wof:lastmodified":1564183061,
     "wof:name":"Gangi",
     "wof:parent_id":1091900725,
     "wof:placetype":"locality",

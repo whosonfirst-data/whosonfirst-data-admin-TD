@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u0439"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259666707,
-    "wof:lastmodified":1537088013,
+    "wof:lastmodified":1564182983,
     "wof:name":"Aray",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

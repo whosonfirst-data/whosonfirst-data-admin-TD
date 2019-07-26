@@ -25,7 +25,22 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kaba"
+    ],
+    "name:deu_x_preferred":[
+        "Kaba"
+    ],
+    "name:fin_x_preferred":[
+        "Kaba"
+    ],
     "name:fra_x_preferred":[
+        "Kaba"
+    ],
+    "name:hrv_x_preferred":[
+        "Kaba"
+    ],
+    "name:swe_x_preferred":[
         "Kaba"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1309816469,
-    "wof:lastmodified":1537702828,
+    "wof:lastmodified":1564182679,
     "wof:name":"Kaba",
     "wof:parent_id":1091901409,
     "wof:placetype":"locality",

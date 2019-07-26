@@ -34,6 +34,9 @@
     "name:eng_x_variant":[
         "Borkou"
     ],
+    "name:fra_x_preferred":[
+        "Borkou Yala"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1091901887,
-    "wof:lastmodified":1553717955,
+    "wof:lastmodified":1564182599,
     "wof:name":"Borkou Yala",
     "wof:parent_id":85678501,
     "wof:placetype":"county",

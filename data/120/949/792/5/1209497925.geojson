@@ -25,6 +25,24 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Saya"
+    ],
+    "name:deu_x_preferred":[
+        "Saya"
+    ],
+    "name:fra_x_preferred":[
+        "Saya"
+    ],
+    "name:ind_x_preferred":[
+        "Saya"
+    ],
+    "name:spa_x_preferred":[
+        "Saya"
+    ],
+    "name:swe_x_preferred":[
+        "Saya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -34,7 +52,7 @@
         "gn:id":6861501
     },
     "wof:country":"TD",
-    "wof:geomhash":"3e47b065164b70dec340c82f585ec867",
+    "wof:geomhash":"805eaaa4e63536acf724ef41e173f6f6",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209497925,
-    "wof:lastmodified":1536285276,
+    "wof:lastmodified":1564182133,
     "wof:name":"Saya",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
@@ -52,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.294420000000002,
+    16.29442,
     10.31026,
-    16.294420000000002,
+    16.29442,
     10.31026
 ],
   "geometry": {"coordinates":[16.29442,10.31026],"type":"Point"}

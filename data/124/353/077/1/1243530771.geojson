@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Danamadji"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243530771,
-    "wof:lastmodified":1536684005,
+    "wof:lastmodified":1564182698,
     "wof:name":"Danamadji",
     "wof:parent_id":1091899945,
     "wof:placetype":"locality",

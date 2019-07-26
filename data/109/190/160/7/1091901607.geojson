@@ -34,6 +34,12 @@
     "name:eng_x_variant":[
         "Borkou"
     ],
+    "name:ind_x_preferred":[
+        "Borkou"
+    ],
+    "name:swe_x_preferred":[
+        "Borku"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1091901607,
-    "wof:lastmodified":1553717955,
+    "wof:lastmodified":1564182595,
     "wof:name":"Borkou",
     "wof:parent_id":85678501,
     "wof:placetype":"county",

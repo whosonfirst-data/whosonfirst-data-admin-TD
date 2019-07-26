@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Keira"
+    ],
     "name:fra_x_preferred":[
         "Koura"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260166763,
-    "wof:lastmodified":1537702738,
+    "wof:lastmodified":1564182353,
     "wof:name":"Keira",
     "wof:parent_id":1091900177,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mouk"
+    ],
+    "name:fin_x_preferred":[
+        "Mouk"
+    ],
+    "name:fra_x_preferred":[
+        "Mouk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30fc\u30af\u306e\u305b\u304b\u3044\u308a\u3087\u3053\u3046"
+    ],
+    "name:nld_x_preferred":[
+        "Mouk"
+    ],
+    "name:pol_x_preferred":[
+        "Mi\u015b Mouki"
+    ],
+    "name:swe_x_preferred":[
+        "Mouk"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1343924153,
-    "wof:lastmodified":1537069462,
+    "wof:lastmodified":1564181516,
     "wof:name":"Mouk",
     "wof:parent_id":1091900897,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Arata"
+    ],
+    "name:deu_x_preferred":[
+        "Arata"
+    ],
+    "name:fra_x_preferred":[
+        "Arata"
+    ],
+    "name:ind_x_preferred":[
+        "Arata"
+    ],
+    "name:ita_x_preferred":[
+        "Arata"
+    ],
+    "name:slv_x_preferred":[
+        "Arata"
+    ],
+    "name:swe_x_preferred":[
+        "Arata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1243411579,
-    "wof:lastmodified":1536854687,
+    "wof:lastmodified":1564182761,
     "wof:name":"Arata",
     "wof:parent_id":1091900861,
     "wof:placetype":"locality",

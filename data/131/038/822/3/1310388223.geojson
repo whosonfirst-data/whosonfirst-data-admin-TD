@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Karaska"
+    ],
+    "name:pol_x_preferred":[
+        "Karaska"
+    ],
     "name:und_x_variant":[
         "Kraska",
         "Karaska"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1310388223,
-    "wof:lastmodified":1537702750,
+    "wof:lastmodified":1564182412,
     "wof:name":"Karaska",
     "wof:parent_id":1091900627,
     "wof:placetype":"locality",

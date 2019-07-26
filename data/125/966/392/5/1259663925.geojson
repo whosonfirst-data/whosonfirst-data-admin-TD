@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:new_x_preferred":[
+        "\u091f\u093e\u0901\u0921\u0940"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259663925,
-    "wof:lastmodified":1537091958,
+    "wof:lastmodified":1564182983,
     "wof:name":"Tandi",
     "wof:parent_id":1091901205,
     "wof:placetype":"locality",

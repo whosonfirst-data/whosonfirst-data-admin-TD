@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fouga"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9\u05e8 \u05e4\u05d5\u05d2\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30fc\u30ac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1309871987,
-    "wof:lastmodified":1536834798,
+    "wof:lastmodified":1564182666,
     "wof:name":"Fouga",
     "wof:parent_id":1091900897,
     "wof:placetype":"locality",

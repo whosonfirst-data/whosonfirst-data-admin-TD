@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Diba"
+    ],
+    "name:ceb_x_preferred":[
+        "Diba"
+    ],
+    "name:deu_x_preferred":[
+        "Diba"
+    ],
+    "name:fra_x_preferred":[
+        "Diba"
+    ],
+    "name:swe_x_preferred":[
+        "Diba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1259668303,
-    "wof:lastmodified":1537085721,
+    "wof:lastmodified":1564182984,
     "wof:name":"Diba",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",

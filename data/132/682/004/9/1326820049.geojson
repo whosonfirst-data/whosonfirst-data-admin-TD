@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kon\u0117"
+    ],
+    "name:pol_x_preferred":[
+        "Konne"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326820049,
-    "wof:lastmodified":1537063558,
+    "wof:lastmodified":1564181335,
     "wof:name":"Konne",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",

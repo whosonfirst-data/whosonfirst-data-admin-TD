@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:div_x_preferred":[
+        "\u0784\u07a9\u078b\u07a7\u0785\u07a9"
+    ],
+    "name:vie_x_preferred":[
+        "Bidadi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259953757,
-    "wof:lastmodified":1536678019,
+    "wof:lastmodified":1564182981,
     "wof:name":"Bidadi",
     "wof:parent_id":1091900435,
     "wof:placetype":"locality",

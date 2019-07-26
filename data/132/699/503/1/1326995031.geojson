@@ -25,9 +25,81 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Doue"
+    ],
+    "name:ceb_x_preferred":[
+        "Doue"
+    ],
+    "name:deu_x_preferred":[
+        "Doue"
+    ],
+    "name:eus_x_preferred":[
+        "Doue"
+    ],
+    "name:fra_x_preferred":[
+        "Doue"
+    ],
+    "name:hun_x_preferred":[
+        "Doue"
+    ],
+    "name:ind_x_preferred":[
+        "Doue"
+    ],
+    "name:ita_x_preferred":[
+        "Doue"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0443"
+    ],
+    "name:lat_x_preferred":[
+        "Doue"
+    ],
+    "name:msa_x_preferred":[
+        "Doue"
+    ],
+    "name:nld_x_preferred":[
+        "Doue"
+    ],
+    "name:oci_x_preferred":[
+        "Doue"
+    ],
+    "name:pms_x_preferred":[
+        "Doue"
+    ],
+    "name:pol_x_preferred":[
+        "Doue"
+    ],
+    "name:por_x_preferred":[
+        "Doue"
+    ],
+    "name:slk_x_preferred":[
+        "Doue"
+    ],
+    "name:spa_x_preferred":[
+        "Doue"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Doue"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443"
+    ],
     "name:und_x_variant":[
         "Doille",
         "Dou\u00e9"
+    ],
+    "name:vie_x_preferred":[
+        "Doue"
+    ],
+    "name:vol_x_preferred":[
+        "Doue"
+    ],
+    "name:war_x_preferred":[
+        "Doue"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +124,7 @@
         }
     ],
     "wof:id":1326995031,
-    "wof:lastmodified":1537702773,
+    "wof:lastmodified":1564181353,
     "wof:name":"Doue",
     "wof:parent_id":1091900399,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Go"
+    ],
+    "name:est_x_preferred":[
+        "Go"
+    ],
+    "name:fin_x_preferred":[
+        "Go"
+    ],
+    "name:hun_x_preferred":[
+        "Go"
+    ],
+    "name:pol_x_preferred":[
+        "Go"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Go"
+    ],
+    "name:tur_x_preferred":[
+        "Go"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1276530297,
-    "wof:lastmodified":1537011408,
+    "wof:lastmodified":1564182021,
     "wof:name":"Go",
     "wof:parent_id":1091900311,
     "wof:placetype":"locality",

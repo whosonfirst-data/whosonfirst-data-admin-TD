@@ -25,6 +25,18 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gou"
+    ],
+    "name:deu_x_preferred":[
+        "Gou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Gou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310377791,
-    "wof:lastmodified":1536600588,
+    "wof:lastmodified":1564182443,
     "wof:name":"Gou",
     "wof:parent_id":1091900357,
     "wof:placetype":"locality",

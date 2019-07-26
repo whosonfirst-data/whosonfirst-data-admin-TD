@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Safo"
+    ],
+    "name:deu_x_preferred":[
+        "Safo"
+    ],
+    "name:ita_x_preferred":[
+        "Safo"
+    ],
+    "name:por_x_preferred":[
+        "Safo"
+    ],
+    "name:swe_x_preferred":[
+        "Safo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1326796817,
-    "wof:lastmodified":1537096644,
+    "wof:lastmodified":1564181343,
     "wof:name":"Safo",
     "wof:parent_id":1091901007,
     "wof:placetype":"locality",

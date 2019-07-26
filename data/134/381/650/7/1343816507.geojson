@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bilanga"
+    ],
+    "name:fra_x_preferred":[
+        "Bilanga"
+    ],
+    "name:swe_x_preferred":[
+        "Bilanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343816507,
-    "wof:lastmodified":1536730539,
+    "wof:lastmodified":1564181603,
     "wof:name":"Bilanga",
     "wof:parent_id":1091901247,
     "wof:placetype":"locality",

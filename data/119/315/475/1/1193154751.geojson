@@ -25,6 +25,24 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Mafe"
+    ],
+    "name:fra_x_preferred":[
+        "Maf\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30fc\u30b9\u30fb\u30a2\u30e9\u30b7\u30c3\u30c9"
+    ],
+    "name:por_x_preferred":[
+        "Maf\u00ea"
+    ],
+    "name:spa_x_preferred":[
+        "Maafe"
+    ],
+    "name:zho_x_preferred":[
+        "Maafe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1193154751,
-    "wof:lastmodified":1536374436,
+    "wof:lastmodified":1564182265,
     "wof:name":"Maafe",
     "wof:parent_id":1091901101,
     "wof:placetype":"locality",

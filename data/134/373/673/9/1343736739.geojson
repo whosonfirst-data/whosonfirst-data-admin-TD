@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Batalla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343736739,
-    "wof:lastmodified":1536844086,
+    "wof:lastmodified":1564181588,
     "wof:name":"Batalla",
     "wof:parent_id":1091901927,
     "wof:placetype":"locality",

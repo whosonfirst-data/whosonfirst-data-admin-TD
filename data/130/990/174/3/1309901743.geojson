@@ -34,6 +34,15 @@
         "Nasian",
         "Nasia"
     ],
+    "name:ita_x_preferred":[
+        "Nassian"
+    ],
+    "name:msa_x_preferred":[
+        "Nassian"
+    ],
+    "name:spa_x_preferred":[
+        "Nassian"
+    ],
     "name:und_x_variant":[
         "Nazia",
         "Nasia",
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1309901743,
-    "wof:lastmodified":1537702714,
+    "wof:lastmodified":1564182620,
     "wof:name":"Nassian",
     "wof:parent_id":1091900157,
     "wof:placetype":"locality",

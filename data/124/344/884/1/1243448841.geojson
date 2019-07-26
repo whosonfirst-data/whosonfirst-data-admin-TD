@@ -25,6 +25,24 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mbo"
+    ],
+    "name:deu_x_preferred":[
+        "Mbo"
+    ],
+    "name:fra_x_preferred":[
+        "Mbo"
+    ],
+    "name:pol_x_preferred":[
+        "Mbo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0431\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Mbo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1243448841,
-    "wof:lastmodified":1536802099,
+    "wof:lastmodified":1564182894,
     "wof:name":"Mbo",
     "wof:parent_id":1091899861,
     "wof:placetype":"locality",

@@ -25,6 +25,33 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Deng\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Denga"
+    ],
+    "name:fin_x_preferred":[
+        "Denga"
+    ],
+    "name:nds_x_preferred":[
+        "Deneschka"
+    ],
+    "name:pol_x_preferred":[
+        "Dienga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043d\u044c\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Deng\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Denga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043d\u044c\u0433\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1276840987,
-    "wof:lastmodified":1537090065,
+    "wof:lastmodified":1564181975,
     "wof:name":"Denga",
     "wof:parent_id":1091900271,
     "wof:placetype":"locality",

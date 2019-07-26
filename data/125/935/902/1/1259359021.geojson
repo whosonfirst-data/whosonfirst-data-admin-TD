@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nere"
+    ],
+    "name:ita_x_preferred":[
+        "Nere"
+    ],
+    "name:swe_x_preferred":[
+        "Nere"
+    ],
     "name:und_x_variant":[
         "N\u00e9h\u00e9r\u00e9"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259359021,
-    "wof:lastmodified":1537702712,
+    "wof:lastmodified":1564182990,
     "wof:name":"Nere",
     "wof:parent_id":1091901071,
     "wof:placetype":"locality",

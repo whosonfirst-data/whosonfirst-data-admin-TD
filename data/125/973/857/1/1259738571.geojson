@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Dorota"
+    ],
+    "name:deu_x_preferred":[
+        "Dorota"
+    ],
+    "name:epo_x_preferred":[
+        "Dorotea"
+    ],
+    "name:pol_x_preferred":[
+        "Dorota"
+    ],
+    "name:slk_x_preferred":[
+        "Dorota"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1259738571,
-    "wof:lastmodified":1536987091,
+    "wof:lastmodified":1564183019,
     "wof:name":"Dorota",
     "wof:parent_id":1091900983,
     "wof:placetype":"locality",

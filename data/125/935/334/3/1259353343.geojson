@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Brim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0456\u043c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259353343,
-    "wof:lastmodified":1537043938,
+    "wof:lastmodified":1564182989,
     "wof:name":"Brim",
     "wof:parent_id":1091900725,
     "wof:placetype":"locality",

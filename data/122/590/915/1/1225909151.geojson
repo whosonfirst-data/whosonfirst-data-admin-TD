@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rong"
+    ],
+    "name:fra_x_preferred":[
+        "Rong"
+    ],
+    "name:nor_x_preferred":[
+        "Rong"
+    ],
     "name:und_x_variant":[
         "Roug",
         "Rong"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1225909151,
-    "wof:lastmodified":1537702702,
+    "wof:lastmodified":1564183150,
     "wof:name":"Rong",
     "wof:parent_id":1091900237,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u06a9\u0648\u0644\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06a9\u0648\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Kokolo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276211119,
-    "wof:lastmodified":1536943432,
+    "wof:lastmodified":1564181863,
     "wof:name":"Kokolo",
     "wof:parent_id":1091899891,
     "wof:placetype":"locality",

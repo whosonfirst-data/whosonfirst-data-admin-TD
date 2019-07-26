@@ -25,6 +25,18 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ckb_x_preferred":[
+        "\u063a\u06d5\u0644\u06d5\u0628\u06d5"
+    ],
+    "name:fas_x_preferred":[
+        "\u063a\u0644\u0628\u0647"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0435\u04b3\u043e\u0442\u0438 \u0492\u0430\u043b\u0430\u0431\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043b\u0430\u0431\u0441\u044c\u043a\u0438\u0439 \u0434\u0436\u0430\u043c\u043e\u0430\u0442"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -34,7 +46,7 @@
         "gn:id":2432411
     },
     "wof:country":"TD",
-    "wof:geomhash":"5956dc4f8d76714baeb19621f96d9589",
+    "wof:geomhash":"e9ddb494e48820206038f3eeac97aae2",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209599725,
-    "wof:lastmodified":1536282207,
+    "wof:lastmodified":1564182159,
     "wof:name":"Galaba",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
@@ -53,9 +65,9 @@
 },
   "bbox": [
     16.54571,
-    8.522219999999999,
+    8.52222,
     16.54571,
-    8.522219999999999
+    8.52222
 ],
   "geometry": {"coordinates":[16.54571,8.52222],"type":"Point"}
 }

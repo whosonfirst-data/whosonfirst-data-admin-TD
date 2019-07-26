@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kole Weathers"
+    ],
+    "name:ron_x_preferred":[
+        "Kole"
+    ],
+    "name:spa_x_preferred":[
+        "Kole"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326496335,
-    "wof:lastmodified":1537034343,
+    "wof:lastmodified":1564181335,
     "wof:name":"Kole",
     "wof:parent_id":1091901007,
     "wof:placetype":"locality",

@@ -25,8 +25,17 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Noro"
+    ],
+    "name:fin_x_preferred":[
+        "Noro"
+    ],
     "name:fra_x_preferred":[
         "Noro"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1226654639,
-    "wof:lastmodified":1537702653,
+    "wof:lastmodified":1564183232,
     "wof:name":"Noro",
     "wof:parent_id":1091901409,
     "wof:placetype":"locality",

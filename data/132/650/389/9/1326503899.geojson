@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bordo"
+    ],
+    "name:ita_x_preferred":[
+        "Bordo"
+    ],
+    "name:lav_x_preferred":[
+        "Bordo"
+    ],
+    "name:por_x_preferred":[
+        "Bordo"
+    ],
+    "name:spa_x_preferred":[
+        "Bordo"
+    ],
     "name:und_x_variant":[
         "Bordou",
         "Bordo"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1326503899,
-    "wof:lastmodified":1537702791,
+    "wof:lastmodified":1564181289,
     "wof:name":"Bordo",
     "wof:parent_id":1091900435,
     "wof:placetype":"locality",

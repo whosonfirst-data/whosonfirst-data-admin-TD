@@ -25,6 +25,27 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dogo"
+    ],
+    "name:deu_x_preferred":[
+        "Dogo"
+    ],
+    "name:ita_x_preferred":[
+        "Dogo"
+    ],
+    "name:msa_x_preferred":[
+        "Dogo"
+    ],
+    "name:ron_x_preferred":[
+        "Dogo"
+    ],
+    "name:spa_x_preferred":[
+        "Dogo"
+    ],
+    "name:swe_x_preferred":[
+        "Dogo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1327152209,
-    "wof:lastmodified":1537082190,
+    "wof:lastmodified":1564181303,
     "wof:name":"Dogo",
     "wof:parent_id":1091901101,
     "wof:placetype":"locality",

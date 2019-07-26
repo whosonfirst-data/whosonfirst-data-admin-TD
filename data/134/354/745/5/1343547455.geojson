@@ -25,6 +25,18 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lui"
+    ],
+    "name:est_x_preferred":[
+        "Lui"
+    ],
+    "name:fra_x_preferred":[
+        "Lui"
+    ],
+    "name:hun_x_preferred":[
+        "Lui"
+    ],
     "name:und_x_variant":[
         "Lioui",
         "Lui"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1343547455,
-    "wof:lastmodified":1537702733,
+    "wof:lastmodified":1564181426,
     "wof:name":"Lui",
     "wof:parent_id":1091900707,
     "wof:placetype":"locality",

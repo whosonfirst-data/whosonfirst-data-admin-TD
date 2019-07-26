@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0417\u043e\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Zoni"
+    ],
+    "name:ind_x_preferred":[
+        "Zoni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1309716987,
-    "wof:lastmodified":1537056611,
+    "wof:lastmodified":1564182639,
     "wof:name":"Zoni",
     "wof:parent_id":1091900821,
     "wof:placetype":"locality",

@@ -25,11 +25,26 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Beti"
+    ],
+    "name:deu_x_preferred":[
+        "Beti"
+    ],
+    "name:eus_x_preferred":[
+        "Beti"
+    ],
     "name:fra_x_preferred":[
         "B\u00e9ti"
     ],
     "name:fra_x_variant":[
         "Bepi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Beti"
     ],
     "name:und_x_variant":[
         "Bepi"
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1343651351,
-    "wof:lastmodified":1537702797,
+    "wof:lastmodified":1564181412,
     "wof:name":"Beti",
     "wof:parent_id":1091899891,
     "wof:placetype":"locality",

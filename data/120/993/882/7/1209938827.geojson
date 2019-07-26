@@ -25,6 +25,27 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Loli"
+    ],
+    "name:deu_x_preferred":[
+        "Loli"
+    ],
+    "name:ind_x_preferred":[
+        "Loli"
+    ],
+    "name:nor_x_preferred":[
+        "Loli"
+    ],
+    "name:por_x_preferred":[
+        "Loli"
+    ],
+    "name:swe_x_preferred":[
+        "Loli"
+    ],
+    "name:vie_x_preferred":[
+        "Loli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1209938827,
-    "wof:lastmodified":1536389403,
+    "wof:lastmodified":1564182161,
     "wof:name":"Loli",
     "wof:parent_id":1091900177,
     "wof:placetype":"locality",

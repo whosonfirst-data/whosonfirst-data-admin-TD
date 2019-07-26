@@ -26,6 +26,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ylla"
+    ],
+    "name:fra_x_preferred":[
+        "Ylla"
+    ],
     "name:und_x_variant":[
         "Yllal",
         "Ylla"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1309888697,
-    "wof:lastmodified":1537702690,
+    "wof:lastmodified":1564182675,
     "wof:name":"Ylla",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

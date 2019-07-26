@@ -25,6 +25,18 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u0643\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Tolk\u012b"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u06a9\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "Tolk\u012b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276201203,
-    "wof:lastmodified":1536956151,
+    "wof:lastmodified":1564181892,
     "wof:name":"Tolki",
     "wof:parent_id":1091900193,
     "wof:placetype":"locality",

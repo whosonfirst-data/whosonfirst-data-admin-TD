@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0534\u056b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276733389,
-    "wof:lastmodified":1536739754,
+    "wof:lastmodified":1564181881,
     "wof:name":"Di",
     "wof:parent_id":1091900271,
     "wof:placetype":"locality",

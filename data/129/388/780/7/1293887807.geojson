@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bimi"
+    ],
+    "name:spa_x_preferred":[
+        "Bimi"
+    ],
+    "name:swe_x_preferred":[
+        "Bimi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1293887807,
-    "wof:lastmodified":1536707386,
+    "wof:lastmodified":1564181839,
     "wof:name":"Bimi",
     "wof:parent_id":1091901485,
     "wof:placetype":"locality",

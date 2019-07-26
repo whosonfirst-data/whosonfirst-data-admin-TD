@@ -25,7 +25,22 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ngara"
+    ],
     "name:fra_x_preferred":[
+        "Ngara"
+    ],
+    "name:nor_x_preferred":[
+        "Ngara"
+    ],
+    "name:ron_x_preferred":[
+        "Ngara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0433\u0430\u0440\u0430"
+    ],
+    "name:tur_x_preferred":[
         "Ngara"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1343251787,
-    "wof:lastmodified":1537702711,
+    "wof:lastmodified":1564181511,
     "wof:name":"Ngara",
     "wof:parent_id":1091900157,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ibinda"
+    ],
+    "name:epo_x_preferred":[
+        "Fiota"
+    ],
+    "name:por_x_preferred":[
+        "Ibinda"
+    ],
+    "name:tgl_x_preferred":[
+        "Wikang Ibinda"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5bbe\u8fbe\u8bed"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -42,7 +57,7 @@
         }
     ],
     "wof:id":1209008909,
-    "wof:lastmodified":1536300512,
+    "wof:lastmodified":1564182046,
     "wof:name":"Ibinda",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

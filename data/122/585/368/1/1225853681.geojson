@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Marnie"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1225853681,
-    "wof:lastmodified":1537001395,
+    "wof:lastmodified":1564183256,
     "wof:name":"Marnie",
     "wof:parent_id":1091901349,
     "wof:placetype":"locality",

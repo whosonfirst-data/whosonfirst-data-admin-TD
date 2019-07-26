@@ -25,6 +25,30 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u120a\u1263\u12eb"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0628\u0627\u064a\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Libaia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d1\u05d0\u05d9\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Libaya"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10d1\u10d0\u10d8\u10d0"
+    ],
+    "name:spa_x_preferred":[
+        "Libaia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0431\u0430\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1343246431,
-    "wof:lastmodified":1537052965,
+    "wof:lastmodified":1564181490,
     "wof:name":"Libaya",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",

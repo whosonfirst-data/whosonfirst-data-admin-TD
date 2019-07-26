@@ -25,6 +25,24 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maba"
+    ],
+    "name:deu_x_preferred":[
+        "Maba"
+    ],
+    "name:fra_x_preferred":[
+        "Maba"
+    ],
+    "name:mlg_x_preferred":[
+        "Maba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Maba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1327154309,
-    "wof:lastmodified":1537079221,
+    "wof:lastmodified":1564181304,
     "wof:name":"Maba",
     "wof:parent_id":1091900177,
     "wof:placetype":"locality",

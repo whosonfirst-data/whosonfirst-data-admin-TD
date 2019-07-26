@@ -25,7 +25,43 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Ayin"
+    ],
+    "name:cat_x_preferred":[
+        "Ayin"
+    ],
+    "name:ceb_x_preferred":[
+        "Ayin"
+    ],
+    "name:eus_x_preferred":[
+        "Ayin"
+    ],
+    "name:fin_x_preferred":[
+        "Ajin"
+    ],
     "name:fra_x_preferred":[
+        "Ayin"
+    ],
+    "name:ind_x_preferred":[
+        "Ayin"
+    ],
+    "name:ita_x_preferred":[
+        "Ajin"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0458\u0438\u043d"
+    ],
+    "name:pol_x_preferred":[
+        "Ajin"
+    ],
+    "name:por_x_preferred":[
+        "Ayin"
+    ],
+    "name:tgl_x_preferred":[
+        "Ayin"
+    ],
+    "name:zho_x_preferred":[
         "Ayin"
     ],
     "src:geom":"geonames",
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1276743317,
-    "wof:lastmodified":1537702679,
+    "wof:lastmodified":1564181876,
     "wof:name":"Ayin",
     "wof:parent_id":421179001,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kadam"
+    ],
+    "name:swe_x_preferred":[
+        "Kadam"
+    ],
     "name:und_x_variant":[
         "Koddem",
         "Kaddem",
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1209110755,
-    "wof:lastmodified":1537702753,
+    "wof:lastmodified":1564182185,
     "wof:name":"Kadam",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

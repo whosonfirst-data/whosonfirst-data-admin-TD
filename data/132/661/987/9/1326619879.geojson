@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Bengo Yon"
     ],
+    "name:swe_x_preferred":[
+        "Begon"
+    ],
     "name:und_x_variant":[
         "B\u00e9gon",
         "Bengo Yon"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326619879,
-    "wof:lastmodified":1537702800,
+    "wof:lastmodified":1564181281,
     "wof:name":"Begon",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",

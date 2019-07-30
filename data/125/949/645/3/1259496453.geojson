@@ -25,7 +25,16 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maraba"
+    ],
     "name:fra_x_preferred":[
+        "Maraba"
+    ],
+    "name:ita_x_preferred":[
+        "Maraba"
+    ],
+    "name:swe_x_preferred":[
         "Maraba"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259496453,
-    "wof:lastmodified":1537702658,
+    "wof:lastmodified":1564182958,
     "wof:name":"Maraba",
     "wof:parent_id":1091901349,
     "wof:placetype":"locality",

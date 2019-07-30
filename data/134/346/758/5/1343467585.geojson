@@ -25,8 +25,35 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Segre"
+    ],
+    "name:ceb_x_preferred":[
+        "Segre"
+    ],
+    "name:deu_x_preferred":[
+        "Segre"
+    ],
     "name:fra_x_preferred":[
         "S\u00e9gr\u00e9"
+    ],
+    "name:fra_x_variant":[
+        "Segre"
+    ],
+    "name:ita_x_preferred":[
+        "Segre"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0433\u0440\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Segre"
+    ],
+    "name:swe_x_preferred":[
+        "Segre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0433\u0440\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1343467585,
-    "wof:lastmodified":1537702651,
+    "wof:lastmodified":1564181478,
     "wof:name":"Segre",
     "wof:parent_id":1091901349,
     "wof:placetype":"locality",

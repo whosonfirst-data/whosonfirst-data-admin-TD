@@ -25,6 +25,27 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Foul"
+    ],
+    "name:fin_x_preferred":[
+        "Oikeudenloukkaus"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30fc\u30eb"
+    ],
+    "name:lit_x_preferred":[
+        "Pra\u017eanga"
+    ],
+    "name:nld_x_preferred":[
+        "Overtreding"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043e\u043b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1243142453,
-    "wof:lastmodified":1536746753,
+    "wof:lastmodified":1564182786,
     "wof:name":"Foul",
     "wof:parent_id":1091900595,
     "wof:placetype":"locality",

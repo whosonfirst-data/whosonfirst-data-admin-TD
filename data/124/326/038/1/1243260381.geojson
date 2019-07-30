@@ -25,6 +25,30 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Litra"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03c4\u03c1\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Litra"
+    ],
+    "name:glg_x_preferred":[
+        "Litra"
+    ],
+    "name:ita_x_preferred":[
+        "Litra"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0442\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Litra"
+    ],
+    "name:sqi_x_preferred":[
+        "Litra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1243260381,
-    "wof:lastmodified":1537070736,
+    "wof:lastmodified":1564182889,
     "wof:name":"Litra",
     "wof:parent_id":1091901129,
     "wof:placetype":"locality",

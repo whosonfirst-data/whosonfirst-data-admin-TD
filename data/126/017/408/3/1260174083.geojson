@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "By"
+    ],
+    "name:swe_x_preferred":[
+        "By"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1260174083,
-    "wof:lastmodified":1536859513,
+    "wof:lastmodified":1564182356,
     "wof:name":"By",
     "wof:parent_id":1091901305,
     "wof:placetype":"locality",

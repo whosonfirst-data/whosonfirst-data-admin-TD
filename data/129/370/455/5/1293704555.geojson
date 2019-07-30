@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Amour"
+    ],
+    "name:deu_x_preferred":[
+        "Amour"
+    ],
+    "name:fra_x_preferred":[
+        "Amour"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ubb34\ub974"
+    ],
+    "name:swe_x_preferred":[
+        "Amour"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1293704555,
-    "wof:lastmodified":1536971102,
+    "wof:lastmodified":1564181691,
     "wof:name":"Amour",
     "wof:parent_id":1091901371,
     "wof:placetype":"locality",

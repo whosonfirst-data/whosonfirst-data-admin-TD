@@ -28,10 +28,19 @@
     "mps:longitude":17.263434,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mandoul Occidental"
+    ],
+    "name:dan_x_preferred":[
+        "Mandoul Occidental"
+    ],
     "name:eng_x_preferred":[
         "Mandoul Occidental"
     ],
     "name:eng_x_variant":[
+        "Mandoul Occidental"
+    ],
+    "name:fra_x_preferred":[
         "Mandoul Occidental"
     ],
     "src:geom":"meso",
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":1091899975,
-    "wof:lastmodified":1553717953,
+    "wof:lastmodified":1564182594,
     "wof:name":"Mandoul Occidental",
     "wof:parent_id":85678483,
     "wof:placetype":"county",

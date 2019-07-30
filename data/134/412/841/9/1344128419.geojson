@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sye"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1344128419,
-    "wof:lastmodified":1536778134,
+    "wof:lastmodified":1564181464,
     "wof:name":"Sye",
     "wof:parent_id":1091900523,
     "wof:placetype":"locality",

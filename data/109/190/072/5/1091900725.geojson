@@ -28,11 +28,23 @@
     "mps:longitude":15.253253,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Chari"
+    ],
     "name:eng_x_preferred":[
         "Chari"
     ],
     "name:eng_x_variant":[
         "N'Djamena"
+    ],
+    "name:fin_x_preferred":[
+        "Chari"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u0930\u0940"
+    ],
+    "name:ita_x_preferred":[
+        "Chari"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":1091900725,
-    "wof:lastmodified":1553717954,
+    "wof:lastmodified":1564182602,
     "wof:name":"Chari",
     "wof:parent_id":85678513,
     "wof:placetype":"county",

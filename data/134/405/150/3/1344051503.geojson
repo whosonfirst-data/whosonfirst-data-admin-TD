@@ -25,6 +25,24 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kobo"
+    ],
+    "name:deu_x_preferred":[
+        "Kobo"
+    ],
+    "name:epo_x_preferred":[
+        "Kobo"
+    ],
+    "name:fra_x_preferred":[
+        "Kobo"
+    ],
+    "name:swe_x_preferred":[
+        "Kobo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0431\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1344051503,
-    "wof:lastmodified":1536888149,
+    "wof:lastmodified":1564181558,
     "wof:name":"Kobo",
     "wof:parent_id":1091900073,
     "wof:placetype":"locality",

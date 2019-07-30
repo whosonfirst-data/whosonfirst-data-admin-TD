@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guira"
+    ],
     "name:und_x_variant":[
         "Ga\u00efra",
         "Guira"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1193240789,
-    "wof:lastmodified":1537702768,
+    "wof:lastmodified":1564182260,
     "wof:name":"Guira",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

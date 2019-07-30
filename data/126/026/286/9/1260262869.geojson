@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kakara"
+    ],
+    "name:swe_x_preferred":[
+        "Kakara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1260262869,
-    "wof:lastmodified":1536739526,
+    "wof:lastmodified":1564182363,
     "wof:name":"Kakara",
     "wof:parent_id":421179001,
     "wof:placetype":"locality",

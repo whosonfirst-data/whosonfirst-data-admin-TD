@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kare"
+    ],
+    "name:msa_x_preferred":[
+        "Kare"
+    ],
+    "name:por_x_preferred":[
+        "Kare"
+    ],
+    "name:slv_x_preferred":[
+        "Kare"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u0435"
+    ],
     "name:und_x_variant":[
         "Kera",
         "Kara",
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1260059573,
-    "wof:lastmodified":1537702749,
+    "wof:lastmodified":1564182379,
     "wof:name":"Kare",
     "wof:parent_id":1091900689,
     "wof:placetype":"locality",

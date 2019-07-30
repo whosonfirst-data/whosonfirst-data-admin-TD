@@ -25,6 +25,18 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Birni"
+    ],
+    "name:ita_x_preferred":[
+        "Birni"
+    ],
+    "name:msa_x_preferred":[
+        "Birni"
+    ],
+    "name:swe_x_preferred":[
+        "Birni"
+    ],
     "name:und_x_variant":[
         "El Birni",
         "Birni"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1242888045,
-    "wof:lastmodified":1537702795,
+    "wof:lastmodified":1564182724,
     "wof:name":"Birni",
     "wof:parent_id":1091901485,
     "wof:placetype":"locality",

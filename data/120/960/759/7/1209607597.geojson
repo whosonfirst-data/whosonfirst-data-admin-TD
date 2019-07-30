@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Ntiona"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0442\u0438\u043e\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Tiouna",
         "N\u2019Tiouna",
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1209607597,
-    "wof:lastmodified":1537702708,
+    "wof:lastmodified":1564182171,
     "wof:name":"Ntiona",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

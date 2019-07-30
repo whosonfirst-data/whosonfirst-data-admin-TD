@@ -25,6 +25,18 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gabra"
+    ],
+    "name:deu_x_preferred":[
+        "Gabra"
+    ],
+    "name:fra_x_preferred":[
+        "Gabra"
+    ],
+    "name:swe_x_preferred":[
+        "Gabra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1360166927,
-    "wof:lastmodified":1536826699,
+    "wof:lastmodified":1564182569,
     "wof:name":"Gabra",
     "wof:parent_id":1091900357,
     "wof:placetype":"locality",

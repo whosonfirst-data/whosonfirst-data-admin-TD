@@ -25,6 +25,81 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Gabian"
+    ],
+    "name:ceb_x_preferred":[
+        "Gabian"
+    ],
+    "name:deu_x_preferred":[
+        "Gabian"
+    ],
+    "name:eus_x_preferred":[
+        "Gabian"
+    ],
+    "name:fra_x_preferred":[
+        "Gabian"
+    ],
+    "name:hun_x_preferred":[
+        "Gabian"
+    ],
+    "name:ita_x_preferred":[
+        "Gabian"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0430\u0431\u044c\u044f\u043d"
+    ],
+    "name:lat_x_preferred":[
+        "Gabian"
+    ],
+    "name:mlg_x_preferred":[
+        "Gabian"
+    ],
+    "name:msa_x_preferred":[
+        "Gabian"
+    ],
+    "name:nld_x_preferred":[
+        "Gabian"
+    ],
+    "name:oci_x_preferred":[
+        "Gabian"
+    ],
+    "name:pms_x_preferred":[
+        "Gabian"
+    ],
+    "name:pol_x_preferred":[
+        "Gabian"
+    ],
+    "name:por_x_preferred":[
+        "Gabian"
+    ],
+    "name:ron_x_preferred":[
+        "Gabian"
+    ],
+    "name:slk_x_preferred":[
+        "Gabian"
+    ],
+    "name:spa_x_preferred":[
+        "Gabian"
+    ],
+    "name:swe_x_preferred":[
+        "Gabian"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0431'\u044f\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Gabian"
+    ],
+    "name:vol_x_preferred":[
+        "Gabian"
+    ],
+    "name:war_x_preferred":[
+        "Gabian"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u6bd4\u6602"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +123,7 @@
         }
     ],
     "wof:id":1226715547,
-    "wof:lastmodified":1536759394,
+    "wof:lastmodified":1564183178,
     "wof:name":"Gabian",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bendi"
+    ],
+    "name:ita_x_preferred":[
+        "Bendi"
+    ],
+    "name:swe_x_preferred":[
+        "Bendi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209891263,
-    "wof:lastmodified":1536390633,
+    "wof:lastmodified":1564182211,
     "wof:name":"Bendi",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

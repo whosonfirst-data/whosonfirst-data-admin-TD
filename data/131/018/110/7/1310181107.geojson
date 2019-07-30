@@ -25,7 +25,13 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Germana"
+    ],
     "name:eng_x_preferred":[
+        "Germana"
+    ],
+    "name:pol_x_preferred":[
         "Germana"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310181107,
-    "wof:lastmodified":1537702764,
+    "wof:lastmodified":1564182462,
     "wof:name":"Germana",
     "wof:parent_id":1091900897,
     "wof:placetype":"locality",

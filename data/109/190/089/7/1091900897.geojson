@@ -28,10 +28,16 @@
     "mps:longitude":15.098561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Haraze Al Biar"
+    ],
     "name:eng_x_preferred":[
         "Haraze al Biar"
     ],
     "name:eng_x_variant":[
+        "Haraze Al Biar"
+    ],
+    "name:fra_x_preferred":[
         "Haraze Al Biar"
     ],
     "src:geom":"meso",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1091900897,
-    "wof:lastmodified":1553717954,
+    "wof:lastmodified":1564182601,
     "wof:name":"Haraze Al Biar",
     "wof:parent_id":85678435,
     "wof:placetype":"county",

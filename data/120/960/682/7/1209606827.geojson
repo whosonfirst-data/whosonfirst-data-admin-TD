@@ -25,6 +25,42 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0637\u0631\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Fitra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0637\u0631\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Fitra"
+    ],
+    "name:ind_x_preferred":[
+        "Fitrah"
+    ],
+    "name:ita_x_preferred":[
+        "Fitra"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0438\u0442\u0438\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Fitra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u0442\u0440\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2b\u0c3f\u0c24\u0c4d\u0c30\u0c3e"
+    ],
+    "name:tur_x_preferred":[
+        "F\u0131trat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0456\u0442\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -34,7 +70,7 @@
         "gn:id":2432603
     },
     "wof:country":"TD",
-    "wof:geomhash":"b471496fcf08f9d1ba74d8755cfd57b5",
+    "wof:geomhash":"a0e13635c68210d26d0b001e76836727",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -42,7 +78,7 @@
         }
     ],
     "wof:id":1209606827,
-    "wof:lastmodified":1536281984,
+    "wof:lastmodified":1564182171,
     "wof:name":"Fitra",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
@@ -53,9 +89,9 @@
 },
   "bbox": [
     15.30109,
-    13.608479999999998,
+    13.60848,
     15.30109,
-    13.608479999999998
+    13.60848
 ],
   "geometry": {"coordinates":[15.30109,13.60848],"type":"Point"}
 }

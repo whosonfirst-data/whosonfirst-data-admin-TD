@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slv_x_preferred":[
+        "Bobri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343867167,
-    "wof:lastmodified":1536656954,
+    "wof:lastmodified":1564181605,
     "wof:name":"Bobri",
     "wof:parent_id":1091901453,
     "wof:placetype":"locality",

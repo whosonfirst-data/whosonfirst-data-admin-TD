@@ -25,6 +25,33 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tosi"
+    ],
+    "name:deu_x_preferred":[
+        "Tosi"
+    ],
+    "name:fin_x_preferred":[
+        "Tosi"
+    ],
+    "name:fra_x_preferred":[
+        "Tosi"
+    ],
+    "name:ita_x_preferred":[
+        "Tosi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0437\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Tosi"
+    ],
+    "name:srp_x_preferred":[
+        "Tozi"
+    ],
+    "name:swe_x_preferred":[
+        "Tosi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1276756995,
-    "wof:lastmodified":1536708504,
+    "wof:lastmodified":1564181854,
     "wof:name":"Tosi",
     "wof:parent_id":1091901305,
     "wof:placetype":"locality",

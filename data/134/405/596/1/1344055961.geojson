@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lelo"
+    ],
+    "name:fra_x_preferred":[
+        "Lelo"
+    ],
+    "name:swe_x_preferred":[
+        "Lelo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1344055961,
-    "wof:lastmodified":1536881387,
+    "wof:lastmodified":1564181560,
     "wof:name":"Lelo",
     "wof:parent_id":1091900641,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Daka"
+    ],
+    "name:deu_x_preferred":[
+        "Daka"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2e4\uce74"
+    ],
+    "name:pol_x_preferred":[
+        "Daka"
+    ],
+    "name:swe_x_preferred":[
+        "Daka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1360051843,
-    "wof:lastmodified":1536992942,
+    "wof:lastmodified":1564182592,
     "wof:name":"Daka",
     "wof:parent_id":1091901007,
     "wof:placetype":"locality",

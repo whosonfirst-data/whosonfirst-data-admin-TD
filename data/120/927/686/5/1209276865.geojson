@@ -25,6 +25,48 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0643\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Beko"
+    ],
+    "name:deu_x_preferred":[
+        "Beko Deutschland"
+    ],
+    "name:ell_x_preferred":[
+        "Beko"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Beko"
+    ],
+    "name:heb_x_preferred":[
+        "Beko"
+    ],
+    "name:hun_x_preferred":[
+        "Beko"
+    ],
+    "name:ita_x_preferred":[
+        "Beko"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10d9\u10dd"
+    ],
+    "name:nld_x_preferred":[
+        "Beko"
+    ],
+    "name:pol_x_preferred":[
+        "Beko"
+    ],
+    "name:rus_x_preferred":[
+        "Beko"
+    ],
+    "name:tur_x_preferred":[
+        "Beko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -34,7 +76,7 @@
         "gn:id":2435674
     },
     "wof:country":"TD",
-    "wof:geomhash":"c80f0d9f0a4cc22a9d88e947c69b1eb2",
+    "wof:geomhash":"b1112afc2c3d6042e0620e5be0f36920",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -42,7 +84,7 @@
         }
     ],
     "wof:id":1209276865,
-    "wof:lastmodified":1536292163,
+    "wof:lastmodified":1564182193,
     "wof:name":"Beko",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
@@ -53,9 +95,9 @@
 },
   "bbox": [
     17.91335,
-    8.938410000000003,
+    8.93841,
     17.91335,
-    8.938410000000003
+    8.93841
 ],
   "geometry": {"coordinates":[17.91335,8.93841],"type":"Point"}
 }

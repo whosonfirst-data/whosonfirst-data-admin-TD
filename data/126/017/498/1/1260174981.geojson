@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Badang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260174981,
-    "wof:lastmodified":1536858357,
+    "wof:lastmodified":1564182356,
     "wof:name":"Badang",
     "wof:parent_id":1091900177,
     "wof:placetype":"locality",

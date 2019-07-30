@@ -25,8 +25,110 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ace_x_preferred":[
+        "Dej"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0647 \u060c"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u044d\u0436"
+    ],
+    "name:bos_x_preferred":[
+        "Dej"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u0436"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipiul Dej"
+    ],
+    "name:dan_x_preferred":[
+        "Dej"
+    ],
+    "name:deu_x_preferred":[
+        "Dej"
+    ],
+    "name:epo_x_preferred":[
+        "Dej"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0647"
+    ],
     "name:fra_x_preferred":[
         "D\u00e8j"
+    ],
+    "name:fra_x_variant":[
+        "Dej"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d6'"
+    ],
+    "name:hrv_x_preferred":[
+        "Dej"
+    ],
+    "name:hun_x_preferred":[
+        "D\u00e9s"
+    ],
+    "name:ind_x_preferred":[
+        "Dej"
+    ],
+    "name:ita_x_preferred":[
+        "Dej"
+    ],
+    "name:kor_x_preferred":[
+        "\ub370\uc9c0"
+    ],
+    "name:lat_x_preferred":[
+        "Dej"
+    ],
+    "name:lit_x_preferred":[
+        "De\u017eas"
+    ],
+    "name:min_x_preferred":[
+        "Dej"
+    ],
+    "name:msa_x_preferred":[
+        "Dej"
+    ],
+    "name:nld_x_preferred":[
+        "Dej"
+    ],
+    "name:nor_x_preferred":[
+        "Dej"
+    ],
+    "name:pol_x_preferred":[
+        "Dej"
+    ],
+    "name:por_x_preferred":[
+        "Dej"
+    ],
+    "name:ron_x_preferred":[
+        "Dej"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0436"
+    ],
+    "name:spa_x_preferred":[
+        "Dej"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Dej"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0435\u0436"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0436"
+    ],
+    "name:vie_x_preferred":[
+        "Dej"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d3\u05e2\u05d6\u05e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +153,7 @@
         }
     ],
     "wof:id":1259359505,
-    "wof:lastmodified":1537702675,
+    "wof:lastmodified":1564182989,
     "wof:name":"Dej",
     "wof:parent_id":1091900659,
     "wof:placetype":"locality",

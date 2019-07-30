@@ -25,7 +25,13 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mourou"
+    ],
     "name:fra_x_preferred":[
+        "Mourou"
+    ],
+    "name:nds_x_preferred":[
         "Mourou"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326733595,
-    "wof:lastmodified":1537702654,
+    "wof:lastmodified":1564181255,
     "wof:name":"Mourou",
     "wof:parent_id":1091901349,
     "wof:placetype":"locality",

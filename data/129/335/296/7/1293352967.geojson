@@ -25,6 +25,141 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u0646\u062c"
+    ],
+    "name:bar_x_preferred":[
+        "Gong"
+    ],
+    "name:bjn_x_preferred":[
+        "Kanung"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u043d\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Gong"
+    ],
+    "name:ces_x_preferred":[
+        "Gong"
+    ],
+    "name:dan_x_preferred":[
+        "Gongong"
+    ],
+    "name:deu_x_preferred":[
+        "Gong"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03bd\u03b3\u03ba"
+    ],
+    "name:epo_x_preferred":[
+        "Gongo"
+    ],
+    "name:est_x_preferred":[
+        "Gong"
+    ],
+    "name:eus_x_preferred":[
+        "Gong"
+    ],
+    "name:fin_x_preferred":[
+        "Gongi"
+    ],
+    "name:fra_x_preferred":[
+        "Gong"
+    ],
+    "name:gle_x_preferred":[
+        "Gang"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05e0\u05d2"
+    ],
+    "name:hrv_x_preferred":[
+        "Gong"
+    ],
+    "name:hun_x_preferred":[
+        "Tamtam"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0576\u0563"
+    ],
+    "name:ido_x_preferred":[
+        "Tamtamo"
+    ],
+    "name:ind_x_preferred":[
+        "Gong"
+    ],
+    "name:ita_x_preferred":[
+        "Gong"
+    ],
+    "name:jav_x_preferred":[
+        "Gong"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30f3\u30b0"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cbe\u0c97\u0c9f\u0cc6"
+    ],
+    "name:kir_x_preferred":[
+        "\u0413\u043e\u043d\u0433"
+    ],
+    "name:kor_x_preferred":[
+        "\uacf5"
+    ],
+    "name:ltz_x_preferred":[
+        "Gong"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u043d\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Gong"
+    ],
+    "name:nld_x_preferred":[
+        "Gong"
+    ],
+    "name:nor_x_preferred":[
+        "Gong"
+    ],
+    "name:pol_x_preferred":[
+        "Gong"
+    ],
+    "name:por_x_preferred":[
+        "Gongo"
+    ],
+    "name:ron_x_preferred":[
+        "Gong"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043d\u0433"
+    ],
+    "name:sco_x_preferred":[
+        "Gong"
+    ],
+    "name:slv_x_preferred":[
+        "Gong"
+    ],
+    "name:spa_x_preferred":[
+        "Gong"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u043d\u0433"
+    ],
+    "name:sun_x_preferred":[
+        "Goong"
+    ],
+    "name:swe_x_preferred":[
+        "Gong"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e06\u0e49\u0e2d\u0e07"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043d\u0433"
+    ],
+    "name:vie_x_preferred":[
+        "C\u1ed3ng chi\u00eang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +183,7 @@
         }
     ],
     "wof:id":1293352967,
-    "wof:lastmodified":1536980459,
+    "wof:lastmodified":1564181737,
     "wof:name":"Gong",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

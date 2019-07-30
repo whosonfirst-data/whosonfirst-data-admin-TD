@@ -25,6 +25,24 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bayo"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayo"
+    ],
+    "name:deu_x_preferred":[
+        "Bayo"
+    ],
+    "name:fra_x_preferred":[
+        "Bayo"
+    ],
+    "name:ita_x_preferred":[
+        "Bayo"
+    ],
+    "name:swe_x_preferred":[
+        "Bayo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1292908241,
-    "wof:lastmodified":1536626142,
+    "wof:lastmodified":1564181765,
     "wof:name":"Bayo",
     "wof:parent_id":1091900785,
     "wof:placetype":"locality",

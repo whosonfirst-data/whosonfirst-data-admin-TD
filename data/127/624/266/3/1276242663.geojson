@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kabara"
+    ],
+    "name:deu_x_preferred":[
+        "Kabara"
+    ],
+    "name:swe_x_preferred":[
+        "Kabara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276242663,
-    "wof:lastmodified":1536900125,
+    "wof:lastmodified":1564181964,
     "wof:name":"Kabara",
     "wof:parent_id":1091901101,
     "wof:placetype":"locality",

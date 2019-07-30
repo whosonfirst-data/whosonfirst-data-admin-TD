@@ -28,11 +28,32 @@
     "mps:longitude":19.537325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0418\u0437\u0442\u043e\u0447\u043d\u0430 \u0411\u0430\u0442\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "Batha Est"
+    ],
     "name:eng_x_preferred":[
         "Batha Est"
     ],
     "name:eng_x_variant":[
         "Batha Est"
+    ],
+    "name:fra_x_preferred":[
+        "Batha Est"
+    ],
+    "name:nor_x_preferred":[
+        "Batha Est"
+    ],
+    "name:pol_x_preferred":[
+        "Batha Est"
+    ],
+    "name:por_x_preferred":[
+        "Bata Leste"
+    ],
+    "name:spa_x_preferred":[
+        "Batha Este"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +90,7 @@
         }
     ],
     "wof:id":1091901371,
-    "wof:lastmodified":1553717954,
+    "wof:lastmodified":1564182601,
     "wof:name":"Batha Est",
     "wof:parent_id":85678449,
     "wof:placetype":"county",

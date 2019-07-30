@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bangaye"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259668099,
-    "wof:lastmodified":1537086002,
+    "wof:lastmodified":1564182984,
     "wof:name":"Bangaye",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",

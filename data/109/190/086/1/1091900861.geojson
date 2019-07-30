@@ -34,6 +34,9 @@
     "name:eng_x_variant":[
         "Sila"
     ],
+    "name:fra_x_preferred":[
+        "Kimiti"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1091900861,
-    "wof:lastmodified":1553717954,
+    "wof:lastmodified":1564182602,
     "wof:name":"Kimiti",
     "wof:parent_id":85678523,
     "wof:placetype":"county",

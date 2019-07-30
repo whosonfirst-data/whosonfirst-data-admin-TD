@@ -25,9 +25,81 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bug_x_preferred":[
+        "Guernes"
+    ],
+    "name:cat_x_preferred":[
+        "Guernes"
+    ],
+    "name:ceb_x_preferred":[
+        "Guernes"
+    ],
+    "name:ces_x_preferred":[
+        "Guernes"
+    ],
+    "name:deu_x_preferred":[
+        "Guernes"
+    ],
+    "name:eus_x_preferred":[
+        "Guernes"
+    ],
+    "name:fra_x_preferred":[
+        "Guernes"
+    ],
+    "name:hun_x_preferred":[
+        "Guernes"
+    ],
+    "name:ita_x_preferred":[
+        "Guernes"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0435\u0440\u043d"
+    ],
+    "name:lat_x_preferred":[
+        "Guernes"
+    ],
+    "name:msa_x_preferred":[
+        "Guernes"
+    ],
+    "name:nld_x_preferred":[
+        "Guernes"
+    ],
+    "name:oci_x_preferred":[
+        "Guernes"
+    ],
+    "name:pms_x_preferred":[
+        "Guernes"
+    ],
+    "name:pol_x_preferred":[
+        "Guernes"
+    ],
+    "name:por_x_preferred":[
+        "Guernes"
+    ],
+    "name:slk_x_preferred":[
+        "Guernes"
+    ],
+    "name:spa_x_preferred":[
+        "Guernes"
+    ],
+    "name:swe_x_preferred":[
+        "Guernes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0440\u043d"
+    ],
     "name:und_x_variant":[
         "Gern\u00e8s",
         "Guern\u00e8s"
+    ],
+    "name:vie_x_preferred":[
+        "Guernes"
+    ],
+    "name:vol_x_preferred":[
+        "Guernes"
+    ],
+    "name:war_x_preferred":[
+        "Guernes"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +124,7 @@
         }
     ],
     "wof:id":1343962201,
-    "wof:lastmodified":1537702757,
+    "wof:lastmodified":1564181419,
     "wof:name":"Guernes",
     "wof:parent_id":1091901371,
     "wof:placetype":"locality",

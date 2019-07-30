@@ -25,6 +25,36 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dirkou"
+    ],
+    "name:deu_x_preferred":[
+        "Dirkou"
+    ],
+    "name:epo_x_preferred":[
+        "Dirkou"
+    ],
+    "name:fin_x_preferred":[
+        "Dirkou"
+    ],
+    "name:fra_x_preferred":[
+        "Dirkou"
+    ],
+    "name:ita_x_preferred":[
+        "Dirkou"
+    ],
+    "name:ltz_x_preferred":[
+        "Dirkou"
+    ],
+    "name:msa_x_preferred":[
+        "Dirkou"
+    ],
+    "name:ron_x_preferred":[
+        "Dirkou"
+    ],
+    "name:spa_x_preferred":[
+        "Dirkou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1243254253,
-    "wof:lastmodified":1537079442,
+    "wof:lastmodified":1564182794,
     "wof:name":"Dirkou",
     "wof:parent_id":1091900031,
     "wof:placetype":"locality",

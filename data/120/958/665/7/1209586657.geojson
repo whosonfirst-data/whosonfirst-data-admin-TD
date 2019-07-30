@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dila"
+    ],
+    "name:fra_x_preferred":[
+        "Dila"
+    ],
+    "name:pol_x_preferred":[
+        "Dila"
+    ],
+    "name:swe_x_preferred":[
+        "Dila"
+    ],
+    "name:tgl_x_preferred":[
+        "Dila"
+    ],
     "name:und_x_variant":[
         "Della",
         "Dila"
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1209586657,
-    "wof:lastmodified":1537702783,
+    "wof:lastmodified":1564182169,
     "wof:name":"Dila",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

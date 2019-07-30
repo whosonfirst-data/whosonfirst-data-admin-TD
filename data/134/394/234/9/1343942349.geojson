@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Babao"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343942349,
-    "wof:lastmodified":1537044376,
+    "wof:lastmodified":1564181538,
     "wof:name":"Babao",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",

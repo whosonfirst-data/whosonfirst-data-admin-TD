@@ -25,8 +25,20 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kome"
+    ],
+    "name:deu_x_preferred":[
+        "Kome"
+    ],
     "name:fra_x_preferred":[
         "Kom\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Kome"
+    ],
+    "name:swe_x_preferred":[
+        "Kome"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1242868615,
-    "wof:lastmodified":1537702743,
+    "wof:lastmodified":1564182725,
     "wof:name":"Kome",
     "wof:parent_id":1091900073,
     "wof:placetype":"locality",

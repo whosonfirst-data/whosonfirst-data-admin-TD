@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Karabo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1225829587,
-    "wof:lastmodified":1537035450,
+    "wof:lastmodified":1564183253,
     "wof:name":"Karabo",
     "wof:parent_id":1091900157,
     "wof:placetype":"locality",

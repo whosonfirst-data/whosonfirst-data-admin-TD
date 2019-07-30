@@ -25,6 +25,30 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Magnan"
+    ],
+    "name:fra_x_preferred":[
+        "Magnan"
+    ],
+    "name:oci_x_preferred":[
+        "Manhan"
+    ],
+    "name:pms_x_preferred":[
+        "Magnan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u044c\u044f\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Magnant"
+    ],
+    "name:swe_x_preferred":[
+        "Magnan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u044c\u044f\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1293275629,
-    "wof:lastmodified":1537089278,
+    "wof:lastmodified":1564181786,
     "wof:name":"Magnan",
     "wof:parent_id":1091900435,
     "wof:placetype":"locality",

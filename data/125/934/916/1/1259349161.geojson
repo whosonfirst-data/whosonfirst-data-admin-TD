@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Airi"
+    ],
+    "name:fin_x_preferred":[
+        "Airi"
+    ],
+    "name:fra_x_preferred":[
+        "Airi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1259349161,
-    "wof:lastmodified":1537049696,
+    "wof:lastmodified":1564183016,
     "wof:name":"Airi",
     "wof:parent_id":1091901071,
     "wof:placetype":"locality",

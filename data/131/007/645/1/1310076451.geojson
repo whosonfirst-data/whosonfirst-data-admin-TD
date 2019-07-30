@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kanguera"
+    ],
     "name:und_x_variant":[
         "Kangn\u00e9ra",
         "Kangu\u00e9ra"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310076451,
-    "wof:lastmodified":1537702750,
+    "wof:lastmodified":1564182415,
     "wof:name":"Kanguera",
     "wof:parent_id":1091900435,
     "wof:placetype":"locality",

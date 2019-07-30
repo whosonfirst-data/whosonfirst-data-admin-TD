@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mibi"
+    ],
+    "name:swe_x_preferred":[
+        "Mibi"
+    ],
     "name:und_x_variant":[
         "Billi",
         "Mibili",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243050823,
-    "wof:lastmodified":1537702722,
+    "wof:lastmodified":1564182833,
     "wof:name":"Mibi",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

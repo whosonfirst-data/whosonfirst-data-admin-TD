@@ -25,7 +25,28 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bolobo"
+    ],
     "name:fra_x_preferred":[
+        "Bolobo"
+    ],
+    "name:ita_x_preferred":[
+        "Bolobo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10da\u10dd\u10d1\u10dd"
+    ],
+    "name:ron_x_preferred":[
+        "Bolobo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u043e\u0431\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Bolobo"
+    ],
+    "name:swe_x_preferred":[
         "Bolobo"
     ],
     "src:geom":"geonames",
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1293508535,
-    "wof:lastmodified":1537702792,
+    "wof:lastmodified":1564181728,
     "wof:name":"Bolobo",
     "wof:parent_id":1091900073,
     "wof:placetype":"locality",

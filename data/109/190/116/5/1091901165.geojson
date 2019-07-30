@@ -34,6 +34,9 @@
     "name:eng_x_variant":[
         "Kanem"
     ],
+    "name:fra_x_preferred":[
+        "Sud Kanem"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1091901165,
-    "wof:lastmodified":1553717954,
+    "wof:lastmodified":1564182599,
     "wof:name":"Wadi Bissam",
     "wof:parent_id":85678439,
     "wof:placetype":"county",

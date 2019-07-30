@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gelgel"
+    ],
+    "name:swe_x_preferred":[
+        "Gelgel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1225901645,
-    "wof:lastmodified":1536934038,
+    "wof:lastmodified":1564183151,
     "wof:name":"Gelgel",
     "wof:parent_id":1091900861,
     "wof:placetype":"locality",

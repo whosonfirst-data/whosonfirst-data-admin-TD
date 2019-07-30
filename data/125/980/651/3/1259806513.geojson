@@ -25,6 +25,51 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mormo"
+    ],
+    "name:deu_x_preferred":[
+        "Mormo"
+    ],
+    "name:fin_x_preferred":[
+        "Mormo"
+    ],
+    "name:isl_x_preferred":[
+        "Morm\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Morm\u00f2"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30eb\u30e2\u30fc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d9\u10dd"
+    ],
+    "name:lit_x_preferred":[
+        "Mormo"
+    ],
+    "name:nor_x_preferred":[
+        "Mormo"
+    ],
+    "name:pol_x_preferred":[
+        "Mormolyke"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u043c\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Mormo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0440\u043c\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u043c\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u6469\u8033\u6469"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1259806513,
-    "wof:lastmodified":1536889683,
+    "wof:lastmodified":1564183023,
     "wof:name":"Mormo",
     "wof:parent_id":1091900821,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Adara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343833823,
-    "wof:lastmodified":1536705369,
+    "wof:lastmodified":1564181482,
     "wof:name":"Adara",
     "wof:parent_id":1091900897,
     "wof:placetype":"locality",

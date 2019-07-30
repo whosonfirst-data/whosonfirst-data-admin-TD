@@ -25,6 +25,54 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u0441\u043e\u0440\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Moussoro"
+    ],
+    "name:fra_x_preferred":[
+        "Moussoro"
+    ],
+    "name:frr_x_preferred":[
+        "Moussoro"
+    ],
+    "name:hrv_x_preferred":[
+        "Moussoro"
+    ],
+    "name:ita_x_preferred":[
+        "Moussoro"
+    ],
+    "name:kor_x_preferred":[
+        "\ubb34\uc18c\ub85c"
+    ],
+    "name:lit_x_preferred":[
+        "Musoras"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041c\u0443\u0441\u0441\u043e\u0440\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Moussoro"
+    ],
+    "name:por_x_preferred":[
+        "Moussoro"
+    ],
+    "name:ron_x_preferred":[
+        "Moussoro"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u0441\u043e\u0440\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0441\u043e\u0440\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0633\u0648\u0631\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u7d22\u7f85"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +96,7 @@
         }
     ],
     "wof:id":1276831877,
-    "wof:lastmodified":1536604961,
+    "wof:lastmodified":1564181979,
     "wof:name":"Moussoro",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

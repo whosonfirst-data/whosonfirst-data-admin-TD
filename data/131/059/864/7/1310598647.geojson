@@ -25,6 +25,27 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Kalej"
+    ],
+    "name:fra_x_preferred":[
+        "Kalaymyo"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u101c\u1031\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:pol_x_preferred":[
+        "Kalay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0435\u043c\u044c\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e30\u0e40\u0e25\u0e48"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0439"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1310598647,
-    "wof:lastmodified":1536783097,
+    "wof:lastmodified":1564182500,
     "wof:name":"Kalay",
     "wof:parent_id":1091901571,
     "wof:placetype":"locality",

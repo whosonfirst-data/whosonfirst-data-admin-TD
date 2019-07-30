@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Tourba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u0431\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343424241,
-    "wof:lastmodified":1536798754,
+    "wof:lastmodified":1564181581,
     "wof:name":"Tourba",
     "wof:parent_id":1091901071,
     "wof:placetype":"locality",

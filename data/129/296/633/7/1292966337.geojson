@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Dembo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1292966337,
-    "wof:lastmodified":1537039726,
+    "wof:lastmodified":1564181760,
     "wof:name":"Dembo",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

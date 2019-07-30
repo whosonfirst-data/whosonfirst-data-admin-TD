@@ -25,6 +25,27 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Garou"
+    ],
+    "name:deu_x_preferred":[
+        "Garou"
+    ],
+    "name:fra_x_preferred":[
+        "Garou"
+    ],
+    "name:por_x_preferred":[
+        "Garou"
+    ],
+    "name:ron_x_preferred":[
+        "Garou"
+    ],
+    "name:spa_x_preferred":[
+        "Garou"
+    ],
+    "name:swe_x_preferred":[
+        "Garou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1193108665,
-    "wof:lastmodified":1536375692,
+    "wof:lastmodified":1564182303,
     "wof:name":"Garou",
     "wof:parent_id":1091900523,
     "wof:placetype":"locality",

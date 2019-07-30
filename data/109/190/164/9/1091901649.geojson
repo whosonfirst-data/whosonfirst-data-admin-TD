@@ -34,6 +34,12 @@
     "name:eng_x_variant":[
         "Borkou"
     ],
+    "name:fra_x_preferred":[
+        "Tibesti Est"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0435 \u0422\u0438\u0431\u0435\u0441\u0442\u0438"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1091901649,
-    "wof:lastmodified":1553717955,
+    "wof:lastmodified":1564182601,
     "wof:name":"Tibesti Est",
     "wof:parent_id":85678501,
     "wof:placetype":"county",

@@ -25,7 +25,13 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0628\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
+        "Douban"
+    ],
+    "name:ind_x_preferred":[
         "Douban"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1309792929,
-    "wof:lastmodified":1537702673,
+    "wof:lastmodified":1564182630,
     "wof:name":"Douban",
     "wof:parent_id":421179001,
     "wof:placetype":"locality",

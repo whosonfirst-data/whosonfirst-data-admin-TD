@@ -25,6 +25,27 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bodom"
+    ],
+    "name:deu_x_preferred":[
+        "Bodom"
+    ],
+    "name:fin_x_preferred":[
+        "Bodom"
+    ],
+    "name:nds_x_preferred":[
+        "Bodom"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0434\u043e\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Bodom"
+    ],
+    "name:uzb_x_preferred":[
+        "Bodom"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1310500795,
-    "wof:lastmodified":1536924414,
+    "wof:lastmodified":1564182501,
     "wof:name":"Bodom",
     "wof:parent_id":1091900785,
     "wof:placetype":"locality",

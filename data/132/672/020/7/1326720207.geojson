@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Tapol Bulletin"
+    ],
+    "name:ita_x_preferred":[
+        "Tapol"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326720207,
-    "wof:lastmodified":1536713437,
+    "wof:lastmodified":1564181236,
     "wof:name":"Tapol",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Enga"
+    ],
+    "name:fin_x_preferred":[
+        "Enga"
+    ],
+    "name:swe_x_preferred":[
+        "Enga"
+    ],
     "name:und_x_variant":[
         "Inga",
         "Enga"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259461925,
-    "wof:lastmodified":1537702753,
+    "wof:lastmodified":1564182941,
     "wof:name":"Enga",
     "wof:parent_id":1091900271,
     "wof:placetype":"locality",

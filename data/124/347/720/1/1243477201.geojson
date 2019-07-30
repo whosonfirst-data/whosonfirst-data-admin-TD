@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hat_x_preferred":[
+        "Sobo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243477201,
-    "wof:lastmodified":1536761425,
+    "wof:lastmodified":1564182782,
     "wof:name":"Sobo",
     "wof:parent_id":1091900641,
     "wof:placetype":"locality",

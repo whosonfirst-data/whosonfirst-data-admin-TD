@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tiling"
+    ],
+    "name:lav_x_preferred":[
+        "T\u012blings"
+    ],
+    "name:nds_x_preferred":[
+        "Tiling"
+    ],
     "name:und_x_variant":[
         "Tilling",
         "Tiling"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1326617169,
-    "wof:lastmodified":1537702648,
+    "wof:lastmodified":1564181281,
     "wof:name":"Tiling",
     "wof:parent_id":1091901205,
     "wof:placetype":"locality",

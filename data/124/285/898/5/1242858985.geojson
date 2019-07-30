@@ -25,8 +25,20 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u043d\u0434\u0443"
+    ],
     "name:fra_x_preferred":[
         "Kondou"
+    ],
+    "name:ita_x_preferred":[
+        "Koundou"
+    ],
+    "name:msa_x_preferred":[
+        "Koundou"
+    ],
+    "name:spa_x_preferred":[
+        "Koundou"
     ],
     "name:und_x_variant":[
         "Kondou"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1242858985,
-    "wof:lastmodified":1537702743,
+    "wof:lastmodified":1564182857,
     "wof:name":"Koundou",
     "wof:parent_id":1091899861,
     "wof:placetype":"locality",

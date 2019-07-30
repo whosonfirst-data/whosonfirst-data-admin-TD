@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0434\u0436\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259744965,
-    "wof:lastmodified":1536978140,
+    "wof:lastmodified":1564183020,
     "wof:name":"Sodje",
     "wof:parent_id":1091900237,
     "wof:placetype":"locality",

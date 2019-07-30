@@ -28,11 +28,23 @@
     "mps:longitude":18.508192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u0411\u0430\u0442\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "Batha Ouest"
+    ],
     "name:eng_x_preferred":[
         "Batha Ouest"
     ],
     "name:eng_x_variant":[
         "Fitri"
+    ],
+    "name:fra_x_preferred":[
+        "Batha Ouest"
+    ],
+    "name:por_x_preferred":[
+        "Bata Oeste"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":1091901485,
-    "wof:lastmodified":1553717954,
+    "wof:lastmodified":1564182605,
     "wof:name":"Batha Ouest",
     "wof:parent_id":85678449,
     "wof:placetype":"county",

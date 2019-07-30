@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nokou"
+    ],
+    "name:ita_x_preferred":[
+        "Nokou"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u043a\u0443"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276541571,
-    "wof:lastmodified":1536996179,
+    "wof:lastmodified":1564182022,
     "wof:name":"Nokou",
     "wof:parent_id":1091901571,
     "wof:placetype":"locality",

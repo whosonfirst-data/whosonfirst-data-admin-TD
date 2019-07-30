@@ -25,6 +25,18 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dobo"
+    ],
+    "name:deu_x_preferred":[
+        "Dobo"
+    ],
+    "name:fra_x_preferred":[
+        "Dobo"
+    ],
+    "name:swe_x_preferred":[
+        "Dobo"
+    ],
     "name:und_x_variant":[
         "Daba",
         "Dobo"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293355979,
-    "wof:lastmodified":1537702787,
+    "wof:lastmodified":1564181735,
     "wof:name":"Dobo",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

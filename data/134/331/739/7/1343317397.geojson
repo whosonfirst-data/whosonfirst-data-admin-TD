@@ -25,6 +25,69 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u043a\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Makokou"
+    ],
+    "name:dan_x_preferred":[
+        "Makokou"
+    ],
+    "name:deu_x_preferred":[
+        "Makokou"
+    ],
+    "name:fra_x_preferred":[
+        "Makokou"
+    ],
+    "name:frr_x_preferred":[
+        "Makokou"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e7\u05d5\u05e7\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Makokou"
+    ],
+    "name:ita_x_preferred":[
+        "Makokou"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ucf54\ucfe0"
+    ],
+    "name:lit_x_preferred":[
+        "Makoku"
+    ],
+    "name:nld_x_preferred":[
+        "Makokou"
+    ],
+    "name:pol_x_preferred":[
+        "Makokou"
+    ],
+    "name:por_x_preferred":[
+        "Makokou"
+    ],
+    "name:ron_x_preferred":[
+        "Makokou"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u043a\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Makokou"
+    ],
+    "name:swe_x_preferred":[
+        "Makokou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u043a\u0443"
+    ],
+    "name:war_x_preferred":[
+        "Makokou"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u79d1\u5eab"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +111,7 @@
         }
     ],
     "wof:id":1343317397,
-    "wof:lastmodified":1536952995,
+    "wof:lastmodified":1564181411,
     "wof:name":"Makokou",
     "wof:parent_id":1091900983,
     "wof:placetype":"locality",

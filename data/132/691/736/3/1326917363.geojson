@@ -25,8 +25,29 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645 \u0647\u0627\u0631\u0627\u0632\u06cc"
+    ],
+    "name:deu_x_preferred":[
+        "Haraz\u00e9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645 \u0647\u0627\u0631\u0627\u0632\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Haraz\u00e9"
+    ],
+    "name:fra_x_variant":[
+        "Haraze"
+    ],
+    "name:ita_x_preferred":[
+        "Haraze Mangueigne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0430\u0437\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645 \u06c1\u0627\u0632\u0627\u0631\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1326917363,
-    "wof:lastmodified":1537702667,
+    "wof:lastmodified":1564181371,
     "wof:name":"Haraze",
     "wof:parent_id":421179001,
     "wof:placetype":"locality",

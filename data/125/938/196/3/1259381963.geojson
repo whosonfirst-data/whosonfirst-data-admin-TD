@@ -25,6 +25,51 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0645"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u044b\u043c"
+    ],
+    "name:bos_x_preferred":[
+        "Rim"
+    ],
+    "name:ceb_x_preferred":[
+        "Rim"
+    ],
+    "name:hrv_x_preferred":[
+        "Rim"
+    ],
+    "name:hun_x_preferred":[
+        "Rim"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u057c\u0578\u0574"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0420\u0438\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043c"
+    ],
+    "name:slk_x_preferred":[
+        "R\u00edm"
+    ],
+    "name:slv_x_preferred":[
+        "Rim"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Rim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u043c"
+    ],
+    "name:uzb_x_preferred":[
+        "Rim"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1259381963,
-    "wof:lastmodified":1537003719,
+    "wof:lastmodified":1564182904,
     "wof:name":"Rim",
     "wof:parent_id":1091900641,
     "wof:placetype":"locality",

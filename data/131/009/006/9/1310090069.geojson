@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tam_x_preferred":[
+        "\u0baa\u0ba3\u0bcd"
+    ],
     "name:und_x_variant":[
         "Pan",
         "Pann"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310090069,
-    "wof:lastmodified":1537702705,
+    "wof:lastmodified":1564182421,
     "wof:name":"Pann",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",

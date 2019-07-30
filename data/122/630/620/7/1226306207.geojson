@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Manttaali"
+    ],
+    "name:nor_x_preferred":[
+        "Mantal"
+    ],
+    "name:swe_x_preferred":[
+        "Mantal"
+    ],
     "name:und_x_variant":[
         "Mantel",
         "Mantal"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226306207,
-    "wof:lastmodified":1537702728,
+    "wof:lastmodified":1564183218,
     "wof:name":"Mantal",
     "wof:parent_id":1091900897,
     "wof:placetype":"locality",

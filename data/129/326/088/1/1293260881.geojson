@@ -25,6 +25,24 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0995\u09b0\u09cb \u099f\u09b0\u09cb"
+    ],
+    "name:deu_x_preferred":[
+        "Koro Toro"
+    ],
+    "name:fra_x_preferred":[
+        "Koro Toro"
+    ],
+    "name:ind_x_preferred":[
+        "Koro Toro"
+    ],
+    "name:ron_x_preferred":[
+        "Koro Toro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043e \u0422\u043e\u0440\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1293260881,
-    "wof:lastmodified":1537573876,
+    "wof:lastmodified":1564181825,
     "wof:name":"Koro Toro",
     "wof:parent_id":1091901607,
     "wof:placetype":"locality",

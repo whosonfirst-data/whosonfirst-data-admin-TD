@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Salal"
+    ],
+    "name:fra_x_preferred":[
+        "Salal"
+    ],
+    "name:ita_x_preferred":[
+        "Salal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0644\u0627\u0644"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1326799415,
-    "wof:lastmodified":1537573872,
+    "wof:lastmodified":1564181343,
     "wof:name":"Salal",
     "wof:parent_id":1091901525,
     "wof:placetype":"locality",

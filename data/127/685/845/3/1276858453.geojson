@@ -25,6 +25,18 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mogo"
+    ],
+    "name:ita_x_preferred":[
+        "Mogo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Mogo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276858453,
-    "wof:lastmodified":1537066895,
+    "wof:lastmodified":1564181955,
     "wof:name":"Mogo",
     "wof:parent_id":421179001,
     "wof:placetype":"locality",

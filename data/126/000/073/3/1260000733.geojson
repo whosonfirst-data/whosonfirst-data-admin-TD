@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Doum Doum"
+    ],
     "name:und_x_variant":[
         "Dum-Dum",
         "Doum Doum"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260000733,
-    "wof:lastmodified":1537702772,
+    "wof:lastmodified":1564182333,
     "wof:name":"Doum Doum",
     "wof:parent_id":1091901129,
     "wof:placetype":"locality",

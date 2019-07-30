@@ -29,6 +29,9 @@
         "Kayoua",
         "Kaywa"
     ],
+    "name:zho_x_preferred":[
+        "\u51f1\u74e6\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1360140103,
-    "wof:lastmodified":1537702664,
+    "wof:lastmodified":1564182544,
     "wof:name":"Kaywa",
     "wof:parent_id":1091900861,
     "wof:placetype":"locality",

@@ -25,6 +25,66 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wagna"
+    ],
+    "name:deu_x_preferred":[
+        "Wagna"
+    ],
+    "name:epo_x_preferred":[
+        "Wagna"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06af\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Wagna"
+    ],
+    "name:hun_x_preferred":[
+        "Wagna"
+    ],
+    "name:ita_x_preferred":[
+        "Wagna"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0430\u0433\u043d\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Wagna"
+    ],
+    "name:nno_x_preferred":[
+        "Wagna"
+    ],
+    "name:pol_x_preferred":[
+        "Wagna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0433\u043d\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Wagna"
+    ],
+    "name:spa_x_preferred":[
+        "Wagna"
+    ],
+    "name:swe_x_preferred":[
+        "Wagna"
+    ],
+    "name:uzb_x_preferred":[
+        "Wagna"
+    ],
+    "name:vie_x_preferred":[
+        "Wagna"
+    ],
+    "name:vol_x_preferred":[
+        "Wagna"
+    ],
+    "name:war_x_preferred":[
+        "Wagna"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u683c\u7eb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +108,7 @@
         }
     ],
     "wof:id":1310409967,
-    "wof:lastmodified":1537052561,
+    "wof:lastmodified":1564182399,
     "wof:name":"Wagna",
     "wof:parent_id":1091901101,
     "wof:placetype":"locality",

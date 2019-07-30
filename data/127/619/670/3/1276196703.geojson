@@ -25,6 +25,30 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tolo"
+    ],
+    "name:deu_x_preferred":[
+        "Tolo"
+    ],
+    "name:fin_x_preferred":[
+        "Tolo"
+    ],
+    "name:fra_x_preferred":[
+        "Tolo"
+    ],
+    "name:ita_x_preferred":[
+        "Tolo"
+    ],
+    "name:por_x_preferred":[
+        "Tolo"
+    ],
+    "name:srp_x_preferred":[
+        "Tolo"
+    ],
+    "name:swe_x_preferred":[
+        "Tolo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1276196703,
-    "wof:lastmodified":1536962012,
+    "wof:lastmodified":1564181867,
     "wof:name":"Tolo",
     "wof:parent_id":1091901691,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Marou"
+    ],
+    "name:fra_x_preferred":[
+        "Marou"
+    ],
+    "name:swe_x_preferred":[
+        "Marou"
+    ],
     "name:und_x_variant":[
         "Malou",
         "Marou"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259862947,
-    "wof:lastmodified":1537702729,
+    "wof:lastmodified":1564183040,
     "wof:name":"Marou",
     "wof:parent_id":1091900435,
     "wof:placetype":"locality",

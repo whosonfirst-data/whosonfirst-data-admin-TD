@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bologo"
+    ],
+    "name:ita_x_preferred":[
+        "Bologo"
+    ],
     "name:und_x_variant":[
         "Bogolo",
         "Bologo"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326701201,
-    "wof:lastmodified":1537702792,
+    "wof:lastmodified":1564181347,
     "wof:name":"Bologo",
     "wof:parent_id":1091900271,
     "wof:placetype":"locality",

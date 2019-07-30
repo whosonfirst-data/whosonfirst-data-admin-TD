@@ -25,6 +25,57 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0628\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09ac\u09cb"
+    ],
+    "name:cym_x_preferred":[
+        "Bebo"
+    ],
+    "name:deu_x_preferred":[
+        "Bebo"
+    ],
+    "name:fra_x_preferred":[
+        "Bebo"
+    ],
+    "name:gle_x_preferred":[
+        "Bebo"
+    ],
+    "name:ind_x_preferred":[
+        "Bebo"
+    ],
+    "name:ita_x_preferred":[
+        "Bebo"
+    ],
+    "name:jpn_x_preferred":[
+        "Bebo"
+    ],
+    "name:kor_x_preferred":[
+        "Bebo"
+    ],
+    "name:msa_x_preferred":[
+        "Bebo"
+    ],
+    "name:pol_x_preferred":[
+        "Bebo"
+    ],
+    "name:por_x_preferred":[
+        "Bebo"
+    ],
+    "name:spa_x_preferred":[
+        "Bebo"
+    ],
+    "name:swe_x_preferred":[
+        "Bebo"
+    ],
+    "name:tha_x_preferred":[
+        "Bebo"
+    ],
+    "name:zho_x_preferred":[
+        "Bebo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +99,7 @@
         }
     ],
     "wof:id":1310380575,
-    "wof:lastmodified":1537094027,
+    "wof:lastmodified":1564182413,
     "wof:name":"Bebo",
     "wof:parent_id":1091899975,
     "wof:placetype":"locality",

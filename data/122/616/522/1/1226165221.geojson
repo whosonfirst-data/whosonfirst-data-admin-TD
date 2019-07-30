@@ -28,6 +28,15 @@
     "name:fra_x_preferred":[
         "Balkabra"
     ],
+    "name:fra_x_variant":[
+        "Mbalkabra"
+    ],
+    "name:ita_x_preferred":[
+        "Mbalkabra"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0431\u0430\u043b\u044c\u043a\u0430\u0431\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "Balkabra"
     ],
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226165221,
-    "wof:lastmodified":1537702809,
+    "wof:lastmodified":1564183098,
     "wof:name":"Mbalkabra",
     "wof:parent_id":1091900031,
     "wof:placetype":"locality",

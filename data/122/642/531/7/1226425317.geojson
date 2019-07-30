@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dilga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226425317,
-    "wof:lastmodified":1536674907,
+    "wof:lastmodified":1564183088,
     "wof:name":"Dilga",
     "wof:parent_id":1091900725,
     "wof:placetype":"locality",

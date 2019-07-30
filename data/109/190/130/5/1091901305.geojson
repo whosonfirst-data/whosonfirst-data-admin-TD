@@ -28,11 +28,32 @@
     "mps:longitude":15.205826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kanem"
+    ],
+    "name:deu_x_preferred":[
+        "Kanem"
+    ],
     "name:eng_x_preferred":[
         "Kanem"
     ],
     "name:eng_x_variant":[
         "Kanem"
+    ],
+    "name:fra_x_preferred":[
+        "Kanem"
+    ],
+    "name:ind_x_preferred":[
+        "Kanem"
+    ],
+    "name:ita_x_preferred":[
+        "Kanem"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0435\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0435\u043c"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +90,7 @@
         }
     ],
     "wof:id":1091901305,
-    "wof:lastmodified":1553717954,
+    "wof:lastmodified":1564182601,
     "wof:name":"Kanem",
     "wof:parent_id":85678439,
     "wof:placetype":"county",

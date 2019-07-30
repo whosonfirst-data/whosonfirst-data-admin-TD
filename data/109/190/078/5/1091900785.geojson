@@ -28,11 +28,17 @@
     "mps:longitude":18.064256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Abtouyour"
+    ],
     "name:eng_x_preferred":[
         "Abtouyour"
     ],
     "name:eng_x_variant":[
         "Bitkine"
+    ],
+    "name:fra_x_preferred":[
+        "Abtouyour"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1091900785,
-    "wof:lastmodified":1553717954,
+    "wof:lastmodified":1564182596,
     "wof:name":"Abtouyour",
     "wof:parent_id":85678457,
     "wof:placetype":"county",

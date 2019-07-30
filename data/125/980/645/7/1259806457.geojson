@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Daga"
+    ],
+    "name:fra_x_preferred":[
+        "Daga"
+    ],
+    "name:ita_x_preferred":[
+        "Daga"
+    ],
+    "name:swe_x_preferred":[
+        "Daga"
+    ],
+    "name:tgl_x_preferred":[
+        "Daga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1259806457,
-    "wof:lastmodified":1536889770,
+    "wof:lastmodified":1564183023,
     "wof:name":"Daga",
     "wof:parent_id":1091900641,
     "wof:placetype":"locality",

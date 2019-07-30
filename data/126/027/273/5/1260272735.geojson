@@ -25,8 +25,29 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bedia"
+    ],
+    "name:deu_x_preferred":[
+        "Bedia"
+    ],
     "name:fra_x_preferred":[
         "B\u00e9dia"
+    ],
+    "name:fra_x_variant":[
+        "Bedia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0434\u0438\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Bedia"
+    ],
+    "name:swe_x_preferred":[
+        "Bedia"
+    ],
+    "name:tur_x_preferred":[
+        "Bedia"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1260272735,
-    "wof:lastmodified":1537702805,
+    "wof:lastmodified":1564182347,
     "wof:name":"Bedia",
     "wof:parent_id":1091899861,
     "wof:placetype":"locality",

@@ -25,8 +25,20 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Erne"
+    ],
+    "name:eus_x_preferred":[
+        "Erne"
+    ],
     "name:fra_x_preferred":[
         "Ern\u00e9"
+    ],
+    "name:fra_x_variant":[
+        "Erne"
+    ],
+    "name:spa_x_preferred":[
+        "Erne"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1209923257,
-    "wof:lastmodified":1537702671,
+    "wof:lastmodified":1564182154,
     "wof:name":"Erne",
     "wof:parent_id":1091901349,
     "wof:placetype":"locality",

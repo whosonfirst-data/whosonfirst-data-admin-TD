@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Sangara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226610959,
-    "wof:lastmodified":1536909001,
+    "wof:lastmodified":1564183136,
     "wof:name":"Sangara",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

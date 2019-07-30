@@ -25,6 +25,12 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0631"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u093e\u0926\u0932"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1360308367,
-    "wof:lastmodified":1536621480,
+    "wof:lastmodified":1564182554,
     "wof:name":"Badal",
     "wof:parent_id":1091900939,
     "wof:placetype":"locality",

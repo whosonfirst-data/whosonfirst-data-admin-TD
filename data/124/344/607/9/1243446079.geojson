@@ -25,6 +25,30 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kili"
+    ],
+    "name:deu_x_preferred":[
+        "Kili"
+    ],
+    "name:fin_x_preferred":[
+        "Kili"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05dc\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Kili"
+    ],
+    "name:pol_x_preferred":[
+        "Kili"
+    ],
+    "name:spa_x_preferred":[
+        "Kili"
+    ],
+    "name:swe_x_preferred":[
+        "Kili"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1243446079,
-    "wof:lastmodified":1536805902,
+    "wof:lastmodified":1564182895,
     "wof:name":"Kili",
     "wof:parent_id":1091901265,
     "wof:placetype":"locality",

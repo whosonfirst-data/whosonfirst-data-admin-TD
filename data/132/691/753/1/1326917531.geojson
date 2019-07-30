@@ -25,6 +25,24 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kawa"
+    ],
+    "name:deu_x_preferred":[
+        "Kawa"
+    ],
+    "name:fra_x_preferred":[
+        "Kawa"
+    ],
+    "name:kur_x_preferred":[
+        "Kawa"
+    ],
+    "name:pol_x_preferred":[
+        "Kawa"
+    ],
+    "name:swe_x_preferred":[
+        "Kawa"
+    ],
     "name:und_x_variant":[
         "Kaoua",
         "Kawa"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1326917531,
-    "wof:lastmodified":1537702664,
+    "wof:lastmodified":1564181371,
     "wof:name":"Kawa",
     "wof:parent_id":1091901205,
     "wof:placetype":"locality",

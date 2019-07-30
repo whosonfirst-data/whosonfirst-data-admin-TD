@@ -25,6 +25,15 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dore"
+    ],
+    "name:pol_x_preferred":[
+        "Dore"
+    ],
+    "name:swe_x_preferred":[
+        "Dore"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1242846943,
-    "wof:lastmodified":1536675771,
+    "wof:lastmodified":1564182838,
     "wof:name":"Dore",
     "wof:parent_id":1091900357,
     "wof:placetype":"locality",

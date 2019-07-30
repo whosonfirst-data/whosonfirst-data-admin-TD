@@ -25,6 +25,21 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Malanga"
+    ],
+    "name:ceb_x_preferred":[
+        "Malanga"
+    ],
+    "name:deu_x_preferred":[
+        "Malanga"
+    ],
+    "name:spa_x_preferred":[
+        "Malanga"
+    ],
+    "name:swe_x_preferred":[
+        "Malanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1310297687,
-    "wof:lastmodified":1536719577,
+    "wof:lastmodified":1564182471,
     "wof:name":"Malanga",
     "wof:parent_id":1091901305,
     "wof:placetype":"locality",

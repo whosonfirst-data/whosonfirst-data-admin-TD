@@ -34,6 +34,9 @@
     "name:eng_x_variant":[
         "Nokou"
     ],
+    "name:fra_x_preferred":[
+        "Nord Kanem"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1091901571,
-    "wof:lastmodified":1553717955,
+    "wof:lastmodified":1564182595,
     "wof:name":"Nord Kanem",
     "wof:parent_id":85678439,
     "wof:placetype":"county",

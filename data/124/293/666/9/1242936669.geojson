@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Singako"
+    ],
     "name:und_x_variant":[
         "Tsingako",
         "Singako"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1242936669,
-    "wof:lastmodified":1537702699,
+    "wof:lastmodified":1564182754,
     "wof:name":"Singako",
     "wof:parent_id":1091900523,
     "wof:placetype":"locality",

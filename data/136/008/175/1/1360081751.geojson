@@ -25,6 +25,9 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0431\u0443"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1360081751,
-    "wof:lastmodified":1536950731,
+    "wof:lastmodified":1564182556,
     "wof:name":"Nabou",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",

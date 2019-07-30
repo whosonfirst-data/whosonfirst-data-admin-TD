@@ -25,6 +25,42 @@
     "iso:country":"TD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mag\u00f3"
+    ],
+    "name:ceb_x_preferred":[
+        "Mago"
+    ],
+    "name:deu_x_preferred":[
+        "Mago"
+    ],
+    "name:fra_x_preferred":[
+        "Mago"
+    ],
+    "name:ita_x_preferred":[
+        "Mago"
+    ],
+    "name:lat_x_preferred":[
+        "Mago"
+    ],
+    "name:nld_x_preferred":[
+        "Mago"
+    ],
+    "name:por_x_preferred":[
+        "Mago"
+    ],
+    "name:spa_x_preferred":[
+        "Mago"
+    ],
+    "name:sqi_x_preferred":[
+        "Mago"
+    ],
+    "name:swe_x_preferred":[
+        "Mago"
+    ],
+    "name:war_x_preferred":[
+        "Mago"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1293184425,
-    "wof:lastmodified":1536727421,
+    "wof:lastmodified":1564181781,
     "wof:name":"Mago",
     "wof:parent_id":1091900435,
     "wof:placetype":"locality",

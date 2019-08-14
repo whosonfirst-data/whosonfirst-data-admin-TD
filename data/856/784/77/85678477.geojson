@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TA"
+    ],
     "lbl:latitude":9.580662,
     "lbl:longitude":16.640776,
     "meso:name_local":"Tandjil\u00e9",
@@ -283,9 +286,6 @@
         }
     ],
     "wof:id":85678477,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "ara"
@@ -294,7 +294,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579567,
+    "wof:lastmodified":1565736838,
     "wof:name":"Tandjil\u00e9",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

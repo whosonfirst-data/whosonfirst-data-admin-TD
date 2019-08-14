@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LR"
+    ],
     "lbl:latitude":8.248287,
     "lbl:longitude":16.422962,
     "meso:name_local":"Logone Oriental",
@@ -278,9 +281,6 @@
         }
     ],
     "wof:id":85678469,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "ara"
@@ -289,7 +289,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579562,
+    "wof:lastmodified":1565736831,
     "wof:name":"Logone Oriental",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EO"
+    ],
     "lbl:latitude":18.976399,
     "lbl:longitude":21.172673,
     "meso:name_local":"Ennedi Ouest",
@@ -108,7 +111,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563580310,
+    "wof:lastmodified":1565736882,
     "wof:name":"Ennedi Ouest",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

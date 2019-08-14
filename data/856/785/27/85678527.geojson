@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MO"
+    ],
     "lbl:latitude":9.350017,
     "lbl:longitude":18.669281,
     "meso:name_local":"Moyen-Chari",
@@ -355,7 +358,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579558,
+    "wof:lastmodified":1565736830,
     "wof:name":"Moyen-Chari",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

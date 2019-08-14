@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":13.94655,
     "lbl:longitude":18.827619,
     "meso:name_local":"Batha",
@@ -284,9 +287,6 @@
         }
     ],
     "wof:id":85678449,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "ara"
@@ -295,7 +295,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579568,
+    "wof:lastmodified":1565736839,
     "wof:name":"Batha",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

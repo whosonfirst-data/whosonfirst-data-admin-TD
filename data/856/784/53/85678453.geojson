@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BI"
+    ],
     "lbl:latitude":14.996018,
     "lbl:longitude":21.597428,
     "meso:name_local":"Wadi Fira",
@@ -276,9 +279,6 @@
         }
     ],
     "wof:id":85678453,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "ara"
@@ -287,7 +287,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579566,
+    "wof:lastmodified":1565736836,
     "wof:name":"Wadi Fira",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

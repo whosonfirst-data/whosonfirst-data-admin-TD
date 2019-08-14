@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":10.754553,
     "lbl:longitude":20.621215,
     "meso:name_local":"Salamat",
@@ -281,9 +284,6 @@
         }
     ],
     "wof:id":85678487,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "ara"
@@ -292,7 +292,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579563,
+    "wof:lastmodified":1565736835,
     "wof:name":"Salamat",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

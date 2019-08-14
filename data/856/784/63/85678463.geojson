@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OA"
+    ],
     "lbl:latitude":13.419086,
     "lbl:longitude":21.250053,
     "meso:name_local":"Ouadda\u00ef",
@@ -285,9 +288,6 @@
         }
     ],
     "wof:id":85678463,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "ara"
@@ -296,7 +296,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579567,
+    "wof:lastmodified":1565736837,
     "wof:name":"Ouadda\u00ef",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

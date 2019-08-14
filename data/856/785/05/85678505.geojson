@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TI"
+    ],
     "lbl:latitude":20.60618,
     "lbl:longitude":17.765288,
     "meso:name_local":"Tibesti",
@@ -164,7 +167,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1553550511,
+    "wof:lastmodified":1565736830,
     "wof:name":"Tibesti",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

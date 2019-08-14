@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CG"
+    ],
     "lbl:latitude":11.538728,
     "lbl:longitude":16.095312,
     "meso:name_local":"Chari-Baguirmi",
@@ -227,7 +230,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579560,
+    "wof:lastmodified":1565736830,
     "wof:name":"Chari-Baguirmi",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

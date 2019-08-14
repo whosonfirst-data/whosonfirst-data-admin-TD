@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ME"
+    ],
     "lbl:latitude":10.402499,
     "lbl:longitude":15.748602,
     "meso:name_local":"Mayo Kebbi Est",
@@ -284,9 +287,6 @@
         }
     ],
     "wof:id":85678473,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "ara"
@@ -295,7 +295,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579563,
+    "wof:lastmodified":1565736833,
     "wof:name":"Mayo Kebbi Est",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

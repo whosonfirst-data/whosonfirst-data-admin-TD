@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":8.688057,
     "lbl:longitude":17.593864,
     "meso:name_local":"Mandoul",
@@ -272,9 +275,6 @@
         }
     ],
     "wof:id":85678483,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "ara"
@@ -283,7 +283,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579567,
+    "wof:lastmodified":1565736838,
     "wof:name":"Mandoul",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KM"
+    ],
     "lbl:latitude":14.98176,
     "lbl:longitude":15.16507,
     "meso:name_local":"Kanem",
@@ -279,9 +282,6 @@
         }
     ],
     "wof:id":85678439,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "ara"
@@ -290,7 +290,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579566,
+    "wof:lastmodified":1565736837,
     "wof:name":"Kanem",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

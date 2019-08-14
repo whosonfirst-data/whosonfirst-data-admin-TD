@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MW"
+    ],
     "lbl:latitude":9.292923,
     "lbl:longitude":14.768303,
     "meso:name_local":"Mayo-Kebbi Ouest",
@@ -285,9 +288,6 @@
         }
     ],
     "wof:id":85678495,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "ara"
@@ -296,7 +296,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579561,
+    "wof:lastmodified":1565736830,
     "wof:name":"Mayo-Kebbi Ouest",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

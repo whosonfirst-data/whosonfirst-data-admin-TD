@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GR"
+    ],
     "lbl:latitude":11.168186,
     "lbl:longitude":18.165226,
     "meso:name_local":"Gu\u00e9ra",
@@ -292,9 +295,6 @@
         }
     ],
     "wof:id":85678457,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "ara"
@@ -303,7 +303,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579561,
+    "wof:lastmodified":1565736830,
     "wof:name":"Gu\u00e9ra",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

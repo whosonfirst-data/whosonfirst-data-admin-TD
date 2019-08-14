@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NJ"
+    ],
     "lbl:latitude":12.158888,
     "lbl:longitude":15.015234,
     "meso:name_local":"Ville de N'Djamena",
@@ -516,7 +519,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1564181624,
+    "wof:lastmodified":1565736835,
     "wof:name":"N'Djamena",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

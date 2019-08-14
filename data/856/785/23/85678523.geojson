@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SI"
+    ],
     "lbl:latitude":12.122118,
     "lbl:longitude":21.337363,
     "meso:name_local":"Sila",
@@ -446,7 +449,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579559,
+    "wof:lastmodified":1565736830,
     "wof:name":"Sila",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

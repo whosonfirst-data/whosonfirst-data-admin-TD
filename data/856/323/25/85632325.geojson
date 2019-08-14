@@ -15,6 +15,9 @@
     "itu:country_code":[
         "235"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TD"
+    ],
     "lbl:latitude":15.21002,
     "lbl:longitude":18.76924,
     "mps:latitude":15.21002,
@@ -1015,9 +1018,6 @@
         }
     ],
     "wof:id":85632325,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "ara"
@@ -1026,7 +1026,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579557,
+    "wof:lastmodified":1565736829,
     "wof:name":"Chad",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

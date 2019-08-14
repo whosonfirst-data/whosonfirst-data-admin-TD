@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HD"
+    ],
     "lbl:latitude":12.667867,
     "lbl:longitude":16.578556,
     "meso:name_local":"Hadjer-Lamis",
@@ -223,7 +226,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1563579561,
+    "wof:lastmodified":1565736830,
     "wof:name":"Hadjer-Lamis",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

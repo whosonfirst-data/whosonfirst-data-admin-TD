@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.50173,11.01818,17.54173,11.05818",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -34,7 +38,7 @@
         "gn:id":2433719
     },
     "wof:country":"TD",
-    "wof:geomhash":"4e14497fde25dc4820ef1ac6fdabbb13",
+    "wof:geomhash":"62c25823d774eaa3056c2f326dca5724",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209219415,
-    "wof:lastmodified":1536294015,
+    "wof:lastmodified":1566653436,
     "wof:name":"Djana Tidjani",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.521729999999998,
+    17.52173,
     11.03818,
-    17.521729999999998,
+    17.52173,
     11.03818
 ],
   "geometry": {"coordinates":[17.52173,11.03818],"type":"Point"}

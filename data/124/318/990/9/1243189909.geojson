@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"20.09319,13.57824,20.13319,13.61824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Oualad Baachoum"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243189909,
-    "wof:lastmodified":1537702652,
+    "wof:lastmodified":1566653937,
     "wof:name":"Oualad Baachoum",
     "wof:parent_id":1091901371,
     "wof:placetype":"locality",

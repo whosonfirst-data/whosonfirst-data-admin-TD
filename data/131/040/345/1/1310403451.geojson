@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.49276,13.87326,15.53276,13.91326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310403451,
-    "wof:lastmodified":1537061514,
+    "wof:lastmodified":1566653584,
     "wof:name":"Gayey",
     "wof:parent_id":1091901305,
     "wof:placetype":"locality",

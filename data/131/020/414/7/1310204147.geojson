@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.3445,10.6618,18.3845,10.7018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310204147,
-    "wof:lastmodified":1536853137,
+    "wof:lastmodified":1566653624,
     "wof:name":"Mouray",
     "wof:parent_id":1091900641,
     "wof:placetype":"locality",

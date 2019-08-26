@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.3096,11.02989,15.3496,11.06989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276745509,
-    "wof:lastmodified":1536723975,
+    "wof:lastmodified":1566653182,
     "wof:name":"Afraya",
     "wof:parent_id":1091900627,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.5184,11.9395,21.5584,11.9795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226300155,
-    "wof:lastmodified":1536854226,
+    "wof:lastmodified":1566654182,
     "wof:name":"Am Haraz",
     "wof:parent_id":1091900861,
     "wof:placetype":"locality",

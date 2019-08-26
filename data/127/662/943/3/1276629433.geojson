@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.9853,9.6592,15.0253,9.6992",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276629433,
-    "wof:lastmodified":1536878558,
+    "wof:lastmodified":1566653290,
     "wof:name":"Foulgouin",
     "wof:parent_id":1091900357,
     "wof:placetype":"locality",

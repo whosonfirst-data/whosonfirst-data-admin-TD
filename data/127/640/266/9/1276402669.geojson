@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.78391,12.79928,14.82391,12.83928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Adrik Akoulkoulis",
         "Adrik Akoulkouli"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276402669,
-    "wof:lastmodified":1537702820,
+    "wof:lastmodified":1566653249,
     "wof:name":"Adrik Akoulkouli",
     "wof:parent_id":1091900897,
     "wof:placetype":"locality",

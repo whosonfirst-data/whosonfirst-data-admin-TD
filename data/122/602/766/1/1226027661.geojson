@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.22239,12.23245,15.26239,12.27245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Michetire",
         "Mich\u00e9dir\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226027661,
-    "wof:lastmodified":1537702722,
+    "wof:lastmodified":1566654108,
     "wof:name":"Michedire",
     "wof:parent_id":1091900725,
     "wof:placetype":"locality",

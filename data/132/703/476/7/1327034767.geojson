@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.70063,11.99941,18.74063,12.03941",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Biga"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1327034767,
-    "wof:lastmodified":1564181332,
+    "wof:lastmodified":1566652762,
     "wof:name":"Biga",
     "wof:parent_id":1091900821,
     "wof:placetype":"locality",

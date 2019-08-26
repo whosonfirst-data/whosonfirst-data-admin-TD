@@ -9,15 +9,18 @@
     "geom:bbox":"16.2989,9.3952,16.2989,9.3952",
     "geom:latitude":9.3952,
     "geom:longitude":16.2989,
-    "gn:gn_country":"TD",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":19382,
+    "gn:country":"TD",
+    "gn:fcode":"PPLA",
     "gn:population":19382,
     "iso:country":"TD",
+    "lbl:bbox":"16.2789,9.3752,16.3189,9.4152",
     "lbl:latitude":9.3952,
     "lbl:longitude":16.2989,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u0627\u062f\u064a"
@@ -76,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0457"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Behagie"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +100,7 @@
     "qs_pg:qs_id":278643,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1125768233,
-    "wof:lastmodified":1563580633,
+    "wof:lastmodified":1566653803,
     "wof:name":"La\u00ef",
     "wof:parent_id":1091900435,
     "wof:placetype":"locality",

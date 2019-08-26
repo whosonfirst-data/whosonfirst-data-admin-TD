@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":9.350017,
     "lbl:longitude":18.669281,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Moyen-Chari",
     "mps:latitude":9.34885,
     "mps:longitude":18.61505,
@@ -212,9 +213,6 @@
     "name:swe_x_preferred":[
         "Moyen-Chari"
     ],
-    "name:unk_x_variant":[
-        "R\u00e9gion du Moyen-Chari"
-    ],
     "name:vec_x_preferred":[
         "Moyen-Chari"
     ],
@@ -309,9 +307,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2009-06-20",
@@ -358,7 +356,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1565736830,
+    "wof:lastmodified":1566652990,
     "wof:name":"Moyen-Chari",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

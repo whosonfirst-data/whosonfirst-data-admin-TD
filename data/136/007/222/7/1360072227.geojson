@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.19975,14.04062,21.23975,14.08062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Koylon"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360072227,
-    "wof:lastmodified":1537702828,
+    "wof:lastmodified":1566653693,
     "wof:name":"Koylon",
     "wof:parent_id":1091901409,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.7061,8.4727,16.7461,8.5127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226232093,
-    "wof:lastmodified":1536953429,
+    "wof:lastmodified":1566654160,
     "wof:name":"Doba Kourangati",
     "wof:parent_id":1091900073,
     "wof:placetype":"locality",

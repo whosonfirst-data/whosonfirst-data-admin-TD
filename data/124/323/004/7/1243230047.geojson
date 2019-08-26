@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.09754,12.35094,15.13754,12.39094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dougui Chikh\u00e8t",
         "Dougi Chikhet"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243230047,
-    "wof:lastmodified":1537702773,
+    "wof:lastmodified":1566653865,
     "wof:name":"Dougui Chikhet",
     "wof:parent_id":1091900897,
     "wof:placetype":"locality",

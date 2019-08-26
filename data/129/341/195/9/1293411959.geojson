@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.17455,14.39976,14.21455,14.43976",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293411959,
-    "wof:lastmodified":1536895797,
+    "wof:lastmodified":1566653038,
     "wof:name":"Tougouno",
     "wof:parent_id":1091901571,
     "wof:placetype":"locality",

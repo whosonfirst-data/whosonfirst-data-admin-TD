@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.78093,14.80221,21.82093,14.84221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Guima"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293886681,
-    "wof:lastmodified":1564181838,
+    "wof:lastmodified":1566653152,
     "wof:name":"Guima",
     "wof:parent_id":1091901349,
     "wof:placetype":"locality",

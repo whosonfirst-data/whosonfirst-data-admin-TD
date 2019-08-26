@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.98629,9.68759,15.02629,9.72759",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Balani"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259344637,
-    "wof:lastmodified":1564183014,
+    "wof:lastmodified":1566654034,
     "wof:name":"Balani",
     "wof:parent_id":1091900357,
     "wof:placetype":"locality",

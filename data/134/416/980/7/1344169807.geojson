@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.1566,14.51593,21.1966,14.55593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kadour"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344169807,
-    "wof:lastmodified":1537702665,
+    "wof:lastmodified":1566652946,
     "wof:name":"Kadour",
     "wof:parent_id":1091901409,
     "wof:placetype":"locality",

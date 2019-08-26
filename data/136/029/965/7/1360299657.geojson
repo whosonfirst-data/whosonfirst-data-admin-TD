@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"20.06402,13.79422,20.10402,13.83422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Am Arhar al Omar Am Djoubay"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360299657,
-    "wof:lastmodified":1537702685,
+    "wof:lastmodified":1566653709,
     "wof:name":"Am Arhar al Omar Am Djoubay",
     "wof:parent_id":1091901371,
     "wof:placetype":"locality",

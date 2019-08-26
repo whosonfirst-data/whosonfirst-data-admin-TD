@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.65811,13.70477,21.69811,13.74477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bir Tawil",
         "Bir Taouil"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243431587,
-    "wof:lastmodified":1537702678,
+    "wof:lastmodified":1566653953,
     "wof:name":"Bir Taouil",
     "wof:parent_id":1091901205,
     "wof:placetype":"locality",

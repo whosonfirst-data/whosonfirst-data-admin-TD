@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.2706,10.9473,16.3106,10.9873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Amladoba Yana",
         "Amladoba Abitcha"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344040373,
-    "wof:lastmodified":1537702815,
+    "wof:lastmodified":1566652958,
     "wof:name":"Amladoba Abitcha",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.54967,14.12478,21.58967,14.16478",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mourou"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326733595,
-    "wof:lastmodified":1564181255,
+    "wof:lastmodified":1566652700,
     "wof:name":"Mourou",
     "wof:parent_id":1091901349,
     "wof:placetype":"locality",

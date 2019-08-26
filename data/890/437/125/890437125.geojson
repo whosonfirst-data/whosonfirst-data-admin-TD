@@ -11,10 +11,14 @@
     "geom:longitude":15.72927,
     "gn:country":"TD",
     "gn:fcode":"PPLA",
-    "gn:pop":15406,
+    "gn:population":15406,
     "iso:country":"TD",
+    "lbl:bbox":"15.70927,12.976,15.74927,13.016",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u0627\u0643\u0648\u0631\u064a"
     ],
@@ -63,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0441\u0430\u043a\u043e\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dagana"
     ],
     "name:urd_x_preferred":[
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":2428228,
         "gp:id":1276809,
-        "qs:id":1035647,
+        "qs_pg:id":1035647,
         "wd:id":"Q2498357",
         "wk:page":"Massakory"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890437125,
-    "wof:lastmodified":1563580623,
+    "wof:lastmodified":1566653800,
     "wof:name":"Massakory",
     "wof:parent_id":1091901071,
     "wof:placetype":"locality",

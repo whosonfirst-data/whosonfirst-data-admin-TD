@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.77242,11.21202,15.81242,11.25202",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260062943,
-    "wof:lastmodified":1537016922,
+    "wof:lastmodified":1566653530,
     "wof:name":"Bouta Moko",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

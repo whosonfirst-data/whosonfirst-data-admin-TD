@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.64072,9.82573,17.68072,9.86573",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Kouno"
     ],
     "name:und_x_variant":[
-        "Kuno",
-        "Kouno"
+        "Kuno"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343337887,
-    "wof:lastmodified":1564181548,
+    "wof:lastmodified":1566652940,
     "wof:name":"Kouno",
     "wof:parent_id":1091900487,
     "wof:placetype":"locality",

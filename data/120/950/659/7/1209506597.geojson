@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.53161,13.52262,15.57161,13.56262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209506597,
-    "wof:lastmodified":1536285016,
+    "wof:lastmodified":1566653380,
     "wof:name":"Kayewa",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

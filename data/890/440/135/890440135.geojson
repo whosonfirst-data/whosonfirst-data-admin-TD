@@ -11,8 +11,11 @@
     "geom:longitude":15.80658,
     "gn:country":"TD",
     "gn:fcode":"PPL",
-    "gn:pop":42533,
+    "gn:population":42533,
     "iso:country":"TD",
+    "lbl:bbox":"15.78658,9.28859,15.82658,9.32859",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -145,7 +148,7 @@
     "wof:concordances":{
         "gn:id":2430506,
         "gp:id":1275426,
-        "qs:id":1035665,
+        "qs_pg:id":1035665,
         "wk:page":"Kelo"
     },
     "wof:country":"TD",
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":890440135,
-    "wof:lastmodified":1564182686,
+    "wof:lastmodified":1566653798,
     "wof:name":"Kelo",
     "wof:parent_id":1091900271,
     "wof:placetype":"locality",

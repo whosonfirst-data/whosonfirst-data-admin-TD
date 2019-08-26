@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"19.6933,12.8101,19.7333,12.8501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326835223,
-    "wof:lastmodified":1537042647,
+    "wof:lastmodified":1566652778,
     "wof:name":"Am Khoumi",
     "wof:parent_id":1091900939,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":17.0568,
     "gn:country":"TD",
     "gn:fcode":"PPL",
-    "gn:pop":14723,
+    "gn:population":14723,
     "iso:country":"TD",
+    "lbl:bbox":"17.0368,12.3607,17.0768,12.4007",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0648\u0631\u0648"
     ],
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":2434985,
         "gp:id":1272647,
-        "qs:id":1035750,
+        "qs_pg:id":1035750,
         "wd:id":"Q2909258",
         "wk:page":"Bokoro"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890444445,
-    "wof:lastmodified":1563580626,
+    "wof:lastmodified":1566653801,
     "wof:name":"Bokoro",
     "wof:parent_id":1091901007,
     "wof:placetype":"locality",

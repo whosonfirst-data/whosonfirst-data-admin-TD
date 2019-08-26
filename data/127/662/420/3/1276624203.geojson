@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.3489,9.6649,15.3889,9.7049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276624203,
-    "wof:lastmodified":1536885910,
+    "wof:lastmodified":1566653289,
     "wof:name":"Gounou Gaskala",
     "wof:parent_id":1091900311,
     "wof:placetype":"locality",

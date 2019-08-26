@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.7659,11.5725,18.8059,11.6125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Taghala",
         "Taguilet",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326735093,
-    "wof:lastmodified":1537702697,
+    "wof:lastmodified":1566652700,
     "wof:name":"Tagale",
     "wof:parent_id":1091900821,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.20859,11.86281,18.24859,11.90281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Moc\u00e9",
         "Moki"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310309979,
-    "wof:lastmodified":1537702720,
+    "wof:lastmodified":1566653607,
     "wof:name":"Moki",
     "wof:parent_id":1091900785,
     "wof:placetype":"locality",

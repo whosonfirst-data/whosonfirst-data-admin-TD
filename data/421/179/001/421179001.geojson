@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.630005,
     "lbl:longitude":20.848884,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ouadda",
     "meso:gadm_admin":"Ouara",
     "meso:gadm_hasc2":"TD.OD.OU",
@@ -28,6 +30,7 @@
     "mps:longitude":20.848884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0648\u0627\u0631\u0627"
@@ -84,9 +87,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2009-06-20",
     "statoids:capital":"Ab\u00e9ch\u00e9",
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gp:id":56013506,
         "hasc:id":"TD.OA.OR",
-        "qs:id":145329,
+        "qs_pg:id":145329,
         "wd:id":"Q1974522"
     },
     "wof:country":"TD",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421179001,
-    "wof:lastmodified":1563580616,
+    "wof:lastmodified":1566653798,
     "wof:name":"Ouara",
     "wof:parent_id":85678463,
     "wof:placetype":"county",

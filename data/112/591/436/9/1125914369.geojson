@@ -9,15 +9,18 @@
     "geom:bbox":"16.49007,13.64084,16.49007,13.64084",
     "geom:latitude":13.64084,
     "geom:longitude":16.49007,
-    "gn:gn_country":"TD",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":15190,
+    "gn:country":"TD",
+    "gn:fcode":"PPL",
     "gn:population":15190,
     "iso:country":"TD",
+    "lbl:bbox":"16.47007,13.62084,16.51007,13.66084",
     "lbl:latitude":13.64084,
     "lbl:longitude":16.49007,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0648\u0633\u0648\u0631\u0648"
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0441\u043e\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bahr el Ghazal"
     ],
     "name:urd_x_preferred":[
@@ -94,7 +97,7 @@
     "qs_pg:qs_id":1035638,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1125914369,
-    "wof:lastmodified":1563580631,
+    "wof:lastmodified":1566653803,
     "wof:name":"Moussoro",
     "wof:parent_id":1091901247,
     "wof:placetype":"locality",

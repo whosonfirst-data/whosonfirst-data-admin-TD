@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.439306,
     "lbl:longitude":18.547192,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Moyen-Chari",
     "meso:gadm_admin":"Grande Sido",
     "meso:gadm_hasc2":"TD.MO.GR",
@@ -28,6 +30,7 @@
     "mps:longitude":18.547192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Grande Sido"
     ],
@@ -47,9 +50,9 @@
         "\u0413\u0440\u0430\u043d\u0434-\u0421\u0438\u0434\u043e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2009-06-20",
     "statoids:capital":"Maro",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1091899945,
-    "wof:lastmodified":1564182594,
+    "wof:lastmodified":1566653726,
     "wof:name":"Grande Sido",
     "wof:parent_id":85678527,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.16333,10.31333,17.20333,10.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Uur"
     ],
@@ -390,7 +394,7 @@
         }
     ],
     "wof:id":1226225009,
-    "wof:lastmodified":1564183167,
+    "wof:lastmodified":1566654146,
     "wof:name":"Hour",
     "wof:parent_id":1091900595,
     "wof:placetype":"locality",

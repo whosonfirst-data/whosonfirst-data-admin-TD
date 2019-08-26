@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.23865,9.61409,16.27865,9.65409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dila"
     ],
@@ -41,8 +45,7 @@
         "Dila"
     ],
     "name:und_x_variant":[
-        "Della",
-        "Dila"
+        "Della"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209586657,
-    "wof:lastmodified":1564182169,
+    "wof:lastmodified":1566653399,
     "wof:name":"Dila",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

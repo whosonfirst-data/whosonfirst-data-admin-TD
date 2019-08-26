@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.10739,12.0486,16.14739,12.0886",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276840403,
-    "wof:lastmodified":1537090848,
+    "wof:lastmodified":1566653261,
     "wof:name":"Am Tanabo",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

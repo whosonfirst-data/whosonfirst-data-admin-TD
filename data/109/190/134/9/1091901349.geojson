@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.43231,
     "lbl:longitude":21.942605,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Wadi Fira",
     "meso:gadm_admin":"Dar Tama",
     "meso:gadm_hasc2":"TD.BI.DT",
@@ -28,6 +30,7 @@
     "mps:longitude":21.942605,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Dar Tama"
     ],
@@ -35,9 +38,9 @@
         "Dar Tama"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2009-06-20",
     "statoids:capital":"Gu\u00e9r\u00e9da",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1091901349,
-    "wof:lastmodified":1553717954,
+    "wof:lastmodified":1566653727,
     "wof:name":"Dar Tama",
     "wof:parent_id":85678453,
     "wof:placetype":"county",

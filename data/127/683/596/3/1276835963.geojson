@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.59667,13.1802,15.63667,13.2202",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276835963,
-    "wof:lastmodified":1537096695,
+    "wof:lastmodified":1566653265,
     "wof:name":"Kelekele Maloumari",
     "wof:parent_id":1091901071,
     "wof:placetype":"locality",

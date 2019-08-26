@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.94909,13.28835,21.98909,13.32835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226022001,
-    "wof:lastmodified":1536759672,
+    "wof:lastmodified":1566654109,
     "wof:name":"Serefia",
     "wof:parent_id":1091901205,
     "wof:placetype":"locality",

@@ -23,18 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.53146,8.8271,16.57146,8.8671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ndou"
     ],
     "name:fra_x_variant":[
         "Du",
         "Dou"
-    ],
-    "name:und_x_variant":[
-        "Dou",
-        "Du"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":1276356175,
-    "wof:lastmodified":1537702713,
+    "wof:lastmodified":1566653210,
     "wof:name":"Ndou",
     "wof:parent_id":1091900177,
     "wof:placetype":"locality",

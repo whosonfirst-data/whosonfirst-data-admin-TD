@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.2081,9.3099,16.2481,9.3499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guidina Donon",
         "Guidjina Donon"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209995387,
-    "wof:lastmodified":1537702757,
+    "wof:lastmodified":1566653346,
     "wof:name":"Guidjina Donon",
     "wof:parent_id":1091901691,
     "wof:placetype":"locality",

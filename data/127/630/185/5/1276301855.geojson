@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.11356,9.35577,15.15356,9.39577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Djig\u00e9t\u00e9",
         "Djigu\u00e9t\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276301855,
-    "wof:lastmodified":1537702825,
+    "wof:lastmodified":1566653285,
     "wof:name":"Djiguete",
     "wof:parent_id":1091900311,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.3427,11.7908,17.3827,11.8308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tos\u00e9g\u00e9di",
         "Tos\u00e9gu\u00e9di"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276416165,
-    "wof:lastmodified":1537702825,
+    "wof:lastmodified":1566653256,
     "wof:name":"Toseguedi",
     "wof:parent_id":1091901007,
     "wof:placetype":"locality",

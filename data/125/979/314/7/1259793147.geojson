@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.5612,13.4991,18.6012,13.5391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Hadara",
         "Djedaa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259793147,
-    "wof:lastmodified":1537702781,
+    "wof:lastmodified":1566653986,
     "wof:name":"Djedaa",
     "wof:parent_id":1091901485,
     "wof:placetype":"locality",

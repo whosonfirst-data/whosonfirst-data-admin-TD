@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.6947,10.2324,17.7347,10.2724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gamboul",
         "Gamkoul"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276197415,
-    "wof:lastmodified":1537702767,
+    "wof:lastmodified":1566653175,
     "wof:name":"Gamkoul",
     "wof:parent_id":1091900487,
     "wof:placetype":"locality",

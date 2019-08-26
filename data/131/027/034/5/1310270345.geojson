@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.44275,8.0528,17.48275,8.0928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dobo"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310270345,
-    "wof:lastmodified":1564182458,
+    "wof:lastmodified":1566653628,
     "wof:name":"Dobo",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

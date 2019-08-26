@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.76651,10.78977,15.80651,10.82977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259953163,
-    "wof:lastmodified":1536678877,
+    "wof:lastmodified":1566654013,
     "wof:name":"Gole Assane",
     "wof:parent_id":1091900627,
     "wof:placetype":"locality",

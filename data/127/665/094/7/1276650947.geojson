@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.96938,8.52527,17.00938,8.56527",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
-        "Koumatou"
-    ],
-    "name:und_x_variant":[
         "Koumatou"
     ],
     "src:geom":"geonames",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1276650947,
-    "wof:lastmodified":1537702739,
+    "wof:lastmodified":1566653294,
     "wof:name":"Koumati",
     "wof:parent_id":1091899891,
     "wof:placetype":"locality",

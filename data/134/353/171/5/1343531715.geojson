@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.1965,11.73344,15.2365,11.77344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343531715,
-    "wof:lastmodified":1536642760,
+    "wof:lastmodified":1566652842,
     "wof:name":"Mokoloum",
     "wof:parent_id":1091900725,
     "wof:placetype":"locality",

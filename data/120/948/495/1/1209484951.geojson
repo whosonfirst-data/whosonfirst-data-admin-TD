@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.8075,9.8492,14.8475,9.8892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Verde"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1209484951,
-    "wof:lastmodified":1564182092,
+    "wof:lastmodified":1566653349,
     "wof:name":"Verde",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

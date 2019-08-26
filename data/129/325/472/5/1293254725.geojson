@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.45149,9.09253,17.49149,9.13253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Moussoumano",
         "Moussoumounda"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293254725,
-    "wof:lastmodified":1537702716,
+    "wof:lastmodified":1566653068,
     "wof:name":"Moussoumounda",
     "wof:parent_id":1091900193,
     "wof:placetype":"locality",

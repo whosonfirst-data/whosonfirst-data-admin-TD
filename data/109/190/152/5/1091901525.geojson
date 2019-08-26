@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.881825,
     "lbl:longitude":17.054836,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Barh-El-Gazel",
     "meso:gadm_admin":"Barh El Gazel",
     "meso:gadm_hasc2":"TD.KA.BG",
@@ -28,6 +30,7 @@
     "mps:longitude":17.054836,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Barh el Gazel Nord"
     ],
@@ -35,9 +38,9 @@
         "Barh El Gazel"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2009-06-20",
     "statoids:capital":"Salal",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1091901525,
-    "wof:lastmodified":1553717954,
+    "wof:lastmodified":1566653733,
     "wof:name":"Barh-El-Gazel Nord",
     "wof:parent_id":85678519,
     "wof:placetype":"county",

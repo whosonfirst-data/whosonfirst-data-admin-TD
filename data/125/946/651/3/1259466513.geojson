@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.91187,9.42493,15.95187,9.46493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Djougoun"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1259466513,
-    "wof:lastmodified":1564182941,
+    "wof:lastmodified":1566653988,
     "wof:name":"Djougoun",
     "wof:parent_id":1091900271,
     "wof:placetype":"locality",

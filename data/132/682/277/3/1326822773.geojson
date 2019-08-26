@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.36514,14.08703,14.40514,14.12703",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gelimi Dango",
         "G\u00e9l\u00e9 Midinga"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326822773,
-    "wof:lastmodified":1537702765,
+    "wof:lastmodified":1566652764,
     "wof:name":"Gele Midinga",
     "wof:parent_id":1091901265,
     "wof:placetype":"locality",

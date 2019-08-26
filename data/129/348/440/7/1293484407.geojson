@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.7302,13.62433,15.7702,13.66433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293484407,
-    "wof:lastmodified":1536791875,
+    "wof:lastmodified":1566653042,
     "wof:name":"Bir Somo",
     "wof:parent_id":1091901165,
     "wof:placetype":"locality",

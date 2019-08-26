@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"20.45289,14.47793,20.49289,14.51793",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Touil"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209528619,
-    "wof:lastmodified":1564182082,
+    "wof:lastmodified":1566653342,
     "wof:name":"Touil",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

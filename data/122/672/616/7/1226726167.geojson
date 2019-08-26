@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.48029,8.70662,18.52029,8.74662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226726167,
-    "wof:lastmodified":1536743525,
+    "wof:lastmodified":1566654068,
     "wof:name":"Bouroube",
     "wof:parent_id":1091899945,
     "wof:placetype":"locality",

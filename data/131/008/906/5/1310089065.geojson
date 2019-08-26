@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.6525,9.2489,16.6925,9.2889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Guidari"
     ],
     "name:und_x_variant":[
-        "Gidari",
-        "Guidari"
+        "Gidari"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310089065,
-    "wof:lastmodified":1564182434,
+    "wof:lastmodified":1566653609,
     "wof:name":"Guidari",
     "wof:parent_id":1091900435,
     "wof:placetype":"locality",

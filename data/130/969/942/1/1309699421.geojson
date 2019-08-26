@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.11091,13.90568,21.15091,13.94568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309699421,
-    "wof:lastmodified":1537081377,
+    "wof:lastmodified":1566653780,
     "wof:name":"Ountat",
     "wof:parent_id":421179001,
     "wof:placetype":"locality",

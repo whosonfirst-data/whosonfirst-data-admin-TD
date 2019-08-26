@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.26246,11.99533,15.30246,12.03533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242844719,
-    "wof:lastmodified":1536679008,
+    "wof:lastmodified":1566653911,
     "wof:name":"Madba",
     "wof:parent_id":1091900725,
     "wof:placetype":"locality",

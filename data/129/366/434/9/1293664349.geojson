@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.46451,8.38473,17.50451,8.42473",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293664349,
-    "wof:lastmodified":1537028210,
+    "wof:lastmodified":1566653073,
     "wof:name":"Nangda",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

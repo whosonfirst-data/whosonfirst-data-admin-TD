@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.83571,12.45873,14.87571,12.49873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1309769369,
-    "wof:lastmodified":1536983001,
+    "wof:lastmodified":1566653765,
     "wof:name":"Djoukoup",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

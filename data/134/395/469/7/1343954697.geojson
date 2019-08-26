@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.8484,8.93718,16.8884,8.97718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Koutoutou"
     ],
     "name:fra_x_variant":[
-        "Koutou"
-    ],
-    "name:und_x_variant":[
         "Koutou"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1343954697,
-    "wof:lastmodified":1537702737,
+    "wof:lastmodified":1566652908,
     "wof:name":"Koutoutou",
     "wof:parent_id":1091900157,
     "wof:placetype":"locality",

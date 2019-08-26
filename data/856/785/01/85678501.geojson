@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":17.244356,
     "lbl:longitude":18.246761,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Borkou",
     "mps:latitude":18.049283,
     "mps:longitude":18.256882,
@@ -52,7 +53,7 @@
     "name:swe_x_preferred":[
         "Borku"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Min\u0163aqah B\u016brk\u016b"
     ],
     "ne:abbrev":"",
@@ -128,9 +129,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"600,350",
     "statoids:area_mi":"231,800",
     "statoids:as_of_date":"2009-06-20",
@@ -175,7 +176,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1565736830,
+    "wof:lastmodified":1566652991,
     "wof:name":"Borkou",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

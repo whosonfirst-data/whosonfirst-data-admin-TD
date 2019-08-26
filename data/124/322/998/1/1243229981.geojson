@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.84089,12.47559,14.88089,12.51559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Malali\u00e9"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1243229981,
-    "wof:lastmodified":1537702729,
+    "wof:lastmodified":1566653879,
     "wof:name":"Malalie",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

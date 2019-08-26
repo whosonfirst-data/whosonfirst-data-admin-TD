@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.419086,
     "lbl:longitude":21.250053,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Ouadda\u00ef",
     "mps:latitude":13.469459,
     "mps:longitude":21.14002,
@@ -164,7 +165,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0434\u0434\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion du Ouaddat"
     ],
     "name:urd_x_preferred":[
@@ -248,9 +249,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"76,240",
     "statoids:area_mi":"29,440",
     "statoids:as_of_date":"2009-06-20",
@@ -274,7 +275,7 @@
         "gp:id":2344956,
         "hasc:id":"TD.OA",
         "iso:id":"TD-OD",
-        "qs:id":219523,
+        "qs_pg:id":219523,
         "wd:id":"Q841338",
         "wk:page":"Ouadda\u00ef Region"
     },
@@ -296,11 +297,10 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1565736837,
+    "wof:lastmodified":1566652994,
     "wof:name":"Ouadda\u00ef",
     "wof:parent_id":85632325,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":731679,
     "wof:population_rank":11,

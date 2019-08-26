@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.7867,8.54903,15.8267,8.58903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309796633,
-    "wof:lastmodified":1536944776,
+    "wof:lastmodified":1566653757,
     "wof:name":"Mar",
     "wof:parent_id":1091900031,
     "wof:placetype":"locality",

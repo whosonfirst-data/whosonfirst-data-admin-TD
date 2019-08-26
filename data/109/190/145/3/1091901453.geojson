@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.33034,
     "lbl:longitude":22.472114,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Wadi Fira",
     "meso:gadm_admin":"Kob\u00e9",
     "meso:gadm_hasc2":"TD.BI.KO",
@@ -28,6 +30,7 @@
     "mps:longitude":22.472114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Iriba"
     ],
@@ -53,9 +56,9 @@
         "\u06c1\u0631\u06cc\u0628\u0627"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2009-06-20",
     "statoids:capital":"Iriba",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1091901453,
-    "wof:lastmodified":1564182599,
+    "wof:lastmodified":1566653731,
     "wof:name":"Iriba",
     "wof:parent_id":85678453,
     "wof:placetype":"county",

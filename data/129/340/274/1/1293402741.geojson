@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"20.86803,14.42385,20.90803,14.46385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u4e39\u53e3\u9547"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293402741,
-    "wof:lastmodified":1564181709,
+    "wof:lastmodified":1566653060,
     "wof:name":"Dankou",
     "wof:parent_id":1091901409,
     "wof:placetype":"locality",

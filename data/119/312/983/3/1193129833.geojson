@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.43616,14.11182,15.47616,14.15182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Binda"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1193129833,
-    "wof:lastmodified":1564182267,
+    "wof:lastmodified":1566653476,
     "wof:name":"Binda",
     "wof:parent_id":1091901305,
     "wof:placetype":"locality",

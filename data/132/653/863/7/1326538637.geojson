@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.93,15.11333,21.97,15.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326538637,
-    "wof:lastmodified":1536974267,
+    "wof:lastmodified":1566652799,
     "wof:name":"Narweyt",
     "wof:parent_id":1091901775,
     "wof:placetype":"locality",

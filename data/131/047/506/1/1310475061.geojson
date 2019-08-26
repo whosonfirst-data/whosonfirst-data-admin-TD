@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.10856,12.13109,16.14856,12.17109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310475061,
-    "wof:lastmodified":1536960774,
+    "wof:lastmodified":1566653586,
     "wof:name":"Ras el Fil",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

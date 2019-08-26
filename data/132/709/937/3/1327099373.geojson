@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.2097,9.8496,14.2497,9.8896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327099373,
-    "wof:lastmodified":1536663977,
+    "wof:lastmodified":1566652675,
     "wof:name":"Madjouki",
     "wof:parent_id":1091901927,
     "wof:placetype":"locality",

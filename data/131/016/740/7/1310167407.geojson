@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.05286,8.99129,15.09286,9.03129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310167407,
-    "wof:lastmodified":1536907680,
+    "wof:lastmodified":1566653635,
     "wof:name":"Babalao",
     "wof:parent_id":1091900237,
     "wof:placetype":"locality",

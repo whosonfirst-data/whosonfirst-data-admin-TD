@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"19.9549,12.5964,19.9949,12.6364",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mourah",
         "Moura Gilbo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326462131,
-    "wof:lastmodified":1537702717,
+    "wof:lastmodified":1566652772,
     "wof:name":"Moura Gilbo",
     "wof:parent_id":1091900939,
     "wof:placetype":"locality",

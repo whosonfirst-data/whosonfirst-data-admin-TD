@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.875487,
     "lbl:longitude":17.528211,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Batha",
     "meso:gadm_admin":"Batha Oues",
     "meso:gadm_hasc2":"TD.BA.BO",
@@ -28,6 +30,7 @@
     "mps:longitude":17.528211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Fitri"
     ],
@@ -35,9 +38,9 @@
         "Batha Oues"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2009-06-20",
     "statoids:capital":"Yao",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1091901101,
-    "wof:lastmodified":1553717954,
+    "wof:lastmodified":1566653732,
     "wof:name":"Fittri",
     "wof:parent_id":85678449,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.23,7.91333,16.27,7.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -34,7 +38,7 @@
         "gn:id":2433345
     },
     "wof:country":"TD",
-    "wof:geomhash":"2f680d9e31fef1b321a63fb129fc95bb",
+    "wof:geomhash":"7a4a1f894b2ccd3d0d785b7c849b2052",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209404393,
-    "wof:lastmodified":1536288043,
+    "wof:lastmodified":1566653365,
     "wof:name":"Dokague II",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     16.25,
-    7.9333300000000015,
+    7.93333,
     16.25,
-    7.9333300000000015
+    7.93333
 ],
   "geometry": {"coordinates":[16.25,7.93333],"type":"Point"}
 }

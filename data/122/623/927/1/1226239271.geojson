@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.02979,8.91271,16.06979,8.95271",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Besey II"
     ],
@@ -34,11 +38,7 @@
         "Besa\u00efe"
     ],
     "name:und_x_variant":[
-        "Besa\u00efe",
-        "Besaje",
-        "Besseye II",
-        "B\u00e9ssey II",
-        "Besey II"
+        "B\u00e9ssey II"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1226239271,
-    "wof:lastmodified":1537702799,
+    "wof:lastmodified":1566654161,
     "wof:name":"Bessey II",
     "wof:parent_id":1091900031,
     "wof:placetype":"locality",

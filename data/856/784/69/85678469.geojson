@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":8.248287,
     "lbl:longitude":16.422962,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Logone Oriental",
     "mps:latitude":8.255862,
     "mps:longitude":16.446936,
@@ -139,7 +140,7 @@
         "Logone Oriental"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bcb\u0b95\u0bcb\u0ba9\u0bc7  \u0b92\u0bb0\u0bbf\u0b8e\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0bb2\u0bcb\u0b95\u0bcb\u0ba9\u0bc7 \u0b92\u0bb0\u0bbf\u0b8e\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c4b\u0c17\u0c4b\u0c28\u0c4d \u0c13\u0c30\u0c3f\u0c2f\u0c02\u0c1f\u0c32\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -152,9 +153,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0445\u0456\u0434\u043d\u0438\u0439 \u041b\u043e\u0433\u043e\u043d"
-    ],
-    "name:unk_x_variant":[
-        "R\u00e9gion du Logone Oriental"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u06af\u0648\u0646\u06d2 \u0645\u0634\u0631\u0642\u06cc \u0639\u0644\u0627\u0642\u06c1"
@@ -237,9 +235,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"28,035",
     "statoids:area_mi":"10,820",
     "statoids:as_of_date":"2009-06-20",
@@ -266,7 +264,7 @@
         "gp:id":2344953,
         "hasc:id":"TD.LR",
         "iso:id":"TD-LR",
-        "qs:id":91440,
+        "qs_pg:id":91440,
         "unlc:id":"TD-LR",
         "wd:id":"Q167514",
         "wk:page":"Logone Oriental Region"
@@ -289,11 +287,10 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1565736831,
+    "wof:lastmodified":1566652992,
     "wof:name":"Logone Oriental",
     "wof:parent_id":85632325,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":796453,
     "wof:population_rank":11,

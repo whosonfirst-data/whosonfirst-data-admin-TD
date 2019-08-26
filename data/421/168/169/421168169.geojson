@@ -10,8 +10,12 @@
     "geom:latitude":10.4795,
     "geom:longitude":16.7117,
     "iso:country":"TD",
+    "lbl:bbox":"16.6917,10.4595,16.7317,10.4995",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0633\u0648"
@@ -49,7 +53,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u0441\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fort Bretonnet"
     ],
     "name:urd_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":2434584,
         "gp:id":1272873,
-        "qs:id":1035733,
+        "qs_pg:id":1035733,
         "wd:id":"Q658168",
         "wk:page":"Bousso"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421168169,
-    "wof:lastmodified":1563580611,
+    "wof:lastmodified":1566653796,
     "wof:name":"Bousso",
     "wof:parent_id":1091900595,
     "wof:placetype":"locality",

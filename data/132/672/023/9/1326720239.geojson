@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.32842,8.53341,16.36842,8.57341",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
-        "Bao"
-    ],
-    "name:und_x_variant":[
         "Bao"
     ],
     "src:geom":"geonames",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1326720239,
-    "wof:lastmodified":1537702808,
+    "wof:lastmodified":1566652685,
     "wof:name":"Bao I",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",

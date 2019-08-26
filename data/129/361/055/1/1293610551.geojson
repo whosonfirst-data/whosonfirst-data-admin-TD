@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.67051,13.51513,15.71051,13.55513",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092e\u094b\u0932\u0940"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1293610551,
-    "wof:lastmodified":1564181720,
+    "wof:lastmodified":1566653069,
     "wof:name":"Moli",
     "wof:parent_id":1091901165,
     "wof:placetype":"locality",

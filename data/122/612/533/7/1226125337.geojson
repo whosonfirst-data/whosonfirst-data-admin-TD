@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.39518,12.09559,15.43518,12.13559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226125337,
-    "wof:lastmodified":1536607502,
+    "wof:lastmodified":1566654163,
     "wof:name":"Adderabi",
     "wof:parent_id":1091900725,
     "wof:placetype":"locality",

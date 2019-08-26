@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.710678,
     "lbl:longitude":20.40243,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Salamat",
     "meso:gadm_admin":"Barh Azoum",
     "meso:gadm_hasc2":"TD.SA.AT",
@@ -28,6 +30,7 @@
     "mps:longitude":20.40243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Barh Azoum"
     ],
@@ -35,9 +38,9 @@
         "Barh Azoum"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2009-06-20",
     "statoids:capital":"Am Timan",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1091900689,
-    "wof:lastmodified":1553717954,
+    "wof:lastmodified":1566653735,
     "wof:name":"Bahr Azoum",
     "wof:parent_id":85678487,
     "wof:placetype":"county",

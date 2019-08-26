@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.94924,14.04306,14.98924,14.08306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326722883,
-    "wof:lastmodified":1536709603,
+    "wof:lastmodified":1566652685,
     "wof:name":"Tchougoum",
     "wof:parent_id":1091901305,
     "wof:placetype":"locality",

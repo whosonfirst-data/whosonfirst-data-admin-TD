@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.4125,8.1547,17.4525,8.1947",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kamata"
     ],
@@ -38,8 +42,7 @@
         "Kamata"
     ],
     "name:und_x_variant":[
-        "Kemata",
-        "Kamata"
+        "Kemata"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1243030569,
-    "wof:lastmodified":1564182804,
+    "wof:lastmodified":1566653888,
     "wof:name":"Kamata",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

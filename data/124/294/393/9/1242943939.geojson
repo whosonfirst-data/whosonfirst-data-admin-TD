@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.6504,9.6903,16.6904,9.7303",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gore"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1242943939,
-    "wof:lastmodified":1564182749,
+    "wof:lastmodified":1566653847,
     "wof:name":"Gore",
     "wof:parent_id":1091900435,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.60968,13.38898,15.64968,13.42898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260204863,
-    "wof:lastmodified":1536817872,
+    "wof:lastmodified":1566653533,
     "wof:name":"Gouliou Seeli",
     "wof:parent_id":1091901165,
     "wof:placetype":"locality",

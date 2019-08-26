@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.66218,12.87454,15.70218,12.91454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Garat Talata",
         "Garatalata"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293164177,
-    "wof:lastmodified":1537702766,
+    "wof:lastmodified":1566653121,
     "wof:name":"Garatalata",
     "wof:parent_id":1091901071,
     "wof:placetype":"locality",

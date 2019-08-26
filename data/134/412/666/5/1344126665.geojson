@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.4624,9.8727,15.5024,9.9127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "G\u00e9n\u00e9 II",
         "Gu\u00e9n\u00e9 II"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344126665,
-    "wof:lastmodified":1537702757,
+    "wof:lastmodified":1566652869,
     "wof:name":"Guene II",
     "wof:parent_id":1091900357,
     "wof:placetype":"locality",

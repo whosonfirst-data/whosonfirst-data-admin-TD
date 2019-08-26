@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.8891,8.6704,17.9291,8.7104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Mayo"
     ],
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":1209480715,
-    "wof:lastmodified":1564182089,
+    "wof:lastmodified":1566653347,
     "wof:name":"Mayo",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

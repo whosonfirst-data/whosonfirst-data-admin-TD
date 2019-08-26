@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.5325,8.1701,17.5725,8.2101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Mara"
     ],
@@ -134,8 +138,7 @@
         "\u041c\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Nara",
-        "Mara"
+        "Nara"
     ],
     "name:vie_x_preferred":[
         "Mara"
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":1242740359,
-    "wof:lastmodified":1564182719,
+    "wof:lastmodified":1566653826,
     "wof:name":"Mara",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

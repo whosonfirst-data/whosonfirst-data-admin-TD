@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"20.62989,13.3049,20.66989,13.3449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Niatogon"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226229413,
-    "wof:lastmodified":1537702653,
+    "wof:lastmodified":1566654146,
     "wof:name":"Niatogon",
     "wof:parent_id":421179001,
     "wof:placetype":"locality",

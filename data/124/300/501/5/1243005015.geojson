@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"19.1916,12.3635,19.2316,12.4035",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Eref"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243005015,
-    "wof:lastmodified":1564182691,
+    "wof:lastmodified":1566653806,
     "wof:name":"Eref",
     "wof:parent_id":1091900939,
     "wof:placetype":"locality",

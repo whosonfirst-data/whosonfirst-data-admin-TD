@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.26937,14.16752,21.30937,14.20752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0648"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1327137461,
-    "wof:lastmodified":1564181293,
+    "wof:lastmodified":1566652732,
     "wof:name":"Soyo",
     "wof:parent_id":1091901409,
     "wof:placetype":"locality",

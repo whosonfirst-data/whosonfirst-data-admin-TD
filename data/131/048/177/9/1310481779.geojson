@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"20.74617,13.69934,20.78617,13.73934",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Goz B\u00e9\u00efda"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310481779,
-    "wof:lastmodified":1537702668,
+    "wof:lastmodified":1566653576,
     "wof:name":"Goz Beida",
     "wof:parent_id":421179001,
     "wof:placetype":"locality",

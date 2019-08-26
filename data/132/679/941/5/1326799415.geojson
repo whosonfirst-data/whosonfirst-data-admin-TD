@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.2054,14.8239,17.2454,14.8639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Salal"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1326799415,
-    "wof:lastmodified":1564181343,
+    "wof:lastmodified":1566652772,
     "wof:name":"Salal",
     "wof:parent_id":1091901525,
     "wof:placetype":"locality",

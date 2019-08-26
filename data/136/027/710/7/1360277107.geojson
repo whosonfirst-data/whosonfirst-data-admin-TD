@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.5411,13.64546,15.5811,13.68546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mal_x_preferred":[
         "\u0d15\u0d33\u0d30\u0d3f"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360277107,
-    "wof:lastmodified":1564182565,
+    "wof:lastmodified":1566653704,
     "wof:name":"Kalari",
     "wof:parent_id":1091901165,
     "wof:placetype":"locality",

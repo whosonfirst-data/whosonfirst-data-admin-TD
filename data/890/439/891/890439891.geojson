@@ -11,8 +11,11 @@
     "geom:longitude":20.8324,
     "gn:country":"TD",
     "gn:fcode":"PPLA",
-    "gn:pop":74188,
+    "gn:population":74188,
     "iso:country":"TD",
+    "lbl:bbox":"20.8124,13.80916,20.8524,13.84916",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -178,7 +181,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0435\u0448\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Abacher"
     ],
     "name:urd_x_preferred":[
@@ -303,12 +306,12 @@
     "wof:concordances":{
         "gn:id":245785,
         "gp:id":1270811,
-        "qs:id":274668,
+        "qs_pg:id":274668,
         "wd:id":"Q242587",
         "wk:page":"Ab\u00e9ch\u00e9"
     },
     "wof:concordances_alt":{
-        "qs:id":1114906
+        "qs_pg:id":1114906
     },
     "wof:country":"TD",
     "wof:created":1469052254,
@@ -323,7 +326,7 @@
         }
     ],
     "wof:id":890439891,
-    "wof:lastmodified":1563580621,
+    "wof:lastmodified":1566653799,
     "wof:name":"Ab\u00e9ch\u00e9",
     "wof:parent_id":421179001,
     "wof:placetype":"locality",

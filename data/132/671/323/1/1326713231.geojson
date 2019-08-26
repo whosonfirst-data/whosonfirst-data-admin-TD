@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.43709,10.53304,16.47709,10.57304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maffaling",
         "Maffeling",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326713231,
-    "wof:lastmodified":1537702732,
+    "wof:lastmodified":1566652769,
     "wof:name":"Mafaling",
     "wof:parent_id":1091900595,
     "wof:placetype":"locality",

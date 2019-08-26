@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.479867,
     "lbl:longitude":19.591961,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Salamat",
     "meso:gadm_admin":"Aboude\u00efa",
     "meso:gadm_hasc2":"TD.SA.AD",
@@ -28,6 +30,7 @@
     "mps:longitude":19.591961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Aboude\u00efa"
     ],
@@ -35,9 +38,9 @@
         "Aboude\u00efa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2009-06-20",
     "statoids:capital":"Abodeia",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1091900707,
-    "wof:lastmodified":1553717954,
+    "wof:lastmodified":1566653728,
     "wof:name":"Aboudeia",
     "wof:parent_id":85678487,
     "wof:placetype":"county",

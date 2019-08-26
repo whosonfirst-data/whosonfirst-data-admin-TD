@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.321,10.9215,16.361,10.9615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -34,7 +38,7 @@
         "gn:id":2428920
     },
     "wof:country":"TD",
-    "wof:geomhash":"eb3227c047f00af710d1e80c0e47bda5",
+    "wof:geomhash":"d2b294aeab4a9c207fee6d9f4e2c27a6",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209187311,
-    "wof:lastmodified":1536295055,
+    "wof:lastmodified":1566653420,
     "wof:name":"Madawadji",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.340999999999998,
+    16.341,
     10.9415,
-    16.340999999999998,
+    16.341,
     10.9415
 ],
   "geometry": {"coordinates":[16.341,10.9415],"type":"Point"}

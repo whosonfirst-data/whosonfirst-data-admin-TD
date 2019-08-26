@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.28369,8.72501,16.32369,8.76501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
-        "Nangkassa"
-    ],
-    "name:und_x_variant":[
         "Nangkassa"
     ],
     "src:geom":"geonames",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1309896573,
-    "wof:lastmodified":1537702714,
+    "wof:lastmodified":1566653787,
     "wof:name":"Nakassa",
     "wof:parent_id":1091900031,
     "wof:placetype":"locality",

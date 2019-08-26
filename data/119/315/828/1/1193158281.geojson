@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.34566,13.3907,15.38566,13.4307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193158281,
-    "wof:lastmodified":1536370873,
+    "wof:lastmodified":1566653472,
     "wof:name":"Forom",
     "wof:parent_id":1091901129,
     "wof:placetype":"locality",

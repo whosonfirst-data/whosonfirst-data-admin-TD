@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.2565,9.0873,16.2965,9.1273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343546785,
-    "wof:lastmodified":1536619555,
+    "wof:lastmodified":1566652838,
     "wof:name":"Djabi",
     "wof:parent_id":1091900177,
     "wof:placetype":"locality",

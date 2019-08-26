@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.206,8.72841,18.246,8.76841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276833067,
-    "wof:lastmodified":1536603309,
+    "wof:lastmodified":1566653264,
     "wof:name":"Gboima",
     "wof:parent_id":1091900487,
     "wof:placetype":"locality",

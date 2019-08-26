@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.0891,9.11793,18.1291,9.15793",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Sonni"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1293352961,
-    "wof:lastmodified":1564181737,
+    "wof:lastmodified":1566653082,
     "wof:name":"Sonni",
     "wof:parent_id":1091900193,
     "wof:placetype":"locality",

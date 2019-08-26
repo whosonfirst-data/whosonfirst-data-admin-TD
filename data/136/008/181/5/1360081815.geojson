@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.77868,8.13912,16.81868,8.17912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "B\u00e9t\u00e9dj\u00e9"
     ],
     "name:und_x_variant":[
-        "B\u00e9t\u00e9j\u00e9",
-        "B\u00e9t\u00e9dj\u00e9"
+        "B\u00e9t\u00e9j\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1360081815,
-    "wof:lastmodified":1537702798,
+    "wof:lastmodified":1566653698,
     "wof:name":"Beteje",
     "wof:parent_id":1091899821,
     "wof:placetype":"locality",

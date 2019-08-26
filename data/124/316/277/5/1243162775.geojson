@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.76883,8.49245,15.80883,8.53245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mailao",
         "Ma\u00eflo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243162775,
-    "wof:lastmodified":1537702730,
+    "wof:lastmodified":1566653940,
     "wof:name":"Mailo",
     "wof:parent_id":1091900031,
     "wof:placetype":"locality",

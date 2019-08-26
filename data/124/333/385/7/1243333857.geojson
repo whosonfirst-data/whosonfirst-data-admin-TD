@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.5992,11.5358,16.6392,11.5758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243333857,
-    "wof:lastmodified":1536967733,
+    "wof:lastmodified":1566653904,
     "wof:name":"Amabili",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

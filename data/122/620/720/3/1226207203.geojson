@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.8681,9.5026,14.9081,9.5426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ouma"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226207203,
-    "wof:lastmodified":1564183097,
+    "wof:lastmodified":1566654097,
     "wof:name":"Ouma",
     "wof:parent_id":1091900237,
     "wof:placetype":"locality",

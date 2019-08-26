@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.46541,8.72588,16.50541,8.76588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bessey"
     ],
@@ -89,8 +93,7 @@
         "\u0411\u0435\u0441\u0441\u0435"
     ],
     "name:und_x_variant":[
-        "B\u00e9ssey",
-        "Besseye"
+        "B\u00e9ssey"
     ],
     "name:uzb_x_preferred":[
         "Bessey"
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1343752585,
-    "wof:lastmodified":1564181601,
+    "wof:lastmodified":1566652974,
     "wof:name":"Bessey",
     "wof:parent_id":1091900177,
     "wof:placetype":"locality",

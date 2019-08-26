@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.68,11.06333,16.72,11.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ylla"
     ],
@@ -33,8 +37,7 @@
         "Ylla"
     ],
     "name:und_x_variant":[
-        "Yllal",
-        "Ylla"
+        "Yllal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1309888697,
-    "wof:lastmodified":1564182675,
+    "wof:lastmodified":1566653789,
     "wof:name":"Ylla",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

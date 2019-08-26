@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.5644,9.4052,14.6044,9.4452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326695009,
-    "wof:lastmodified":1536749378,
+    "wof:lastmodified":1566652705,
     "wof:name":"Ndeitchou",
     "wof:parent_id":1091900399,
     "wof:placetype":"locality",

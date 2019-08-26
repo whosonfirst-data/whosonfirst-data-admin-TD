@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.493835,
     "lbl:longitude":15.087234,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lac",
     "meso:gadm_admin":"Wayi",
     "meso:gadm_hasc2":"TD.LC.WA",
@@ -28,6 +30,7 @@
     "mps:longitude":15.087234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:dan_x_preferred":[
         "Wayi"
     ],
@@ -41,9 +44,9 @@
         "Wayi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2009-06-20",
     "statoids:capital":"Ngouri",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1091901129,
-    "wof:lastmodified":1564182604,
+    "wof:lastmodified":1566653736,
     "wof:name":"Wayi",
     "wof:parent_id":85678445,
     "wof:placetype":"county",

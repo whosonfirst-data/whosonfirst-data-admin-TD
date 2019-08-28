@@ -9,15 +9,18 @@
     "geom:bbox":"18.94493,9.45149,18.94493,9.45149",
     "geom:latitude":9.45149,
     "geom:longitude":18.94493,
-    "gn:gn_country":"TD",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":16177,
+    "gn:country":"TD",
+    "gn:fcode":"PPL",
     "gn:population":16177,
     "iso:country":"TD",
+    "lbl:bbox":"18.92493,9.43149,18.96493,9.47149",
     "lbl:latitude":9.45149,
     "lbl:longitude":18.94493,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fra_x_preferred":[
         "Kyab\u00e9"
@@ -34,7 +37,7 @@
     "name:rus_x_preferred":[
         "\u041a\u044c\u044f\u0431\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kiyab\u00e9"
     ],
     "qs_pg:aaroncc":"TD",
@@ -49,7 +52,7 @@
     "qs_pg:qs_id":1035661,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1125893155,
-    "wof:lastmodified":1564182687,
+    "wof:lastmodified":1566653802,
     "wof:name":"Kyab\u00e9",
     "wof:parent_id":1091900523,
     "wof:placetype":"locality",

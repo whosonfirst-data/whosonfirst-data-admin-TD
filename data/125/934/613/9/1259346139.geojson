@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.12051,12.26245,15.16051,12.30245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259346139,
-    "wof:lastmodified":1537053830,
+    "wof:lastmodified":1566654035,
     "wof:name":"Alfar",
     "wof:parent_id":1091900897,
     "wof:placetype":"locality",

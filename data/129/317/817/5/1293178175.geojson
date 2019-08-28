@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.26628,13.5531,21.30628,13.5931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293178175,
-    "wof:lastmodified":1536736143,
+    "wof:lastmodified":1566653131,
     "wof:name":"Kalankara",
     "wof:parent_id":421179001,
     "wof:placetype":"locality",

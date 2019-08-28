@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.15037,9.13695,17.19037,9.17695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -34,7 +38,7 @@
         "gn:id":2429846
     },
     "wof:country":"TD",
-    "wof:geomhash":"3f641d11f683f9f51350c62b2c507c7e",
+    "wof:geomhash":"894ec3df218315eb28b90cf1359eac49",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209586665,
-    "wof:lastmodified":1536282613,
+    "wof:lastmodified":1566653397,
     "wof:name":"Kou Bembo",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.170370000000002,
+    17.17037,
     9.15695,
-    17.170370000000002,
+    17.17037,
     9.15695
 ],
   "geometry": {"coordinates":[17.17037,9.15695],"type":"Point"}

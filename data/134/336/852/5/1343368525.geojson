@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"19.7611,13.7,19.8011,13.74",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Am S\u00e9ajal",
         "Am S\u00e9ayal"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343368525,
-    "wof:lastmodified":1537702814,
+    "wof:lastmodified":1566652826,
     "wof:name":"Am Seayal",
     "wof:parent_id":1091901371,
     "wof:placetype":"locality",

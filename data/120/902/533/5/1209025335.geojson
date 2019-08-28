@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.41889,8.33896,16.45889,8.37896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bobinda"
     ],
     "name:und_x_variant":[
-        "B\u00e9b\u00efnda",
-        "Bobinda"
+        "B\u00e9b\u00efnda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209025335,
-    "wof:lastmodified":1537702793,
+    "wof:lastmodified":1566653408,
     "wof:name":"Bebinda",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

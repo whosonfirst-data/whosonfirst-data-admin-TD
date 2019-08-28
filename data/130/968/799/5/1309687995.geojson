@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.1178,12.50698,17.1578,12.54698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309687995,
-    "wof:lastmodified":1536600839,
+    "wof:lastmodified":1566653767,
     "wof:name":"Bikhese",
     "wof:parent_id":1091901007,
     "wof:placetype":"locality",

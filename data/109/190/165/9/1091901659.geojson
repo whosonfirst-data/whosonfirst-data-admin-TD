@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":21.990267,
     "lbl:longitude":16.055357,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tibesti",
     "meso:gadm_admin":"Tibesti",
     "meso:gadm_hasc2":"TD.BT.TI",
@@ -28,6 +30,7 @@
     "mps:longitude":16.055357,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tibesti Ouest"
     ],
@@ -41,9 +44,9 @@
         "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0435 \u0422\u0438\u0431\u0435\u0441\u0442\u0438"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2009-06-20",
     "statoids:capital":"Zouar",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1091901659,
-    "wof:lastmodified":1564182600,
+    "wof:lastmodified":1566653732,
     "wof:name":"Tibesti Ouest",
     "wof:parent_id":85678505,
     "wof:placetype":"county",

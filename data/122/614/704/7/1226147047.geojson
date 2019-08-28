@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.0822,13.0349,18.1222,13.0749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226147047,
-    "wof:lastmodified":1537072709,
+    "wof:lastmodified":1566654142,
     "wof:name":"Am Bouza",
     "wof:parent_id":1091901485,
     "wof:placetype":"locality",

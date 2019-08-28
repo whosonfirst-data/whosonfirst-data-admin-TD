@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":14.625681,
     "lbl:longitude":16.977565,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Barh-El-Gazel",
     "mps:latitude":14.687371,
     "mps:longitude":16.938001,
@@ -115,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0445\u0440-\u0435\u043b\u044c-\u0413\u0430\u0437\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Min\u0163aqah Ba\u1e29r al Ghaz\u0101l"
     ],
     "name:vec_x_preferred":[
@@ -200,9 +201,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2009-06-20",
@@ -247,11 +248,10 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1565736830,
+    "wof:lastmodified":1566652991,
     "wof:name":"Barh-El-Gazel",
     "wof:parent_id":85632325,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":260865,
     "wof:population_rank":10,

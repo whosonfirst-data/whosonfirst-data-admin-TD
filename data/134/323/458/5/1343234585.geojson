@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.03477,9.79367,15.07477,9.83367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Tikem"
     ],
     "name:und_x_variant":[
-        "Tickem",
-        "Tikem"
+        "Tickem"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343234585,
-    "wof:lastmodified":1564181495,
+    "wof:lastmodified":1566652894,
     "wof:name":"Tikem",
     "wof:parent_id":1091900357,
     "wof:placetype":"locality",

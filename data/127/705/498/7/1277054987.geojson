@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.59023,9.02597,15.63023,9.06597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Doumbadg\u00e9",
         "Doumbadj\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277054987,
-    "wof:lastmodified":1537702773,
+    "wof:lastmodified":1566653228,
     "wof:name":"Doumbadgue",
     "wof:parent_id":1091900271,
     "wof:placetype":"locality",

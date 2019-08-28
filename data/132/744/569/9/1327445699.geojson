@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.6926,13.0593,18.7326,13.0993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327445699,
-    "wof:lastmodified":1536661526,
+    "wof:lastmodified":1566652800,
     "wof:name":"Am Zerega",
     "wof:parent_id":1091901485,
     "wof:placetype":"locality",

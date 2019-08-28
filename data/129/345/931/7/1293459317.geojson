@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.1248,9.9421,15.1648,9.9821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hara"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1293459317,
-    "wof:lastmodified":1564181797,
+    "wof:lastmodified":1566653123,
     "wof:name":"Hara",
     "wof:parent_id":1091900357,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.90211,13.2694,21.94211,13.3094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Teguer\u00e9",
         "T\u00e9g\u00e9r\u00e9 Derta",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226219523,
-    "wof:lastmodified":1537702649,
+    "wof:lastmodified":1566654083,
     "wof:name":"Teguere Derta",
     "wof:parent_id":1091901205,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.8339,14.75608,21.8739,14.79608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nafoun\u00e9"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309909019,
-    "wof:lastmodified":1537702826,
+    "wof:lastmodified":1566653748,
     "wof:name":"Nafoune",
     "wof:parent_id":1091901349,
     "wof:placetype":"locality",

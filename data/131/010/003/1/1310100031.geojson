@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.4733,9.0311,16.5133,9.0711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310100031,
-    "wof:lastmodified":1537003630,
+    "wof:lastmodified":1566653646,
     "wof:name":"Ro",
     "wof:parent_id":1091900073,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.3453,9.1361,18.3853,9.1761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Banda"
     ],
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":1344133205,
-    "wof:lastmodified":1564181457,
+    "wof:lastmodified":1566652864,
     "wof:name":"Banda",
     "wof:parent_id":1091900487,
     "wof:placetype":"locality",

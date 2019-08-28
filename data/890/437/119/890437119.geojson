@@ -11,10 +11,14 @@
     "geom:longitude":17.7663,
     "gn:country":"TD",
     "gn:fcode":"PPL",
-    "gn:pop":11264,
+    "gn:population":11264,
     "iso:country":"TD",
+    "lbl:bbox":"17.7463,8.3204,17.7863,8.3604",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u064a\u0633\u0627\u0644\u0627"
     ],
@@ -114,7 +118,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0457\u0441\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moissaia"
     ],
     "name:urd_x_preferred":[
@@ -139,7 +143,7 @@
     "wof:concordances":{
         "gn:id":2427697,
         "gp:id":1277158,
-        "qs:id":1035641,
+        "qs_pg:id":1035641,
         "wd:id":"Q3327099",
         "wk:page":"Mo\u00efssala"
     },
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":890437119,
-    "wof:lastmodified":1563580622,
+    "wof:lastmodified":1566653800,
     "wof:name":"Mo\u00efssala",
     "wof:parent_id":1091900003,
     "wof:placetype":"locality",

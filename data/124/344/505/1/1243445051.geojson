@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.59667,8.36333,15.63667,8.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Doman",
         "Domane"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243445051,
-    "wof:lastmodified":1537702775,
+    "wof:lastmodified":1566653950,
     "wof:name":"Domane",
     "wof:parent_id":1091900031,
     "wof:placetype":"locality",

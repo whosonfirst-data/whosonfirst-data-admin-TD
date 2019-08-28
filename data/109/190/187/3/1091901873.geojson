@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.968109,
     "lbl:longitude":21.152298,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ennedi Ouest",
     "meso:gadm_admin":"Ennedi Ouest",
     "meso:gadm_hasc2":"TD.BT.EO",
@@ -28,6 +30,7 @@
     "mps:longitude":21.152298,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Fada"
     ],
@@ -35,9 +38,9 @@
         "Ennedi Ouest"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2009-06-20",
     "statoids:capital":"Fada",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1091901873,
-    "wof:lastmodified":1553717955,
+    "wof:lastmodified":1566653731,
     "wof:name":"Ennedi Ouest",
     "wof:parent_id":1108808537,
     "wof:placetype":"county",

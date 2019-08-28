@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.59204,11.15811,15.63204,11.19811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327117265,
-    "wof:lastmodified":1536636853,
+    "wof:lastmodified":1566652817,
     "wof:name":"Am Chioka",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

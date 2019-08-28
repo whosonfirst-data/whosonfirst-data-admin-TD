@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"20.06333,12.76333,20.10333,12.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Korno"
     ],
@@ -72,8 +76,7 @@
         "\u041a\u043e\u0440\u043d\u043e"
     ],
     "name:und_x_variant":[
-        "Korno Idjelidje",
-        "Korno"
+        "Korno Idjelidje"
     ],
     "name:vie_x_preferred":[
         "Korno"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1326652977,
-    "wof:lastmodified":1564181376,
+    "wof:lastmodified":1566652797,
     "wof:name":"Korno",
     "wof:parent_id":1091900939,
     "wof:placetype":"locality",

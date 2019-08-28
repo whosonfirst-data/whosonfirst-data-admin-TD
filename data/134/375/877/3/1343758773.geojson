@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.65059,8.21954,16.69059,8.25954",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mao"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343758773,
-    "wof:lastmodified":1537702728,
+    "wof:lastmodified":1566652974,
     "wof:name":"Mao",
     "wof:parent_id":1091900073,
     "wof:placetype":"locality",

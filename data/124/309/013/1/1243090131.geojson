@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"19.0697,12.0574,19.1097,12.0974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243090131,
-    "wof:lastmodified":1536821301,
+    "wof:lastmodified":1566653808,
     "wof:name":"Dourouga",
     "wof:parent_id":1091900821,
     "wof:placetype":"locality",

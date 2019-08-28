@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.85858,9.68246,18.89858,9.72246",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343921611,
-    "wof:lastmodified":1537073099,
+    "wof:lastmodified":1566652909,
     "wof:name":"Oulouboy",
     "wof:parent_id":1091900523,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.4919,11.4034,16.5319,11.4434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Magili",
         "Maguili"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326703369,
-    "wof:lastmodified":1537702732,
+    "wof:lastmodified":1566652773,
     "wof:name":"Maguili",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

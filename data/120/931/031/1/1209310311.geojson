@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.41634,8.58713,16.45634,8.62713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -34,7 +38,7 @@
         "gn:id":6909268
     },
     "wof:country":"TD",
-    "wof:geomhash":"cd4bc4f776edb579979021f574e164f3",
+    "wof:geomhash":"43ae98d9dc758001da3988718562a40a",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209310311,
-    "wof:lastmodified":1536291051,
+    "wof:lastmodified":1566653306,
     "wof:name":"Koudoubida",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.436339999999998,
+    16.43634,
     8.60713,
-    16.436339999999998,
+    16.43634,
     8.60713
 ],
   "geometry": {"coordinates":[16.43634,8.60713],"type":"Point"}

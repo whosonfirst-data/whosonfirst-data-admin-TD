@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.115782,
     "lbl:longitude":15.205826,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kanem",
     "meso:gadm_admin":"Kanem",
     "meso:gadm_hasc2":"TD.KA.KA",
@@ -28,6 +30,7 @@
     "mps:longitude":15.205826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Kanem"
     ],
@@ -56,9 +59,9 @@
         "\u041a\u0430\u043d\u0435\u043c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2009-06-20",
     "statoids:capital":"Mao",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1091901305,
-    "wof:lastmodified":1564182601,
+    "wof:lastmodified":1566653733,
     "wof:name":"Kanem",
     "wof:parent_id":85678439,
     "wof:placetype":"county",

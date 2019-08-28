@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"19.43517,11.2388,19.47517,11.2788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Dera"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243533817,
-    "wof:lastmodified":1564182702,
+    "wof:lastmodified":1566653815,
     "wof:name":"Dera",
     "wof:parent_id":1091900707,
     "wof:placetype":"locality",

@@ -23,13 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.64439,8.26878,16.68439,8.30878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bebal"
     ],
     "name:und_x_variant":[
-        "Bebal",
         "B\u00e9bala"
     ],
     "src:geom":"geonames",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242767247,
-    "wof:lastmodified":1537702807,
+    "wof:lastmodified":1566653921,
     "wof:name":"Bebala",
     "wof:parent_id":1091900073,
     "wof:placetype":"locality",

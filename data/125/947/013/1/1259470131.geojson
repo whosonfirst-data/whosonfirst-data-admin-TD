@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"22.23675,13.32316,22.27675,13.36316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259470131,
-    "wof:lastmodified":1536877129,
+    "wof:lastmodified":1566653993,
     "wof:name":"Abousoko",
     "wof:parent_id":1091901205,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.07133,11.15327,15.11133,11.19327",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Karaska"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310187955,
-    "wof:lastmodified":1564182464,
+    "wof:lastmodified":1566653632,
     "wof:name":"Karaska",
     "wof:parent_id":1091900725,
     "wof:placetype":"locality",

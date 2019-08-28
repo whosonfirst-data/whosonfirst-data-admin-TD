@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.16333,12.36333,21.20333,12.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abil\u00e9lay",
         "Abilelaye",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209570715,
-    "wof:lastmodified":1537702688,
+    "wof:lastmodified":1566653382,
     "wof:name":"Abilelai",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.1962,10.9726,16.2362,11.0126",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226819399,
-    "wof:lastmodified":1536606691,
+    "wof:lastmodified":1566654073,
     "wof:name":"Amayoro",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

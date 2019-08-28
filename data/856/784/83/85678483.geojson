@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":8.688057,
     "lbl:longitude":17.593864,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Mandoul",
     "mps:latitude":8.62234,
     "mps:longitude":17.561764,
@@ -152,7 +153,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u041c\u0430\u043d\u0434\u0443\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Min\u0163aqah M\u0101nd\u016bl"
     ],
     "name:urd_x_preferred":[
@@ -236,9 +237,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2009-06-20",
@@ -262,7 +263,7 @@
         "gp:id":56013482,
         "hasc:id":"TD.MA",
         "iso:id":"TD-MA",
-        "qs:id":1321042,
+        "qs_pg:id":1321042,
         "wd:id":"Q597410"
     },
     "wof:country":"TD",
@@ -283,11 +284,10 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1565736838,
+    "wof:lastmodified":1566652994,
     "wof:name":"Mandoul",
     "wof:parent_id":85632325,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":637086,
     "wof:population_rank":11,

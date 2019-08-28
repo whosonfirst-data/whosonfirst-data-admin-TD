@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.34748,9.23373,18.38748,9.27373",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kodjoguela",
         "Kodjoguila"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243039469,
-    "wof:lastmodified":1537702744,
+    "wof:lastmodified":1566653887,
     "wof:name":"Kodjoguila",
     "wof:parent_id":1091900487,
     "wof:placetype":"locality",

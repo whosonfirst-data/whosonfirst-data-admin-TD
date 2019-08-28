@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"19.4299,13.8647,19.4699,13.9047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Karay"
     ],
@@ -35,8 +39,7 @@
         "Karay"
     ],
     "name:und_x_variant":[
-        "Kara\u00ef",
-        "Karay"
+        "Kara\u00ef"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1226346295,
-    "wof:lastmodified":1564183107,
+    "wof:lastmodified":1566654104,
     "wof:name":"Karay",
     "wof:parent_id":1091901371,
     "wof:placetype":"locality",

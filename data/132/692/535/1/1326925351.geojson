@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.1524,8.1779,16.1924,8.2179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bemba\u00efda"
     ],
     "name:und_x_variant":[
-        "B\u00e9mba\u00efda I",
-        "Bemba\u00efda"
+        "B\u00e9mba\u00efda I"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326925351,
-    "wof:lastmodified":1537702801,
+    "wof:lastmodified":1566652717,
     "wof:name":"Bembaida I",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",

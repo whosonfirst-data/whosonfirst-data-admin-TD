@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.84467,9.51693,15.88467,9.55693",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -34,7 +38,7 @@
         "gn:id":2425089
     },
     "wof:country":"TD",
-    "wof:geomhash":"d9d97df116e2dac9603279342fff4228",
+    "wof:geomhash":"da23c4bbac90ace40fef0b616bcd26a1",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209085125,
-    "wof:lastmodified":1536298212,
+    "wof:lastmodified":1566653334,
     "wof:name":"Tchire Mousei",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.864670000000002,
+    15.86467,
     9.53693,
-    15.864670000000002,
+    15.86467,
     9.53693
 ],
   "geometry": {"coordinates":[15.86467,9.53693],"type":"Point"}

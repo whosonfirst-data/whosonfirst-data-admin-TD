@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.45851,7.89337,16.49851,7.93337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243247965,
-    "wof:lastmodified":1537088449,
+    "wof:lastmodified":1566653859,
     "wof:name":"Djeu",
     "wof:parent_id":1091899861,
     "wof:placetype":"locality",

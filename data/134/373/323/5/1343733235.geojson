@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.1449,9.1047,16.1849,9.1447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343733235,
-    "wof:lastmodified":1536849112,
+    "wof:lastmodified":1566652967,
     "wof:name":"Toutchire",
     "wof:parent_id":1091901691,
     "wof:placetype":"locality",

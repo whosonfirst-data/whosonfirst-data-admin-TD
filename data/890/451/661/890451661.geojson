@@ -11,10 +11,14 @@
     "geom:longitude":17.55392,
     "gn:country":"TD",
     "gn:fcode":"PPLA",
-    "gn:pop":36263,
+    "gn:population":36263,
     "iso:country":"TD",
+    "lbl:bbox":"17.53392,8.89256,17.57392,8.93256",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0642\u0645\u0631\u0629"
     ],
@@ -87,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043c\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koumbra"
     ],
     "name:urd_x_preferred":[
@@ -114,7 +118,7 @@
     "wof:concordances":{
         "gn:id":2429605,
         "gp:id":1275962,
-        "qs:id":140051,
+        "qs_pg:id":140051,
         "wd:id":"Q1070175",
         "wk:page":"Koumra"
     },
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":890451661,
-    "wof:lastmodified":1563580629,
+    "wof:lastmodified":1566653802,
     "wof:name":"Koumra",
     "wof:parent_id":1091900193,
     "wof:placetype":"locality",

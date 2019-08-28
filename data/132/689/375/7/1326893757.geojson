@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.74939,13.00879,15.78939,13.04879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326893757,
-    "wof:lastmodified":1536960254,
+    "wof:lastmodified":1566652694,
     "wof:name":"Kalekokori",
     "wof:parent_id":1091901071,
     "wof:placetype":"locality",

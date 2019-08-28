@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.867135,
     "lbl:longitude":14.465313,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mayo-Kebbi Ouest",
     "meso:gadm_admin":"Lac L\u00e9r\u00e9",
     "meso:gadm_hasc2":"TD.MW.LL",
@@ -28,6 +30,7 @@
     "mps:longitude":14.465313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Mayo Binder"
     ],
@@ -35,7 +38,7 @@
         "Lac L\u00e9r\u00e9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Binder",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1091901927,
-    "wof:lastmodified":1553717955,
+    "wof:lastmodified":1566653727,
     "wof:name":"Mayo-Binder",
     "wof:parent_id":85678495,
     "wof:placetype":"county",

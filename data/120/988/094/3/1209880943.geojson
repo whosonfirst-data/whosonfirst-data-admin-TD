@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.5997,9.4763,14.6397,9.5163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Biso",
         "Bisso"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209880943,
-    "wof:lastmodified":1537702794,
+    "wof:lastmodified":1566653449,
     "wof:name":"Bisso",
     "wof:parent_id":1091900399,
     "wof:placetype":"locality",

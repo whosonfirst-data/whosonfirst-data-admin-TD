@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.95968,8.79372,16.99968,8.83372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ma\u00efbo Mbaye"
     ],
@@ -32,9 +36,7 @@
         "Mba\u00ef"
     ],
     "name:und_x_variant":[
-        "Mba\u00ef",
-        "Maybo Mbay",
-        "Ma\u00efbo Mbaye"
+        "Maybo Mbay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":1292985393,
-    "wof:lastmodified":1537702731,
+    "wof:lastmodified":1566653097,
     "wof:name":"Maybo Mbay",
     "wof:parent_id":1091900157,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.48,14.23,21.52,14.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kasin\u00e9",
         "Kasin",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226552627,
-    "wof:lastmodified":1537702664,
+    "wof:lastmodified":1566654176,
     "wof:name":"Kassine",
     "wof:parent_id":1091901349,
     "wof:placetype":"locality",

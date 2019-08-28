@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.02572,8.29223,17.06572,8.33223",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326819979,
-    "wof:lastmodified":1537063657,
+    "wof:lastmodified":1566652688,
     "wof:name":"Bepara",
     "wof:parent_id":1091899891,
     "wof:placetype":"locality",

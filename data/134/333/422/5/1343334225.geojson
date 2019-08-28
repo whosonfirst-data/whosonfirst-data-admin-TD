@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.63901,9.46573,15.67901,9.50573",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Domo Dongozo",
         "Domo Dongogo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343334225,
-    "wof:lastmodified":1537702775,
+    "wof:lastmodified":1566652936,
     "wof:name":"Domo Dongogo",
     "wof:parent_id":1091900271,
     "wof:placetype":"locality",

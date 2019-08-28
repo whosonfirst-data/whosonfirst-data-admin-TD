@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.43886,13.56574,21.47886,13.60574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guindaka\u00efn",
         "Gindaka\u00efn"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276635689,
-    "wof:lastmodified":1537702669,
+    "wof:lastmodified":1566653276,
     "wof:name":"Guindakain",
     "wof:parent_id":421179001,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.91333,13.41333,14.95333,13.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tao"
     ],
@@ -156,8 +160,7 @@
         "\u0414\u0430\u043e"
     ],
     "name:und_x_variant":[
-        "Tao III",
-        "Tao"
+        "Tao III"
     ],
     "name:uzb_x_preferred":[
         "Dao"
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":1343253689,
-    "wof:lastmodified":1564181510,
+    "wof:lastmodified":1566652906,
     "wof:name":"Tao",
     "wof:parent_id":1091901129,
     "wof:placetype":"locality",

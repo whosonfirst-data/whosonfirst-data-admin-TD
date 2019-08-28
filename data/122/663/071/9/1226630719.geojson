@@ -23,16 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.42472,8.25781,16.46472,8.29781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kagopal"
     ],
     "name:fra_x_variant":[
-        "Kagopa\u00ef",
-        "Kagopa"
-    ],
-    "name:und_x_variant":[
         "Kagopa\u00ef",
         "Kagopa"
     ],
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":1226630719,
-    "wof:lastmodified":1537702752,
+    "wof:lastmodified":1566654181,
     "wof:name":"Kagopal",
     "wof:parent_id":1091899861,
     "wof:placetype":"locality",

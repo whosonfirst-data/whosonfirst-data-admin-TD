@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.47064,8.94588,16.51064,8.98588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
-        "Ngara"
-    ],
-    "name:und_x_variant":[
         "Ngara"
     ],
     "src:geom":"geonames",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1293769437,
-    "wof:lastmodified":1537702711,
+    "wof:lastmodified":1566653058,
     "wof:name":"Ngata",
     "wof:parent_id":1091900177,
     "wof:placetype":"locality",

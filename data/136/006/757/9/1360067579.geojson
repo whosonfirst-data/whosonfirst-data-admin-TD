@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.64561,9.65491,15.68561,9.69491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "L\u00e9o Moro",
         "L\u00e9o M\u2019Basa",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360067579,
-    "wof:lastmodified":1537702734,
+    "wof:lastmodified":1566653701,
     "wof:name":"Leo Mbasa",
     "wof:parent_id":1091900311,
     "wof:placetype":"locality",

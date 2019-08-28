@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"22.05024,13.34903,22.09024,13.38903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310578323,
-    "wof:lastmodified":1536811422,
+    "wof:lastmodified":1566653661,
     "wof:name":"Ilili",
     "wof:parent_id":1091901205,
     "wof:placetype":"locality",

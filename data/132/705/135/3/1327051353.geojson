@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.99034,13.52768,15.03034,13.56768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Loura"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327051353,
-    "wof:lastmodified":1564181318,
+    "wof:lastmodified":1566652753,
     "wof:name":"Loura",
     "wof:parent_id":1091901129,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.7778,9.9134,14.8178,9.9534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1276409721,
-    "wof:lastmodified":1536676372,
+    "wof:lastmodified":1566653252,
     "wof:name":"Bilou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.778,14.71105,21.818,14.75105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Toubo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293203733,
-    "wof:lastmodified":1537702647,
+    "wof:lastmodified":1566653111,
     "wof:name":"Toubo",
     "wof:parent_id":1091901349,
     "wof:placetype":"locality",

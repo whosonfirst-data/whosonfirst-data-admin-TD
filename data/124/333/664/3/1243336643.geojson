@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.6109,11.6782,16.6509,11.7182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Bili"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1243336643,
-    "wof:lastmodified":1564182832,
+    "wof:lastmodified":1566653907,
     "wof:name":"Bili",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

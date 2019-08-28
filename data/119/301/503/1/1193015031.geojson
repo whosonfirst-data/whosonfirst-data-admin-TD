@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"19.5462,12.832,19.5862,12.872",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Am Bartouk Doungous",
         "Am Bourtouk Doungous"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193015031,
-    "wof:lastmodified":1537702817,
+    "wof:lastmodified":1566653466,
     "wof:name":"Am Bourtouk Doungous",
     "wof:parent_id":1091900939,
     "wof:placetype":"locality",

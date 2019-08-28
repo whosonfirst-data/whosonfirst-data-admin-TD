@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.588458,
     "lbl:longitude":14.300366,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Lac",
     "mps:latitude":13.596509,
     "mps:longitude":14.283446,
@@ -141,7 +142,7 @@
         "Lac"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bc7\u0b95\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0bb2\u0bc7\u0b95\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c15\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -154,9 +155,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u041b\u0430\u043a"
-    ],
-    "name:unk_x_variant":[
-        "R\u00e9gion du Lac"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u06a9 \u0631\u06cc\u062c\u0646"
@@ -239,9 +237,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"22,320",
     "statoids:area_mi":"8,620",
     "statoids:as_of_date":"2009-06-20",
@@ -266,7 +264,7 @@
         "gp:id":2344951,
         "hasc:id":"TD.LC",
         "iso:id":"TD-LC",
-        "qs:id":946771,
+        "qs_pg:id":946771,
         "unlc:id":"TD-LC",
         "wd:id":"Q867869",
         "wk:page":"Lac Region"
@@ -289,11 +287,10 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1565736832,
+    "wof:lastmodified":1566652992,
     "wof:name":"Lac",
     "wof:parent_id":85632325,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":451369,
     "wof:population_rank":10,

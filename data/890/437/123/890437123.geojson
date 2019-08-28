@@ -11,10 +11,14 @@
     "geom:longitude":16.1705,
     "gn:country":"TD",
     "gn:fcode":"PPLA",
-    "gn:pop":3680,
+    "gn:population":3680,
     "iso:country":"TD",
+    "lbl:bbox":"16.1505,11.3839,16.1905,11.4239",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u064a\u0646\u064a\u0627"
     ],
@@ -69,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0441\u0435\u043d\u044c\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tchekna"
     ],
     "name:urd_x_preferred":[
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":2428216,
         "gp:id":1276820,
-        "qs:id":1035645,
+        "qs_pg:id":1035645,
         "wd:id":"Q764968",
         "wk:page":"Massenya"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":890437123,
-    "wof:lastmodified":1563580622,
+    "wof:lastmodified":1566653800,
     "wof:name":"Massenya",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

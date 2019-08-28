@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.3285,8.8022,15.3685,8.8422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dang"
     ],
@@ -44,8 +48,7 @@
         "\u0b9f\u0bbe\u0b99\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:und_x_variant":[
-        "Dan",
-        "Dang"
+        "Dan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1209680607,
-    "wof:lastmodified":1564182147,
+    "wof:lastmodified":1566653386,
     "wof:name":"Dang",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

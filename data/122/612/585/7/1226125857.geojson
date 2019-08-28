@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.95166,9.08812,15.99166,9.12812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gelgong",
         "Guelgeng",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226125857,
-    "wof:lastmodified":1537702758,
+    "wof:lastmodified":1566654166,
     "wof:name":"Guelgong",
     "wof:parent_id":1091901691,
     "wof:placetype":"locality",

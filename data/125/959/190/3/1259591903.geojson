@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.36589,14.19833,21.40589,14.23833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Am-Zoer"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259591903,
-    "wof:lastmodified":1537702681,
+    "wof:lastmodified":1566654016,
     "wof:name":"Am-Zoer",
     "wof:parent_id":1091901409,
     "wof:placetype":"locality",

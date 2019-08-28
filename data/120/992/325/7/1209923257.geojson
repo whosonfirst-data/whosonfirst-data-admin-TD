@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.50298,14.1658,21.54298,14.2058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Erne"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1209923257,
-    "wof:lastmodified":1564182154,
+    "wof:lastmodified":1566653388,
     "wof:name":"Erne",
     "wof:parent_id":1091901349,
     "wof:placetype":"locality",

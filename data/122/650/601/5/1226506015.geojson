@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"19.531,9.0584,19.571,9.0984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Njoko Sako"
     ],
     "name:fra_x_variant":[
-        "Djoko Sako"
-    ],
-    "name:und_x_variant":[
         "Djoko Sako"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1226506015,
-    "wof:lastmodified":1537702709,
+    "wof:lastmodified":1566654129,
     "wof:name":"Njoko Sako",
     "wof:parent_id":1091900523,
     "wof:placetype":"locality",

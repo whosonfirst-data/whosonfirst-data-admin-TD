@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.6712,13.79546,15.7112,13.83546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243610621,
-    "wof:lastmodified":1537063227,
+    "wof:lastmodified":1566653884,
     "wof:name":"Ragay",
     "wof:parent_id":1091901247,
     "wof:placetype":"locality",

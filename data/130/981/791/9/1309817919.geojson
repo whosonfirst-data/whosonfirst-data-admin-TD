@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.57666,12.26873,17.61666,12.30873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Geria"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1309817919,
-    "wof:lastmodified":1564182678,
+    "wof:lastmodified":1566653792,
     "wof:name":"Geria",
     "wof:parent_id":1091901101,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.13011,8.61807,17.17011,8.65807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -34,7 +38,7 @@
         "gn:id":2428107
     },
     "wof:country":"TD",
-    "wof:geomhash":"6e88fb27bdd7caa5608786e31cf6a5ed",
+    "wof:geomhash":"9161584e984e5891513ade26c48782fc",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209590803,
-    "wof:lastmodified":1536282486,
+    "wof:lastmodified":1566653391,
     "wof:name":"Mbaimou",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     17.15011,
-    8.638069999999999,
+    8.63807,
     17.15011,
-    8.638069999999999
+    8.63807
 ],
   "geometry": {"coordinates":[17.15011,8.63807],"type":"Point"}
 }

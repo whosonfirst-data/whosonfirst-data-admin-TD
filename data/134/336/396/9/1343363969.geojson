@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.21067,11.13381,18.25067,11.17381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sambolo",
         "Sombolo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343363969,
-    "wof:lastmodified":1537702699,
+    "wof:lastmodified":1566652825,
     "wof:name":"Sombolo",
     "wof:parent_id":1091900641,
     "wof:placetype":"locality",

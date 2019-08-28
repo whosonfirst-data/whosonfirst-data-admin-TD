@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":11.538728,
     "lbl:longitude":16.095312,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Chari-Baguirmi",
     "mps:latitude":11.545559,
     "mps:longitude":16.049073,
@@ -146,7 +147,7 @@
         "Chari-Baguirmi"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbe\u0bb1\u0bbf  -\u0baa\u0b95\u0bc1\u0bb0\u0bc1\u0bae\u0bbf  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b9a\u0bbe\u0bb1\u0bbf -\u0baa\u0b95\u0bc1\u0bb0\u0bc1\u0bae\u0bbf \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c3e\u0c30\u0c3f-\u0c2c\u0c3e\u0c17\u0c4d\u0c35\u0c3f\u0c30\u0c4d\u0c2e\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -184,9 +185,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2009-06-20",
@@ -230,11 +231,10 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1565736830,
+    "wof:lastmodified":1566652991,
     "wof:name":"Chari-Baguirmi",
     "wof:parent_id":85632325,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":621785,
     "wof:population_rank":11,

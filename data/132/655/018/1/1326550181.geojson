@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.69704,8.5829,15.73704,8.6229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326550181,
-    "wof:lastmodified":1536958161,
+    "wof:lastmodified":1566652779,
     "wof:name":"Baguetia",
     "wof:parent_id":1091900031,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.82403,13.16878,15.86403,13.20878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -34,7 +38,7 @@
         "gn:id":2435068
     },
     "wof:country":"TD",
-    "wof:geomhash":"253541637a9b95a3aeba714fccd547d0",
+    "wof:geomhash":"bc985a37796c11139181c79177d4b9e2",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209406583,
-    "wof:lastmodified":1536287977,
+    "wof:lastmodified":1566653366,
     "wof:name":"Bodiri",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.844029999999998,
+    15.84403,
     13.18878,
-    15.844029999999998,
+    15.84403,
     13.18878
 ],
   "geometry": {"coordinates":[15.84403,13.18878],"type":"Point"}

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.1108,9.9461,15.1508,9.9861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Forkoumaye",
         "Forkoumay"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310387595,
-    "wof:lastmodified":1537702769,
+    "wof:lastmodified":1566653591,
     "wof:name":"Forkoumay",
     "wof:parent_id":1091900357,
     "wof:placetype":"locality",

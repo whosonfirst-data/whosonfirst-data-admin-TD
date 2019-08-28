@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.7409,9.3584,16.7809,9.3984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226015801,
-    "wof:lastmodified":1536768939,
+    "wof:lastmodified":1566654188,
     "wof:name":"Tchindigui",
     "wof:parent_id":1091900435,
     "wof:placetype":"locality",

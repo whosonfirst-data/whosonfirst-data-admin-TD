@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.4414,9.8894,15.4814,9.9294",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209998683,
-    "wof:lastmodified":1536381074,
+    "wof:lastmodified":1566653345,
     "wof:name":"Bougourou",
     "wof:parent_id":1091900357,
     "wof:placetype":"locality",

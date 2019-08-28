@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.5308,8.7253,18.5708,8.7653",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Danamadji"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243530771,
-    "wof:lastmodified":1564182698,
+    "wof:lastmodified":1566653811,
     "wof:name":"Danamadji",
     "wof:parent_id":1091899945,
     "wof:placetype":"locality",

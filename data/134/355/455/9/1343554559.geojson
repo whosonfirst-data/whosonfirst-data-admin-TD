@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.37607,8.76378,15.41607,8.80378",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mandakao",
         "Manndakao"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343554559,
-    "wof:lastmodified":1537702729,
+    "wof:lastmodified":1566652846,
     "wof:name":"Manndakao",
     "wof:parent_id":1091900057,
     "wof:placetype":"locality",

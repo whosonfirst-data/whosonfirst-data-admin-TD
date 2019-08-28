@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.12922,12.21453,15.16922,12.25453",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226313251,
-    "wof:lastmodified":1536835429,
+    "wof:lastmodified":1566654201,
     "wof:name":"Hachaba",
     "wof:parent_id":1091900725,
     "wof:placetype":"locality",

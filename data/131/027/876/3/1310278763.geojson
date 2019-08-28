@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.13312,9.76963,17.17312,9.80963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310278763,
-    "wof:lastmodified":1536746268,
+    "wof:lastmodified":1566653628,
     "wof:name":"Tchok",
     "wof:parent_id":1091900435,
     "wof:placetype":"locality",

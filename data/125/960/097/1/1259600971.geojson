@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.78,13.11333,18.82,13.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abou Tel\u00e9h\u00e9",
         "Abou Til\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259600971,
-    "wof:lastmodified":1537702821,
+    "wof:lastmodified":1566654026,
     "wof:name":"Abou Tile",
     "wof:parent_id":1091901485,
     "wof:placetype":"locality",

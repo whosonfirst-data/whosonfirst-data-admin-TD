@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.87474,8.20618,16.91474,8.24618",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Doungandi"
     ],
     "name:fra_x_variant":[
-        "Dougandy"
-    ],
-    "name:und_x_variant":[
         "Dougandy"
     ],
     "src:geom":"geonames",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1209604991,
-    "wof:lastmodified":1537702772,
+    "wof:lastmodified":1566653400,
     "wof:name":"Doungandi",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

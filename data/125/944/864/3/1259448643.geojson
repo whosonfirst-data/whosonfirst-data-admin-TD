@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.34418,8.67298,17.38418,8.71298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259448643,
-    "wof:lastmodified":1536909276,
+    "wof:lastmodified":1566654050,
     "wof:name":"Bekamba II",
     "wof:parent_id":1091899975,
     "wof:placetype":"locality",

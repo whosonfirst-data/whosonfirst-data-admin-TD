@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.02051,14.2002,15.06051,14.2402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242995167,
-    "wof:lastmodified":1536959174,
+    "wof:lastmodified":1566653936,
     "wof:name":"Djigare",
     "wof:parent_id":1091901305,
     "wof:placetype":"locality",

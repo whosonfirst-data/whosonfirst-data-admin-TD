@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.88502,12.38351,14.92502,12.42351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ambel"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1344123085,
-    "wof:lastmodified":1564181462,
+    "wof:lastmodified":1566652868,
     "wof:name":"Ambel",
     "wof:parent_id":1091900897,
     "wof:placetype":"locality",

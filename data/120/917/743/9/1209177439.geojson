@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.18731,12.50144,17.22731,12.54144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bourda",
         "Abourda",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209177439,
-    "wof:lastmodified":1537702821,
+    "wof:lastmodified":1566653440,
     "wof:name":"Abourda Ndouta",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

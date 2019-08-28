@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.2634,9.1037,16.3034,9.1437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193009003,
-    "wof:lastmodified":1536363928,
+    "wof:lastmodified":1566653462,
     "wof:name":"Soumai",
     "wof:parent_id":1091900177,
     "wof:placetype":"locality",

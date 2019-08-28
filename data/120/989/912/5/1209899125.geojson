@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.81456,11.01551,15.85456,11.05551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b0\u09bf"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1209899125,
-    "wof:lastmodified":1564182211,
+    "wof:lastmodified":1566653430,
     "wof:name":"Kari",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

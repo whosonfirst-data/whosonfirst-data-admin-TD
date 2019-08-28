@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.36212,13.17657,15.40212,13.21657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Doum Doum"
     ],
     "name:und_x_variant":[
-        "Dum-Dum",
-        "Doum Doum"
+        "Dum-Dum"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260000733,
-    "wof:lastmodified":1564182333,
+    "wof:lastmodified":1566653523,
     "wof:name":"Doum Doum",
     "wof:parent_id":1091901129,
     "wof:placetype":"locality",

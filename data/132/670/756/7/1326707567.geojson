@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.75408,13.4986,21.79408,13.5386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sira"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1326707567,
-    "wof:lastmodified":1564181347,
+    "wof:lastmodified":1566652776,
     "wof:name":"Sira",
     "wof:parent_id":1091901205,
     "wof:placetype":"locality",

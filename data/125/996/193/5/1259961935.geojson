@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.35124,10.90159,15.39124,10.94159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259961935,
-    "wof:lastmodified":1536666237,
+    "wof:lastmodified":1566653965,
     "wof:name":"Tenaye",
     "wof:parent_id":1091900627,
     "wof:placetype":"locality",

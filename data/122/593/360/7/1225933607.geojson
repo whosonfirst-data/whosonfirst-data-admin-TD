@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.066,8.2951,17.106,8.3351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mogo"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1225933607,
-    "wof:lastmodified":1564183046,
+    "wof:lastmodified":1566654061,
     "wof:name":"Mogo",
     "wof:parent_id":1091899891,
     "wof:placetype":"locality",

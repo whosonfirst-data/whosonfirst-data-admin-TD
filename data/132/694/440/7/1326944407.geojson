@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.71101,13.00517,17.75101,13.04517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326944407,
-    "wof:lastmodified":1536886713,
+    "wof:lastmodified":1566652707,
     "wof:name":"Djogolo",
     "wof:parent_id":1091901101,
     "wof:placetype":"locality",

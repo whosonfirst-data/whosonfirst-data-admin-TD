@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.89027,14.58233,21.93027,14.62233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Myl"
     ],
@@ -300,7 +304,7 @@
         }
     ],
     "wof:id":1226649065,
-    "wof:lastmodified":1564183213,
+    "wof:lastmodified":1566654179,
     "wof:name":"Mile",
     "wof:parent_id":1091901349,
     "wof:placetype":"locality",

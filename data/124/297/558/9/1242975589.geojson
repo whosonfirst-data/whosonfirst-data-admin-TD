@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"19.2759,12.7377,19.3159,12.7777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242975589,
-    "wof:lastmodified":1536986536,
+    "wof:lastmodified":1566653933,
     "wof:name":"Am Tchake",
     "wof:parent_id":1091900939,
     "wof:placetype":"locality",

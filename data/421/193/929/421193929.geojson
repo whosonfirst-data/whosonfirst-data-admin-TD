@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.158888,
     "lbl:longitude":15.015234,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"N'Djamena",
     "meso:gadm_admin":"N'Djamena",
     "meso:gadm_hasc2":"TD.NJ.NU",
@@ -28,6 +30,7 @@
     "mps:longitude":15.015234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "N'Djamena"
@@ -411,9 +414,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2009-06-20",
     "statoids:capital":"N'Djamena",
@@ -433,7 +436,7 @@
     "wof:concordances":{
         "gp:id":56013521,
         "hasc:id":"TD.NJ.NU",
-        "qs:id":525930
+        "qs_pg:id":525930
     },
     "wof:country":"TD",
     "wof:created":1459009787,
@@ -447,7 +450,7 @@
         }
     ],
     "wof:id":421193929,
-    "wof:lastmodified":1564182686,
+    "wof:lastmodified":1566653797,
     "wof:name":"N'Djamena",
     "wof:parent_id":85678491,
     "wof:placetype":"county",

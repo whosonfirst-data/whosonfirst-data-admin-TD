@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.44806,8.11982,16.48806,8.15982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
-        "Yri"
-    ],
-    "name:und_x_variant":[
         "Yri"
     ],
     "src:geom":"geonames",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1276861055,
-    "wof:lastmodified":1537702690,
+    "wof:lastmodified":1566653161,
     "wof:name":"Iri",
     "wof:parent_id":1091899861,
     "wof:placetype":"locality",

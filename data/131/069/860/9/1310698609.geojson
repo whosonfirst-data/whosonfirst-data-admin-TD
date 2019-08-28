@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.3756,13.34656,15.4156,13.38656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310698609,
-    "wof:lastmodified":1536637195,
+    "wof:lastmodified":1566653670,
     "wof:name":"Wandala",
     "wof:parent_id":1091901071,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.57873,14.30869,21.61873,14.34869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kad Kali"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343362341,
-    "wof:lastmodified":1537702665,
+    "wof:lastmodified":1566652825,
     "wof:name":"Kad Kali",
     "wof:parent_id":1091901349,
     "wof:placetype":"locality",

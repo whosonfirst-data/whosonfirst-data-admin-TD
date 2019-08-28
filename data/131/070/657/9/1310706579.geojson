@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.1184,11.1492,18.1584,11.1892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sakane",
         "Tch\u00e9ken"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310706579,
-    "wof:lastmodified":1537702702,
+    "wof:lastmodified":1566653578,
     "wof:name":"Tcheken",
     "wof:parent_id":1091900641,
     "wof:placetype":"locality",

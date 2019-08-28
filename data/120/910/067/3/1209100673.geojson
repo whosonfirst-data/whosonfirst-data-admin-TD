@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.56333,13.39667,14.60333,13.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -34,7 +38,7 @@
         "gn:id":2425183
     },
     "wof:country":"TD",
-    "wof:geomhash":"7983e49d9c9a324f02bd05e9c7a37a92",
+    "wof:geomhash":"8b798f07b38b0adba77c1d2609f25613",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209100673,
-    "wof:lastmodified":1536297744,
+    "wof:lastmodified":1566653445,
     "wof:name":"Tchalom",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.583329999999998,
-    13.416670000000002,
-    14.583329999999998,
-    13.416670000000002
+    14.58333,
+    13.41667,
+    14.58333,
+    13.41667
 ],
   "geometry": {"coordinates":[14.58333,13.41667],"type":"Point"}
 }

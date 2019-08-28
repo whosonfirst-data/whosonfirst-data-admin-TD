@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"20.2413,11.1306,20.2813,11.1706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Apg\u00e9rean",
         "Apg\u00e9r\u00e9an",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259956309,
-    "wof:lastmodified":1537702681,
+    "wof:lastmodified":1566654012,
     "wof:name":"Apguerean",
     "wof:parent_id":1091900689,
     "wof:placetype":"locality",

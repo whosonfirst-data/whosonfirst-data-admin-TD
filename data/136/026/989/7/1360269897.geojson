@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.9739,7.6782,16.0139,7.7182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360269897,
-    "wof:lastmodified":1536679057,
+    "wof:lastmodified":1566653718,
     "wof:name":"Pougaran",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",

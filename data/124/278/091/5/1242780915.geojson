@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.53244,14.46153,21.57244,14.50153",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "M\u00e9di\u00e9gu\u00e9ss\u00e9"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242780915,
-    "wof:lastmodified":1537702657,
+    "wof:lastmodified":1566653918,
     "wof:name":"Medieguesse",
     "wof:parent_id":1091901349,
     "wof:placetype":"locality",

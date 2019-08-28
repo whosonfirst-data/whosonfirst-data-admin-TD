@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.18169,9.0423,16.22169,9.0823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Manso"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1226433201,
-    "wof:lastmodified":1564183070,
+    "wof:lastmodified":1566654078,
     "wof:name":"Manso",
     "wof:parent_id":1091900177,
     "wof:placetype":"locality",

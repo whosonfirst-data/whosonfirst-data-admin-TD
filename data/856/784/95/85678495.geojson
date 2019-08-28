@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":9.292923,
     "lbl:longitude":14.768303,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Mayo-Kebbi Ouest",
     "mps:latitude":9.3134,
     "mps:longitude":14.73385,
@@ -144,7 +145,7 @@
         "Mayo-Kebbi Ouest"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bbe\u0baf\u0bcb -\u0b95\u0bc7\u0baa\u0bcd\u0baa\u0bbf  \u0b86\u0baf\u0bc1\u0bb8\u0bcd\u0b9f\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0bae\u0bbe\u0baf\u0bcb -\u0b95\u0bc7\u0baa\u0bcd\u0baa\u0bbf \u0b86\u0baf\u0bc1\u0bb8\u0bcd\u0b9f\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c2f\u0c4b-\u0c15\u0c46\u0c2c\u0c4d\u0c2c\u0c3f \u0c13\u0c2f\u0c46\u0c38\u0c4d\u0c1f\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -161,7 +162,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0417\u0430\u0445\u0456\u0434\u043d\u0438\u0439 \u041c\u0430\u0439\u043e-\u041a\u0435\u0431\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Min\u0163aqah M\u0101y\u016b K\u012bbb\u012b al Gharb\u012b"
     ],
     "name:urd_x_preferred":[
@@ -245,9 +246,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2009-06-20",
@@ -273,7 +274,7 @@
         "gp:id":56013484,
         "hasc:id":"TD.MW",
         "iso:id":"TD-MO",
-        "qs:id":77659,
+        "qs_pg:id":77659,
         "unlc:id":"TD-MO",
         "wd:id":"Q910393",
         "wk:page":"Mayo-Kebbi Ouest Region"
@@ -296,11 +297,10 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1565736830,
+    "wof:lastmodified":1566652991,
     "wof:name":"Mayo-Kebbi Ouest",
     "wof:parent_id":85632325,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":565087,
     "wof:population_rank":11,

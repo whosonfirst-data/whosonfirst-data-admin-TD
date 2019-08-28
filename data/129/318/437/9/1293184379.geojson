@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.326,9.721,16.366,9.761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Loudji",
         "Lodjo",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293184379,
-    "wof:lastmodified":1537702734,
+    "wof:lastmodified":1566653112,
     "wof:name":"Lodji",
     "wof:parent_id":1091900435,
     "wof:placetype":"locality",

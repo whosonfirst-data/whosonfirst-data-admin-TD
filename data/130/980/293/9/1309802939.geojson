@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.84064,10.49059,18.88064,10.53059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309802939,
-    "wof:lastmodified":1536935941,
+    "wof:lastmodified":1566653786,
     "wof:name":"Seke",
     "wof:parent_id":1091900641,
     "wof:placetype":"locality",

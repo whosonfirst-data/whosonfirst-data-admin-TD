@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.16546,8.6154,17.20546,8.6554",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327495919,
-    "wof:lastmodified":1537083776,
+    "wof:lastmodified":1566652739,
     "wof:name":"Bedjomo",
     "wof:parent_id":1091899975,
     "wof:placetype":"locality",

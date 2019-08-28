@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.442726,
     "lbl:longitude":15.098561,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hadjer Lamis",
     "meso:gadm_admin":"Haraze Al Biar",
     "meso:gadm_hasc2":"TD.HD.HB",
@@ -28,6 +30,7 @@
     "mps:longitude":15.098561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:dan_x_preferred":[
         "Haraze Al Biar"
     ],
@@ -41,9 +44,9 @@
         "Haraze Al Biar"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2009-06-20",
     "statoids:capital":"Massaguet",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1091900897,
-    "wof:lastmodified":1564182601,
+    "wof:lastmodified":1566653733,
     "wof:name":"Haraze Al Biar",
     "wof:parent_id":85678435,
     "wof:placetype":"county",

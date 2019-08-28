@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.73198,13.86533,21.77198,13.90533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -34,7 +38,7 @@
         "gn:id":241543
     },
     "wof:country":"TD",
-    "wof:geomhash":"c92894d9bec1491153b4b66c7fc3f649",
+    "wof:geomhash":"541dc253f3f9e72fd3c0e6a0d3fcbf85",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209201675,
-    "wof:lastmodified":1536294588,
+    "wof:lastmodified":1566653416,
     "wof:name":"Touregn",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     21.75198,
-    13.885329999999998,
+    13.88533,
     21.75198,
-    13.885329999999998
+    13.88533
 ],
   "geometry": {"coordinates":[21.75198,13.88533],"type":"Point"}
 }

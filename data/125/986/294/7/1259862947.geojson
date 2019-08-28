@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.8118,9.3433,16.8518,9.3833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marou"
     ],
@@ -35,8 +39,7 @@
         "Marou"
     ],
     "name:und_x_variant":[
-        "Malou",
-        "Marou"
+        "Malou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1259862947,
-    "wof:lastmodified":1564183040,
+    "wof:lastmodified":1566654056,
     "wof:name":"Marou",
     "wof:parent_id":1091900435,
     "wof:placetype":"locality",

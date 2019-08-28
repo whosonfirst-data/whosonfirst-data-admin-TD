@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"19.1876,11.751,19.2276,11.791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Massaloua",
         "Masaloua"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277073615,
-    "wof:lastmodified":1537702726,
+    "wof:lastmodified":1566653158,
     "wof:name":"Masaloua",
     "wof:parent_id":1091900939,
     "wof:placetype":"locality",

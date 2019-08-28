@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.45933,8.05397,16.49933,8.09397",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Beyer"
     ],
@@ -32,8 +36,7 @@
         "Beyer"
     ],
     "name:und_x_variant":[
-        "B\u00e9y\u00e9r\u00e9",
-        "Beyer"
+        "B\u00e9y\u00e9r\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1327252501,
-    "wof:lastmodified":1564181291,
+    "wof:lastmodified":1566652730,
     "wof:name":"Beyer",
     "wof:parent_id":1091899861,
     "wof:placetype":"locality",

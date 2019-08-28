@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.1046,9.104,16.1446,9.144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tolo"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1276196703,
-    "wof:lastmodified":1564181867,
+    "wof:lastmodified":1566653175,
     "wof:name":"Tolo",
     "wof:parent_id":1091901691,
     "wof:placetype":"locality",

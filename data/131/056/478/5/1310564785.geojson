@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.69807,9.75801,18.73807,9.79801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310564785,
-    "wof:lastmodified":1536830565,
+    "wof:lastmodified":1566653667,
     "wof:name":"Ouaygombo",
     "wof:parent_id":1091900523,
     "wof:placetype":"locality",

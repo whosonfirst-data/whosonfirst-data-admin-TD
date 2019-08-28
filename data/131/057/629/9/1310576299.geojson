@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.3682,9.2126,17.4082,9.2526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Goli",
         "Golili"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310576299,
-    "wof:lastmodified":1537702762,
+    "wof:lastmodified":1566653661,
     "wof:name":"Golili",
     "wof:parent_id":1091900193,
     "wof:placetype":"locality",

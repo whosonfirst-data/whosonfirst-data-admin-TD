@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"18.45787,9.51705,18.49787,9.55705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Boli"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1209386587,
-    "wof:lastmodified":1564182037,
+    "wof:lastmodified":1566653309,
     "wof:name":"Boli",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

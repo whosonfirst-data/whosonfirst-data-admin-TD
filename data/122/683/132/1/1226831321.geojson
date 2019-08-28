@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.9838,10.0175,16.0238,10.0575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bosgoy",
         "Titriwin"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226831321,
-    "wof:lastmodified":1537702693,
+    "wof:lastmodified":1566654173,
     "wof:name":"Titriwin",
     "wof:parent_id":1091900561,
     "wof:placetype":"locality",

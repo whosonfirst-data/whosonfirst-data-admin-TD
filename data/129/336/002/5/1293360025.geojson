@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.50843,9.50379,15.54843,9.54379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zabba I",
         "Zabba",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293360025,
-    "wof:lastmodified":1537702689,
+    "wof:lastmodified":1566653004,
     "wof:name":"Zaba I",
     "wof:parent_id":1091900311,
     "wof:placetype":"locality",

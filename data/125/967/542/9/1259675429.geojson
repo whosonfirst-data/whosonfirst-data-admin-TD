@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.86688,13.54575,14.90688,13.58575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Brea"
     ],
@@ -68,8 +72,7 @@
         "Brea"
     ],
     "name:und_x_variant":[
-        "Br\u00e9a I",
-        "Br\u00e9a"
+        "Br\u00e9a I"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1259675429,
-    "wof:lastmodified":1564182995,
+    "wof:lastmodified":1566654023,
     "wof:name":"Brea",
     "wof:parent_id":1091901129,
     "wof:placetype":"locality",

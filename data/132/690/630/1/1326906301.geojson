@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.27935,12.78103,15.31935,12.82103",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Delema",
         "Abd\u00e9l\u00e9na"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326906301,
-    "wof:lastmodified":1537702784,
+    "wof:lastmodified":1566652790,
     "wof:name":"Abdelena",
     "wof:parent_id":1091901071,
     "wof:placetype":"locality",

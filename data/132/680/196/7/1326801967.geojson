@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.5188,10.1343,17.5588,10.1743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ron_x_preferred":[
         "Baranga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326801967,
-    "wof:lastmodified":1564181251,
+    "wof:lastmodified":1566652697,
     "wof:name":"Baranga",
     "wof:parent_id":1091900487,
     "wof:placetype":"locality",

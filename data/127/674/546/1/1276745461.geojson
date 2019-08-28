@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.0828,10.2817,16.1228,10.3217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276745461,
-    "wof:lastmodified":1536724038,
+    "wof:lastmodified":1566653185,
     "wof:name":"Orobogo",
     "wof:parent_id":1091900561,
     "wof:placetype":"locality",

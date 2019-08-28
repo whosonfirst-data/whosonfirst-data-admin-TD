@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"14.7657,9.8281,14.8057,9.8681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u2019Barou",
         "Mburao",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226124609,
-    "wof:lastmodified":1537702724,
+    "wof:lastmodified":1566654165,
     "wof:name":"Mbourao",
     "wof:parent_id":1091900357,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.6314,13.069,17.6714,13.109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bare"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1242687507,
-    "wof:lastmodified":1564182736,
+    "wof:lastmodified":1566653838,
     "wof:name":"Bare",
     "wof:parent_id":1091901101,
     "wof:placetype":"locality",

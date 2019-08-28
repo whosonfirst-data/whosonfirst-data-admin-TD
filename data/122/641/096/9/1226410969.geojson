@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"19.12284,17.93792,19.16284,17.97792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "B\u00e9s\u00e9me"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226410969,
-    "wof:lastmodified":1537702825,
+    "wof:lastmodified":1566654169,
     "wof:name":"Beseme",
     "wof:parent_id":1091901887,
     "wof:placetype":"locality",

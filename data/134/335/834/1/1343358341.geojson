@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.5837,10.6943,17.6237,10.7343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bogn\u00e9",
         "Boni\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343358341,
-    "wof:lastmodified":1537702791,
+    "wof:lastmodified":1566652920,
     "wof:name":"Bonio-Komi",
     "wof:parent_id":1091900641,
     "wof:placetype":"locality",

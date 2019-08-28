@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.9405,12.33663,15.9805,12.37663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hidjelidj Ealadrij",
         "Hidjilidj\u00e9 Ealadrij"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243239423,
-    "wof:lastmodified":1537702755,
+    "wof:lastmodified":1566653866,
     "wof:name":"Hidjilidje Ealadrij",
     "wof:parent_id":1091900897,
     "wof:placetype":"locality",

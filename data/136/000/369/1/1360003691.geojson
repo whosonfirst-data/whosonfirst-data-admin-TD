@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.55846,12.95968,17.59846,12.99968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360003691,
-    "wof:lastmodified":1537060400,
+    "wof:lastmodified":1566653695,
     "wof:name":"Koulnia",
     "wof:parent_id":1091901101,
     "wof:placetype":"locality",

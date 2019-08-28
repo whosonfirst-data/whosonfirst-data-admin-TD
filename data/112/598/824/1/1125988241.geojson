@@ -9,15 +9,18 @@
     "geom:bbox":"17.36597,9.36267,17.36597,9.36267",
     "geom:latitude":9.36267,
     "geom:longitude":17.36597,
-    "gn:gn_country":"TD",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10052,
+    "gn:country":"TD",
+    "gn:fcode":"PPL",
     "gn:population":10052,
     "iso:country":"TD",
+    "lbl:bbox":"17.34597,9.34267,17.38597,9.38267",
     "lbl:latitude":9.36267,
     "lbl:longitude":17.36597,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ita_x_preferred":[
         "Goundi"
@@ -28,7 +31,7 @@
     "name:ron_x_preferred":[
         "Goundi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gundi"
     ],
     "qs_pg:aaroncc":"TD",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":278648,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1125988241,
-    "wof:lastmodified":1564182688,
+    "wof:lastmodified":1566653803,
     "wof:name":"Goundi",
     "wof:parent_id":1091900193,
     "wof:placetype":"locality",

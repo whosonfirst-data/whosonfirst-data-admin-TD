@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"16.37588,7.79395,16.41588,7.83395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242863951,
-    "wof:lastmodified":1536651030,
+    "wof:lastmodified":1566653831,
     "wof:name":"Bembaindi",
     "wof:parent_id":1091899861,
     "wof:placetype":"locality",

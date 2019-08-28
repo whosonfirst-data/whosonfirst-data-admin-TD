@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.41868,13.4,15.45868,13.44",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632325
@@ -34,7 +38,7 @@
         "gn:id":2427606
     },
     "wof:country":"TD",
-    "wof:geomhash":"5b7039c780b82f7f18e49cb786e37320",
+    "wof:geomhash":"f43714805b53ce7ff0b17ef73f8c449b",
     "wof:hierarchy":[
         {
             "country_id":85632325,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209027805,
-    "wof:lastmodified":1536299941,
+    "wof:lastmodified":1566653409,
     "wof:name":"Morkirom",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.438679999999998,
+    15.43868,
     13.42,
-    15.438679999999998,
+    15.43868,
     13.42
 ],
   "geometry": {"coordinates":[15.43868,13.42],"type":"Point"}

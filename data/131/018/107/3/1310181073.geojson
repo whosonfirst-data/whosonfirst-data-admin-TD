@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"17.1425,11.9236,17.1825,11.9636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mal\u00e9mi",
         "Oudou Mal\u00e9mi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310181073,
-    "wof:lastmodified":1537702729,
+    "wof:lastmodified":1566653631,
     "wof:name":"Oudou Malemi",
     "wof:parent_id":1091901007,
     "wof:placetype":"locality",

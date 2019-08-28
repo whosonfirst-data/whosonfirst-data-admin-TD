@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.58342,8.7128,15.62342,8.7528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beisa II",
         "B\u00e9\u00efssa II"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310697463,
-    "wof:lastmodified":1537702804,
+    "wof:lastmodified":1566653670,
     "wof:name":"Beissa II",
     "wof:parent_id":1091900057,
     "wof:placetype":"locality",

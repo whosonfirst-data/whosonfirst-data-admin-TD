@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"15.8909,8.1519,15.9309,8.1919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259668257,
-    "wof:lastmodified":1537085784,
+    "wof:lastmodified":1566654015,
     "wof:name":"Kouli",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",

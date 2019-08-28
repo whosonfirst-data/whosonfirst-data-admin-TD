@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.345054,
     "lbl:longitude":17.762882,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mandoul",
     "meso:gadm_admin":"Barh Sara",
     "meso:gadm_hasc2":"TD.MA.BA",
@@ -28,6 +30,7 @@
     "mps:longitude":17.762882,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Barh Sara"
     ],
@@ -47,9 +50,9 @@
         "Barh Sara"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:as_of_date":"2009-06-20",
     "statoids:capital":"Mo\u00efssala",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1091900003,
-    "wof:lastmodified":1564182597,
+    "wof:lastmodified":1566653729,
     "wof:name":"Barh Sara",
     "wof:parent_id":85678483,
     "wof:placetype":"county",

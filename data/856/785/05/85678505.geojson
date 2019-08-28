@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":20.60618,
     "lbl:longitude":17.765288,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Tibesti",
     "mps:latitude":21.674498,
     "mps:longitude":16.643964,
@@ -46,7 +47,7 @@
     "name:fra_x_variant":[
         "R\u00e9gion du Tibesti"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Min\u0163aqah Tibast\u012b"
     ],
     "ne:abbrev":"",
@@ -122,9 +123,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2009-06-20",
@@ -167,7 +168,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1565736830,
+    "wof:lastmodified":1566652990,
     "wof:name":"Tibesti",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

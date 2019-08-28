@@ -11,10 +11,14 @@
     "geom:longitude":16.566,
     "gn:country":"TD",
     "gn:fcode":"PPL",
-    "gn:pop":12671,
+    "gn:population":12671,
     "iso:country":"TD",
+    "lbl:bbox":"16.546,8.6561,16.586,8.6961",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "B\u00e9b\u00e9djia"
     ],
@@ -41,9 +45,6 @@
     "name:rus_x_preferred":[
         "\u0411\u0435\u0431\u0435\u0434\u0436\u0438\u0430"
     ],
-    "name:unk_x_variant":[
-        "Bebiya"
-    ],
     "qs:name":"B\u00e9b\u00e9dja",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -59,7 +60,7 @@
     "wof:concordances":{
         "gn:id":2435854,
         "gp:id":1272036,
-        "qs:id":1035766,
+        "qs_pg:id":1035766,
         "wd:id":"Q289802"
     },
     "wof:country":"TD",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":890444447,
-    "wof:lastmodified":1563580624,
+    "wof:lastmodified":1566653800,
     "wof:name":"B\u00e9b\u00e9dja",
     "wof:parent_id":1091900073,
     "wof:placetype":"locality",

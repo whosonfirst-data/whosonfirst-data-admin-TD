@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ndjamena",
     "iso:country":"TD",
+    "lbl:bbox":"21.60745,13.39237,21.64745,13.43237",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Arbane"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310085807,
-    "wof:lastmodified":1564182438,
+    "wof:lastmodified":1566653611,
     "wof:name":"Arbane",
     "wof:parent_id":421179001,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":12.122118,
     "lbl:longitude":21.337363,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Sila",
     "mps:latitude":12.147603,
     "mps:longitude":21.281163,
@@ -294,7 +295,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Min\u0163aqah S\u012bl\u0101"
     ],
     "name:urd_x_preferred":[
@@ -400,9 +401,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-06-20",
+    "src:population_date":"2009-06-20",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2009-06-20",
@@ -449,7 +450,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1565736830,
+    "wof:lastmodified":1566652991,
     "wof:name":"Sila",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

@@ -275,6 +275,9 @@
         "wk:page":"Tandjil\u00e9 Region"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"199f5c5a1154303b586e2efb3f29c6e7",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652994,
+    "wof:lastmodified":1582346980,
     "wof:name":"Tandjil\u00e9",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

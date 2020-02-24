@@ -231,6 +231,9 @@
         "wd:id":"Q803639"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"869d49062063a7c6b370407160dfa2ba",
     "wof:hierarchy":[
         {
@@ -248,7 +251,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652991,
+    "wof:lastmodified":1582346979,
     "wof:name":"Barh-El-Gazel",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

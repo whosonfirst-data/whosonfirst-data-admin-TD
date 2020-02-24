@@ -214,6 +214,9 @@
         "wd:id":"Q843975"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"adc53a677eca971b2cdda395daecc9cd",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652991,
+    "wof:lastmodified":1582346980,
     "wof:name":"Chari-Baguirmi",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

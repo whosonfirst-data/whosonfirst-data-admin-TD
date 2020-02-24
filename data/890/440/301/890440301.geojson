@@ -582,6 +582,10 @@
     ],
     "wof:country":"TD",
     "wof:created":1469052270,
+    "wof:geom_alt":[
+        "unknown",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6165c2d1d7814acfb37a5ce1599d257c",
     "wof:hierarchy":[
         {
@@ -593,7 +597,7 @@
         }
     ],
     "wof:id":890440301,
-    "wof:lastmodified":1566653799,
+    "wof:lastmodified":1582346990,
     "wof:name":"N'Djamena",
     "wof:parent_id":421193929,
     "wof:placetype":"locality",

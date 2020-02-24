@@ -270,6 +270,9 @@
         "wk:page":"Lac Region"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"add09bf8dd25ee7f5abc63e70eb8b957",
     "wof:hierarchy":[
         {
@@ -287,7 +290,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652992,
+    "wof:lastmodified":1582346980,
     "wof:name":"Lac",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

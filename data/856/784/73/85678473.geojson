@@ -279,6 +279,9 @@
         "wk:page":"Mayo-Kebbi Est Region"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"759e4d521156ce1c2a6dd14026b910ba",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652992,
+    "wof:lastmodified":1582346980,
     "wof:name":"Mayo Kebbi Est",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

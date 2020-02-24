@@ -273,6 +273,9 @@
         "wk:page":"Salamat Region"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"64cedfe04d02b8f2bbf1cd1435326feb",
     "wof:hierarchy":[
         {
@@ -290,7 +293,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652993,
+    "wof:lastmodified":1582346980,
     "wof:name":"Salamat",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

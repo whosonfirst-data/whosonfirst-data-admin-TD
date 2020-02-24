@@ -433,6 +433,9 @@
         "wd:id":"Q359465"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"12eb0aa50c508a97629e23fff4bb0ef3",
     "wof:hierarchy":[
         {
@@ -450,7 +453,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652991,
+    "wof:lastmodified":1582346980,
     "wof:name":"Sila",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

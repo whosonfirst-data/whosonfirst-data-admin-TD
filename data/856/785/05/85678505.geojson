@@ -151,6 +151,9 @@
         "iso:id":"TD-TI"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e7c5f873f0026460dc40b3f66c63d6fb",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652990,
+    "wof:lastmodified":1582346979,
     "wof:name":"Tibesti",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

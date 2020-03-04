@@ -284,6 +284,9 @@
         "wk:page":"Gu\u00e9ra Region"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c1e7b0915159932a01362791fd1d0853",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652991,
+    "wof:lastmodified":1582346980,
     "wof:name":"Gu\u00e9ra",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

@@ -115,6 +115,9 @@
     },
     "wof:country":"TD",
     "wof:created":1459009201,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c58d52ad3f8c7aca7b0b661b1df7208d",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421179001,
-    "wof:lastmodified":1566653798,
+    "wof:lastmodified":1582346990,
     "wof:name":"Ouara",
     "wof:parent_id":85678463,
     "wof:placetype":"county",

@@ -280,6 +280,9 @@
         "wk:page":"Mayo-Kebbi Ouest Region"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9e91eaca734fafc547c019db3ee2047b",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652991,
+    "wof:lastmodified":1582346980,
     "wof:name":"Mayo-Kebbi Ouest",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

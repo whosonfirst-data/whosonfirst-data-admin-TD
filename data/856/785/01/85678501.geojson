@@ -159,6 +159,9 @@
         "wd:id":"Q4272710"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"31f5b9c81b123f2183c9d4a08c2c6386",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652991,
+    "wof:lastmodified":1582346979,
     "wof:name":"Borkou",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

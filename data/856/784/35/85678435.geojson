@@ -210,6 +210,9 @@
         "wd:id":"Q1042437"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"512b7eccc70997330f93d207245e5085",
     "wof:hierarchy":[
         {
@@ -227,7 +230,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652992,
+    "wof:lastmodified":1582346980,
     "wof:name":"Hadjer-Lamis",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

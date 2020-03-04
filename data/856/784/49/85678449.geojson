@@ -276,6 +276,9 @@
         "wk:page":"Batha Region"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"efcd65f901ba70ea580addd50bc17e7e",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652994,
+    "wof:lastmodified":1582346980,
     "wof:name":"Batha",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

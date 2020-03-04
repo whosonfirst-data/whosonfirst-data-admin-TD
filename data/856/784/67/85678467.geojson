@@ -283,6 +283,9 @@
         "wk:page":"Logone Occidental Region"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6659782781ce3ea002fd978df70b6878",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652992,
+    "wof:lastmodified":1582346980,
     "wof:name":"Logone Occidental",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

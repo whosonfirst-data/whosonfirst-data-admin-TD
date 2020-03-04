@@ -267,6 +267,9 @@
         "wd:id":"Q597410"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b86d3b1a6a5af3ac26d3f2255565f1ec",
     "wof:hierarchy":[
         {
@@ -284,7 +287,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652994,
+    "wof:lastmodified":1582346980,
     "wof:name":"Mandoul",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

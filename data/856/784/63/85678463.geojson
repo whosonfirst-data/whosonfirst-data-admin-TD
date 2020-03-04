@@ -280,6 +280,9 @@
         "wk:page":"Ouadda\u00ef Region"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d0bede083dbadb4c8794c3fc983a7956",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652994,
+    "wof:lastmodified":1582346980,
     "wof:name":"Ouadda\u00ef",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

@@ -270,6 +270,9 @@
         "wk:page":"Logone Oriental Region"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f571cc2475ec1ee33c3d0c6adf292276",
     "wof:hierarchy":[
         {
@@ -287,7 +290,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652992,
+    "wof:lastmodified":1582346980,
     "wof:name":"Logone Oriental",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

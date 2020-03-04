@@ -1009,6 +1009,11 @@
     },
     "wof:country":"TD",
     "wof:country_alpha3":"TCD",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "meso",
+        "naturalearth"
+    ],
     "wof:geomhash":"19c07f58dbd9d17181d351e4270032ca",
     "wof:hierarchy":[
         {
@@ -1025,7 +1030,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652989,
+    "wof:lastmodified":1583226551,
     "wof:name":"Chad",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -271,6 +271,9 @@
         "wk:page":"Kanem Region"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"efd64d7e1e8cd94a42ff50bed2401e1d",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652993,
+    "wof:lastmodified":1582346980,
     "wof:name":"Kanem",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

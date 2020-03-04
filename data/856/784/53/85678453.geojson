@@ -268,6 +268,9 @@
         "wk:page":"Wadi Fira Region"
     },
     "wof:country":"TD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"216af0029c2bc2d6e9fb414b5bf5b026",
     "wof:hierarchy":[
         {
@@ -285,7 +288,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1566652993,
+    "wof:lastmodified":1582346980,
     "wof:name":"Wadi Fira",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

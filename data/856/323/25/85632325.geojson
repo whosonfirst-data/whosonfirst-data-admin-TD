@@ -985,9 +985,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Chad",
-        "digitalenvoy:country_code":[
-            148
-        ],
+        "digitalenvoy:country_code":148,
         "fb:id":"en.chad",
         "fifa:id":"CHA",
         "fips:code":"CD",
@@ -1033,7 +1031,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1583529228,
+    "wof:lastmodified":1583797437,
     "wof:name":"Chad",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

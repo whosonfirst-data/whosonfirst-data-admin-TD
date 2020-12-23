@@ -572,6 +572,7 @@
     "wof:concordances":{
         "gn:id":2427123,
         "gp:id":1277402,
+        "ne:id":1159150863,
         "qs_pg:id":278639,
         "wd:id":"Q3659",
         "wk:page":"N'Djamena"
@@ -600,7 +601,8 @@
         }
     ],
     "wof:id":890440301,
-    "wof:lastmodified":1607981929,
+    "wof:lastmodified":1608688177,
+    "wof:megacity":1,
     "wof:name":"N'Djamena",
     "wof:parent_id":421193929,
     "wof:placetype":"locality",

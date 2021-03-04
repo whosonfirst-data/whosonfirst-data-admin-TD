@@ -119,12 +119,12 @@
         "N\u2019Djamena"
     ],
     "name:fra_x_preferred":[
-        "Ville de N'Djamena"
+        "N'Djam\u00e9na"
     ],
     "name:fra_x_variant":[
         "R\u00e9gion de la Ville de N\u2019Djam\u00e9na",
         "Ville de N\u2019Djam\u00e9na",
-        "N'Djam\u00e9na"
+        "Ville de N'Djamena"
     ],
     "name:frp_x_preferred":[
         "N\u2019Dj\u00b7am\u00e8na"
@@ -524,7 +524,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1607981928,
+    "wof:lastmodified":1614893134,
     "wof:name":"N'Djamena",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

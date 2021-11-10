@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062a\u0646"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u09b2\u09a4\u09bf\u09a8\u09c7"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u043b\u0442\u0438\u043d"
     ],
@@ -32,10 +35,19 @@
     "name:deu_x_preferred":[
         "Biltine"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03af\u03bb\u03c4\u03b9\u03bd\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Biltine"
     ],
     "name:fra_x_preferred":[
+        "Biltine"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05dc\u05d8\u05d9\u05df"
+    ],
+    "name:hun_x_preferred":[
         "Biltine"
     ],
     "name:ind_x_preferred":[
@@ -46,6 +58,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d3\u30eb\u30c6\u30a3\u30fc\u30cc"
+    ],
+    "name:kor_x_preferred":[
+        "\ube4c\ud2f4"
     ],
     "name:mrj_x_preferred":[
         "\u0411\u0438\u043b\u044c\u0442\u0438\u043d"
@@ -70,6 +85,15 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0438\u043b\u044c\u0442\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Biltine"
+    ],
+    "name:swe_x_preferred":[
+        "Biltine"
+    ],
+    "name:tur_x_preferred":[
+        "Biltine"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u044c\u0442\u0438\u043d"
@@ -228,7 +252,7 @@
         }
     ],
     "wof:id":421179951,
-    "wof:lastmodified":1566653798,
+    "wof:lastmodified":1636501313,
     "wof:name":"Biltine",
     "wof:parent_id":1091901409,
     "wof:placetype":"locality",

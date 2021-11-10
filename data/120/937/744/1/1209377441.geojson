@@ -32,6 +32,12 @@
     "name:dan_x_preferred":[
         "Bo"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648"
+    ],
+    "name:hun_x_preferred":[
+        "Bo"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0578"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1209377441,
-    "wof:lastmodified":1566653336,
+    "wof:lastmodified":1636501301,
     "wof:name":"Bo",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

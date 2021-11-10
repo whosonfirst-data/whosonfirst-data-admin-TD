@@ -54,10 +54,37 @@
         "Jij"
     ],
     "name:por_x_preferred":[
+        "You"
+    ],
+    "name:por_x_variant":[
         "Voc\u00ea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u042e\u0446\u0437\u044f\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "You"
     ],
     "name:tgl_x_preferred":[
         "Ikaw"
+    ],
+    "name:tur_x_preferred":[
+        "You"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng You"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u53f3\u6c5f"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u53f3\u6c5f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +109,7 @@
         }
     ],
     "wof:id":1243451741,
-    "wof:lastmodified":1566653943,
+    "wof:lastmodified":1636501318,
     "wof:name":"You",
     "wof:parent_id":1091901265,
     "wof:placetype":"locality",

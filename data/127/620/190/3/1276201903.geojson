@@ -77,6 +77,9 @@
     "name:gag_x_preferred":[
         "Rize"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d6\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Rize"
     ],
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":1276201903,
-    "wof:lastmodified":1566653194,
+    "wof:lastmodified":1636501298,
     "wof:name":"Rize",
     "wof:parent_id":1091900897,
     "wof:placetype":"locality",

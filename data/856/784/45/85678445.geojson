@@ -84,8 +84,14 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0a96 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e7"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u0948\u0915 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Lac"
     ],
     "name:ind_x_preferred":[
         "Region Lac"
@@ -293,7 +299,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1614893134,
+    "wof:lastmodified":1636501291,
     "wof:name":"Lac",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

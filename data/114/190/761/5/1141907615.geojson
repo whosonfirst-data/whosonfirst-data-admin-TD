@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.5277660712,20.4587369985,16.5277660712,20.4587369985",
+    "geom:bbox":"16.527766,20.458737,16.527766,20.458737",
     "geom:latitude":20.458737,
     "geom:longitude":16.527766,
     "iso:country":"TD",
@@ -23,6 +23,9 @@
     ],
     "name:azb_x_preferred":[
         "\u0632\u0648\u0627\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09cb\u0989\u09df\u09be\u09b0"
     ],
     "name:bul_x_preferred":[
         "\u0417\u0443\u0430\u0440"
@@ -45,6 +48,15 @@
     "name:fra_x_preferred":[
         "Zouar"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d5\u05d0\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u094b\u0909\u0906\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Zouar"
+    ],
     "name:ind_x_preferred":[
         "Zouar"
     ],
@@ -54,7 +66,13 @@
     "name:jpn_x_preferred":[
         "\u30ba\u30a2\u30eb"
     ],
+    "name:kor_x_preferred":[
+        "\uc8fc\uc544\ub974"
+    ],
     "name:nld_x_preferred":[
+        "Zouar"
+    ],
+    "name:por_x_preferred":[
         "Zouar"
     ],
     "name:ron_x_preferred":[
@@ -62,6 +80,15 @@
     ],
     "name:rus_x_preferred":[
         "\u0417\u0443\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Zouar"
+    ],
+    "name:swe_x_preferred":[
+        "Zouar"
+    ],
+    "name:tur_x_preferred":[
+        "Zouar"
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0443\u0430\u0440"
@@ -71,6 +98,9 @@
     ],
     "name:urd_x_variant":[
         "\u0632\u0624\u0627\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Zouar"
     ],
     "name:zho_x_preferred":[
         "\u8332\u74e6\u723e"
@@ -183,7 +213,7 @@
     },
     "wof:country":"TD",
     "wof:created":1499130749,
-    "wof:geomhash":"74d14d8e38264eb89b621455de17bfeb",
+    "wof:geomhash":"c0f4225061789d049cdb601589e6d43d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -194,7 +224,7 @@
         }
     ],
     "wof:id":1141907615,
-    "wof:lastmodified":1566654213,
+    "wof:lastmodified":1636501326,
     "wof:name":"Zouar",
     "wof:parent_id":1091901659,
     "wof:placetype":"locality",
@@ -204,10 +234,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.52776607124258,
-    20.45873699847073,
-    16.52776607124258,
-    20.45873699847073
+    16.527766,
+    20.458737,
+    16.527766,
+    20.458737
 ],
-  "geometry": {"coordinates":[16.52776607124258,20.45873699847073],"type":"Point"}
+  "geometry": {"coordinates":[16.527766,20.458737],"type":"Point"}
 }

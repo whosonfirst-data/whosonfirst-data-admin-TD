@@ -47,6 +47,12 @@
     "name:fra_x_preferred":[
         "Batna"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d8\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Batna"
+    ],
     "name:nld_x_preferred":[
         "Batna"
     ],
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1226107141,
-    "wof:lastmodified":1566654080,
+    "wof:lastmodified":1636501322,
     "wof:name":"Batna",
     "wof:parent_id":1091900237,
     "wof:placetype":"locality",

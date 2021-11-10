@@ -49,6 +49,9 @@
     "name:eng_x_preferred":[
         "Ati"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u062a\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ati"
     ],
@@ -61,10 +64,16 @@
     "name:guj_x_preferred":[
         "\u0a85\u0aa4\u0abf"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d8\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0906\u0924\u0940"
     ],
     "name:hrv_x_preferred":[
+        "Ati"
+    ],
+    "name:hun_x_preferred":[
         "Ati"
     ],
     "name:ind_x_preferred":[
@@ -277,7 +286,7 @@
         }
     ],
     "wof:id":890417929,
-    "wof:lastmodified":1566653800,
+    "wof:lastmodified":1636501314,
     "wof:name":"Ati",
     "wof:parent_id":1091901485,
     "wof:placetype":"locality",

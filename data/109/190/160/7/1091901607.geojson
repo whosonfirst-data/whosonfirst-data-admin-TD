@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "Borkou"
     ],
+    "name:hun_x_preferred":[
+        "Borkou"
+    ],
     "name:ind_x_preferred":[
         "Borkou"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1091901607,
-    "wof:lastmodified":1627522811,
+    "wof:lastmodified":1636501312,
     "wof:name":"Borkou",
     "wof:parent_id":85678501,
     "wof:placetype":"county",

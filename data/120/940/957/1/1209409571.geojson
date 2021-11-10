@@ -59,6 +59,9 @@
     "name:hrv_x_preferred":[
         "Djougou"
     ],
+    "name:hun_x_preferred":[
+        "Djougou"
+    ],
     "name:ind_x_preferred":[
         "Djougou"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1209409571,
-    "wof:lastmodified":1566653366,
+    "wof:lastmodified":1636501302,
     "wof:name":"Djougou",
     "wof:parent_id":85632325,
     "wof:placetype":"locality",

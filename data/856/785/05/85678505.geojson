@@ -51,6 +51,12 @@
         "R\u00e9gion du Tibesti",
         "Borkou-Ennedi-Tibesti"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05d1\u05e1\u05d8\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Tibesti"
+    ],
     "name:und_x_variant":[
         "Min\u0163aqah Tibast\u012b"
     ],
@@ -175,7 +181,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1617131229,
+    "wof:lastmodified":1636501289,
     "wof:name":"Tibesti",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

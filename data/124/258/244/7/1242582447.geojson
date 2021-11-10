@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0993\u09df\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0439\u043e"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:fra_x_preferred":[
         "Oyo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d9\u05d5"
     ],
     "name:hun_x_preferred":[
         "Oyo"
@@ -74,6 +80,9 @@
     "name:und_x_variant":[
         "Ohio"
     ],
+    "name:vie_x_preferred":[
+        "Oyo"
+    ],
     "name:yor_x_preferred":[
         "Oyo"
     ],
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1242582447,
-    "wof:lastmodified":1566653852,
+    "wof:lastmodified":1636501316,
     "wof:name":"Oyo",
     "wof:parent_id":1091900821,
     "wof:placetype":"locality",

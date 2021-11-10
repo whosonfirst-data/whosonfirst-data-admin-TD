@@ -41,6 +41,9 @@
     "name:eng_x_preferred":[
         "Mao"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0626\u0648"
+    ],
     "name:fin_x_preferred":[
         "Mao"
     ],
@@ -50,8 +53,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0a93"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u093e\u0913"
+    ],
+    "name:hun_x_preferred":[
+        "Mao"
     ],
     "name:ind_x_preferred":[
         "Mao"
@@ -288,7 +297,7 @@
         }
     ],
     "wof:id":421175477,
-    "wof:lastmodified":1566653797,
+    "wof:lastmodified":1636501313,
     "wof:name":"Mao",
     "wof:parent_id":1091901305,
     "wof:placetype":"locality",

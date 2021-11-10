@@ -84,8 +84,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0aaf\u0acb-\u0a95\u0ac7\u0aac\u0ac0 \u0a94\u0a8f\u0ab8\u0acd\u0a9f \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05d9\u05d2'\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0947\u092f\u094b-\u0915\u0947\u092c\u0940 \u0906\u0909\u0938\u094d\u091f \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Mayo-Kebbi Ouest"
     ],
     "name:ind_x_preferred":[
         "Region Mayo-Kebbi Ouest"
@@ -303,7 +309,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1617130154,
+    "wof:lastmodified":1636501290,
     "wof:name":"Mayo-Kebbi Ouest",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

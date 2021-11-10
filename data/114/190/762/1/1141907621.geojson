@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.6999849026,12.1837382191,18.6999849026,12.1837382191",
+    "geom:bbox":"18.699985,12.183738,18.699985,12.183738",
     "geom:latitude":12.183738,
     "geom:longitude":18.699985,
     "gn:country":"TD",
@@ -61,6 +61,9 @@
         "\u092e\u094b\u0902\u0917\u094b"
     ],
     "name:hrv_x_preferred":[
+        "Mongo"
+    ],
+    "name:hun_x_preferred":[
         "Mongo"
     ],
     "name:ind_x_preferred":[
@@ -272,7 +275,7 @@
     },
     "wof:country":"TD",
     "wof:created":1499130750,
-    "wof:geomhash":"328cfa957340b880ade4b278f46bf0e1",
+    "wof:geomhash":"dc375a5ca2f56d24b546f90fe91463ff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -283,7 +286,7 @@
         }
     ],
     "wof:id":1141907621,
-    "wof:lastmodified":1566654213,
+    "wof:lastmodified":1636501325,
     "wof:name":"Mongo",
     "wof:parent_id":1091900821,
     "wof:placetype":"locality",
@@ -297,10 +300,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.69998490263151,
-    12.18373821914076,
-    18.69998490263151,
-    12.18373821914076
+    18.699985,
+    12.183738,
+    18.699985,
+    12.183738
 ],
-  "geometry": {"coordinates":[18.69998490263151,12.18373821914076],"type":"Point"}
+  "geometry": {"coordinates":[18.699985,12.183738],"type":"Point"}
 }

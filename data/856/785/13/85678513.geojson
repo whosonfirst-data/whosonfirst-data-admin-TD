@@ -71,6 +71,9 @@
     "name:eus_x_preferred":[
         "Chari-Baguirmi"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0631\u06cc- \u0628\u06af\u0648\u06cc\u0631\u0645\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Chari-Baguirmi"
     ],
@@ -91,6 +94,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091a\u093e\u0930\u0940-\u092c\u0917\u0941\u0930\u0928\u0940 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Chari-Baguirmi"
     ],
     "name:ind_x_preferred":[
         "Region Chari-Baguirmi"
@@ -237,7 +243,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1614893134,
+    "wof:lastmodified":1636501290,
     "wof:name":"Chari-Baguirmi",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Bol"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644"
+    ],
     "name:fin_x_preferred":[
         "Bol"
     ],
@@ -49,8 +52,14 @@
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0ab2"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u094b\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Bol"
     ],
     "name:ind_x_preferred":[
         "Bol"
@@ -248,8 +257,8 @@
     "wof:belongsto":[
         102191573,
         85632325,
-        1091901265,
-        85678445
+        85678445,
+        1091901265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -272,7 +281,7 @@
         }
     ],
     "wof:id":890444443,
-    "wof:lastmodified":1587163142,
+    "wof:lastmodified":1636501314,
     "wof:name":"Bol",
     "wof:parent_id":1091901265,
     "wof:placetype":"locality",

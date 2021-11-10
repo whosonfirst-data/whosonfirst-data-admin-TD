@@ -63,6 +63,9 @@
         "Sokoto"
     ],
     "name:fas_x_preferred":[
+        "\u0627\u0633\u06a9\u0648\u062a\u0648"
+    ],
+    "name:fas_x_variant":[
         "\u0633\u0648\u06a9\u0648\u062a\u0648"
     ],
     "name:fin_x_preferred":[
@@ -73,6 +76,12 @@
     ],
     "name:hau_x_preferred":[
         "Sokoto"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e7\u05d5\u05d8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b\u0915\u094b\u0924\u094b"
     ],
     "name:hrv_x_preferred":[
         "Sokoto"
@@ -137,6 +146,12 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043a\u043e\u0442\u043e"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u0679\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Sokoto"
+    ],
     "name:yor_x_preferred":[
         "S\u00f3k\u00f3t\u00f3"
     ],
@@ -166,7 +181,7 @@
         }
     ],
     "wof:id":1276143613,
-    "wof:lastmodified":1566653238,
+    "wof:lastmodified":1636501299,
     "wof:name":"Sokoto",
     "wof:parent_id":1091901129,
     "wof:placetype":"locality",

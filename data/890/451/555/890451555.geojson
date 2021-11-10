@@ -58,10 +58,16 @@
     "name:guj_x_preferred":[
         "\u0a8f\u0aae \u0a9f\u0abf\u0aae\u0abe\u0aa8"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dd \u05d8\u05d9\u05de\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u090f\u092e \u091f\u093f\u092e\u094b\u0902"
     ],
     "name:hrv_x_preferred":[
+        "Am Timan"
+    ],
+    "name:hun_x_preferred":[
         "Am Timan"
     ],
     "name:ind_x_preferred":[
@@ -278,7 +284,7 @@
         }
     ],
     "wof:id":890451555,
-    "wof:lastmodified":1566653802,
+    "wof:lastmodified":1636501314,
     "wof:name":"Am Timan",
     "wof:parent_id":1091900689,
     "wof:placetype":"locality",

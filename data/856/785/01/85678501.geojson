@@ -48,6 +48,9 @@
         "R\u00e9gion du Borkou",
         "Borkou-Ennedi-Tibesti"
     ],
+    "name:hun_x_preferred":[
+        "Borkou"
+    ],
     "name:ind_x_preferred":[
         "Borkou"
     ],
@@ -180,7 +183,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1617131229,
+    "wof:lastmodified":1636501290,
     "wof:name":"Borkou",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

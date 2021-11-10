@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.0900150133,8.54998069146,16.0900150133,8.54998069146",
+    "geom:bbox":"16.090015,8.549981,16.090015,8.549981",
     "geom:latitude":8.549981,
     "geom:longitude":16.090015,
     "iso:country":"TD",
@@ -79,6 +79,9 @@
         "\u092e\u094c\u0928\u094d\u0921\u094d\u092f\u0942"
     ],
     "name:hrv_x_preferred":[
+        "Moundou"
+    ],
+    "name:hun_x_preferred":[
         "Moundou"
     ],
     "name:ind_x_preferred":[
@@ -291,7 +294,7 @@
     },
     "wof:country":"TD",
     "wof:created":1499131047,
-    "wof:geomhash":"24e2d23364b06add37cda2ad2f660510",
+    "wof:geomhash":"af85a4929ef81b8424961aff11ccae4f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -302,7 +305,7 @@
         }
     ],
     "wof:id":1141909235,
-    "wof:lastmodified":1566654213,
+    "wof:lastmodified":1636501326,
     "wof:name":"Moundou",
     "wof:parent_id":1091900031,
     "wof:placetype":"locality",
@@ -312,10 +315,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.09001501329823,
-    8.54998069145688,
-    16.09001501329823,
-    8.54998069145688
+    16.090015,
+    8.549981,
+    16.090015,
+    8.549981
 ],
-  "geometry": {"coordinates":[16.09001501329823,8.54998069145688],"type":"Point"}
+  "geometry": {"coordinates":[16.090015,8.549981],"type":"Point"}
 }

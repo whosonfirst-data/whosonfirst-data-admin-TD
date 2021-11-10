@@ -44,13 +44,22 @@
     "name:deu_x_preferred":[
         "Bol"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644"
+    ],
     "name:fin_x_preferred":[
         "Bol"
     ],
     "name:fra_x_preferred":[
         "Bol"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc"
+    ],
     "name:hrv_x_preferred":[
+        "Bol"
+    ],
+    "name:hun_x_preferred":[
         "Bol"
     ],
     "name:hye_x_preferred":[
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1310585655,
-    "wof:lastmodified":1566653678,
+    "wof:lastmodified":1636501311,
     "wof:name":"Bol",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",

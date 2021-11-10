@@ -32,7 +32,19 @@
     "name:ceb_x_preferred":[
         "Bolobo"
     ],
+    "name:deu_x_preferred":[
+        "Bolobo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u0628\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Bolobo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05d5\u05d1\u05d5"
+    ],
+    "name:hun_x_preferred":[
         "Bolobo"
     ],
     "name:ita_x_preferred":[
@@ -65,7 +77,7 @@
         "gn:id":6909188
     },
     "wof:country":"TD",
-    "wof:geomhash":"d914a13a075df69cbbe52946e5172cef",
+    "wof:geomhash":"609921fa60e812454802d01ff2a38224",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +88,7 @@
         }
     ],
     "wof:id":1293196281,
-    "wof:lastmodified":1566653137,
+    "wof:lastmodified":1636501296,
     "wof:name":"Bolobo",
     "wof:parent_id":1091900073,
     "wof:placetype":"locality",
@@ -86,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.65102000000001,
+    16.65102,
     8.40247,
-    16.65102000000001,
+    16.65102,
     8.40247
 ],
-  "geometry": {"coordinates":[16.65102000000001,8.40247],"type":"Point"}
+  "geometry": {"coordinates":[16.65102,8.40247],"type":"Point"}
 }

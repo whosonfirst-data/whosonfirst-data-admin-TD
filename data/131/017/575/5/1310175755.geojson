@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09b2\u09cd\u09b2\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Bello"
     ],
@@ -41,11 +47,23 @@
     "name:glg_x_preferred":[
         "Bello"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0932\u094b"
+    ],
     "name:hun_x_preferred":[
+        "Bello"
+    ],
+    "name:ind_x_preferred":[
         "Bello"
     ],
     "name:ita_x_preferred":[
         "Bello"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca8\ub85c"
     ],
     "name:mlg_x_preferred":[
         "Bello"
@@ -73,6 +91,12 @@
     ],
     "name:swe_x_preferred":[
         "Bello"
+    ],
+    "name:tur_x_preferred":[
+        "Bello"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u043b\u043e"
     ],
     "name:vie_x_preferred":[
         "Bello"
@@ -103,7 +127,7 @@
         }
     ],
     "wof:id":1310175755,
-    "wof:lastmodified":1566653639,
+    "wof:lastmodified":1636501310,
     "wof:name":"Bello",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

@@ -50,6 +50,9 @@
     "name:hrv_x_preferred":[
         "Sila"
     ],
+    "name:hun_x_preferred":[
+        "Sila"
+    ],
     "name:ita_x_preferred":[
         "Sila"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1293389229,
-    "wof:lastmodified":1566653000,
+    "wof:lastmodified":1636501292,
     "wof:name":"Sila",
     "wof:parent_id":1091900641,
     "wof:placetype":"locality",

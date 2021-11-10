@@ -29,7 +29,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0631\u0648\u0645"
+    ],
     "name:fra_x_preferred":[
+        "Loroum"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e1 \u05e8\u05d9\u05d5\u05e1"
+    ],
+    "name:hun_x_preferred":[
         "Loroum"
     ],
     "src:geom":"geonames",
@@ -44,7 +53,7 @@
         "gn:id":2429019
     },
     "wof:country":"TD",
-    "wof:geomhash":"e73a0702be89a6eb40ccf6d0d64034a3",
+    "wof:geomhash":"4bf9f0b316f415b5413430ec795532cd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1310487085,
-    "wof:lastmodified":1566653573,
+    "wof:lastmodified":1636501308,
     "wof:name":"Loroum",
     "wof:parent_id":1091900177,
     "wof:placetype":"locality",
@@ -65,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.52212999999999,
+    16.52213,
     8.97891,
-    16.52212999999999,
+    16.52213,
     8.97891
 ],
-  "geometry": {"coordinates":[16.52212999999999,8.97891],"type":"Point"}
+  "geometry": {"coordinates":[16.52213,8.97891],"type":"Point"}
 }

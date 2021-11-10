@@ -92,6 +92,9 @@
     "name:hrv_x_preferred":[
         "Bar"
     ],
+    "name:hun_x_preferred":[
+        "Bar"
+    ],
     "name:ind_x_preferred":[
         "Bar"
     ],
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":1310281307,
-    "wof:lastmodified":1566653644,
+    "wof:lastmodified":1636501310,
     "wof:name":"Bar",
     "wof:parent_id":1091900487,
     "wof:placetype":"locality",

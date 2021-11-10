@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0628\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09cb\u09ac\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u0430"
     ],
@@ -31,13 +34,25 @@
     "name:deu_x_preferred":[
         "Doba"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03bc\u03c0\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Doba"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0627"
     ],
     "name:fra_x_preferred":[
         "Doba"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05d1\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Doba"
+    ],
+    "name:hun_x_preferred":[
         "Doba"
     ],
     "name:ind_x_preferred":[
@@ -67,6 +82,9 @@
     "name:pol_x_preferred":[
         "Doba"
     ],
+    "name:por_x_preferred":[
+        "Doba"
+    ],
     "name:ron_x_preferred":[
         "Doba"
     ],
@@ -76,7 +94,13 @@
     "name:spa_x_preferred":[
         "Doba"
     ],
+    "name:swe_x_preferred":[
+        "Doba"
+    ],
     "name:tgl_x_preferred":[
+        "Doba"
+    ],
+    "name:tur_x_preferred":[
         "Doba"
     ],
     "name:ukr_x_preferred":[
@@ -219,7 +243,7 @@
         }
     ],
     "wof:id":890444437,
-    "wof:lastmodified":1566653801,
+    "wof:lastmodified":1636501314,
     "wof:name":"Doba",
     "wof:parent_id":1091900157,
     "wof:placetype":"locality",

@@ -69,6 +69,9 @@
     "name:eus_x_preferred":[
         "Mendebaldeko Logone"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06af\u0648\u0646 \u063a\u0631\u0628\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Logone Occidental"
     ],
@@ -89,6 +92,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0932\u094b\u0917\u094b\u0928 \u0911\u0915\u094d\u0938\u0940\u0921\u094b\u0902\u091f\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:hun_x_preferred":[
+        "Logone Occidental"
     ],
     "name:ind_x_preferred":[
         "Region Logone Occidental"
@@ -306,7 +312,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1614893134,
+    "wof:lastmodified":1636501291,
     "wof:name":"Logone Occidental",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

@@ -56,7 +56,13 @@
     "name:hau_x_preferred":[
         "Lafia"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e4\u05d9\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Lafia"
+    ],
+    "name:hun_x_preferred":[
         "Lafia"
     ],
     "name:ibo_x_preferred":[
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1293192503,
-    "wof:lastmodified":1566653138,
+    "wof:lastmodified":1636501297,
     "wof:name":"Lafia",
     "wof:parent_id":1091901265,
     "wof:placetype":"locality",

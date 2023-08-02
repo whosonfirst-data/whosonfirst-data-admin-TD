@@ -25,17 +25,29 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Sarh"
+    ],
     "name:aze_x_preferred":[
         "Sarh"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u0440\u0445"
     ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u0440\u0445"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09b0\u09cd\u09a5"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u0440\u0445"
+    ],
+    "name:cat_x_preferred":[
+        "Sarh"
     ],
     "name:ceb_x_preferred":[
         "Sagh"
@@ -55,6 +67,12 @@
     "name:epo_x_preferred":[
         "Sarh"
     ],
+    "name:eus_x_preferred":[
+        "Sarh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u0647"
+    ],
     "name:fin_x_preferred":[
         "Sarh"
     ],
@@ -66,6 +84,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0ab0\u0acd\u0ab9"
+    ],
+    "name:hau_x_preferred":[
+        "Sarh"
     ],
     "name:hin_x_preferred":[
         "\u0938\u093e\u0930"
@@ -133,6 +154,9 @@
     "name:spa_x_preferred":[
         "Sarh"
     ],
+    "name:swa_x_preferred":[
+        "Sarh"
+    ],
     "name:swe_x_preferred":[
         "Sarh"
     ],
@@ -159,6 +183,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0635\u0631\u062d"
+    ],
+    "name:uzb_x_preferred":[
+        "Sarh"
     ],
     "name:vep_x_preferred":[
         "Sarh"
@@ -297,7 +324,7 @@
         }
     ],
     "wof:id":890444431,
-    "wof:lastmodified":1566653801,
+    "wof:lastmodified":1690868574,
     "wof:name":"Sagh",
     "wof:parent_id":1091900487,
     "wof:placetype":"locality",

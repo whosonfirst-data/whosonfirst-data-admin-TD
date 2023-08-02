@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "B\u00e9boto"
+    ],
     "name:ceb_x_preferred":[
         "B\u00e9boto"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421167695,
-    "wof:lastmodified":1566653797,
+    "wof:lastmodified":1690868571,
     "wof:name":"B\u00e9boto",
     "wof:parent_id":1091899821,
     "wof:placetype":"locality",

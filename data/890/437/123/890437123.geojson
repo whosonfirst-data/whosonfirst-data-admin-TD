@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u064a\u0646\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0633\u064a\u0646\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Massenya"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0435\u043d\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Massenya"
     ],
     "name:ceb_x_preferred":[
         "Massenya"
@@ -37,11 +46,17 @@
     "name:eng_x_preferred":[
         "Massenya"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0633\u06cc\u0646\u06cc\u0627"
+    ],
     "name:fra_x_preferred":[
         "Massenya"
     ],
     "name:frr_x_preferred":[
         "Massenya"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0938\u0947\u0928\u094d\u092f\u093e"
     ],
     "name:ind_x_preferred":[
         "Massenya"
@@ -69,6 +84,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0441\u0435\u043d\u044c\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Massenya"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0441\u0435\u043d\u044c\u044f"
@@ -117,7 +135,7 @@
         }
     ],
     "wof:id":890437123,
-    "wof:lastmodified":1566653800,
+    "wof:lastmodified":1690868573,
     "wof:name":"Massenya",
     "wof:parent_id":1091900757,
     "wof:placetype":"locality",

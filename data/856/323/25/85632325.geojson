@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0427\u0430\u0434"
+    ],
     "name:ace_x_preferred":[
         "Chad"
     ],
@@ -52,11 +55,17 @@
     "name:amh_x_preferred":[
         "\u127b\u12f5"
     ],
+    "name:ami_x_preferred":[
+        "Chad"
+    ],
     "name:ang_x_preferred":[
         "Cead"
     ],
     "name:ang_x_variant":[
         "Chad"
+    ],
+    "name:anp_x_preferred":[
+        "\u091a\u0948\u0921"
     ],
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u062f"
@@ -78,6 +87,9 @@
     ],
     "name:ast_x_preferred":[
         "Chad"
+    ],
+    "name:avk_x_preferred":[
+        "Tcada"
     ],
     "name:azb_x_preferred":[
         "\u0686\u0627\u062f"
@@ -117,6 +129,9 @@
     ],
     "name:bho_x_preferred":[
         "\u091a\u093e\u0921"
+    ],
+    "name:bis_x_preferred":[
+        "Chad"
     ],
     "name:bjn_x_preferred":[
         "Chad"
@@ -166,6 +181,9 @@
     "name:cor_x_preferred":[
         "Chad"
     ],
+    "name:cos_x_preferred":[
+        "Ciad"
+    ],
     "name:crh_x_preferred":[
         "\u00c7ad"
     ],
@@ -175,6 +193,9 @@
     "name:cym_x_variant":[
         "Chad",
         "Tchad"
+    ],
+    "name:dag_x_preferred":[
+        "Chad"
     ],
     "name:dan_x_preferred":[
         "Tchad"
@@ -282,6 +303,9 @@
     "name:ful_x_preferred":[
         "Caad"
     ],
+    "name:ful_x_variant":[
+        "Caadi"
+    ],
     "name:gag_x_preferred":[
         "\u00c7ad"
     ],
@@ -305,6 +329,9 @@
     ],
     "name:glv_x_preferred":[
         "Shad"
+    ],
+    "name:gpe_x_preferred":[
+        "Chad"
     ],
     "name:grn_x_preferred":[
         "Ch\u00e1de"
@@ -429,6 +456,9 @@
     "name:kbp_x_preferred":[
         "Caad\u0269"
     ],
+    "name:kcg_x_preferred":[
+        "Caad"
+    ],
     "name:khm_x_preferred":[
         "\u1786\u17b6\u178a"
     ],
@@ -491,6 +521,9 @@
     "name:lit_x_preferred":[
         "\u010cadas"
     ],
+    "name:lld_x_preferred":[
+        "Ciad"
+    ],
     "name:lmo_x_preferred":[
         "Ciad"
     ],
@@ -515,6 +548,9 @@
     "name:lzh_x_preferred":[
         "\u4e4d\u5f97"
     ],
+    "name:mad_x_preferred":[
+        "Chad"
+    ],
     "name:mal_x_preferred":[
         "\u0d1b\u0d3e\u0d21\u0d4d"
     ],
@@ -523,6 +559,12 @@
     ],
     "name:mar_x_preferred":[
         "\u091a\u093e\u0921"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0427\u0430\u0434"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0427\u0430\u0434"
     ],
     "name:min_x_preferred":[
         "Chad"
@@ -535,6 +577,12 @@
     ],
     "name:mlt_x_preferred":[
         "\u010aad"
+    ],
+    "name:mlt_x_variant":[
+        "Chad"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc6\uabe5\uabd7"
     ],
     "name:mon_x_preferred":[
         "\u0427\u0430\u0434"
@@ -636,6 +684,9 @@
     "name:pap_x_preferred":[
         "Chad"
     ],
+    "name:pcm_x_preferred":[
+        "Chad"
+    ],
     "name:pih_x_preferred":[
         "Chad"
     ],
@@ -693,6 +744,9 @@
     "name:san_x_preferred":[
         "\u091a\u093e\u0921"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6a\u1c5f\u1c6b\u1c7d"
+    ],
     "name:scn_x_preferred":[
         "Ciad"
     ],
@@ -701,6 +755,9 @@
     ],
     "name:sgs_x_preferred":[
         "\u010cads"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1076\u103b\u1062\u1010\u103a\u1088"
     ],
     "name:sin_x_preferred":[
         "\u0da0\u0dd1\u0da9\u0dca"
@@ -717,8 +774,14 @@
     "name:sme_x_variant":[
         "T\u010dad"
     ],
+    "name:smn_x_preferred":[
+        "T\u0161ad"
+    ],
     "name:smo_x_preferred":[
         "Chad"
+    ],
+    "name:sms_x_preferred":[
+        "T\u0161aad"
     ],
     "name:sna_x_preferred":[
         "Chad"
@@ -789,6 +852,9 @@
     "name:tat_x_preferred":[
         "\u0427\u0430\u0434"
     ],
+    "name:tay_x_preferred":[
+        "Chad"
+    ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c3e\u0c26\u0c4d"
     ],
@@ -814,14 +880,23 @@
     "name:tir_x_preferred":[
         "\u127b\u12f5"
     ],
+    "name:tok_x_preferred":[
+        "ma Sate"
+    ],
     "name:ton_x_preferred":[
         "Seti"
+    ],
+    "name:trv_x_preferred":[
+        "Chad"
     ],
     "name:tso_x_preferred":[
         "Chad"
     ],
     "name:tuk_x_preferred":[
         "\u00c7ad"
+    ],
+    "name:tum_x_preferred":[
+        "Chad"
     ],
     "name:tur_x_preferred":[
         "\u00c7ad"
@@ -1141,7 +1216,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1617827543,
+    "wof:lastmodified":1690868560,
     "wof:name":"Chad",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

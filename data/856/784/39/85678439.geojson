@@ -36,6 +36,9 @@
     "name:ara_x_variant":[
         "\u0645\u0646\u0637\u0642\u0629 \u0643\u0627\u0646\u0645"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043d\u0435\u043c"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09a8\u09c7\u09ae \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -54,6 +57,9 @@
     "name:deu_x_preferred":[
         "Region Kanem"
     ],
+    "name:deu_x_variant":[
+        "Kanem"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bd\u03ad\u03bc"
     ],
@@ -61,6 +67,9 @@
         "Kanem Region"
     ],
     "name:eng_x_variant":[
+        "Kanem"
+    ],
+    "name:epo_x_preferred":[
         "Kanem"
     ],
     "name:est_x_preferred":[
@@ -117,6 +126,9 @@
     "name:kor_x_preferred":[
         "\uce74\ub134 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uce74\ub134\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Kanemas re\u0123ions"
     ],
@@ -128,6 +140,9 @@
     ],
     "name:msa_x_preferred":[
         "Kanem Region"
+    ],
+    "name:nan_x_preferred":[
+        "Kanem Chiu"
     ],
     "name:nld_x_preferred":[
         "Kanem"
@@ -303,7 +318,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1636501291,
+    "wof:lastmodified":1690868565,
     "wof:name":"Kanem",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

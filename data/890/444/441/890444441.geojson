@@ -22,8 +22,23 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0646\u0642\u0648\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0646\u0642\u0648\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Bongor"
+    ],
+    "name:aze_x_preferred":[
+        "Bonqor"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u0982\u0997\u09b0"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u043d\u0433\u043e\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Bongor"
     ],
     "name:ceb_x_preferred":[
         "Bongor"
@@ -40,11 +55,23 @@
     "name:eng_x_preferred":[
         "Bongor"
     ],
+    "name:epo_x_preferred":[
+        "Bongor"
+    ],
+    "name:eus_x_preferred":[
+        "Bongor"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0646\u0642\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
         "Bongor"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05e0\u05d2\u05d5\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u0902\u0917\u094b\u0930"
     ],
     "name:hrv_x_preferred":[
         "Bongor"
@@ -91,6 +118,9 @@
     "name:spa_x_preferred":[
         "Bongor"
     ],
+    "name:swa_x_preferred":[
+        "Bongor"
+    ],
     "name:swe_x_preferred":[
         "Bongor"
     ],
@@ -105,6 +135,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0646\u06af\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Bongor"
     ],
     "name:zho_x_preferred":[
         "\u90a6\u6208\u723e"
@@ -236,7 +269,7 @@
         }
     ],
     "wof:id":890444441,
-    "wof:lastmodified":1636501314,
+    "wof:lastmodified":1690868574,
     "wof:name":"Bongor",
     "wof:parent_id":1091900561,
     "wof:placetype":"locality",

@@ -34,7 +34,8 @@
         "\u0633\u0644\u0627\u0645\u0627\u062a"
     ],
     "name:ara_x_variant":[
-        "\u0645\u0646\u0637\u0642\u0629 \u0633\u0644\u0627\u0645\u0627\u062a"
+        "\u0645\u0646\u0637\u0642\u0629 \u0633\u0644\u0627\u0645\u0627\u062a",
+        "\u0625\u0642\u0644\u064a\u0645 \u0633\u0644\u0627\u0645\u0627\u062a"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09b2\u09be\u09ae\u09be\u09a4 \u0985\u099e\u09cd\u099a\u09b2"
@@ -54,6 +55,9 @@
     "name:deu_x_preferred":[
         "Region Salamat"
     ],
+    "name:deu_x_variant":[
+        "Salamat"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bb\u03b1\u03bc\u03ac\u03c4"
     ],
@@ -63,11 +67,17 @@
     "name:eng_x_variant":[
         "Salamat"
     ],
+    "name:epo_x_preferred":[
+        "Salamat"
+    ],
     "name:est_x_preferred":[
         "Salamat"
     ],
     "name:eus_x_preferred":[
         "Salamat"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0644\u0627\u0645\u0627\u062a"
     ],
     "name:fin_x_preferred":[
         "Salamat"
@@ -114,6 +124,9 @@
     "name:kor_x_preferred":[
         "\uc0b4\ub77c\ub9c8\ud2b8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc0b4\ub77c\ub9c8\ud2b8\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Salamatas re\u0123ions"
     ],
@@ -125,6 +138,9 @@
     ],
     "name:msa_x_preferred":[
         "Salamat Region"
+    ],
+    "name:nan_x_preferred":[
+        "Salamat Chiu"
     ],
     "name:nld_x_preferred":[
         "Salamat"
@@ -302,7 +318,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1636501291,
+    "wof:lastmodified":1690868564,
     "wof:name":"Salamat",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

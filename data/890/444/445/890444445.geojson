@@ -22,11 +22,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0648\u0631\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0643\u0648\u0631\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Bokoro"
+    ],
     "name:ceb_x_preferred":[
         "Bokoro"
     ],
     "name:eng_x_preferred":[
         "Bokoro"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0648\u0631\u0648"
     ],
     "name:fra_x_preferred":[
         "Bokoro"
@@ -48,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u043a\u043e\u0440\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Bokoro"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u06a9\u0648\u0631\u0648"
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":890444445,
-    "wof:lastmodified":1566653801,
+    "wof:lastmodified":1690868575,
     "wof:name":"Bokoro",
     "wof:parent_id":1091901007,
     "wof:placetype":"locality",

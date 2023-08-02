@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u064a\u0627 \u0644\u0627\u0631\u062c\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Faya-Largeau"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09be\u09af\u09bc\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0424\u0430\u044f-\u041b\u0430\u0440\u0436\u043e"
     ],
@@ -47,6 +53,9 @@
     "name:eng_x_variant":[
         "Faya"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u06cc\u0627 \u0644\u0627\u0631\u062c\u0648"
+    ],
     "name:fin_x_preferred":[
         "Faya-Largeau"
     ],
@@ -55,6 +64,12 @@
     ],
     "name:frr_x_preferred":[
         "Faya-Largeau"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05d9\u05d4-\u05dc\u05d0\u05e8\u05d2\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u093e\u092f\u093e-\u0932\u093e\u0930\u091d\u093c\u094b"
     ],
     "name:hrv_x_preferred":[
         "Faya-Largeau"
@@ -103,6 +118,12 @@
     ],
     "name:spa_x_preferred":[
         "Faya-Largeau"
+    ],
+    "name:swa_x_preferred":[
+        "Faya"
+    ],
+    "name:szl_x_preferred":[
+        "Faya"
     ],
     "name:tgl_x_preferred":[
         "Faya-Largeau"
@@ -261,7 +282,7 @@
         }
     ],
     "wof:id":421175967,
-    "wof:lastmodified":1566653797,
+    "wof:lastmodified":1690868571,
     "wof:name":"Faya-Largeau",
     "wof:parent_id":1091901887,
     "wof:placetype":"locality",

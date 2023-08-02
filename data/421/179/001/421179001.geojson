@@ -35,6 +35,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0627\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u0627\u0631\u0627"
+    ],
     "name:dan_x_preferred":[
         "Ouara"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0627\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Ouara"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":421179001,
-    "wof:lastmodified":1627522813,
+    "wof:lastmodified":1690868571,
     "wof:name":"Ouara",
     "wof:parent_id":85678463,
     "wof:placetype":"county",

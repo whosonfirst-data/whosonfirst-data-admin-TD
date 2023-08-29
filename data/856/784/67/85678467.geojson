@@ -34,7 +34,8 @@
         "\u0644\u0648\u0642\u0648\u0646 \u0627\u0644\u063a\u0631\u0628\u064a"
     ],
     "name:ara_x_variant":[
-        "\u0645\u0646\u0637\u0642\u0629 \u0644\u0648\u0642\u0648\u0646 \u0627\u0644\u063a\u0631\u0628\u064a"
+        "\u0645\u0646\u0637\u0642\u0629 \u0644\u0648\u0642\u0648\u0646 \u0627\u0644\u063a\u0631\u0628\u064a",
+        "\u0625\u0642\u0644\u064a\u0645 \u0644\u0648\u0642\u0648\u0646 \u0627\u0644\u063a\u0631\u0628\u064a"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u09c1\u0997\u09cb\u09a8\u09c7 \u0985\u0995\u09cd\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u099f\u09be\u09b2 \u0985\u099e\u09cd\u099a\u09b2"
@@ -51,14 +52,23 @@
     "name:deu_x_preferred":[
         "Region Logone Occidental"
     ],
+    "name:deu_x_variant":[
+        "Logone Occidental"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03b3\u03ba\u03cc\u03bd\u03b5 \u039f\u03be\u03b9\u03bd\u03c4\u03ad\u03bd\u03c4\u03b1\u03bb"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03c5\u03c4\u03b9\u03ba\u03cc \u039b\u03bf\u03b3\u03ba\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Logone Occidental"
     ],
     "name:eng_x_variant":[
         "Logone Occidental Region"
+    ],
+    "name:epo_x_preferred":[
+        "provinco Logone Occidental"
     ],
     "name:est_x_preferred":[
         "L\u00e4\u00e4ne-Logone'i piirkond"
@@ -90,6 +100,9 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0acb\u0a97\u0acb\u0aa8 \u0a93\u0a95\u0acd\u0ab8\u0abf\u0aa1\u0ac7\u0aa8\u0acd\u0a9f\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d2\u05d5\u05df \u05de\u05e2\u05e8\u05d1"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u094b\u0917\u094b\u0928 \u0911\u0915\u094d\u0938\u0940\u0921\u094b\u0902\u091f\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
@@ -117,6 +130,9 @@
     "name:kor_x_preferred":[
         "\ub85c\uace4\uc625\uc2dc\ub2f9\ud0c8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub85c\uace4\uc625\uc2dc\ub2f9\ud0c8\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Rietumlogones re\u0123ions"
     ],
@@ -128,6 +144,9 @@
     ],
     "name:msa_x_preferred":[
         "Logone Occidental Region"
+    ],
+    "name:nan_x_preferred":[
+        "Logone Occidental Chiu"
     ],
     "name:nld_x_preferred":[
         "Logone Occidental"
@@ -312,7 +331,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1636501291,
+    "wof:lastmodified":1690868563,
     "wof:name":"Logone Occidental",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

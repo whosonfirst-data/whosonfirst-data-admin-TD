@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0645 \u062a\u064a\u0645\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0645 \u062a\u064a\u0645\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Am Timan"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0645 \u062a\u06cc\u0645\u0627\u0646"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0410\u043c \u0422\u0438\u043c\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Am-Timan"
     ],
     "name:ceb_x_preferred":[
         "Am Timan"
@@ -44,6 +53,9 @@
         "\u0391\u03bc \u03a4\u03b9\u03bc\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
+        "Am Timan"
+    ],
+    "name:eus_x_preferred":[
         "Am Timan"
     ],
     "name:fas_x_preferred":[
@@ -122,6 +134,9 @@
         "\u0d87\u0db8\u0dca \u0da7\u0dd2\u0db8\u0dcf\u0db1\u0dca"
     ],
     "name:spa_x_preferred":[
+        "Am Timan"
+    ],
+    "name:swa_x_preferred":[
         "Am Timan"
     ],
     "name:swe_x_preferred":[
@@ -284,7 +299,7 @@
         }
     ],
     "wof:id":890451555,
-    "wof:lastmodified":1636501314,
+    "wof:lastmodified":1690868576,
     "wof:name":"Am Timan",
     "wof:parent_id":1091900689,
     "wof:placetype":"locality",

@@ -22,8 +22,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u0627\u0643\u0648\u0631\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Massakory"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u0633\u0627\u06a9\u0648\u0631\u06cc"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0441\u0430\u043a\u043e\u0440\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Massakory"
+    ],
+    "name:ceb_x_preferred":[
+        "Massakory"
     ],
     "name:dan_x_preferred":[
         "Massakory"
@@ -34,8 +46,14 @@
     "name:fas_x_preferred":[
         "\u0645\u0627\u0633\u0627\u06a9\u0648\u0631\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "Massakory"
+    ],
     "name:fra_x_preferred":[
         "Massakory"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0938\u094d\u0938\u093e\u0915\u094b\u0930\u0940"
     ],
     "name:ind_x_preferred":[
         "Massakory"
@@ -63,6 +81,12 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0441\u0430\u043a\u043e\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Massakory"
+    ],
+    "name:swa_x_preferred":[
+        "Massakory"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0441\u0430\u043a\u043e\u0440\u0456"
@@ -111,7 +135,7 @@
         }
     ],
     "wof:id":890437125,
-    "wof:lastmodified":1566653800,
+    "wof:lastmodified":1690868573,
     "wof:name":"Massakory",
     "wof:parent_id":1091901071,
     "wof:placetype":"locality",

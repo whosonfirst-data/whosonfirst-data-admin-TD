@@ -20,14 +20,23 @@
     "name:ara_x_preferred":[
         "\u0625\u0631\u064a\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u064a\u0628\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0418\u0440\u0438\u0431\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Iriba"
     ],
     "name:ceb_x_preferred":[
         "Iriba"
     ],
     "name:eng_x_preferred":[
         "Iriba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u06cc\u0628\u0627"
     ],
     "name:fra_x_preferred":[
         "Iriba"
@@ -46,6 +55,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0418\u0440\u0438\u0431\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Iriba"
     ],
     "name:urd_x_preferred":[
         "\u06c1\u0631\u06cc\u0628\u0627"
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":421176853,
-    "wof:lastmodified":1566653798,
+    "wof:lastmodified":1690868572,
     "wof:name":"Iriba",
     "wof:parent_id":1091901453,
     "wof:placetype":"locality",

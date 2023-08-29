@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062a\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Biltine"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b2\u09a4\u09bf\u09a8\u09c7"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u043b\u0442\u0438\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Biltine"
     ],
     "name:ceb_x_preferred":[
         "Biltine"
@@ -41,11 +47,20 @@
     "name:eng_x_preferred":[
         "Biltine"
     ],
+    "name:epo_x_preferred":[
+        "Biltine"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u062a\u0646"
+    ],
     "name:fra_x_preferred":[
         "Biltine"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05dc\u05d8\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093f\u0932\u094d\u0924\u0940\u0928"
     ],
     "name:hun_x_preferred":[
         "Biltine"
@@ -90,6 +105,9 @@
         "Biltine"
     ],
     "name:swe_x_preferred":[
+        "Biltine"
+    ],
+    "name:tgl_x_preferred":[
         "Biltine"
     ],
     "name:tur_x_preferred":[
@@ -252,7 +270,7 @@
         }
     ],
     "wof:id":421179951,
-    "wof:lastmodified":1636501313,
+    "wof:lastmodified":1690868571,
     "wof:name":"Biltine",
     "wof:parent_id":1091901409,
     "wof:placetype":"locality",

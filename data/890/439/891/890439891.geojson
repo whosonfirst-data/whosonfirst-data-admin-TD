@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0634\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0628\u0634\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Ab\u00e9ch\u00e9"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0628\u0634\u06cc"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0431\u0435\u0448\u044d"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0431\u0435\u0448\u044d"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09ac\u09c7\u0995\u09c7"
@@ -61,6 +70,9 @@
     "name:eng_x_preferred":[
         "Ab\u00e9ch\u00e9"
     ],
+    "name:epo_x_preferred":[
+        "Ab\u00e9ch\u00e9"
+    ],
     "name:est_x_preferred":[
         "Ab\u00e9ch\u00e9"
     ],
@@ -79,8 +91,14 @@
     "name:guj_x_preferred":[
         "\u0a85\u0aac\u0ac7\u0a9a\u0ac7"
     ],
+    "name:hau_x_preferred":[
+        "Abece"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05b7\u05d1\u05b6\u05bc\u05e9\u05b6\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d1\u05e9\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0935\u0947\u0936\u0947"
@@ -89,6 +107,12 @@
         "Ab\u00e9ch\u00e9"
     ],
     "name:hun_x_preferred":[
+        "Ab\u00e9ch\u00e9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0562\u0565\u0577\u0565"
+    ],
+    "name:ido_x_preferred":[
         "Ab\u00e9ch\u00e9"
     ],
     "name:ind_x_preferred":[
@@ -160,7 +184,13 @@
     "name:spa_x_preferred":[
         "Ab\u00e9ch\u00e9"
     ],
+    "name:swa_x_preferred":[
+        "Ab\u00e9ch\u00e9"
+    ],
     "name:swe_x_preferred":[
+        "Ab\u00e9ch\u00e9"
+    ],
+    "name:szl_x_preferred":[
         "Ab\u00e9ch\u00e9"
     ],
     "name:tam_x_preferred":[
@@ -326,7 +356,7 @@
         }
     ],
     "wof:id":890439891,
-    "wof:lastmodified":1566653799,
+    "wof:lastmodified":1690868572,
     "wof:name":"Ab\u00e9ch\u00e9",
     "wof:parent_id":421179001,
     "wof:placetype":"locality",

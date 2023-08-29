@@ -34,7 +34,8 @@
         "\u0627\u0644\u0628\u0637\u062d\u0629"
     ],
     "name:ara_x_variant":[
-        "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0628\u0637\u062d\u0629"
+        "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0628\u0637\u062d\u0629",
+        "\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0628\u0637\u062d\u0629"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a5\u09be \u0985\u099e\u09cd\u099a\u09b2"
@@ -54,6 +55,9 @@
     "name:deu_x_preferred":[
         "Region Batha"
     ],
+    "name:deu_x_variant":[
+        "Batha"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03ac\u03b8\u03b1"
     ],
@@ -63,11 +67,17 @@
     "name:eng_x_variant":[
         "Batha"
     ],
+    "name:epo_x_preferred":[
+        "provinco Batha"
+    ],
     "name:est_x_preferred":[
         "Batha"
     ],
     "name:eus_x_preferred":[
         "Batha"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0637\u062d\u0647"
     ],
     "name:fin_x_preferred":[
         "Batha"
@@ -114,6 +124,9 @@
     "name:kor_x_preferred":[
         "\ubc14\ud0c0 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubc14\ud0c0\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Batas re\u0123ions"
     ],
@@ -125,6 +138,9 @@
     ],
     "name:msa_x_preferred":[
         "Batha Region"
+    ],
+    "name:nan_x_preferred":[
+        "Batha Chiu"
     ],
     "name:nld_x_preferred":[
         "Batha"
@@ -305,7 +321,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1636501292,
+    "wof:lastmodified":1690868566,
     "wof:name":"Batha",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

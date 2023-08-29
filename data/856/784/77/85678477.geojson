@@ -34,7 +34,8 @@
         "\u062a\u0627\u0646\u062c\u0644\u064a"
     ],
     "name:ara_x_variant":[
-        "\u0645\u0646\u0637\u0642\u0629 \u062a\u0627\u0646\u062c\u0644\u064a"
+        "\u0645\u0646\u0637\u0642\u0629 \u062a\u0627\u0646\u062c\u0644\u064a",
+        "\u0625\u0642\u0644\u064a\u0645 \u062a\u0627\u0646\u062c\u064a\u0644\u064a"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u099e\u09cd\u099c\u09bf\u09b2\u09c7 \u0985\u099e\u09cd\u099a\u09b2"
@@ -51,6 +52,9 @@
     "name:deu_x_preferred":[
         "Region Tandjil\u00e9"
     ],
+    "name:deu_x_variant":[
+        "Tandjil\u00e9"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03bd\u03c4\u03b6\u03b9\u03bb\u03ad"
     ],
@@ -61,6 +65,9 @@
         "Tandjil\u00e9",
         "Tandjil\u00e9"
     ],
+    "name:epo_x_preferred":[
+        "Tandjil\u00e9"
+    ],
     "name:est_x_preferred":[
         "Tandjil\u00e9 piirkond"
     ],
@@ -69,6 +76,9 @@
     ],
     "name:eus_x_preferred":[
         "Tandjil\u00e9"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u062c\u06cc\u0644\u06cc"
     ],
     "name:fin_x_preferred":[
         "Tandjil\u00e9"
@@ -110,6 +120,9 @@
     "name:kor_x_preferred":[
         "\ud0d5\uc9c8\ub808 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud0d5\uc9c8\ub808\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Tand\u017eiles re\u0123ions"
     ],
@@ -121,6 +134,9 @@
     ],
     "name:msa_x_preferred":[
         "Tandjile Region"
+    ],
+    "name:nan_x_preferred":[
+        "Tandjil\u00e9 Chiu"
     ],
     "name:nld_x_preferred":[
         "Tandjil\u00e9"
@@ -298,7 +314,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1617130343,
+    "wof:lastmodified":1690868565,
     "wof:name":"Tandjil\u00e9",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

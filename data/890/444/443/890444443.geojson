@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Bol"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09b2"
+    ],
+    "name:cat_x_preferred":[
+        "Bol"
     ],
     "name:ceb_x_preferred":[
         "Bol"
@@ -43,6 +52,9 @@
     "name:fas_x_preferred":[
         "\u0628\u0644"
     ],
+    "name:fas_x_variant":[
+        "\u0628\u0648\u0644"
+    ],
     "name:fin_x_preferred":[
         "Bol"
     ],
@@ -60,6 +72,9 @@
     ],
     "name:hun_x_preferred":[
         "Bol"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u056c"
     ],
     "name:ind_x_preferred":[
         "Bol"
@@ -118,6 +133,9 @@
     "name:spa_x_preferred":[
         "Bol"
     ],
+    "name:swa_x_preferred":[
+        "Bol"
+    ],
     "name:swe_x_preferred":[
         "Bol"
     ],
@@ -126,7 +144,7 @@
     ],
     "name:tam_x_variant":[
         "\u0baa\u0bcb\u0bb2\u0bcd",
-        "\u0baa\u0bcb\u0bb2\u0bcd"
+        "\u0baa\u0bcb\u0bb2\u0bcd "
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4b\u0c32\u0c4d"
@@ -148,7 +166,8 @@
     ],
     "name:urd_x_variant":[
         "\u0628\u0648\u0644",
-        "\u0628\u0648\u0644"
+        "\u0628\u0648\u0644",
+        "\u0628\u0648\u0644 "
     ],
     "name:vie_x_preferred":[
         "Bol"
@@ -281,7 +300,7 @@
         }
     ],
     "wof:id":890444443,
-    "wof:lastmodified":1636501314,
+    "wof:lastmodified":1690868574,
     "wof:name":"Bol",
     "wof:parent_id":1091901265,
     "wof:placetype":"locality",

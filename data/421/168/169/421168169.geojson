@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0633\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Bousso"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0443\u0441\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Bousso"
     ],
     "name:ceb_x_preferred":[
         "Bousso"
@@ -53,11 +59,17 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u0441\u043e"
     ],
+    "name:swa_x_preferred":[
+        "Bousso"
+    ],
     "name:und_x_variant":[
         "Fort Bretonnet"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0624\u0633\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Bousso"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u7d22"
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":421168169,
-    "wof:lastmodified":1566653796,
+    "wof:lastmodified":1690868570,
     "wof:name":"Bousso",
     "wof:parent_id":1091900595,
     "wof:placetype":"locality",

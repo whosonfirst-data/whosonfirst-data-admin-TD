@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":107.201934,
-    "geom:area_square_m":1275217818763.397461,
+    "geom:area_square_m":1275217818763.395752,
     "geom:bbox":"13.47,7.442975,24.000001,23.449228",
     "geom:latitude":15.375822,
     "geom:longitude":18.667944,
@@ -14,6 +14,9 @@
     "iso:country":"TD",
     "itu:country_code":[
         "235"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "TD"
@@ -1141,7 +1144,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"235",
     "statoids:ds":"TCH",
     "statoids:fifa":"CHA",
@@ -1200,7 +1204,7 @@
         "meso",
         "naturalearth"
     ],
-    "wof:geomhash":"35584e70ac6db35bc1bb20aaf7f51000",
+    "wof:geomhash":"d0ed3c30761e1462e48bc014d74971e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1216,12 +1220,12 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868560,
+    "wof:lastmodified":1694492078,
     "wof:name":"Chad",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":12825314,
-    "wof:population_rank":14,
+    "wof:population":15946876,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-td",
     "wof:shortcode":"TD",
     "wof:superseded_by":[],

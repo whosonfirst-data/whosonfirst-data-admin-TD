@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.078474,
-    "geom:area_square_m":13159331803.827642,
+    "geom:area_square_m":13159325910.502439,
     "geom:bbox":"13.957092,8.430488,15.468566,9.998474",
     "geom:latitude":9.318071,
     "geom:longitude":14.756707,
@@ -298,17 +298,19 @@
         "gn:id":7603253,
         "gp:id":56013484,
         "hasc:id":"TD.MW",
+        "iso:code":"TD-MO",
         "iso:id":"TD-MO",
         "qs_pg:id":77659,
         "unlc:id":"TD-MO",
         "wd:id":"Q910393",
         "wk:page":"Mayo-Kebbi Ouest Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aa33bf14b6b588203df71d40665b3aed",
+    "wof:geomhash":"a4cddce30b4530d2a2e3a5fcb6e05b88",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -325,7 +327,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868562,
+    "wof:lastmodified":1695884881,
     "wof:name":"Mayo-Kebbi Ouest",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

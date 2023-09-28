@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.717393,
-    "geom:area_square_m":56455326037.879623,
+    "geom:area_square_m":56455318044.487457,
     "geom:bbox":"15.602112,13.022971,18.050966,16.243103",
     "geom:latitude":14.548839,
     "geom:longitude":16.878445,
@@ -239,14 +239,16 @@
         "gn:id":7603255,
         "gp:id":-2344950,
         "hasc:id":"TD.BG",
+        "iso:code":"TD-BG",
         "iso:id":"TD-BG",
         "wd:id":"Q803639"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ef03a54bba9eab24f2b4f47296659dd6",
+    "wof:geomhash":"43e3821cf74ed0ed1e1f02c2d5b07c73",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -263,7 +265,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868561,
+    "wof:lastmodified":1695884363,
     "wof:name":"Barh-El-Gazel",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

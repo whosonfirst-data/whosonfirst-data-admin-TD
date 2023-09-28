@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.803701,
-    "geom:area_square_m":124506379099.530441,
+    "geom:area_square_m":124506365441.715698,
     "geom:bbox":"14.979466,17.084473,18.999388,23.493571",
     "geom:latitude":21.226548,
     "geom:longitude":16.638059,
@@ -158,13 +158,15 @@
         "gn:id":7603258,
         "gp:id":-2344947,
         "hasc:id":"TD.TI",
+        "iso:code":"TD-TI",
         "iso:id":"TD-TI"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8a48abe213aa1eb8f6bdf602d0516eea",
+    "wof:geomhash":"5a4131270ec5a953ca17e5b0b986b994",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -181,7 +183,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1636501289,
+    "wof:lastmodified":1695884881,
     "wof:name":"Tibesti",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

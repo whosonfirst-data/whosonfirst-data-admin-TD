@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.942287,
-    "geom:area_square_m":23058427008.440987,
+    "geom:area_square_m":23058427379.470093,
     "geom:bbox":"22.015066,15.493271,24.004266,16.786871",
     "geom:latitude":16.234937,
     "geom:longitude":23.089181,
@@ -126,11 +126,13 @@
         "gn:id":7603256,
         "gp:id":-2344947,
         "hasc:id":"TD.EE",
+        "iso:code":"TD-EE",
         "iso:id":"TD-EE"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:created":1486415130,
-    "wof:geomhash":"b85d5469616d922a8133e353e6d83933",
+    "wof:geomhash":"33807834a525124ada8f89a1802ae9eb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -147,7 +149,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1614893135,
+    "wof:lastmodified":1695884486,
     "wof:name":"Ennedi Est",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

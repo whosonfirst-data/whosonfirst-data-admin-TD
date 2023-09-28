@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.543336,
-    "geom:area_square_m":30696505765.736012,
+    "geom:area_square_m":30696500338.637058,
     "geom:bbox":"14.508118,11.471971,17.679966,13.392971",
     "geom:latitude":12.551653,
     "geom:longitude":16.181968,
@@ -226,15 +226,17 @@
         "fips:code":"CD18",
         "gp:id":2344948,
         "hasc:id":"TD.HD",
+        "iso:code":"TD-HL",
         "iso:id":"TD-HL",
         "unlc:id":"TD-HL",
         "wd:id":"Q1042437"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"04c335f4a839f863be8aea086fe85c91",
+    "wof:geomhash":"e4c7dba54398aecacc5605dbafdf0b49",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -251,7 +253,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868563,
+    "wof:lastmodified":1695884881,
     "wof:name":"Hadjer-Lamis",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

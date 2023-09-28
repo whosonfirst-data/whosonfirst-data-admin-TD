@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.73111,
-    "geom:area_square_m":8934923839.023966,
+    "geom:area_square_m":8934923847.869125,
     "geom:bbox":"15.287466,8.239371,16.636966,9.244271",
     "geom:latitude":8.754713,
     "geom:longitude":15.904336,
@@ -304,17 +304,19 @@
         "gn:id":2429060,
         "gp:id":2344952,
         "hasc:id":"TD.LO",
+        "iso:code":"TD-LO",
         "iso:id":"TD-LO",
         "qs_pg:id":887937,
         "unlc:id":"TD-LO",
         "wd:id":"Q305257",
         "wk:page":"Logone Occidental Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f3c40e5cc45b48c99328e28648eb9157",
+    "wof:geomhash":"95abf305974d2005899c37bbbe53c954",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -331,7 +333,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868563,
+    "wof:lastmodified":1695884882,
     "wof:name":"Logone Occidental",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

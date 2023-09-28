@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.45704,
-    "geom:area_square_m":17767403966.695732,
+    "geom:area_square_m":17767403985.882935,
     "geom:bbox":"15.420966,9.010771,17.587966,10.264971",
     "geom:latitude":9.536077,
     "geom:longitude":16.476823,
@@ -287,17 +287,19 @@
         "gn:id":2425287,
         "gp:id":2344958,
         "hasc:id":"TD.TA",
+        "iso:code":"TD-TA",
         "iso:id":"TD-TA",
         "qs_pg:id":209010,
         "unlc:id":"TD-TA",
         "wd:id":"Q867856",
         "wk:page":"Tandjil\u00e9 Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"22f9041b2b8fd1cadae22c83351251d1",
+    "wof:geomhash":"f192baa9c736ecdb3a5e52252f6418cd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -314,7 +316,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868565,
+    "wof:lastmodified":1695884598,
     "wof:name":"Tandjil\u00e9",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

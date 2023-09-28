@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.504775,
-    "geom:area_square_m":18312023394.367916,
+    "geom:area_square_m":18312023355.621246,
     "geom:bbox":"14.721166,9.207471,16.262966,11.212097",
     "geom:latitude":10.201674,
     "geom:longitude":15.544168,
@@ -291,17 +291,19 @@
         "gn:id":2428132,
         "gp:id":56013483,
         "hasc:id":"TD.ME",
+        "iso:code":"TD-ME",
         "iso:id":"TD-ME",
         "qs_pg:id":33451,
         "unlc:id":"TD-ME",
         "wd:id":"Q911421",
         "wk:page":"Mayo-Kebbi Est Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e8894ce0b444bedfe439d15271b8cdf3",
+    "wof:geomhash":"194cd209fe896390d63fd2d8908ecc07",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -318,7 +320,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868564,
+    "wof:lastmodified":1695884486,
     "wof:name":"Mayo Kebbi Est",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

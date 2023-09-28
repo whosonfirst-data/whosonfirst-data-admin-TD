@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.880777,
-    "geom:area_square_m":23018203290.528408,
+    "geom:area_square_m":23018191694.916714,
     "geom:bbox":"15.242123,7.457886,17.291566,9.138571",
     "geom:latitude":8.195028,
     "geom:longitude":16.407443,
@@ -288,17 +288,19 @@
         "gn:id":2429058,
         "gp:id":2344953,
         "hasc:id":"TD.LR",
+        "iso:code":"TD-LR",
         "iso:id":"TD-LR",
         "qs_pg:id":91440,
         "unlc:id":"TD-LR",
         "wd:id":"Q167514",
         "wk:page":"Logone Oriental Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2661d5781bcf72d354669e779425ba1e",
+    "wof:geomhash":"7975917766e0187c81fc581acf0587a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -315,7 +317,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868563,
+    "wof:lastmodified":1695884882,
     "wof:name":"Logone Oriental",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.05796,
-    "geom:area_square_m":61283780102.627235,
+    "geom:area_square_m":61283780182.702675,
     "geom:bbox":"17.304966,9.876971,20.243966,13.030971",
     "geom:latitude":11.489537,
     "geom:longitude":18.63205,
@@ -293,17 +293,19 @@
         "gn:id":2431555,
         "gp:id":2344949,
         "hasc:id":"TD.GR",
+        "iso:code":"TD-GR",
         "iso:id":"TD-GR",
         "qs_pg:id":959516,
         "unlc:id":"TD-GR",
         "wd:id":"Q175706",
         "wk:page":"Gu\u00e9ra Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1e32699d8a8055aa29027987ed27d4dd",
+    "wof:geomhash":"88419fc1d89019f44ae1726b041a93d4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -320,7 +322,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868562,
+    "wof:lastmodified":1695884486,
     "wof:name":"Gu\u00e9ra",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.616011,
-    "geom:area_square_m":67032404054.851952,
+    "geom:area_square_m":67032417964.740547,
     "geom:bbox":"13.611328,13.153971,16.693909,16.824524",
     "geom:latitude":15.120534,
     "geom:longitude":15.270177,
@@ -292,16 +292,18 @@
         "gn:id":2430873,
         "gp:id":2344950,
         "hasc:id":"TD.KM",
+        "iso:code":"TD-KA",
         "iso:id":"TD-KA",
         "qs_pg:id":257793,
         "wd:id":"Q849841",
         "wk:page":"Kanem Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"979e6d189f439355351117ca403af085",
+    "wof:geomhash":"91c7b0635d65afb40a89194136a273a7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -318,7 +320,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868565,
+    "wof:lastmodified":1695884882,
     "wof:name":"Kanem",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

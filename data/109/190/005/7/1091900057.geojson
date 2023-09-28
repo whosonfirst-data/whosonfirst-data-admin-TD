@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.21623,
-    "geom:area_square_m":2643115267.177524,
+    "geom:area_square_m":2643115269.770068,
     "geom:bbox":"15.287466,8.277471,15.781766,9.044671",
     "geom:latitude":8.676006,
     "geom:longitude":15.523151,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.LO.DJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892114,
-    "wof:geomhash":"7c79ad5d44f21e7feb08eadb441ef7ac",
+    "wof:geomhash":"02a1686fc60c83b1404999fbd1c120f2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900057,
-    "wof:lastmodified":1627522811,
+    "wof:lastmodified":1695886512,
     "wof:name":"Dodje",
     "wof:parent_id":85678467,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.175473,
-    "geom:area_square_m":14291658503.430111,
+    "geom:area_square_m":14291658503.430107,
     "geom:bbox":"16.0389663397,9.82917136831,17.5429663397,11.1009713683",
     "geom:latitude":10.493991,
     "geom:longitude":16.809695,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"TD.CG.LC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892143,
-    "wof:geomhash":"2a9f46158eceb12615213d763f262bd5",
+    "wof:geomhash":"ac404d1ceb08e087c8a623e6e4f1d6ad",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091900595,
-    "wof:lastmodified":1566653735,
+    "wof:lastmodified":1695886486,
     "wof:name":"Loug Chari",
     "wof:parent_id":85678513,
     "wof:placetype":"county",

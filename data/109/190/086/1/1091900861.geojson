@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.749571,
-    "geom:area_square_m":21162554946.502159,
+    "geom:area_square_m":21162554946.501942,
     "geom:bbox":"21.0559663397,10.921081543,22.9750976563,12.8609713683",
     "geom:latitude":11.972318,
     "geom:longitude":22.000667,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.SI.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892158,
-    "wof:geomhash":"2298f659d1b064720958926560b2a03b",
+    "wof:geomhash":"4b1616fcdec1d44a6a942498f799b9bf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900861,
-    "wof:lastmodified":1566653734,
+    "wof:lastmodified":1695886486,
     "wof:name":"Kimiti",
     "wof:parent_id":85678523,
     "wof:placetype":"county",

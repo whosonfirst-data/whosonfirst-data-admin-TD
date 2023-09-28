@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.710074,
-    "geom:area_square_m":8669015646.399971,
+    "geom:area_square_m":8669009883.662296,
     "geom:bbox":"14.224487,8.430488,15.468566,9.698486",
     "geom:latitude":9.12461,
     "geom:longitude":14.940495,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.MW.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892129,
-    "wof:geomhash":"aafbdb8d4c8418bbd32df021c19b6ab3",
+    "wof:geomhash":"8f58901bf0e30ee68aacb9589f6cc996",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900237,
-    "wof:lastmodified":1627522813,
+    "wof:lastmodified":1695886514,
     "wof:name":"Mayo Dallah",
     "wof:parent_id":85678495,
     "wof:placetype":"county",

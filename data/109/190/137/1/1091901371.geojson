@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.407765,
-    "geom:area_square_m":28908680957.023727,
+    "geom:area_square_m":28908680957.023216,
     "geom:bbox":"18.7059663397,12.6869713683,20.3689663397,15.6613713683",
     "geom:latitude":13.82098,
     "geom:longitude":19.606661,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"TD.BA.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892180,
-    "wof:geomhash":"c27242c4b2c56c23e62517327c939f2d",
+    "wof:geomhash":"b0b39b317b8c79409a3e48096534b181",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091901371,
-    "wof:lastmodified":1566653733,
+    "wof:lastmodified":1695886486,
     "wof:name":"Batha Est",
     "wof:parent_id":85678449,
     "wof:placetype":"county",

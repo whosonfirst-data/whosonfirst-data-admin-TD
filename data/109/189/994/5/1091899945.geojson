@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.451941,
-    "geom:area_square_m":5528119072.525143,
+    "geom:area_square_m":5528119072.525135,
     "geom:bbox":"18.1231663397,8.02111816406,19.0848776453,8.88167136831",
     "geom:latitude":8.416542,
     "geom:longitude":18.53985,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"TD.MO.GR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892108,
-    "wof:geomhash":"cf13adda998b2cc60fc8ccc0fb26ccea",
+    "wof:geomhash":"3f628292106165f6c54dab3b2efd869a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1091899945,
-    "wof:lastmodified":1566653726,
+    "wof:lastmodified":1695886485,
     "wof:name":"Grande Sido",
     "wof:parent_id":85678527,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.210055,
-    "geom:area_square_m":26830488527.999374,
+    "geom:area_square_m":26830488561.317673,
     "geom:bbox":"19.612966,9.912171,21.401566,12.041971",
     "geom:latitude":10.933527,
     "geom:longitude":20.416031,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.SA.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892149,
-    "wof:geomhash":"e2f1d8b446a3a56badc2527a87da4069",
+    "wof:geomhash":"128240e5a66012fd30ed80865b658f98",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900689,
-    "wof:lastmodified":1627522811,
+    "wof:lastmodified":1695886512,
     "wof:name":"Bahr Azoum",
     "wof:parent_id":85678487,
     "wof:placetype":"county",

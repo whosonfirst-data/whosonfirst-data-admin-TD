@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.891333,
-    "geom:area_square_m":10763246237.233938,
+    "geom:area_square_m":10763246252.476076,
     "geom:bbox":"18.901966,11.599971,20.243966,13.030971",
     "geom:latitude":12.423483,
     "geom:longitude":19.564991,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.GR.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892161,
-    "wof:geomhash":"ec66447ae00d747206af314b95adbb4a",
+    "wof:geomhash":"dd34021680c7ee78e2cef4a388ca459e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900939,
-    "wof:lastmodified":1627522812,
+    "wof:lastmodified":1695886514,
     "wof:name":"Mangalme",
     "wof:parent_id":85678457,
     "wof:placetype":"county",

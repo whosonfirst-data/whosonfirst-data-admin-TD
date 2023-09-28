@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.369932,
-    "geom:area_square_m":4530297859.063642,
+    "geom:area_square_m":4530294100.877817,
     "geom:bbox":"16.279266,7.542908,17.271532,8.468771",
     "geom:latitude":7.949332,
     "geom:longitude":16.67886,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.LR.NP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892103,
-    "wof:geomhash":"490fed012aa6a34aceb81cc78449f72c",
+    "wof:geomhash":"a86999a4fc030575ead3c99f2906ad07",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091899861,
-    "wof:lastmodified":1627522812,
+    "wof:lastmodified":1695886513,
     "wof:name":"La Nya Pende",
     "wof:parent_id":85678469,
     "wof:placetype":"county",

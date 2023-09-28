@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.513263,
-    "geom:area_square_m":6195157855.570799,
+    "geom:area_square_m":6195157855.570888,
     "geom:bbox":"14.5081176758,12.1851196289,16.1949663397,12.9951171875",
     "geom:latitude":12.540374,
     "geom:longitude":15.251931,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TD.HD.HB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892159,
-    "wof:geomhash":"7d31f9643e3e9c8d76880f1b74d78485",
+    "wof:geomhash":"94fc964a0b5f3856d33909d6c0318d1e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091900897,
-    "wof:lastmodified":1566653733,
+    "wof:lastmodified":1695886486,
     "wof:name":"Haraze Al Biar",
     "wof:parent_id":85678435,
     "wof:placetype":"county",

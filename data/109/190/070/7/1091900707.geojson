@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.945627,
-    "geom:area_square_m":11456851866.633812,
+    "geom:area_square_m":11456851881.654747,
     "geom:bbox":"18.873966,11.000271,20.164766,12.122971",
     "geom:latitude":11.527572,
     "geom:longitude":19.579667,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.SA.AD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892150,
-    "wof:geomhash":"e38f10e8dba11e31c57cbd5f6a288748",
+    "wof:geomhash":"a50c1fa8927111b739a6054ffed050c2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900707,
-    "wof:lastmodified":1627522811,
+    "wof:lastmodified":1695886512,
     "wof:name":"Aboudeia",
     "wof:parent_id":85678487,
     "wof:placetype":"county",

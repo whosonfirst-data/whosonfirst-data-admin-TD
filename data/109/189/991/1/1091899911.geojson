@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.800585,
-    "geom:area_square_m":9802443495.311432,
+    "geom:area_square_m":9802435649.521391,
     "geom:bbox":"15.242123,7.457886,16.450166,8.644371",
     "geom:latitude":8.021041,
     "geom:longitude":15.89938,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.LR.ML"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892106,
-    "wof:geomhash":"b71bcf872364811cd358fb0e10328900",
+    "wof:geomhash":"9ead839709cf3fd23ba7c012539c1883",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091899911,
-    "wof:lastmodified":1627522813,
+    "wof:lastmodified":1695886514,
     "wof:name":"Monts de Lam",
     "wof:parent_id":85678469,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.920377,
-    "geom:area_square_m":10977083887.77557,
+    "geom:area_square_m":10977083887.77544,
     "geom:bbox":"21.9319991999,14.5889713683,23.0007663397,15.9831713683",
     "geom:latitude":15.300531,
     "geom:longitude":22.428815,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"TD.BI.IB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892183,
-    "wof:geomhash":"07d9c678060895e6f0b23992a19f4cc7",
+    "wof:geomhash":"3ca322ebae6c135a5d3183b8ac35f63f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091901453,
-    "wof:lastmodified":1566653731,
+    "wof:lastmodified":1695886485,
     "wof:name":"Iriba",
     "wof:parent_id":85678453,
     "wof:placetype":"county",

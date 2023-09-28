@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.146337,
-    "geom:area_square_m":72793247194.795334,
+    "geom:area_square_m":72793251434.750473,
     "geom:bbox":"17.027466,15.313971,20.744866,18.024271",
     "geom:latitude":16.639063,
     "geom:longitude":19.140487,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"TD.BR.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892190,
-    "wof:geomhash":"126a8c127996e65f0871f30d24492d9a",
+    "wof:geomhash":"34fad5af48f0f49982497d1b8451a978",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1091901607,
-    "wof:lastmodified":1636501312,
+    "wof:lastmodified":1695886775,
     "wof:name":"Borkou",
     "wof:parent_id":85678501,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.262494,
-    "geom:area_square_m":3200815055.120046,
+    "geom:area_square_m":3200815058.581123,
     "geom:bbox":"15.070766,9.207471,15.815666,9.852571",
     "geom:latitude":9.548407,
     "geom:longitude":15.410794,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.ME.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892132,
-    "wof:geomhash":"d58942f3f7821620d854521e8ee01999",
+    "wof:geomhash":"f7c8bb2b7966885c770f9dba39f02e90",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900311,
-    "wof:lastmodified":1627522812,
+    "wof:lastmodified":1695886513,
     "wof:name":"La Kabbia",
     "wof:parent_id":85678473,
     "wof:placetype":"county",

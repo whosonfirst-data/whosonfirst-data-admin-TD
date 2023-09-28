@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.318202,
-    "geom:area_square_m":3882357358.051736,
+    "geom:area_square_m":3882357877.358825,
     "geom:bbox":"15.420966,9.010771,16.224766,9.724671",
     "geom:latitude":9.347766,
     "geom:longitude":15.789858,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.TA.TW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892130,
-    "wof:geomhash":"4f62ddba693c68099b9769fbd26a7a5e",
+    "wof:geomhash":"15645312a2589a6ae80628977283211f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900271,
-    "wof:lastmodified":1627522813,
+    "wof:lastmodified":1695886514,
     "wof:name":"Tandjile Ouest",
     "wof:parent_id":85678477,
     "wof:placetype":"county",

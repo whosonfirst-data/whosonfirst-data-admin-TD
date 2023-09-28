@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.318706,
-    "geom:area_square_m":3841226949.399618,
+    "geom:area_square_m":3841226955.059978,
     "geom:bbox":"20.762966,12.634971,21.680966,13.208971",
     "geom:latitude":12.91047,
     "geom:longitude":21.24028,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.OA.AB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892166,
-    "wof:geomhash":"76d48b297c13f3bae8f53ae580990691",
+    "wof:geomhash":"82b0a75b3712a6c560e953ec34452c17",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091901035,
-    "wof:lastmodified":1627522810,
+    "wof:lastmodified":1695886511,
     "wof:name":"Abdi",
     "wof:parent_id":85678463,
     "wof:placetype":"county",

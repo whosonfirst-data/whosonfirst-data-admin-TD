@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.530731,
-    "geom:area_square_m":30774450437.961662,
+    "geom:area_square_m":30774448225.081444,
     "geom:bbox":"19.698466,9.081695,22.46228,11.704771",
     "geom:latitude":10.4213,
     "geom:longitude":21.128908,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.SA.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892147,
-    "wof:geomhash":"29ac95a74245a04ce80546032945775d",
+    "wof:geomhash":"9eb3ff2cbdab66660919fc335643e2f8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900659,
-    "wof:lastmodified":1627522812,
+    "wof:lastmodified":1695886513,
     "wof:name":"Haraze Mangueigne",
     "wof:parent_id":85678487,
     "wof:placetype":"county",

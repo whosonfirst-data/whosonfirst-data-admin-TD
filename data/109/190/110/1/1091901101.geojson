@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.974088,
-    "geom:area_square_m":11740807256.857235,
+    "geom:area_square_m":11740807274.136604,
     "geom:bbox":"16.957966,12.124971,18.048966,13.496971",
     "geom:latitude":12.896018,
     "geom:longitude":17.572369,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.BA.FI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892169,
-    "wof:geomhash":"23f57194e58aac7460339a9755b42eef",
+    "wof:geomhash":"a1672140cc518d0d28e002d1a06bb175",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091901101,
-    "wof:lastmodified":1627522811,
+    "wof:lastmodified":1695886512,
     "wof:name":"Fittri",
     "wof:parent_id":85678449,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.829685,
-    "geom:area_square_m":9969427454.57613,
+    "geom:area_square_m":9969420524.871777,
     "geom:bbox":"15.602112,13.069971,17.270966,14.314971",
     "geom:latitude":13.648192,
     "geom:longitude":16.535202,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.BG.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892174,
-    "wof:geomhash":"73d49c5287be3c0a63682ce684a090ad",
+    "wof:geomhash":"fdfbe023cc01badb8a0dc57feb518062",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091901247,
-    "wof:lastmodified":1627522811,
+    "wof:lastmodified":1695886512,
     "wof:name":"Barh-El-Gazel Sud",
     "wof:parent_id":85678519,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.463872,
-    "geom:area_square_m":17847251144.689911,
+    "geom:area_square_m":17847247147.739677,
     "geom:bbox":"18.295366,8.987022,19.990258,10.587971",
     "geom:latitude":9.599945,
     "geom:longitude":19.202042,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.MO.LI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892139,
-    "wof:geomhash":"14a299bfc5a41d81ddbedec124d1754d",
+    "wof:geomhash":"4644c04cc3b8aa233cafdadc114bfe59",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900523,
-    "wof:lastmodified":1627522812,
+    "wof:lastmodified":1695886513,
     "wof:name":"Lac Iro",
     "wof:parent_id":85678527,
     "wof:placetype":"county",

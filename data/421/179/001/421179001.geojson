@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.479281,
-    "geom:area_square_m":17773321104.605125,
+    "geom:area_square_m":17773321132.387669,
     "geom:bbox":"20.055966,13.008971,21.680966,14.413971",
     "geom:latitude":13.667332,
     "geom:longitude":20.833407,
@@ -122,12 +122,13 @@
         "qs_pg:id":145329,
         "wd:id":"Q1974522"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1459009201,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"34ca4c4d49992a46b83bf25d19825c77",
+    "wof:geomhash":"ba933748a0282e51424bf0c16d25878e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421179001,
-    "wof:lastmodified":1690868571,
+    "wof:lastmodified":1695886514,
     "wof:name":"Ouara",
     "wof:parent_id":85678463,
     "wof:placetype":"county",

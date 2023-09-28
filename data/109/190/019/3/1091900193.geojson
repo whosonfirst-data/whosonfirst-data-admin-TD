@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.581493,
-    "geom:area_square_m":7098595910.64784,
+    "geom:area_square_m":7098595910.647738,
     "geom:bbox":"17.0763663397,8.61217136831,18.1999663397,9.65127136831",
     "geom:latitude":9.156616,
     "geom:longitude":17.562494,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"TD.MA.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892122,
-    "wof:geomhash":"3193a8703b7c08bf2b776a2983b1c659",
+    "wof:geomhash":"fc902bbee9524ab3d8e15a489deb91a0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091900193,
-    "wof:lastmodified":1566653735,
+    "wof:lastmodified":1695886486,
     "wof:name":"Mandoul Oriental",
     "wof:parent_id":85678483,
     "wof:placetype":"county",

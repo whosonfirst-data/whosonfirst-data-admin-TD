@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.219242,
-    "geom:area_square_m":14725509326.252911,
+    "geom:area_square_m":14725509347.026594,
     "geom:bbox":"19.888966,11.663971,21.357966,13.058971",
     "geom:latitude":12.377893,
     "geom:longitude":20.643433,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.SI.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892163,
-    "wof:geomhash":"0bc97fae4642fddadb55f81860d154fa",
+    "wof:geomhash":"a62ad2b9f37dfb686d6bf98d8014f449",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900983,
-    "wof:lastmodified":1627522811,
+    "wof:lastmodified":1695886512,
     "wof:name":"Djourf Al Ahmar",
     "wof:parent_id":85678523,
     "wof:placetype":"county",

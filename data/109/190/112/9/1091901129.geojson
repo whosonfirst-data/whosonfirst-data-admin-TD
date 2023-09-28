@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.281735,
-    "geom:area_square_m":3387898933.189211,
+    "geom:area_square_m":3387898933.189208,
     "geom:bbox":"14.7929663397,13.0949713683,15.5759663397,13.7419713683",
     "geom:latitude":13.467699,
     "geom:longitude":15.179177,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TD.LC.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892170,
-    "wof:geomhash":"b276c60976e1c1269fe2f1b013a9d73f",
+    "wof:geomhash":"abaf926c70d0e6cb680e0b21f47aec1f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091901129,
-    "wof:lastmodified":1566653736,
+    "wof:lastmodified":1695886486,
     "wof:name":"Wayi",
     "wof:parent_id":85678445,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09534,
-    "geom:area_square_m":1164488983.403075,
+    "geom:area_square_m":1164488984.584262,
     "geom:bbox":"15.572566,8.780471,16.210466,9.121771",
     "geom:latitude":8.96677,
     "geom:longitude":15.895121,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.LO.GN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892118,
-    "wof:geomhash":"73c3160cbffea29c72b2581af5f16294",
+    "wof:geomhash":"d85842b29203b8911e75f774ae5192c4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900113,
-    "wof:lastmodified":1627522812,
+    "wof:lastmodified":1695886513,
     "wof:name":"Gueni",
     "wof:parent_id":85678467,
     "wof:placetype":"county",

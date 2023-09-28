@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.491482,
-    "geom:area_square_m":41719313003.906136,
+    "geom:area_square_m":41719308305.959229,
     "geom:bbox":"15.961966,13.661971,18.050966,16.243103",
     "geom:latitude":14.896774,
     "geom:longitude":17.034941,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.BG.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892187,
-    "wof:geomhash":"11788ad6a5e2a03b609deab233785705",
+    "wof:geomhash":"f5d792c82fdb7f7165ba7fcd69cd1c8e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091901525,
-    "wof:lastmodified":1627522811,
+    "wof:lastmodified":1695886512,
     "wof:name":"Barh-El-Gazel Nord",
     "wof:parent_id":85678519,
     "wof:placetype":"county",

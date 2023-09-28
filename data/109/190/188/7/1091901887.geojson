@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.728635,
-    "geom:area_square_m":79283972486.385971,
+    "geom:area_square_m":79283972486.385834,
     "geom:bbox":"15.4166870117,16.0982713683,19.8024701764,18.827349784",
     "geom:latitude":17.682347,
     "geom:longitude":17.33406,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.BR.BY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892207,
-    "wof:geomhash":"77296d1463187eb5a17ba1be4ecd6060",
+    "wof:geomhash":"62c538e0f2dd022cdd4f60bad872fe2e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091901887,
-    "wof:lastmodified":1566653731,
+    "wof:lastmodified":1695886485,
     "wof:name":"Borkou Yala",
     "wof:parent_id":85678501,
     "wof:placetype":"county",

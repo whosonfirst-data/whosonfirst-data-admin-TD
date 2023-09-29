@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.294416,
-    "geom:area_square_m":73982401313.274734,
+    "geom:area_square_m":73982382051.050079,
     "geom:bbox":"22.267866,15.989211,24.004266,20.396277",
     "geom:latitude":18.065931,
     "geom:longitude":23.13164,
@@ -61,9 +61,10 @@
     "wof:concordances":{
         "hasc:id":"TD.EE.AD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892202,
-    "wof:geomhash":"bb1ea51368033488d35b51b595b3b65f",
+    "wof:geomhash":"6d24c0ca1bbf063101b20b41c7b8d874",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1091901837,
-    "wof:lastmodified":1627522811,
+    "wof:lastmodified":1695886513,
     "wof:name":"Am-Djarass",
     "wof:parent_id":1108808537,
     "wof:placetype":"county",

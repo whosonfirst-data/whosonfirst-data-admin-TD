@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.686414,
-    "geom:area_square_m":69061790832.594635,
+    "geom:area_square_m":69061788668.054123,
     "geom:bbox":"18.873966,9.081695,22.46228,12.122971",
     "geom:latitude":10.804348,
     "geom:longitude":20.594212,
@@ -291,17 +291,19 @@
         "gn:id":242048,
         "gp:id":2344957,
         "hasc:id":"TD.SA",
+        "iso:code":"TD-SA",
         "iso:id":"TD-SA",
         "qs_pg:id":1168629,
         "unlc:id":"TD-SA",
         "wd:id":"Q385584",
         "wk:page":"Salamat Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4bbe75e6dca861b636f62163dcd8f8d6",
+    "wof:geomhash":"622ccb3ec611dbd3b1454b1274ca61b1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -318,7 +320,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868564,
+    "wof:lastmodified":1695884882,
     "wof:name":"Salamat",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

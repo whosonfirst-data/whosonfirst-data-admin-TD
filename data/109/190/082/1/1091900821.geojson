@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.697582,
-    "geom:area_square_m":8432869093.804083,
+    "geom:area_square_m":8432869105.459128,
     "geom:bbox":"18.329966,11.330971,19.180966,12.693971",
     "geom:latitude":12.134665,
     "geom:longitude":18.776886,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.GR.GR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892157,
-    "wof:geomhash":"124dd6c6c4c361d94767a66f0a573039",
+    "wof:geomhash":"a8090b5d55ea95b4fe7aa40af1118d86",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900821,
-    "wof:lastmodified":1627522812,
+    "wof:lastmodified":1695886514,
     "wof:name":"Guera",
     "wof:parent_id":85678457,
     "wof:placetype":"county",

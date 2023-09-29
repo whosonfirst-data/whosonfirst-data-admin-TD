@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.235449,
-    "geom:area_square_m":2868627579.58191,
+    "geom:area_square_m":2868627579.581938,
     "geom:bbox":"14.7211663397,9.56037136831,15.7654663397,9.98950195313",
     "geom:latitude":9.829312,
     "geom:longitude":15.172244,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TD.ME.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892133,
-    "wof:geomhash":"ac87178e466bf6db1e20c5d844f91f64",
+    "wof:geomhash":"dc171bdd8fb47262517aa7543d741ede",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091900357,
-    "wof:lastmodified":1566653735,
+    "wof:lastmodified":1695886486,
     "wof:name":"Mont Illi",
     "wof:parent_id":85678473,
     "wof:placetype":"county",

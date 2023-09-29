@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25022,
-    "geom:area_square_m":3050616530.036257,
+    "geom:area_square_m":3050616845.886843,
     "geom:bbox":"13.957092,9.362488,14.75293,9.871882",
     "geom:latitude":9.606947,
     "geom:longitude":14.372782,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.MW.LE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892135,
-    "wof:geomhash":"782b994f7d6bd02230eaf0195d240bdc",
+    "wof:geomhash":"1f11bc355337ed782daacb9581c34a55",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900399,
-    "wof:lastmodified":1627522812,
+    "wof:lastmodified":1695886513,
     "wof:name":"Lac Lere",
     "wof:parent_id":85678495,
     "wof:placetype":"county",

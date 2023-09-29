@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.034933,
-    "geom:area_square_m":105720918339.206879,
+    "geom:area_square_m":105720923261.310928,
     "geom:bbox":"19.191203,16.665471,22.350166,21.074571",
     "geom:latitude":18.827184,
     "geom:longitude":21.12236,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.EO.FA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892206,
-    "wof:geomhash":"7c18040e5999a703cae6eb67dadbb39f",
+    "wof:geomhash":"c9e8c001a33c16724e4b6521ceff40ad",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091901873,
-    "wof:lastmodified":1627522811,
+    "wof:lastmodified":1695886513,
     "wof:name":"Ennedi Ouest",
     "wof:parent_id":1108808537,
     "wof:placetype":"county",

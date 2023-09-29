@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.380712,
-    "geom:area_square_m":16586251146.872618,
+    "geom:area_square_m":16586241807.575186,
     "geom:bbox":"13.473877,12.992971,15.041966,14.526917",
     "geom:latitude":13.704949,
     "geom:longitude":14.207418,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TD.LC.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892176,
-    "wof:geomhash":"ac9194e39772b136eba634c4998bc23e",
+    "wof:geomhash":"febc17974cb57efa081dc1b7c7cf2996",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091901265,
-    "wof:lastmodified":1627522812,
+    "wof:lastmodified":1695886514,
     "wof:name":"Mamdi",
     "wof:parent_id":85678445,
     "wof:placetype":"county",

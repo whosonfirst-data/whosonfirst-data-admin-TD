@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.662447,
-    "geom:area_square_m":19974150080.06179,
+    "geom:area_square_m":19974140745.97995,
     "geom:bbox":"13.473877,12.992971,15.575966,14.526917",
     "geom:latitude":13.664742,
     "geom:longitude":14.372102,
@@ -294,17 +294,19 @@
         "gn:id":2429323,
         "gp:id":2344951,
         "hasc:id":"TD.LC",
+        "iso:code":"TD-LC",
         "iso:id":"TD-LC",
         "qs_pg:id":946771,
         "unlc:id":"TD-LC",
         "wd:id":"Q867869",
         "wk:page":"Lac Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"af6491140b6abaa0ba388ea438d51c65",
+    "wof:geomhash":"81f66bed8b0678b3e65bae02ac24fc85",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -321,7 +323,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868564,
+    "wof:lastmodified":1695884882,
     "wof:name":"Lac",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

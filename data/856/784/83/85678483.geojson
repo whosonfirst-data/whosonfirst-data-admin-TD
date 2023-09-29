@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.430156,
-    "geom:area_square_m":17480215475.959694,
+    "geom:area_square_m":17480212546.477516,
     "geom:bbox":"17.048966,7.826356,18.213233,9.651271",
     "geom:latitude":8.698561,
     "geom:longitude":17.605192,
@@ -287,15 +287,17 @@
         "gn:id":7603252,
         "gp:id":56013482,
         "hasc:id":"TD.MA",
+        "iso:code":"TD-MA",
         "iso:id":"TD-MA",
         "qs_pg:id":1321042,
         "wd:id":"Q597410"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"322386d2fc4623439d7819153961751b",
+    "wof:geomhash":"b4d61130874f293e88a7e746884b0cf2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -312,7 +314,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868565,
+    "wof:lastmodified":1695884882,
     "wof:name":"Mandoul",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

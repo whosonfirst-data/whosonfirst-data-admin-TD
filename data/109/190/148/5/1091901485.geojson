@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.182386,
-    "geom:area_square_m":50104636371.919846,
+    "geom:area_square_m":50104636371.920059,
     "geom:bbox":"17.2339663397,12.4519713683,20.0439663397,16.1083713683",
     "geom:latitude":14.314343,
     "geom:longitude":18.625023,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"TD.BA.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892185,
-    "wof:geomhash":"8b1f3b32b67960f8a7e1def2b0648022",
+    "wof:geomhash":"d4f0505460575153a53a44a4262fc81c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1091901485,
-    "wof:lastmodified":1566653737,
+    "wof:lastmodified":1695886486,
     "wof:name":"Batha Ouest",
     "wof:parent_id":85678449,
     "wof:placetype":"county",

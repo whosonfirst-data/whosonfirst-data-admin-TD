@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.797291,
-    "geom:area_square_m":9642305959.589836,
+    "geom:area_square_m":9642305959.589872,
     "geom:bbox":"17.5419663397,11.4079713683,18.6589663397,12.6179713683",
     "geom:latitude":12.021593,
     "geom:longitude":18.109468,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TD.GR.AB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892155,
-    "wof:geomhash":"024598966d770e169e9a71f503fbaecf",
+    "wof:geomhash":"7dbcfe22029246400489499d72b3a445",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091900785,
-    "wof:lastmodified":1566653728,
+    "wof:lastmodified":1695886485,
     "wof:name":"Abtouyour",
     "wof:parent_id":85678457,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029071,
-    "geom:area_square_m":351467497.471107,
+    "geom:area_square_m":351467497.471111,
     "geom:bbox":"14.890076,11.983093,15.160095,12.224954",
     "geom:latitude":12.114988,
     "geom:longitude":15.037736,
@@ -496,9 +496,11 @@
         "gn:id":7603254,
         "gp:id":56013485,
         "hasc:id":"TD.NJ",
+        "iso:code":"TD-ND",
         "iso:id":"TD-ND",
         "qs_pg:id":1199732
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         890440301,
         421193929
@@ -507,7 +509,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eeeeb4e8078d68c730b3d2a47abadb6d",
+    "wof:geomhash":"17f660efcbc5303274f067fb6a0af0ad",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -524,7 +526,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1614893134,
+    "wof:lastmodified":1695884486,
     "wof:name":"N'Djamena",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

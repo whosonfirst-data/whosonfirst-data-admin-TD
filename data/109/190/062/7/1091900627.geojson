@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.295822,
-    "geom:area_square_m":3592303963.980631,
+    "geom:area_square_m":3592303461.03863,
     "geom:bbox":"15.025696,10.506104,16.139966,11.212097",
     "geom:latitude":10.864904,
     "geom:longitude":15.497589,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.ME.ML"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892144,
-    "wof:geomhash":"6ba997f209b3a2036991b96f0e4b2503",
+    "wof:geomhash":"784162f760c5071bfb82c28434507a61",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900627,
-    "wof:lastmodified":1627522813,
+    "wof:lastmodified":1695886514,
     "wof:name":"Mayo Lemye",
     "wof:parent_id":85678473,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218645,
-    "geom:area_square_m":2673404942.005991,
+    "geom:area_square_m":2673404944.594828,
     "geom:bbox":"16.336666,8.016771,16.849266,9.077371",
     "geom:latitude":8.56693,
     "geom:longitude":16.623565,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.LR.NY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892116,
-    "wof:geomhash":"59285066a2390306112f586ccb487386",
+    "wof:geomhash":"12f54305a4140d90f40481cecee6c019",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900073,
-    "wof:lastmodified":1627522812,
+    "wof:lastmodified":1695886513,
     "wof:name":"La nya",
     "wof:parent_id":85678469,
     "wof:placetype":"county",

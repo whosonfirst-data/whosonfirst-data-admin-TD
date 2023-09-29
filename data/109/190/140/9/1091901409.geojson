@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.980491,
-    "geom:area_square_m":23654923489.220573,
+    "geom:area_square_m":23654923529.939724,
     "geom:bbox":"20.041466,14.038971,21.686466,15.898671",
     "geom:latitude":14.99129,
     "geom:longitude":20.786677,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"TD.BI.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892182,
-    "wof:geomhash":"5be039c229a8fea22deac5b77ba72718",
+    "wof:geomhash":"9ebad77348a2d93651cadbb25ec38376",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1091901409,
-    "wof:lastmodified":1636501312,
+    "wof:lastmodified":1695886775,
     "wof:name":"Biltine",
     "wof:parent_id":85678453,
     "wof:placetype":"county",

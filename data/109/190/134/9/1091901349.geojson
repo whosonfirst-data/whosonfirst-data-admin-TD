@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.797547,
-    "geom:area_square_m":9550579386.307537,
+    "geom:area_square_m":9550579402.105782,
     "geom:bbox":"21.432966,13.917971,22.566966,14.981971",
     "geom:latitude":14.430562,
     "geom:longitude":21.953406,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.BI.DT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892179,
-    "wof:geomhash":"5eb20e17e1fec7d0841e919be0590e82",
+    "wof:geomhash":"af5712fd0059ee285966794843deea74",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091901349,
-    "wof:lastmodified":1627522811,
+    "wof:lastmodified":1695886512,
     "wof:name":"Dar Tama",
     "wof:parent_id":85678453,
     "wof:placetype":"county",

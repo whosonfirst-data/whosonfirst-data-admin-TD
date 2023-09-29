@@ -1183,6 +1183,7 @@
         "hasc:id":"TD",
         "icao:code":"TT",
         "ioc:id":"CHA",
+        "iso:code":"TD",
         "itu:id":"TCD",
         "loc:id":"n80049721",
         "m49:code":"148",
@@ -1197,6 +1198,7 @@
         "wk:page":"Chad",
         "wmo:id":"CD"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:country_alpha3":"TCD",
     "wof:geom_alt":[
@@ -1220,7 +1222,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1694639532,
+    "wof:lastmodified":1695881188,
     "wof:name":"Chad",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

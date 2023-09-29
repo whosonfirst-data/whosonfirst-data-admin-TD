@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.968814,
-    "geom:area_square_m":35888064272.755035,
+    "geom:area_square_m":35888073140.368462,
     "geom:bbox":"19.888966,10.921082,22.975098,13.058971",
     "geom:latitude":12.13888,
     "geom:longitude":21.443274,
@@ -431,15 +431,17 @@
         "gn:id":7603257,
         "gp:id":-2344956,
         "hasc:id":"TD.SI",
+        "iso:code":"TD-SI",
         "iso:id":"TD-SI",
         "unlc:id":"TD-SI",
         "wd:id":"Q359465"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f9ec3355d2dbb15274425ff2f625a54b",
+    "wof:geomhash":"fc135d338aafeac459e459d5ba1e30f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -456,7 +458,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868562,
+    "wof:lastmodified":1695884363,
     "wof:name":"Sila",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

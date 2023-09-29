@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159906,
-    "geom:area_square_m":1954814721.397656,
+    "geom:area_square_m":1954814721.397646,
     "geom:bbox":"17.0489663397,8.28517136831,17.5195663397,8.93107136831",
     "geom:latitude":8.644774,
     "geom:longitude":17.279487,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"TD.MA.MC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892110,
-    "wof:geomhash":"cfa8359bdf4b55167dc1c838d7fd207e",
+    "wof:geomhash":"d49f9b57b63505f2ecf4914866147a68",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091899975,
-    "wof:lastmodified":1566653725,
+    "wof:lastmodified":1695886485,
     "wof:name":"Mandoul Occidental",
     "wof:parent_id":85678483,
     "wof:placetype":"county",

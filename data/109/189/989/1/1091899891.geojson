@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133374,
-    "geom:area_square_m":1631538105.21795,
+    "geom:area_square_m":1631538106.764835,
     "geom:bbox":"16.812966,8.134371,17.291566,8.625871",
     "geom:latitude":8.387699,
     "geom:longitude":17.051056,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.LR.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892104,
-    "wof:geomhash":"a53e5dae3c112a803eefda6a6905e58e",
+    "wof:geomhash":"655ce3f508a018857445bca712f6d642",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091899891,
-    "wof:lastmodified":1627522812,
+    "wof:lastmodified":1695886513,
     "wof:name":"Kouh Est",
     "wof:parent_id":85678469,
     "wof:placetype":"county",

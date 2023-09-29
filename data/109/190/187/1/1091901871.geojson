@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.692587,
-    "geom:area_square_m":20078953618.575508,
+    "geom:area_square_m":20078958312.867123,
     "geom:bbox":"20.400566,15.571971,22.328066,16.994294",
     "geom:latitude":16.377061,
     "geom:longitude":21.251327,
@@ -61,9 +61,10 @@
     "wof:concordances":{
         "hasc:id":"TD.EO.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892204,
-    "wof:geomhash":"7eb2a25a3d4aab3ae82560a9e0be949a",
+    "wof:geomhash":"ef0097fcac9c7c983386315d2fb4cbe7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1091901871,
-    "wof:lastmodified":1627522813,
+    "wof:lastmodified":1695886515,
     "wof:name":"Mourtcha",
     "wof:parent_id":1108808537,
     "wof:placetype":"county",

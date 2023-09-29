@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198641,
-    "geom:area_square_m":2426827435.045563,
+    "geom:area_square_m":2426827437.481108,
     "geom:bbox":"16.445266,8.575071,17.147966,9.138571",
     "geom:latitude":8.873867,
     "geom:longitude":16.894083,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.LR.PD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892119,
-    "wof:geomhash":"2ea5c5985f49881e402209f48ddf9f3a",
+    "wof:geomhash":"f8d262f51e96f146251a810cf947225e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900157,
-    "wof:lastmodified":1627522812,
+    "wof:lastmodified":1695886513,
     "wof:name":"La Pende",
     "wof:parent_id":85678469,
     "wof:placetype":"county",

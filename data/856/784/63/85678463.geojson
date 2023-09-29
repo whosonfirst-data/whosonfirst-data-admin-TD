@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.490852,
-    "geom:area_square_m":29943064387.237457,
+    "geom:area_square_m":29943064433.590694,
     "geom:bbox":"20.055966,12.634971,22.293966,14.413971",
     "geom:latitude":13.540251,
     "geom:longitude":21.159607,
@@ -299,16 +299,18 @@
         "gn:id":242246,
         "gp:id":2344956,
         "hasc:id":"TD.OA",
+        "iso:code":"TD-OD",
         "iso:id":"TD-OD",
         "qs_pg:id":219523,
         "wd:id":"Q841338",
         "wk:page":"Ouadda\u00ef Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d010df12ca3bb68ef9e03a2251196f33",
+    "wof:geomhash":"ca6e6bf83a740c4286b98e4a75464a66",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -325,7 +327,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868565,
+    "wof:lastmodified":1695884486,
     "wof:name":"Ouadda\u00ef",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

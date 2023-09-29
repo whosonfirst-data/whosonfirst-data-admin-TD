@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.688757,
-    "geom:area_square_m":8426804843.914153,
+    "geom:area_square_m":8426804843.914179,
     "geom:bbox":"17.1138663397,7.82635570698,18.2132333887,8.95827136831",
     "geom:latitude":8.324329,
     "geom:longitude":17.716859,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"TD.MA.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892111,
-    "wof:geomhash":"2f730be017d00d85abcde31358ad50d5",
+    "wof:geomhash":"d6ed5843807de30236472dc1b3adfd22",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1091900003,
-    "wof:lastmodified":1566653729,
+    "wof:lastmodified":1695886485,
     "wof:name":"Barh Sara",
     "wof:parent_id":85678483,
     "wof:placetype":"county",

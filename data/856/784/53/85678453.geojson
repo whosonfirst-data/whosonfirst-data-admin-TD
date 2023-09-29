@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.33794,
-    "geom:area_square_m":51811306232.516785,
+    "geom:area_square_m":51811306346.69416,
     "geom:bbox":"20.041466,13.917971,23.000766,15.983171",
     "geom:latitude":14.99423,
     "geom:longitude":21.477642,
@@ -292,17 +292,19 @@
         "gn:id":244877,
         "gp:id":2344946,
         "hasc:id":"TD.BI",
+        "iso:code":"TD-WF",
         "iso:id":"TD-WF",
         "qs_pg:id":984069,
         "unlc:id":"TD-WF",
         "wd:id":"Q860813",
         "wk:page":"Wadi Fira Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"85881bd5a89ea00a4edc5893b8abf781",
+    "wof:geomhash":"5f768834a093ab93fef98d53c53e1ed6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -319,7 +321,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868564,
+    "wof:lastmodified":1695884882,
     "wof:name":"Wadi Fira",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

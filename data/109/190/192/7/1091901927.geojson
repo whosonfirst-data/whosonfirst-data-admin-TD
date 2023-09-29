@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11818,
-    "geom:area_square_m":1439699627.391146,
+    "geom:area_square_m":1439699028.387225,
     "geom:bbox":"14.147261,9.697953,14.741566,9.998474",
     "geom:latitude":9.868838,
     "geom:longitude":14.46531,
@@ -61,9 +61,10 @@
     "wof:concordances":{
         "hasc:id":"TD.MW.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892209,
-    "wof:geomhash":"195c88ff6f9f4d73aa800e869ca2b0f4",
+    "wof:geomhash":"ddb19a2f375f9012c883da4223b316d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1091901927,
-    "wof:lastmodified":1627522813,
+    "wof:lastmodified":1695886515,
     "wof:name":"Mayo-Binder",
     "wof:parent_id":85678495,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.81853,
-    "geom:area_square_m":46308304591.295074,
+    "geom:area_square_m":46308294462.866348,
     "geom:bbox":"15.01709,9.829171,17.542966,12.431971",
     "geom:latitude":11.241186,
     "geom:longitude":16.325053,
@@ -235,14 +235,16 @@
         "fips:code":"CD15",
         "gp:id":2344948,
         "hasc:id":"TD.CG",
+        "iso:code":"TD-CB",
         "iso:id":"TD-CB",
         "wd:id":"Q843975"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TD",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b19381bc3edf5f755fdc48495fcdd6f",
+    "wof:geomhash":"201398758068cbad1b3281b3675461e3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -259,7 +261,7 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1690868562,
+    "wof:lastmodified":1695884882,
     "wof:name":"Chari-Baguirmi",
     "wof:parent_id":85632325,
     "wof:placetype":"region",

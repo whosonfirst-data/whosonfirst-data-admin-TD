@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.509708,
-    "geom:area_square_m":86673353286.815781,
+    "geom:area_square_m":86673353286.816193,
     "geom:bbox":"14.9794663397,17.0844726563,17.4331054688,23.4935713683",
     "geom:latitude":20.980395,
     "geom:longitude":16.157074,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TD.TI.TO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892193,
-    "wof:geomhash":"0cd551cef6149e84217b3137f50fd899",
+    "wof:geomhash":"4abc850172b6323a5b9a3a0a949adf79",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091901659,
-    "wof:lastmodified":1566653732,
+    "wof:lastmodified":1695886486,
     "wof:name":"Tibesti Ouest",
     "wof:parent_id":85678505,
     "wof:placetype":"county",

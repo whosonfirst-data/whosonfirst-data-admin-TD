@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.700808,
-    "geom:area_square_m":8446789175.096802,
+    "geom:area_square_m":8446789175.096786,
     "geom:bbox":"14.8349663397,12.5501098633,16.1949663397,13.3929713683",
     "geom:latitude":12.902259,
     "geom:longitude":15.539618,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"TD.HD.DG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892167,
-    "wof:geomhash":"a2fcac85c6bf46b560a292cea075d08d",
+    "wof:geomhash":"bd04e801801592173f477d089fdf2886",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1091901071,
-    "wof:lastmodified":1566653732,
+    "wof:lastmodified":1695886486,
     "wof:name":"Dagana",
     "wof:parent_id":85678435,
     "wof:placetype":"county",

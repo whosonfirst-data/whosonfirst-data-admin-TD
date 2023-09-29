@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.22746,
-    "geom:area_square_m":129888355687.482147,
+    "geom:area_square_m":129888355687.482117,
     "geom:bbox":"16.4976806641,18.6482708687,21.0283663397,23.0753713683",
     "geom:latitude":20.65418,
     "geom:longitude":18.49652,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TD.TI.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892192,
-    "wof:geomhash":"2f43855f097d1431f6e57a7af7fb1027",
+    "wof:geomhash":"8d3a58aff9b983a383c3d1ea690fa53f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091901649,
-    "wof:lastmodified":1566653733,
+    "wof:lastmodified":1695886486,
     "wof:name":"Tibesti Est",
     "wof:parent_id":85678501,
     "wof:placetype":"county",

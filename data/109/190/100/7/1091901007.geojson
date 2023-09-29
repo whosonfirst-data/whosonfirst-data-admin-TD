@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.329267,
-    "geom:area_square_m":16054558735.068459,
+    "geom:area_square_m":16054558735.06839,
     "geom:bbox":"16.0899663397,11.4719713683,17.6799663397,13.1569713683",
     "geom:latitude":12.371165,
     "geom:longitude":16.879734,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"TD.HD.DB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892164,
-    "wof:geomhash":"989af1d7bc17691c72531977475f6242",
+    "wof:geomhash":"e6eb7c045a088bc7c615ab1e42775ca7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091901007,
-    "wof:lastmodified":1566653732,
+    "wof:lastmodified":1695886486,
     "wof:name":"Dababa",
     "wof:parent_id":85678435,
     "wof:placetype":"county",

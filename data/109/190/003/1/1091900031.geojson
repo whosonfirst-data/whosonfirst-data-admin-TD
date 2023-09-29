@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.281137,
-    "geom:area_square_m":3436806270.747838,
+    "geom:area_square_m":3436806274.106877,
     "geom:bbox":"15.567366,8.239371,16.391866,8.986571",
     "geom:latitude":8.64491,
     "geom:longitude":15.961311,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TD.LO.LW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TD",
     "wof:created":1473892113,
-    "wof:geomhash":"172f4ae9a5897c647e720fc99c51d979",
+    "wof:geomhash":"13f29ec6455aec05c3b43a4e38897a78",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091900031,
-    "wof:lastmodified":1627522812,
+    "wof:lastmodified":1695886513,
     "wof:name":"Lac Wey",
     "wof:parent_id":85678467,
     "wof:placetype":"county",

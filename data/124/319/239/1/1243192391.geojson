@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":6859961
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6875772
+        ]
+    },
     "wof:country":"TD",
     "wof:geomhash":"f9d243600d8c3a4fa38eb737d8c8c7e8",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1243192391,
-    "wof:lastmodified":1566653947,
+    "wof:lastmodified":1706240669,
     "wof:name":"Bebad",
     "wof:parent_id":1091900031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-td",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243348995
+    ],
     "wof:tags":[]
 },
   "bbox": [

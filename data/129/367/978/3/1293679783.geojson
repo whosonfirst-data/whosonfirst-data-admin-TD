@@ -61,6 +61,11 @@
     "wof:concordances":{
         "gn:id":6875806
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6859947
+        ]
+    },
     "wof:country":"TD",
     "wof:geomhash":"e95808e76790c6d2a6bcb950800f7e6c",
     "wof:hierarchy":[
@@ -73,13 +78,15 @@
         }
     ],
     "wof:id":1293679783,
-    "wof:lastmodified":1566653089,
+    "wof:lastmodified":1706240669,
     "wof:name":"Kol",
     "wof:parent_id":1091900057,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-td",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310497165
+    ],
     "wof:tags":[]
 },
   "bbox": [

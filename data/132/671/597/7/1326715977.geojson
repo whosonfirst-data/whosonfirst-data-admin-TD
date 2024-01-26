@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":6875773
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6859969
+        ]
+    },
     "wof:country":"TD",
     "wof:geomhash":"71ddf5555dcc5f0b374b1756a915f72c",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1326715977,
-    "wof:lastmodified":1566652770,
+    "wof:lastmodified":1706240669,
     "wof:name":"Bebane",
     "wof:parent_id":1091900057,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-td",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343546835
+    ],
     "wof:tags":[]
 },
   "bbox": [

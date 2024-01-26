@@ -82,6 +82,11 @@
     "wof:concordances":{
         "gn:id":6860016
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6875763
+        ]
+    },
     "wof:country":"TD",
     "wof:geomhash":"1acbe967156eaec93f901166e8b6bf0e",
     "wof:hierarchy":[
@@ -94,13 +99,15 @@
         }
     ],
     "wof:id":1293384461,
-    "wof:lastmodified":1566652999,
+    "wof:lastmodified":1706240669,
     "wof:name":"Abe",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-td",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293773591
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -58,6 +58,11 @@
     "wof:concordances":{
         "gn:id":6875802
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6859987
+        ]
+    },
     "wof:country":"TD",
     "wof:geomhash":"140476a638abafe5b5f99dc331e2e7fb",
     "wof:hierarchy":[
@@ -70,13 +75,15 @@
         }
     ],
     "wof:id":1293580057,
-    "wof:lastmodified":1566653088,
+    "wof:lastmodified":1706240669,
     "wof:name":"Kap",
     "wof:parent_id":1091900113,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-td",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344177103
+    ],
     "wof:tags":[]
 },
   "bbox": [

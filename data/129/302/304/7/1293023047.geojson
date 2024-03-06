@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":6875791
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6860006
+        ]
+    },
     "wof:country":"TD",
     "wof:geomhash":"0e774780891f3cfb17248baab4c9892d",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1293023047,
-    "wof:lastmodified":1566653095,
+    "wof:lastmodified":1706240669,
     "wof:name":"Dooual",
     "wof:parent_id":1091900031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-td",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310686811
+    ],
     "wof:tags":[]
 },
   "bbox": [

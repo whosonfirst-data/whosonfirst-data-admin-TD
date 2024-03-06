@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":6875783
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6859970
+        ]
+    },
     "wof:country":"TD",
     "wof:geomhash":"969f2d1efe6bb67b038f0c8eb002cf4c",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1193130445,
-    "wof:lastmodified":1566653479,
+    "wof:lastmodified":1706240669,
     "wof:name":"Dobagala",
     "wof:parent_id":1091900057,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-td",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360283007
+    ],
     "wof:tags":[]
 },
   "bbox": [

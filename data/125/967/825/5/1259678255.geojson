@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":6875790
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6860015
+        ]
+    },
     "wof:country":"TD",
     "wof:geomhash":"3008767af01bfdda3d6d156678196855",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1259678255,
-    "wof:lastmodified":1566654023,
+    "wof:lastmodified":1706240669,
     "wof:name":"Donkaze",
     "wof:parent_id":1091899911,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-td",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310194645
+    ],
     "wof:tags":[]
 },
   "bbox": [
